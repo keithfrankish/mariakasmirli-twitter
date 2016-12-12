@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Sun Dec 11 15:18:37 +0000 2016",
+		"id": 807967832642355200,
+		"id_str": "807967832642355200",
+		"text": "RT @europanostra: Our Cultural Heritage=Our Human Right!With our President @PlacidoDomingo,we wish 2 #Standup4HumanRights @UNSRCulture http…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Standup4HumanRights",
+					"indices": [
+						101,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "europanostra",
+					"name": "Europa Nostra",
+					"id": 79175292,
+					"id_str": "79175292",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "PlacidoDomingo",
+					"name": "Placido Domingo",
+					"id": 364612474,
+					"id_str": "364612474",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "UNSRCulture",
+					"name": "@UNSRCulture",
+					"id": 4269829273,
+					"id_str": "4269829273",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 321,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1201,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Dec 10 11:36:55 +0000 2016",
+			"id": 807549651138334700,
+			"id_str": "807549651138334720",
+			"text": "Our Cultural Heritage=Our Human Right!With our President @PlacidoDomingo,we wish 2 #Standup4HumanRights… https://t.co/e9KoAujHtO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Standup4HumanRights",
+						"indices": [
+							83,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PlacidoDomingo",
+						"name": "Placido Domingo",
+						"id": 364612474,
+						"id_str": "364612474",
+						"indices": [
+							57,
+							72
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/e9KoAujHtO",
+						"expanded_url": "https://twitter.com/i/web/status/807549651138334720",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 79175292,
+				"id_str": "79175292",
+				"name": "Europa Nostra",
+				"screen_name": "europanostra",
+				"location": "The Hague, Brussels, EUROPE",
+				"description": "EU Prize for Cultural Heritage/Europa Nostra Awards | 7 Most Endangered Programme | European Heritage Alliance @PlacidoDomingo is President. Founded in 1963",
+				"url": "http://t.co/76xrfvVoqM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/76xrfvVoqM",
+								"expanded_url": "http://www.europanostra.org",
+								"display_url": "europanostra.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6036,
+				"friends_count": 1238,
+				"listed_count": 198,
+				"created_at": "Fri Oct 02 13:04:08 +0000 2009",
+				"favourites_count": 218,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3193,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000576110638/36cd7a67b1df762a74af3c38147448bf_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000576110638/36cd7a67b1df762a74af3c38147448bf_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/79175292/1460021082",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 79,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Dec 11 11:33:05 +0000 2016",
+		"id": 807911074855059500,
+		"id_str": "807911074855059456",
+		"text": "Κίττμερ: Οι Έλληνες πάντα αντιμετώπιζαν προβλήματα, αλλά τα καταφέρνουν https://t.co/XxbPKZbXqi",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XxbPKZbXqi",
+					"expanded_url": "http://www.skai.gr/news/greece/article/333205/kittmer-oi-ellines-pada-adimetopizoun-provlimata-alla-ta-katafernoun/#.WE05a7DZ_j0.twitter",
+					"display_url": "skai.gr/news/greece/ar…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 321,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1201,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 888,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "el"
+	},
+	{
 		"created_at": "Thu Dec 08 11:28:42 +0000 2016",
 		"id": 806822810710659100,
 		"id_str": "806822810710659072",
