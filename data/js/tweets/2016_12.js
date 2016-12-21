@@ -1,6 +1,450 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Tue Dec 20 21:20:28 +0000 2016",
+		"id": 811320384951828500,
+		"id_str": "811320384951828481",
+		"text": "@ancientnmodern @keithfrankish Doan't knur what yer mean luv. Ah were born an' brought oop i' Donny. It's Keith as is Greek.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 811318734929494000,
+		"in_reply_to_status_id_str": "811318734929494018",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 324,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1212,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 20 21:10:45 +0000 2016",
+		"id": 811317939743981600,
+		"id_str": "811317939743981568",
+		"text": "@ancientnmodern @keithfrankish Ta very mooch luv! Ah'm reight made oop!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ancientnmodern",
+					"name": "VictoriaG",
+					"id": 79141911,
+					"id_str": "79141911",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 810938266300153900,
+		"in_reply_to_status_id_str": "810938266300153856",
+		"in_reply_to_user_id": 79141911,
+		"in_reply_to_user_id_str": "79141911",
+		"in_reply_to_screen_name": "ancientnmodern",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 324,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1212,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 20 21:09:30 +0000 2016",
+		"id": 811317625720598500,
+		"id_str": "811317625720598528",
+		"text": "@photisss @keithfrankish Thanks Luc! When are we going to meet you? Keith is always quoting your tweets to me!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "photisss",
+					"name": "photisss",
+					"id": 14824425,
+					"id_str": "14824425",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 811097532097032200,
+		"in_reply_to_status_id_str": "811097532097032192",
+		"in_reply_to_user_id": 14824425,
+		"in_reply_to_user_id_str": "14824425",
+		"in_reply_to_screen_name": "photisss",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 324,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1212,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Dec 20 21:08:39 +0000 2016",
+		"id": 811317413245583400,
+		"id_str": "811317413245583360",
+		"text": "@Overdenken @keithfrankish Thank Jennifer! I hope we will get to know each other soon!",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Overdenken",
+					"name": "Jennifer",
+					"id": 760497777688375300,
+					"id_str": "760497777688375296",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 810994424805265400,
+		"in_reply_to_status_id_str": "810994424805265408",
+		"in_reply_to_user_id": 760497777688375300,
+		"in_reply_to_user_id_str": "760497777688375296",
+		"in_reply_to_screen_name": "Overdenken",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 314,
+			"friends_count": 324,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1212,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 894,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Dec 19 08:53:32 +0000 2016",
 		"id": 810770027624464400,
 		"id_str": "810770027624464384",
