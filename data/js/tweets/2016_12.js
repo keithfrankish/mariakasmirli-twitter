@@ -1,6 +1,655 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Thu Dec 22 18:35:10 +0000 2016",
+		"id": 812003562477785100,
+		"id_str": "812003562477785093",
+		"text": "RT @SaifulChemistry: A seasonal greeting...made me smile \n@ScienceIsVital @senseaboutsci\n@RSC_CICAG https://t.co/TiPDCoa6nn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaifulChemistry",
+					"name": "Prof Saiful Islam",
+					"id": 2827559975,
+					"id_str": "2827559975",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "ScienceIsVital",
+					"name": "Science is Vital",
+					"id": 189065376,
+					"id_str": "189065376",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"screen_name": "senseaboutsci",
+					"name": "Sense about Science",
+					"id": 45579282,
+					"id_str": "45579282",
+					"indices": [
+						74,
+						88
+					]
+				},
+				{
+					"screen_name": "RSC_CICAG",
+					"name": "RSC_CICAG",
+					"id": 447019817,
+					"id_str": "447019817",
+					"indices": [
+						89,
+						99
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 673691277460770800,
+					"id_str": "673691277460770816",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+					"url": "https://t.co/TiPDCoa6nn",
+					"display_url": "pic.twitter.com/TiPDCoa6nn",
+					"expanded_url": "http://twitter.com/MarinaP63/status/673691281353240576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 673691281353240600,
+					"source_status_id_str": "673691281353240576",
+					"source_user_id": 215067401,
+					"source_user_id_str": "215067401"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 673691277460770800,
+					"id_str": "673691277460770816",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+					"url": "https://t.co/TiPDCoa6nn",
+					"display_url": "pic.twitter.com/TiPDCoa6nn",
+					"expanded_url": "http://twitter.com/MarinaP63/status/673691281353240576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 340,
+							"h": 284,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 494,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 592,
+							"h": 494,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 673691281353240600,
+					"source_status_id_str": "673691281353240576",
+					"source_user_id": 215067401,
+					"source_user_id_str": "215067401"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 325,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1220,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Dec 22 17:24:29 +0000 2016",
+			"id": 811985776254849000,
+			"id_str": "811985776254849024",
+			"text": "A seasonal greeting...made me smile \n@ScienceIsVital @senseaboutsci\n@RSC_CICAG https://t.co/TiPDCoa6nn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScienceIsVital",
+						"name": "Science is Vital",
+						"id": 189065376,
+						"id_str": "189065376",
+						"indices": [
+							37,
+							52
+						]
+					},
+					{
+						"screen_name": "senseaboutsci",
+						"name": "Sense about Science",
+						"id": 45579282,
+						"id_str": "45579282",
+						"indices": [
+							53,
+							67
+						]
+					},
+					{
+						"screen_name": "RSC_CICAG",
+						"name": "RSC_CICAG",
+						"id": 447019817,
+						"id_str": "447019817",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 673691277460770800,
+						"id_str": "673691277460770816",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+						"url": "https://t.co/TiPDCoa6nn",
+						"display_url": "pic.twitter.com/TiPDCoa6nn",
+						"expanded_url": "http://twitter.com/MarinaP63/status/673691281353240576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 284,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 592,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 673691281353240600,
+						"source_status_id_str": "673691281353240576",
+						"source_user_id": 215067401,
+						"source_user_id_str": "215067401"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 673691277460770800,
+						"id_str": "673691277460770816",
+						"indices": [
+							79,
+							102
+						],
+						"media_url": "http://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CVlupcFUEAAF3Gj.jpg",
+						"url": "https://t.co/TiPDCoa6nn",
+						"display_url": "pic.twitter.com/TiPDCoa6nn",
+						"expanded_url": "http://twitter.com/MarinaP63/status/673691281353240576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 340,
+								"h": 284,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 592,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 592,
+								"h": 494,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"source_status_id": 673691281353240600,
+						"source_status_id_str": "673691281353240576",
+						"source_user_id": 215067401,
+						"source_user_id_str": "215067401"
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2827559975,
+				"id_str": "2827559975",
+				"name": "Prof Saiful Islam",
+				"screen_name": "SaifulChemistry",
+				"location": "University of Bath, UK",
+				"description": "Honoured to be @RI_science Xmas Lecturer 2016. Energy materials research, progressive politics, atheist, indie music, sport, dad of two, #3DspecsChem STEM talks",
+				"url": "http://t.co/za2aUYxEVj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/za2aUYxEVj",
+								"expanded_url": "http://people.bath.ac.uk/msi20/",
+								"display_url": "people.bath.ac.uk/msi20/",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2285,
+				"friends_count": 86,
+				"listed_count": 57,
+				"created_at": "Mon Oct 13 15:11:12 +0000 2014",
+				"favourites_count": 266,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1757,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/521680972622741504/XCZsVhRg_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/521680972622741504/XCZsVhRg_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2827559975/1446735576",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 27,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Dec 22 14:41:56 +0000 2016",
+		"id": 811944870180978700,
+		"id_str": "811944870180978688",
+		"text": "RT @smatthewliao: New evidence that babies need to be loved to develop properly | I discuss others in The Right to Be Loved https://t.co/cg…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "smatthewliao",
+					"name": "S. Matthew Liao",
+					"id": 52528546,
+					"id_str": "52528546",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 313,
+			"friends_count": 325,
+			"listed_count": 22,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1220,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 898,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Nov 27 19:24:29 +0000 2016",
+			"id": 802956278289072100,
+			"id_str": "802956278289072128",
+			"text": "New evidence that babies need to be loved to develop properly | I discuss others in The Right to Be Loved https://t.co/cgXqVIevgT @bbcpallab",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BBCPallab",
+						"name": "Pallab Ghosh",
+						"id": 329600057,
+						"id_str": "329600057",
+						"indices": [
+							130,
+							140
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cgXqVIevgT",
+						"expanded_url": "http://www.bbc.com/news/science-environment-38002105",
+						"display_url": "bbc.com/news/science-e…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 52528546,
+				"id_str": "52528546",
+				"name": "S. Matthew Liao",
+				"screen_name": "smatthewliao",
+				"location": "New York",
+				"description": "Author of The Right to Be Loved (https://t.co/H126xJZt40); Arthur Zitrin Chair in Bioethics, Director, Center for Bioethics, New York University",
+				"url": "https://t.co/p3boWoLbam",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p3boWoLbam",
+								"expanded_url": "http://www.smatthewliao.com",
+								"display_url": "smatthewliao.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/H126xJZt40",
+								"expanded_url": "http://amzn.to/1HMIfGz",
+								"display_url": "amzn.to/1HMIfGz",
+								"indices": [
+									33,
+									56
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1089,
+				"friends_count": 518,
+				"listed_count": 61,
+				"created_at": "Tue Jun 30 21:33:30 +0000 2009",
+				"favourites_count": 1358,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1034,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/513067487009587200/eLAskb7Z_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/513067487009587200/eLAskb7Z_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/52528546/1449559573",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Dec 21 19:59:53 +0000 2016",
 		"id": 811662493407912000,
 		"id_str": "811662493407911937",
