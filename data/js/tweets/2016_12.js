@@ -1,6 +1,878 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 28 19:48:31 +0000 2016",
+		"id": 814196351751901200,
+		"id_str": "814196351751901184",
+		"text": "RT @janmpdx: Sartre's cat thinks that a little bit of that infinite abyss of freedom wouldn't be half bad right now. https://t.co/kUnK8lOcBc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janmpdx",
+					"name": "Jan Mieszkowski",
+					"id": 622284669,
+					"id_str": "622284669",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 814185536793428000,
+					"id_str": "814185536793427968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+					"url": "https://t.co/kUnK8lOcBc",
+					"display_url": "pic.twitter.com/kUnK8lOcBc",
+					"expanded_url": "https://twitter.com/janmpdx/status/814185720872988672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 814185720872988700,
+					"source_status_id_str": "814185720872988672",
+					"source_user_id": 622284669,
+					"source_user_id_str": "622284669"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 814185536793428000,
+					"id_str": "814185536793427968",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+					"url": "https://t.co/kUnK8lOcBc",
+					"display_url": "pic.twitter.com/kUnK8lOcBc",
+					"expanded_url": "https://twitter.com/janmpdx/status/814185720872988672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 326,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 814185720872988700,
+					"source_status_id_str": "814185720872988672",
+					"source_user_id": 622284669,
+					"source_user_id_str": "622284669"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 328,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1237,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 28 19:06:17 +0000 2016",
+			"id": 814185720872988700,
+			"id_str": "814185720872988672",
+			"text": "Sartre's cat thinks that a little bit of that infinite abyss of freedom wouldn't be half bad right now. https://t.co/kUnK8lOcBc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 814185536793428000,
+						"id_str": "814185536793427968",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+						"url": "https://t.co/kUnK8lOcBc",
+						"display_url": "pic.twitter.com/kUnK8lOcBc",
+						"expanded_url": "https://twitter.com/janmpdx/status/814185720872988672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 814185536793428000,
+						"id_str": "814185536793427968",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C0yRbpXVQAAh7Cy.jpg",
+						"url": "https://t.co/kUnK8lOcBc",
+						"display_url": "pic.twitter.com/kUnK8lOcBc",
+						"expanded_url": "https://twitter.com/janmpdx/status/814185720872988672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 622284669,
+				"id_str": "622284669",
+				"name": "Jan Mieszkowski",
+				"screen_name": "janmpdx",
+				"location": "Portland",
+				"description": "Author of Labors of Imagination and Watching War. Currently writing a new book called Crises of the Sentence.",
+				"url": "http://t.co/KRfBrOnm0U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KRfBrOnm0U",
+								"expanded_url": "http://academic.reed.edu/german/mieszkowski/index.html",
+								"display_url": "academic.reed.edu/german/mieszko…",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7612,
+				"friends_count": 477,
+				"listed_count": 271,
+				"created_at": "Fri Jun 29 20:17:32 +0000 2012",
+				"favourites_count": 12283,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9797,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000358968888/a66027ee6526848a035b212e30f41bf2_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000358968888/a66027ee6526848a035b212e30f41bf2_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/622284669/1398282212",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 75,
+			"favorite_count": 143,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 75,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 28 19:44:31 +0000 2016",
+		"id": 814195343197958100,
+		"id_str": "814195343197958144",
+		"text": "RT @philosophybites: We need more public intellectuals. Not sure we need more academic philosophers.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 328,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1237,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 28 18:46:34 +0000 2016",
+			"id": 814180758306824200,
+			"id_str": "814180758306824192",
+			"text": "We need more public intellectuals. Not sure we need more academic philosophers.",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37238862,
+				"id_str": "37238862",
+				"name": "Nigel Warburton",
+				"screen_name": "philosophybites",
+				"location": "Oxford  & London UK",
+				"description": "Freelance philosopher, podcaster, writer. A Little History of Philosophy etc. Interviewer for Philosophy Bites podcast. Consultant editor for https://t.co/t8pnqmAQzG",
+				"url": "https://t.co/ZKBwVtDjfh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZKBwVtDjfh",
+								"expanded_url": "http://www.philosophybites.com",
+								"display_url": "philosophybites.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t8pnqmAQzG",
+								"expanded_url": "http://Aeon.co",
+								"display_url": "Aeon.co",
+								"indices": [
+									142,
+									165
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 56648,
+				"friends_count": 4039,
+				"listed_count": 2348,
+				"created_at": "Sat May 02 17:20:21 +0000 2009",
+				"favourites_count": 9218,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27835,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B5B8B4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460012276162891777/w4GUbuZQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460012276162891777/w4GUbuZQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762920466604580864/xHgTs0Pf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762920466604580864/xHgTs0Pf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+				"profile_link_color": "000DFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29,
+			"favorite_count": 78,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 28 12:01:54 +0000 2016",
+		"id": 814078921260023800,
+		"id_str": "814078921260023808",
+		"text": "RT @GreggDCaruso: Consciousness, Free Will, and Moral Responsibility by Gregg D. Caruso :: SSRN https://t.co/7zG8pzKN8k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GreggDCaruso",
+					"name": "Gregg Caruso",
+					"id": 2370991351,
+					"id_str": "2370991351",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7zG8pzKN8k",
+					"expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2888513#.WGKlflSd2_4.twitter",
+					"display_url": "papers.ssrn.com/sol3/papers.cf…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 328,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1237,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Dec 27 17:31:50 +0000 2016",
+			"id": 813799565291909100,
+			"id_str": "813799565291909122",
+			"text": "Consciousness, Free Will, and Moral Responsibility by Gregg D. Caruso :: SSRN https://t.co/7zG8pzKN8k",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7zG8pzKN8k",
+						"expanded_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2888513#.WGKlflSd2_4.twitter",
+						"display_url": "papers.ssrn.com/sol3/papers.cf…",
+						"indices": [
+							78,
+							101
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2370991351,
+				"id_str": "2370991351",
+				"name": "Gregg Caruso",
+				"screen_name": "GreggDCaruso",
+				"location": "",
+				"description": "Philosophy Prof | free will, moral responsibility, phil of mind, neuroscience,  punishment, criminal justice, distributive justice, law, applied ethics",
+				"url": "https://t.co/4sF8qcRJjN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4sF8qcRJjN",
+								"expanded_url": "http://www.greggcaruso.com",
+								"display_url": "greggcaruso.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10439,
+				"friends_count": 3984,
+				"listed_count": 266,
+				"created_at": "Mon Mar 03 21:51:21 +0000 2014",
+				"favourites_count": 135415,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4201,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/703926485367664641/_DJZOy02_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/703926485367664641/_DJZOy02_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2370991351/1444481548",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 28,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 28 08:06:54 +0000 2016",
+		"id": 814019781615620100,
+		"id_str": "814019781615620096",
+		"text": "How Can Master Teachers Find The Time To Help Their First-Year Colleagues Stay On Track? https://t.co/YmQCuhTdU4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YmQCuhTdU4",
+					"expanded_url": "http://hechingerreport.org/how-can-master-teachers-find-the-time-to-help-their-first-year-colleagues-stay-on-track/",
+					"display_url": "hechingerreport.org/how-can-master…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 328,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1237,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 27 08:30:33 +0000 2016",
 		"id": 813663345807134700,
 		"id_str": "813663345807134720",
