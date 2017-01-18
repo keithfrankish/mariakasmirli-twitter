@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Tue Jan 17 18:15:55 +0000 2017",
+		"id": 821420805406019600,
+		"id_str": "821420805406019584",
+		"text": "RT @SEL4MA: Is teaching kids empathy as important as teaching them math? #SEL https://t.co/KYIga5xLn5 https://t.co/kJocsKGCRO https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEL",
+					"indices": [
+						73,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SEL4MA",
+					"name": "SEL4MA",
+					"id": 552399483,
+					"id_str": "552399483",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KYIga5xLn5",
+					"expanded_url": "http://bit.ly/1SnbhFj",
+					"display_url": "bit.ly/1SnbhFj",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/kJocsKGCRO",
+					"expanded_url": "http://bit.ly/1T58VIK",
+					"display_url": "bit.ly/1T58VIK",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 330,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1267,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 919,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 17:02:46 +0000 2017",
+			"id": 821402394768642000,
+			"id_str": "821402394768642048",
+			"text": "Is teaching kids empathy as important as teaching them math? #SEL https://t.co/KYIga5xLn5 https://t.co/kJocsKGCRO https://t.co/CYVXz6zzpm",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEL",
+						"indices": [
+							61,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KYIga5xLn5",
+						"expanded_url": "http://bit.ly/1SnbhFj",
+						"display_url": "bit.ly/1SnbhFj",
+						"indices": [
+							66,
+							89
+						]
+					},
+					{
+						"url": "https://t.co/kJocsKGCRO",
+						"expanded_url": "http://bit.ly/1T58VIK",
+						"display_url": "bit.ly/1T58VIK",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 821402392428216300,
+						"id_str": "821402392428216320",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/C2Y1H7pXAAAvsnx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2Y1H7pXAAAvsnx.jpg",
+						"url": "https://t.co/CYVXz6zzpm",
+						"display_url": "pic.twitter.com/CYVXz6zzpm",
+						"expanded_url": "https://twitter.com/SEL4MA/status/821402394768642048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821402392428216300,
+						"id_str": "821402392428216320",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/C2Y1H7pXAAAvsnx.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2Y1H7pXAAAvsnx.jpg",
+						"url": "https://t.co/CYVXz6zzpm",
+						"display_url": "pic.twitter.com/CYVXz6zzpm",
+						"expanded_url": "https://twitter.com/SEL4MA/status/821402394768642048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 819,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 552399483,
+				"id_str": "552399483",
+				"name": "SEL4MA",
+				"screen_name": "SEL4MA",
+				"location": "Massachusetts",
+				"description": "Social-Emotional Learning Alliance for Massachusetts (SEL4MA) advocates for SEL in all MA schools- less bullying, more happiness, better relationships for kids!",
+				"url": "http://t.co/tJIUevgdvf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tJIUevgdvf",
+								"expanded_url": "http://www.SEL4MA.org",
+								"display_url": "SEL4MA.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10926,
+				"friends_count": 11669,
+				"listed_count": 179,
+				"created_at": "Fri Apr 13 01:20:22 +0000 2012",
+				"favourites_count": 4077,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4991,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798212145620119552/6ToWa9cd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798212145620119552/6ToWa9cd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/552399483/1479153280",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jan 16 09:25:02 +0000 2017",
 		"id": 820924815586562000,
 		"id_str": "820924815586562048",
