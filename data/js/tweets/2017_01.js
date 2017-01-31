@@ -1,6 +1,875 @@
 Grailbird.data.tweets_2017_01 = 
 [
 	{
+		"created_at": "Mon Jan 30 12:55:21 +0000 2017",
+		"id": 826051174445019100,
+		"id_str": "826051174445019137",
+		"text": "Top 10 Evidence Based Teaching Strategies https://t.co/rFn1P53FoM via @shaunkillian",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shaunkillian",
+					"name": "Shaun Killian",
+					"id": 18527989,
+					"id_str": "18527989",
+					"indices": [
+						70,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rFn1P53FoM",
+					"expanded_url": "http://www.evidencebasedteaching.org.au/evidence-based-teaching-strategies/",
+					"display_url": "evidencebasedteaching.org.au/evidence-based…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 333,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1294,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 30 12:42:37 +0000 2017",
+		"id": 826047966800728000,
+		"id_str": "826047966800728065",
+		"text": "RT @StathisPsillos: Stathis Psillos: Scientific Realism Thanks @Eidyn1 A mini course on scientific realism \n https://t.co/JHxZs0n4JA via @Y…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StathisPsillos",
+					"name": "Stathis Psillos",
+					"id": 3068008811,
+					"id_str": "3068008811",
+					"indices": [
+						3,
+						18
+					]
+				},
+				{
+					"screen_name": "Eidyn1",
+					"name": "Eidyn",
+					"id": 914404489,
+					"id_str": "914404489",
+					"indices": [
+						63,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JHxZs0n4JA",
+					"expanded_url": "https://www.youtube.com/playlist?list=PLKuMaHOvHA4qrQdK7luT5iQNrkV4p1Ar4",
+					"display_url": "youtube.com/playlist?list=…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 333,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1294,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 30 11:36:53 +0000 2017",
+			"id": 826031427242360800,
+			"id_str": "826031427242360834",
+			"text": "Stathis Psillos: Scientific Realism Thanks @Eidyn1 A mini course on scientific realism \n https://t.co/JHxZs0n4JA via @YouTube",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Eidyn1",
+						"name": "Eidyn",
+						"id": 914404489,
+						"id_str": "914404489",
+						"indices": [
+							43,
+							50
+						]
+					},
+					{
+						"screen_name": "YouTube",
+						"name": "YouTube",
+						"id": 10228272,
+						"id_str": "10228272",
+						"indices": [
+							117,
+							125
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JHxZs0n4JA",
+						"expanded_url": "https://www.youtube.com/playlist?list=PLKuMaHOvHA4qrQdK7luT5iQNrkV4p1Ar4",
+						"display_url": "youtube.com/playlist?list=…",
+						"indices": [
+							89,
+							112
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3068008811,
+				"id_str": "3068008811",
+				"name": "Stathis Psillos",
+				"screen_name": "StathisPsillos",
+				"location": "Athens Greece",
+				"description": "I am a philosopher, lucky enough to do philosophy for a living. I tweet about philosophy, and occasionally politics",
+				"url": "https://t.co/zUI0aPk6f3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zUI0aPk6f3",
+								"expanded_url": "http://www.phs.uoa.gr/psillos",
+								"display_url": "phs.uoa.gr/psillos",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1329,
+				"friends_count": 354,
+				"listed_count": 51,
+				"created_at": "Tue Mar 03 15:27:52 +0000 2015",
+				"favourites_count": 2197,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4133,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 12,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jan 30 12:41:23 +0000 2017",
+		"id": 826047659177869300,
+		"id_str": "826047659177869312",
+		"text": "RT @EU_Commission: In the European Union we do not discriminate on the basis of nationality, race or religion. https://t.co/m8EalMijfF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EU_Commission",
+					"name": "European Commission",
+					"id": 157981564,
+					"id_str": "157981564",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 826030674909986800,
+					"id_str": "826030674909986816",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+					"url": "https://t.co/m8EalMijfF",
+					"display_url": "pic.twitter.com/m8EalMijfF",
+					"expanded_url": "https://twitter.com/EU_Commission/status/826034564627828736/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 852,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 826034564627828700,
+					"source_status_id_str": "826034564627828736",
+					"source_user_id": 157981564,
+					"source_user_id_str": "157981564"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 826030674909986800,
+					"id_str": "826030674909986816",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+					"url": "https://t.co/m8EalMijfF",
+					"display_url": "pic.twitter.com/m8EalMijfF",
+					"expanded_url": "https://twitter.com/EU_Commission/status/826034564627828736/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 852,
+							"h": 478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 340,
+							"h": 191,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 337,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 826034564627828700,
+					"source_status_id_str": "826034564627828736",
+					"source_user_id": 157981564,
+					"source_user_id_str": "157981564",
+					"video_info": {
+						"aspect_ratio": [
+							426,
+							239
+						],
+						"duration_millis": 94277,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/pl/p0SaUJabxyZdMVGA.m3u8"
+							},
+							{
+								"content_type": "application/dash+xml",
+								"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/pl/p0SaUJabxyZdMVGA.mpd"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/vid/640x360/VnhmTFZiByRG_6p3.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/vid/320x180/U0j4mFx0RL5chN15.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "EU Principle of Non-Discrimination",
+						"description": "Statement by Chief Spokesperson, Margaritis Schinas, at the midday press briefing of 30/01/2017.",
+						"call_to_actions": {
+							"watch_now": {
+								"url": "http://ec.europa.eu/avservices/video/player.cfm?ref=I132726"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 157981564,
+							"id_str": "157981564",
+							"name": "European Commission",
+							"screen_name": "EU_Commission",
+							"location": "Brussels, Belgium",
+							"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+							"url": "https://t.co/2HnQtKhvZ6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2HnQtKhvZ6",
+											"expanded_url": "http://ec.europa.eu",
+											"display_url": "ec.europa.eu",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/HDhTPYZYmg",
+											"expanded_url": "http://ec.europa.eu/priorities/",
+											"display_url": "ec.europa.eu/priorities/",
+											"indices": [
+												123,
+												146
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 688525,
+							"friends_count": 1100,
+							"listed_count": 9395,
+							"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+							"favourites_count": 4691,
+							"utc_offset": 3600,
+							"time_zone": "Brussels",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 23887,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9DD3EE",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1485425763",
+							"profile_link_color": "0C7DA6",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "CFECF9",
+							"profile_text_color": "1D1E23",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 333,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1294,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 925,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jan 30 11:49:21 +0000 2017",
+			"id": 826034564627828700,
+			"id_str": "826034564627828736",
+			"text": "In the European Union we do not discriminate on the basis of nationality, race or religion. https://t.co/m8EalMijfF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 826030674909986800,
+						"id_str": "826030674909986816",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+						"url": "https://t.co/m8EalMijfF",
+						"display_url": "pic.twitter.com/m8EalMijfF",
+						"expanded_url": "https://twitter.com/EU_Commission/status/826034564627828736/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 852,
+								"h": 478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 826030674909986800,
+						"id_str": "826030674909986816",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/826030674909986816/pu/img/i1e8u73pXxXZMEpY.jpg",
+						"url": "https://t.co/m8EalMijfF",
+						"display_url": "pic.twitter.com/m8EalMijfF",
+						"expanded_url": "https://twitter.com/EU_Commission/status/826034564627828736/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 852,
+								"h": 478,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 191,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 337,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								426,
+								239
+							],
+							"duration_millis": 94277,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/pl/p0SaUJabxyZdMVGA.m3u8"
+								},
+								{
+									"content_type": "application/dash+xml",
+									"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/pl/p0SaUJabxyZdMVGA.mpd"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/vid/640x360/VnhmTFZiByRG_6p3.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/826030674909986816/pu/vid/320x180/U0j4mFx0RL5chN15.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "EU Principle of Non-Discrimination",
+							"description": "Statement by Chief Spokesperson, Margaritis Schinas, at the midday press briefing of 30/01/2017.",
+							"call_to_actions": {
+								"watch_now": {
+									"url": "http://ec.europa.eu/avservices/video/player.cfm?ref=I132726"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157981564,
+				"id_str": "157981564",
+				"name": "European Commission",
+				"screen_name": "EU_Commission",
+				"location": "Brussels, Belgium",
+				"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+				"url": "https://t.co/2HnQtKhvZ6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2HnQtKhvZ6",
+								"expanded_url": "http://ec.europa.eu",
+								"display_url": "ec.europa.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HDhTPYZYmg",
+								"expanded_url": "http://ec.europa.eu/priorities/",
+								"display_url": "ec.europa.eu/priorities/",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 688525,
+				"friends_count": 1100,
+				"listed_count": 9395,
+				"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+				"favourites_count": 4691,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23887,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9DD3EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1485425763",
+				"profile_link_color": "0C7DA6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CFECF9",
+				"profile_text_color": "1D1E23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 674,
+			"favorite_count": 656,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 674,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jan 27 13:28:34 +0000 2017",
 		"id": 824972367537520600,
 		"id_str": "824972367537520640",
