@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 07 20:09:06 +0000 2017",
+		"id": 829059433594548200,
+		"id_str": "829059433594548224",
+		"text": "RT @Dr_Jim1: \"I am not an Athenian or a Greek, but a citizen of the world\" Socrates\n#EUreferendum Think beyond borders &amp; barriers https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EUreferendum",
+					"indices": [
+						84,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_Jim1",
+					"name": "Dr Jim Walsh",
+					"id": 568437023,
+					"id_str": "568437023",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 337,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1333,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Jun 23 12:57:28 +0000 2016",
+			"id": 745963988471713800,
+			"id_str": "745963988471713792",
+			"text": "\"I am not an Athenian or a Greek, but a citizen of the world\" Socrates\n#EUreferendum Think beyond borders &amp; barriers https://t.co/4tDlwWhgca",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EUreferendum",
+						"indices": [
+							71,
+							84
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 745963315365544000,
+						"id_str": "745963315365543936",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/CloxrtvWAAAoZxT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CloxrtvWAAAoZxT.jpg",
+						"url": "https://t.co/4tDlwWhgca",
+						"display_url": "pic.twitter.com/4tDlwWhgca",
+						"expanded_url": "https://twitter.com/Dr_Jim1/status/745963988471713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 745963315365544000,
+						"id_str": "745963315365543936",
+						"indices": [
+							121,
+							144
+						],
+						"media_url": "http://pbs.twimg.com/media/CloxrtvWAAAoZxT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CloxrtvWAAAoZxT.jpg",
+						"url": "https://t.co/4tDlwWhgca",
+						"display_url": "pic.twitter.com/4tDlwWhgca",
+						"expanded_url": "https://twitter.com/Dr_Jim1/status/745963988471713792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 568437023,
+				"id_str": "568437023",
+				"name": "Dr Jim Walsh",
+				"screen_name": "Dr_Jim1",
+				"location": "Conway Hall",
+				"description": "CEO of @ConwayHall Ethical Society + author of 'Ethics & the Importance of Culture', a blog for people who think about #philosophy, #ethics & #culturematters.",
+				"url": "https://t.co/G59khbHbQn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G59khbHbQn",
+								"expanded_url": "https://anethicalthirst.co.uk/",
+								"display_url": "anethicalthirst.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24692,
+				"friends_count": 26879,
+				"listed_count": 291,
+				"created_at": "Tue May 01 18:40:37 +0000 2012",
+				"favourites_count": 1518,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5778,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684101845384589312/UUqtraXh.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684101845384589312/UUqtraXh.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/776463476340486144/jA7A9rYe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/776463476340486144/jA7A9rYe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/568437023/1481383711",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 429,
+			"favorite_count": 709,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 429,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 13:48:38 +0000 2017",
+		"id": 828963684370247700,
+		"id_str": "828963684370247680",
+		"text": "RT @JanaMohrLone: Thinking well is what it means to be educated",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JanaMohrLone",
+					"name": "Jana Mohr Lone",
+					"id": 239641070,
+					"id_str": "239641070",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 337,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1333,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 06 17:02:17 +0000 2017",
+			"id": 828650028906475500,
+			"id_str": "828650028906475520",
+			"text": "Thinking well is what it means to be educated",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 239641070,
+				"id_str": "239641070",
+				"name": "Jana Mohr Lone",
+				"screen_name": "JanaMohrLone",
+				"location": "Seattle, Washington",
+				"description": "Philosopher, educator & advocate for children. Director of UW Center for Philosophy for Children, working to empower young people through philosophical inquiry",
+				"url": "http://t.co/icMDIVi8UG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/icMDIVi8UG",
+								"expanded_url": "http://www.philosophyforchildren.org",
+								"display_url": "philosophyforchildren.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2790,
+				"friends_count": 2644,
+				"listed_count": 65,
+				"created_at": "Tue Jan 18 02:51:01 +0000 2011",
+				"favourites_count": 273,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1705,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3710337083/e77a56b877bb1eb5b0abd00219c1a97c_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3710337083/e77a56b877bb1eb5b0abd00219c1a97c_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/239641070/1393358235",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 13,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 13:46:56 +0000 2017",
+		"id": 828963257356582900,
+		"id_str": "828963257356582913",
+		"text": "RT @EU_Commission: Today, on #SaferInternetDay we are teaming up with industries, NGOs &amp; @UNICEF for a better internet for minors https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SaferInternetDay",
+					"indices": [
+						29,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EU_Commission",
+					"name": "European Commission",
+					"id": 157981564,
+					"id_str": "157981564",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "UNICEF",
+					"name": "UNICEF",
+					"id": 33933259,
+					"id_str": "33933259",
+					"indices": [
+						93,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 337,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1333,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 07 13:42:55 +0000 2017",
+			"id": 828962244851548200,
+			"id_str": "828962244851548160",
+			"text": "Today, on #SaferInternetDay we are teaming up with industries, NGOs &amp; @UNICEF for a better internet for minors… https://t.co/SQzuJaModm",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SaferInternetDay",
+						"indices": [
+							10,
+							27
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UNICEF",
+						"name": "UNICEF",
+						"id": 33933259,
+						"id_str": "33933259",
+						"indices": [
+							74,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SQzuJaModm",
+						"expanded_url": "https://twitter.com/i/web/status/828962244851548160",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157981564,
+				"id_str": "157981564",
+				"name": "European Commission",
+				"screen_name": "EU_Commission",
+				"location": "Brussels, Belgium",
+				"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+				"url": "https://t.co/2HnQtKhvZ6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2HnQtKhvZ6",
+								"expanded_url": "http://ec.europa.eu",
+								"display_url": "ec.europa.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HDhTPYZYmg",
+								"expanded_url": "http://ec.europa.eu/priorities/",
+								"display_url": "ec.europa.eu/priorities/",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 692565,
+				"friends_count": 1100,
+				"listed_count": 9441,
+				"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+				"favourites_count": 4716,
+				"utc_offset": 3600,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 23982,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9DD3EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/803522068109258752/KmsXTwu__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1485425763",
+				"profile_link_color": "0C7DA6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CFECF9",
+				"profile_text_color": "1D1E23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 72,
+			"favorite_count": 63,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 72,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 07 13:46:21 +0000 2017",
+		"id": 828963108077047800,
+		"id_str": "828963108077047811",
+		"text": "RT @VABVOX: As Trump keeps tweeting about it, remember it was ONLY a week ago #SallyYates was fired for asserting what 27 judges have since…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SallyYates",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VABVOX",
+					"name": "Victoria Brownworth",
+					"id": 138168339,
+					"id_str": "138168339",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 326,
+			"friends_count": 337,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1333,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 947,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Feb 06 12:22:14 +0000 2017",
+			"id": 828579551613689900,
+			"id_str": "828579551613689859",
+			"text": "As Trump keeps tweeting about it, remember it was ONLY a week ago #SallyYates was fired for asserting what 27 judge… https://t.co/S09BafsIvg",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SallyYates",
+						"indices": [
+							66,
+							77
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/S09BafsIvg",
+						"expanded_url": "https://twitter.com/i/web/status/828579551613689859",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138168339,
+				"id_str": "138168339",
+				"name": "Victoria Brownworth",
+				"screen_name": "VABVOX",
+				"location": "Philly, natch",
+				"description": "Award-winning journo. Writes books. Politics ed @TheRealCurve #BLM #sharedgirlhood #VoteYourVagina Fighting #cancer. Saving the world one woman/girl at a time!",
+				"url": "http://t.co/KiaAywVJq1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/KiaAywVJq1",
+								"expanded_url": "http://www.victoriabrownworth.com",
+								"display_url": "victoriabrownworth.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23842,
+				"friends_count": 2118,
+				"listed_count": 656,
+				"created_at": "Wed Apr 28 20:29:42 +0000 2010",
+				"favourites_count": 145599,
+				"utc_offset": -14400,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 202383,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3583804562/2a8754937c834ef127cd04687e02fb75_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3583804562/2a8754937c834ef127cd04687e02fb75_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138168339/1375567628",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16303,
+			"favorite_count": 26982,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 16303,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 06 13:59:00 +0000 2017",
 		"id": 828603903822463000,
 		"id_str": "828603903822462978",
