@@ -1,6 +1,1421 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Tue Feb 14 17:12:25 +0000 2017",
+		"id": 831551684274962400,
+		"id_str": "831551684274962432",
+		"text": "RT @Lynch39083: Check out this blog by Dr. Darling-Hammond! http://t.co/QUwhg3aEIQ via @educationweek",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lynch39083",
+					"name": "Matthew Lynch",
+					"id": 271915137,
+					"id_str": "271915137",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "educationweek",
+					"name": "Education Week",
+					"id": 15147042,
+					"id_str": "15147042",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "http://t.co/QUwhg3aEIQ",
+					"expanded_url": "http://blogs.edweek.org/edweek/education_futures/2014/07/beyond_the_bubble_test_why_we_need_performance_assessments.html?cmp=SOC-SHR-TW",
+					"display_url": "blogs.edweek.org/edweek/educati…",
+					"indices": [
+						60,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 09 22:46:32 +0000 2014",
+			"id": 487004907266768900,
+			"id_str": "487004907266768896",
+			"text": "Check out this blog by Dr. Darling-Hammond! http://t.co/QUwhg3aEIQ via @educationweek",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "educationweek",
+						"name": "Education Week",
+						"id": 15147042,
+						"id_str": "15147042",
+						"indices": [
+							71,
+							85
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "http://t.co/QUwhg3aEIQ",
+						"expanded_url": "http://blogs.edweek.org/edweek/education_futures/2014/07/beyond_the_bubble_test_why_we_need_performance_assessments.html?cmp=SOC-SHR-TW",
+						"display_url": "blogs.edweek.org/edweek/educati…",
+						"indices": [
+							44,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://dev.twitter.com/docs/tfw\" rel=\"nofollow\">Twitter for Websites</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 271915137,
+				"id_str": "271915137",
+				"name": "Matthew Lynch",
+				"screen_name": "Lynch39083",
+				"location": "www.thetechedvocate.org",
+				"description": "Dr. Lynch is editor of The Edvocate/The Tech Edvocate. Also a blogger for the Huffington Post & Education Week. #edtech #edreform #k12 #highered #elearning",
+				"url": "http://t.co/ZdjNV8EqEy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZdjNV8EqEy",
+								"expanded_url": "http://www.theedadvocate.org",
+								"display_url": "theedadvocate.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 36988,
+				"friends_count": 20132,
+				"listed_count": 1315,
+				"created_at": "Fri Mar 25 12:46:35 +0000 2011",
+				"favourites_count": 15130,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 269051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/768623627172392960/vcHDlj5E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/768623627172392960/vcHDlj5E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/271915137/1390125072",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 684,
+			"favorite_count": 656,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 684,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 17:00:41 +0000 2017",
+		"id": 831548730172198900,
+		"id_str": "831548730172198912",
+		"text": "The Edvocate’s List of the 20 Best Education Systems in the World https://t.co/CtQABz7r9f",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CtQABz7r9f",
+					"expanded_url": "http://www.theedadvocate.org/the-edvocates-list-of-the-20-best-education-systems-in-the-world/",
+					"display_url": "theedadvocate.org/the-edvocates-…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 16:48:26 +0000 2017",
+		"id": 831545649409716200,
+		"id_str": "831545649409716224",
+		"text": "Dreaming the Future https://t.co/tMxyiPR4iu",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tMxyiPR4iu",
+					"expanded_url": "https://shar.es/19jntL",
+					"display_url": "shar.es/19jntL",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 16:25:32 +0000 2017",
+		"id": 831539885836206100,
+		"id_str": "831539885836206081",
+		"text": "RT @TeamSCEL: Thanks to everyone who visited us today @ablearnfest. #LeadingWithLove was brought to you by @jay_scel @fearghal_scel &amp; @loui…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeadingWithLove",
+					"indices": [
+						68,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamSCEL",
+					"name": "SCEL",
+					"id": 1465454936,
+					"id_str": "1465454936",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "ablearnfest",
+					"name": "ALF",
+					"id": 2223422873,
+					"id_str": "2223422873",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "jay_scel",
+					"name": "Jay Helbert",
+					"id": 245410346,
+					"id_str": "245410346",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"screen_name": "fearghal_scel",
+					"name": "Fearghal Kelly",
+					"id": 4096528761,
+					"id_str": "4096528761",
+					"indices": [
+						117,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 14 16:14:43 +0000 2017",
+			"id": 831537163334475800,
+			"id_str": "831537163334475777",
+			"text": "Thanks to everyone who visited us today @ablearnfest. #LeadingWithLove was brought to you by @jay_scel… https://t.co/Wb00HYnmTv",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LeadingWithLove",
+						"indices": [
+							54,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ablearnfest",
+						"name": "ALF",
+						"id": 2223422873,
+						"id_str": "2223422873",
+						"indices": [
+							40,
+							52
+						]
+					},
+					{
+						"screen_name": "jay_scel",
+						"name": "Jay Helbert",
+						"id": 245410346,
+						"id_str": "245410346",
+						"indices": [
+							93,
+							102
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Wb00HYnmTv",
+						"expanded_url": "https://twitter.com/i/web/status/831537163334475777",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							104,
+							127
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465454936,
+				"id_str": "1465454936",
+				"name": "SCEL",
+				"screen_name": "TeamSCEL",
+				"location": "Glasgow, Scotland",
+				"description": "The Scottish College for Educational Leadership. Supporting leadership development at all levels for education practitioners in Scotland. RTs not endorsements.",
+				"url": "http://t.co/su9tteaxgI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/su9tteaxgI",
+								"expanded_url": "http://www.scelscotland.org.uk",
+								"display_url": "scelscotland.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4485,
+				"friends_count": 723,
+				"listed_count": 57,
+				"created_at": "Tue May 28 19:07:13 +0000 2013",
+				"favourites_count": 2519,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4050,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A589BD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164137755/22VD2P5x.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164137755/22VD2P5x.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810460659163000832/hc-TMGLT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810460659163000832/hc-TMGLT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465454936/1468920236",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "73cc26d418860ddd",
+				"url": "https://api.twitter.com/1.1/geo/id/73cc26d418860ddd.json",
+				"place_type": "city",
+				"name": "Aberdeen",
+				"full_name": "Aberdeen, Scotland",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.1899763,
+								57.107695
+							],
+							[
+								-2.0641046,
+								57.107695
+							],
+							[
+								-2.0641046,
+								57.2134174
+							],
+							[
+								-2.1899763,
+								57.2134174
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 14:40:53 +0000 2017",
+		"id": 831513549155467300,
+		"id_str": "831513549155467265",
+		"text": "The Decline of Play and Rise in Children's Mental Disorders | Psychology Today https://t.co/GgE4p2vi8S",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgE4p2vi8S",
+					"expanded_url": "https://www.psychologytoday.com/blog/freedom-learn/201001/the-decline-play-and-rise-in-childrens-mental-disorders",
+					"display_url": "psychologytoday.com/blog/freedom-l…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 12:40:42 +0000 2017",
+		"id": 831483301735125000,
+		"id_str": "831483301735124993",
+		"text": "RT @TeamSCEL: For Erin @OfficialSYP #LeadingWithLove is... giving young people a voice! What does it mean to you? #scelfie https://t.co/apO…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeadingWithLove",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"text": "scelfie",
+					"indices": [
+						114,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeamSCEL",
+					"name": "SCEL",
+					"id": 1465454936,
+					"id_str": "1465454936",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "OfficialSYP",
+					"name": "SYP",
+					"id": 39526707,
+					"id_str": "39526707",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 14 11:43:01 +0000 2017",
+			"id": 831468787002114000,
+			"id_str": "831468787002114048",
+			"text": "For Erin @OfficialSYP #LeadingWithLove is... giving young people a voice! What does it mean to you? #scelfie https://t.co/apON7WojP4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LeadingWithLove",
+						"indices": [
+							22,
+							38
+						]
+					},
+					{
+						"text": "scelfie",
+						"indices": [
+							100,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OfficialSYP",
+						"name": "SYP",
+						"id": 39526707,
+						"id_str": "39526707",
+						"indices": [
+							9,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 831468774415007700,
+						"id_str": "831468774415007745",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C4n4cezWAAEqqSH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4n4cezWAAEqqSH.jpg",
+						"url": "https://t.co/apON7WojP4",
+						"display_url": "pic.twitter.com/apON7WojP4",
+						"expanded_url": "https://twitter.com/TeamSCEL/status/831468787002114048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 831468774415007700,
+						"id_str": "831468774415007745",
+						"indices": [
+							109,
+							132
+						],
+						"media_url": "http://pbs.twimg.com/media/C4n4cezWAAEqqSH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4n4cezWAAEqqSH.jpg",
+						"url": "https://t.co/apON7WojP4",
+						"display_url": "pic.twitter.com/apON7WojP4",
+						"expanded_url": "https://twitter.com/TeamSCEL/status/831468787002114048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1465454936,
+				"id_str": "1465454936",
+				"name": "SCEL",
+				"screen_name": "TeamSCEL",
+				"location": "Glasgow, Scotland",
+				"description": "The Scottish College for Educational Leadership. Supporting leadership development at all levels for education practitioners in Scotland. RTs not endorsements.",
+				"url": "http://t.co/su9tteaxgI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/su9tteaxgI",
+								"expanded_url": "http://www.scelscotland.org.uk",
+								"display_url": "scelscotland.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4485,
+				"friends_count": 723,
+				"listed_count": 57,
+				"created_at": "Tue May 28 19:07:13 +0000 2013",
+				"favourites_count": 2519,
+				"utc_offset": 3600,
+				"time_zone": "Amsterdam",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4050,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A589BD",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164137755/22VD2P5x.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164137755/22VD2P5x.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810460659163000832/hc-TMGLT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810460659163000832/hc-TMGLT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465454936/1468920236",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "031befc71048b8d2",
+				"url": "https://api.twitter.com/1.1/geo/id/031befc71048b8d2.json",
+				"place_type": "city",
+				"name": "Bridge of Don",
+				"full_name": "Bridge of Don, Scotland",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.136647,
+								57.1754161
+							],
+							[
+								-2.0797043,
+								57.1754161
+							],
+							[
+								-2.0797043,
+								57.202663
+							],
+							[
+								-2.136647,
+								57.202663
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Feb 14 12:38:33 +0000 2017",
+		"id": 831482763190628400,
+		"id_str": "831482763190628353",
+		"text": "RT @SchoolsImprove: New post: Learning an instrument encourages academic progress https://t.co/NvHayRr6ge",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SchoolsImprove",
+					"name": "Schools Improvement",
+					"id": 628251837,
+					"id_str": "628251837",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NvHayRr6ge",
+					"expanded_url": "http://bit.ly/2lLiX9M",
+					"display_url": "bit.ly/2lLiX9M",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 333,
+			"friends_count": 339,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1371,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 958,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Feb 14 12:36:56 +0000 2017",
+			"id": 831482357366546400,
+			"id_str": "831482357366546435",
+			"text": "New post: Learning an instrument encourages academic progress https://t.co/NvHayRr6ge",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NvHayRr6ge",
+						"expanded_url": "http://bit.ly/2lLiX9M",
+						"display_url": "bit.ly/2lLiX9M",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 628251837,
+				"id_str": "628251837",
+				"name": "Schools Improvement",
+				"screen_name": "SchoolsImprove",
+				"location": "",
+				"description": "http://t.co/2mgeBp3xRQ - the UK's leading site for schools news & views - sign up for free daily email bulletin [RTs do not endorse - they are to share opinion]",
+				"url": "http://t.co/K5xshKxM8Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/K5xshKxM8Z",
+								"expanded_url": "http://schoolsimprovement.net",
+								"display_url": "schoolsimprovement.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/2mgeBp3xRQ",
+								"expanded_url": "http://SchoolsImprovement.net",
+								"display_url": "SchoolsImprovement.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 70289,
+				"friends_count": 23222,
+				"listed_count": 945,
+				"created_at": "Fri Jul 06 08:11:06 +0000 2012",
+				"favourites_count": 253,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 109169,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/595219916803940354/w3PoRo3P_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/595219916803940354/w3PoRo3P_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 6,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Feb 13 14:43:33 +0000 2017",
 		"id": 831151830373654500,
 		"id_str": "831151830373654528",
