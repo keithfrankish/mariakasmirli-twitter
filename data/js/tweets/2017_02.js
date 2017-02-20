@@ -1,6 +1,1165 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Sun Feb 19 14:54:30 +0000 2017",
+		"id": 833328915292753900,
+		"id_str": "833328915292753924",
+		"text": "RT @FeministPhils: Social Class, Gender, and Bias https://t.co/569hq2O4Z2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FeministPhils",
+					"name": "FeministPhilosophers",
+					"id": 50128405,
+					"id_str": "50128405",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/569hq2O4Z2",
+					"expanded_url": "https://feministphilosophers.wordpress.com/2017/02/19/social-class-gender-and-bias",
+					"display_url": "feministphilosophers.wordpress.com/2017/02/19/soc…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 343,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1404,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 14:01:19 +0000 2017",
+			"id": 833315532111802400,
+			"id_str": "833315532111802369",
+			"text": "Social Class, Gender, and Bias https://t.co/569hq2O4Z2",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/569hq2O4Z2",
+						"expanded_url": "https://feministphilosophers.wordpress.com/2017/02/19/social-class-gender-and-bias",
+						"display_url": "feministphilosophers.wordpress.com/2017/02/19/soc…",
+						"indices": [
+							31,
+							54
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 50128405,
+				"id_str": "50128405",
+				"name": "FeministPhilosophers",
+				"screen_name": "FeministPhils",
+				"location": "Five different continents",
+				"description": "Feminist philosophy, philosophical reflections, relevant facts and laughs",
+				"url": "http://t.co/44JMt0qIS0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/44JMt0qIS0",
+								"expanded_url": "http://feministphilosophers.wordpress.com",
+								"display_url": "feministphilosophers.wordpress.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10356,
+				"friends_count": 6,
+				"listed_count": 420,
+				"created_at": "Tue Jun 23 22:45:42 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5853,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/279177160/Reflections_normal.gif",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/279177160/Reflections_normal.gif",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 8,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 19 14:38:36 +0000 2017",
+		"id": 833324911984799700,
+		"id_str": "833324911984799744",
+		"text": "RT @RCPsychOldAge: Two simple questions to Detect depression depression. https://t.co/0TNKFpjCEo",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RCPsychOldAge",
+					"name": "RCPsychOldAge",
+					"id": 798913743187050500,
+					"id_str": "798913743187050498",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 832973854024810500,
+					"id_str": "832973854024810498",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+					"url": "https://t.co/0TNKFpjCEo",
+					"display_url": "pic.twitter.com/0TNKFpjCEo",
+					"expanded_url": "https://twitter.com/RCPsychOldAge/status/832973856264577028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832973856264577000,
+					"source_status_id_str": "832973856264577028",
+					"source_user_id": 798913743187050500,
+					"source_user_id_str": "798913743187050498"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 832973854024810500,
+					"id_str": "832973854024810498",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+					"url": "https://t.co/0TNKFpjCEo",
+					"display_url": "pic.twitter.com/0TNKFpjCEo",
+					"expanded_url": "https://twitter.com/RCPsychOldAge/status/832973856264577028/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 832973856264577000,
+					"source_status_id_str": "832973856264577028",
+					"source_user_id": 798913743187050500,
+					"source_user_id_str": "798913743187050498"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 343,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1404,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Feb 18 15:23:37 +0000 2017",
+			"id": 832973856264577000,
+			"id_str": "832973856264577028",
+			"text": "Two simple questions to Detect depression depression. https://t.co/0TNKFpjCEo",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 832973854024810500,
+						"id_str": "832973854024810498",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+						"url": "https://t.co/0TNKFpjCEo",
+						"display_url": "pic.twitter.com/0TNKFpjCEo",
+						"expanded_url": "https://twitter.com/RCPsychOldAge/status/832973856264577028/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 832973854024810500,
+						"id_str": "832973854024810498",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C49RTpRWQAIysc0.jpg",
+						"url": "https://t.co/0TNKFpjCEo",
+						"display_url": "pic.twitter.com/0TNKFpjCEo",
+						"expanded_url": "https://twitter.com/RCPsychOldAge/status/832973856264577028/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798913743187050500,
+				"id_str": "798913743187050498",
+				"name": "RCPsychOldAge",
+				"screen_name": "RCPsychOldAge",
+				"location": "London, England",
+				"description": "Official account for the RCPsych Faculty of Old Age Psychiatry, retweets do not necessarily mean endorsement.",
+				"url": "https://t.co/fFxeAU1Q1Y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fFxeAU1Q1Y",
+								"expanded_url": "http://www.rcpsych.ac.uk/workinpsychiatry/faculties/oldagepsychiatry.aspx",
+								"display_url": "rcpsych.ac.uk/workinpsychiat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 457,
+				"friends_count": 598,
+				"listed_count": 3,
+				"created_at": "Wed Nov 16 15:40:54 +0000 2016",
+				"favourites_count": 68,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 112,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798922014782324736/UlKOFD5I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798922014782324736/UlKOFD5I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798913743187050498/1479313356",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 22,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Feb 19 14:25:03 +0000 2017",
+		"id": 833321503060066300,
+		"id_str": "833321503060066304",
+		"text": "RT @lingholic: https://t.co/iVnD7cuMQk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lingholic",
+					"name": "lingholic.com",
+					"id": 934378472,
+					"id_str": "934378472",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 833305224991428600,
+					"id_str": "833305224991428613",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+					"url": "https://t.co/iVnD7cuMQk",
+					"display_url": "pic.twitter.com/iVnD7cuMQk",
+					"expanded_url": "https://twitter.com/lingholic/status/833305227033976834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833305227033976800,
+					"source_status_id_str": "833305227033976834",
+					"source_user_id": 934378472,
+					"source_user_id_str": "934378472"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 833305224991428600,
+					"id_str": "833305224991428613",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+					"url": "https://t.co/iVnD7cuMQk",
+					"display_url": "pic.twitter.com/iVnD7cuMQk",
+					"expanded_url": "https://twitter.com/lingholic/status/833305227033976834/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 395,
+							"h": 395,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 833305227033976800,
+					"source_status_id_str": "833305227033976834",
+					"source_user_id": 934378472,
+					"source_user_id_str": "934378472"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 343,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1404,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 13:20:22 +0000 2017",
+			"id": 833305227033976800,
+			"id_str": "833305227033976834",
+			"text": "https://t.co/iVnD7cuMQk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 833305224991428600,
+						"id_str": "833305224991428613",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+						"url": "https://t.co/iVnD7cuMQk",
+						"display_url": "pic.twitter.com/iVnD7cuMQk",
+						"expanded_url": "https://twitter.com/lingholic/status/833305227033976834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 833305224991428600,
+						"id_str": "833305224991428613",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C5B-r-UXUAUd4hp.jpg",
+						"url": "https://t.co/iVnD7cuMQk",
+						"display_url": "pic.twitter.com/iVnD7cuMQk",
+						"expanded_url": "https://twitter.com/lingholic/status/833305227033976834/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 395,
+								"h": 395,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 934378472,
+				"id_str": "934378472",
+				"name": "lingholic.com",
+				"screen_name": "lingholic",
+				"location": "World",
+				"description": "Lingholic is all about the art of learning languages. Learn how to learn and improve your foreign language acquisition ability: https://t.co/McPpgIjUIz",
+				"url": "http://t.co/0J2YCw5rsp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0J2YCw5rsp",
+								"expanded_url": "http://www.lingholic.com",
+								"display_url": "lingholic.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/McPpgIjUIz",
+								"expanded_url": "http://www.lingholic.com",
+								"display_url": "lingholic.com",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 28197,
+				"friends_count": 17226,
+				"listed_count": 626,
+				"created_at": "Thu Nov 08 12:24:25 +0000 2012",
+				"favourites_count": 6694,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10968,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/662810805579161600/fNOQCReM.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/662810805579161600/fNOQCReM.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/638114195662200832/3mUZh5Tu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/638114195662200832/3mUZh5Tu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/934378472/1440974860",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 53,
+			"favorite_count": 81,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 53,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sun Feb 19 06:41:28 +0000 2017",
+		"id": 833204838104170500,
+		"id_str": "833204838104170496",
+		"text": "RT @HarvardBiz: Mastering a new skill could have a positive effect on brain development. https://t.co/EPURGCbJCe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HarvardBiz",
+					"name": "Harvard Biz Review",
+					"id": 14800270,
+					"id_str": "14800270",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EPURGCbJCe",
+					"expanded_url": "http://s.hbr.org/2kGUTmB",
+					"display_url": "s.hbr.org/2kGUTmB",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 335,
+			"friends_count": 343,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1404,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 968,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Feb 19 06:09:21 +0000 2017",
+			"id": 833196756993208300,
+			"id_str": "833196756993208320",
+			"text": "Mastering a new skill could have a positive effect on brain development. https://t.co/EPURGCbJCe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EPURGCbJCe",
+						"expanded_url": "http://s.hbr.org/2kGUTmB",
+						"display_url": "s.hbr.org/2kGUTmB",
+						"indices": [
+							73,
+							96
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14800270,
+				"id_str": "14800270",
+				"name": "Harvard Biz Review",
+				"screen_name": "HarvardBiz",
+				"location": "Boston, MA",
+				"description": "The leading destination for smart management thinking. Click here to subscribe: https://t.co/krqDQl2ORH",
+				"url": "http://t.co/FXkjfGSn3I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/FXkjfGSn3I",
+								"expanded_url": "http://hbr.org",
+								"display_url": "hbr.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/krqDQl2ORH",
+								"expanded_url": "http://s.hbr.org/2g307YA",
+								"display_url": "s.hbr.org/2g307YA",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3885825,
+				"friends_count": 194,
+				"listed_count": 49433,
+				"created_at": "Fri May 16 15:50:47 +0000 2008",
+				"favourites_count": 15,
+				"utc_offset": -18000,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 52172,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "B20021",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/152425667/TwitterHB.gif",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/152425667/TwitterHB.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/600303920125214721/uy-506Vm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/600303920125214721/uy-506Vm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14800270/1396357623",
+				"profile_link_color": "D90000",
+				"profile_sidebar_border_color": "D5D5D5",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 209,
+			"favorite_count": 267,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 209,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Feb 18 13:05:55 +0000 2017",
 		"id": 832939201532424200,
 		"id_str": "832939201532424194",
