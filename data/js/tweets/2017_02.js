@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2017_02 = 
 [
 	{
+		"created_at": "Fri Feb 24 09:36:00 +0000 2017",
+		"id": 835060700531814400,
+		"id_str": "835060700531814400",
+		"text": "RT @PeterTatchell: Dying &amp; suffering people deserve choice. RT if you agree! Support @dignityindying https://t.co/8D9IjTuXSL @BHAhumanists…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PeterTatchell",
+					"name": "Peter Tatchell",
+					"id": 31135856,
+					"id_str": "31135856",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "dignityindying",
+					"name": "Dignity in Dying",
+					"id": 85859293,
+					"id_str": "85859293",
+					"indices": [
+						89,
+						104
+					]
+				},
+				{
+					"screen_name": "BHAhumanists",
+					"name": "British Humanists",
+					"id": 46686058,
+					"id_str": "46686058",
+					"indices": [
+						129,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 829038522078228500,
+					"id_str": "829038522078228480",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+					"url": "https://t.co/8D9IjTuXSL",
+					"display_url": "pic.twitter.com/8D9IjTuXSL",
+					"expanded_url": "https://twitter.com/dignityindying/status/829038524133433344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829038524133433300,
+					"source_status_id_str": "829038524133433344",
+					"source_user_id": 85859293,
+					"source_user_id_str": "85859293"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 829038522078228500,
+					"id_str": "829038522078228480",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+					"url": "https://t.co/8D9IjTuXSL",
+					"display_url": "pic.twitter.com/8D9IjTuXSL",
+					"expanded_url": "https://twitter.com/dignityindying/status/829038524133433344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 829038524133433300,
+					"source_status_id_str": "829038524133433344",
+					"source_user_id": 85859293,
+					"source_user_id_str": "85859293"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 336,
+			"friends_count": 345,
+			"listed_count": 23,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1421,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 974,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2918656087/8aa4079cbe5590adc1528d0cfd7b22ca_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1459452660",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Feb 24 09:35:10 +0000 2017",
+			"id": 835060490833375200,
+			"id_str": "835060490833375232",
+			"text": "Dying &amp; suffering people deserve choice. RT if you agree! Support @dignityindying https://t.co/8D9IjTuXSL @BHAhumanists @andrewcopson",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dignityindying",
+						"name": "Dignity in Dying",
+						"id": 85859293,
+						"id_str": "85859293",
+						"indices": [
+							70,
+							85
+						]
+					},
+					{
+						"screen_name": "BHAhumanists",
+						"name": "British Humanists",
+						"id": 46686058,
+						"id_str": "46686058",
+						"indices": [
+							110,
+							123
+						]
+					},
+					{
+						"screen_name": "andrewcopson",
+						"name": "Andrew Copson",
+						"id": 19915842,
+						"id_str": "19915842",
+						"indices": [
+							124,
+							137
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 829038522078228500,
+						"id_str": "829038522078228480",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+						"url": "https://t.co/8D9IjTuXSL",
+						"display_url": "pic.twitter.com/8D9IjTuXSL",
+						"expanded_url": "https://twitter.com/dignityindying/status/829038524133433344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 829038524133433300,
+						"source_status_id_str": "829038524133433344",
+						"source_user_id": 85859293,
+						"source_user_id_str": "85859293"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 829038522078228500,
+						"id_str": "829038522078228480",
+						"indices": [
+							86,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C4FWJLWWcAAiz6d.jpg",
+						"url": "https://t.co/8D9IjTuXSL",
+						"display_url": "pic.twitter.com/8D9IjTuXSL",
+						"expanded_url": "https://twitter.com/dignityindying/status/829038524133433344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 829038524133433300,
+						"source_status_id_str": "829038524133433344",
+						"source_user_id": 85859293,
+						"source_user_id_str": "85859293"
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31135856,
+				"id_str": "31135856",
+				"name": "Peter Tatchell",
+				"screen_name": "PeterTatchell",
+				"location": "London",
+				"description": "For human rights, democracy, global justice & LGBTI freedom. Views expressed here are my own & may not reflect those of the Peter Tatchell Foundation.",
+				"url": "http://t.co/2GW9s5VM57",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2GW9s5VM57",
+								"expanded_url": "http://petertatchell.net",
+								"display_url": "petertatchell.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 71045,
+				"friends_count": 2605,
+				"listed_count": 1660,
+				"created_at": "Tue Apr 14 14:40:00 +0000 2009",
+				"favourites_count": 23323,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/852844923/6fccc9ffb5bf50c2683effb0086724d3.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/852844923/6fccc9ffb5bf50c2683effb0086724d3.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2930765203/f33396076c1ebcdb9be3bf1aa2c80505_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2930765203/f33396076c1ebcdb9be3bf1aa2c80505_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31135856/1404671389",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 22,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Feb 21 11:43:03 +0000 2017",
 		"id": 834005509514547200,
 		"id_str": "834005509514547200",
