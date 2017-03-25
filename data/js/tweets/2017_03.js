@@ -1,6 +1,591 @@
 Grailbird.data.tweets_2017_03 = 
 [
 	{
+		"created_at": "Fri Mar 24 16:27:24 +0000 2017",
+		"id": 845311092737953800,
+		"id_str": "845311092737953793",
+		"text": "RT @ranilillanjum: Useful knowledge when choosing peppers for pizza. https://t.co/PjO7BYeI1A",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ranilillanjum",
+					"name": "Rani Lill Anjum",
+					"id": 75838766,
+					"id_str": "75838766",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 845310776713908200,
+					"id_str": "845310776713908228",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+					"url": "https://t.co/PjO7BYeI1A",
+					"display_url": "pic.twitter.com/PjO7BYeI1A",
+					"expanded_url": "https://twitter.com/ranilillanjum/status/845310778257428482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845310778257428500,
+					"source_status_id_str": "845310778257428482",
+					"source_user_id": 75838766,
+					"source_user_id_str": "75838766"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 845310776713908200,
+					"id_str": "845310776713908228",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+					"url": "https://t.co/PjO7BYeI1A",
+					"display_url": "pic.twitter.com/PjO7BYeI1A",
+					"expanded_url": "https://twitter.com/ranilillanjum/status/845310778257428482/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 845310778257428500,
+					"source_status_id_str": "845310778257428482",
+					"source_user_id": 75838766,
+					"source_user_id_str": "75838766"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 352,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1566,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1032,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842123602593996802/FZlI3f84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842123602593996802/FZlI3f84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 16:26:09 +0000 2017",
+			"id": 845310778257428500,
+			"id_str": "845310778257428482",
+			"text": "Useful knowledge when choosing peppers for pizza. https://t.co/PjO7BYeI1A",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 845310776713908200,
+						"id_str": "845310776713908228",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+						"url": "https://t.co/PjO7BYeI1A",
+						"display_url": "pic.twitter.com/PjO7BYeI1A",
+						"expanded_url": "https://twitter.com/ranilillanjum/status/845310778257428482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 845310776713908200,
+						"id_str": "845310776713908228",
+						"indices": [
+							50,
+							73
+						],
+						"media_url": "http://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C7slrDrXkAQUzVa.jpg",
+						"url": "https://t.co/PjO7BYeI1A",
+						"display_url": "pic.twitter.com/PjO7BYeI1A",
+						"expanded_url": "https://twitter.com/ranilillanjum/status/845310778257428482/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 500,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 75838766,
+				"id_str": "75838766",
+				"name": "Rani Lill Anjum",
+				"screen_name": "ranilillanjum",
+				"location": "Ås, Norge",
+				"description": "Philosopher & PI of @Cause_Health at @UniNMBU. Has a twitter list of 2460+ philosophers. Co-author of #GettingCausesFromPowers & #CausationVSI. #Raniblogs",
+				"url": "https://t.co/KrH2BLvIbB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KrH2BLvIbB",
+								"expanded_url": "https://ranilillanjum.wordpress.com",
+								"display_url": "ranilillanjum.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8144,
+				"friends_count": 1864,
+				"listed_count": 441,
+				"created_at": "Sun Sep 20 17:59:42 +0000 2009",
+				"favourites_count": 2872,
+				"utc_offset": 3600,
+				"time_zone": "Stockholm",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65598,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/838138421709262848/bIrMKQpm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/838138421709262848/bIrMKQpm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/75838766/1474659360",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Mar 24 14:24:55 +0000 2017",
+		"id": 845280268126765000,
+		"id_str": "845280268126765056",
+		"text": "RT @philtalkradio: ICYMI: \"Knowing What We Know – And Don't Know,\" first ep in our series on #IntellectualHumility, is now available: https…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntellectualHumility",
+					"indices": [
+						93,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philtalkradio",
+					"name": "Philosophy Talk",
+					"id": 63304316,
+					"id_str": "63304316",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 352,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1566,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1032,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842123602593996802/FZlI3f84_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842123602593996802/FZlI3f84_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Mar 24 14:23:47 +0000 2017",
+			"id": 845279983324954600,
+			"id_str": "845279983324954624",
+			"text": "ICYMI: \"Knowing What We Know – And Don't Know,\" first ep in our series on #IntellectualHumility, is now available:… https://t.co/xPvK9L4hPP",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IntellectualHumility",
+						"indices": [
+							74,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xPvK9L4hPP",
+						"expanded_url": "https://twitter.com/i/web/status/845279983324954624",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63304316,
+				"id_str": "63304316",
+				"name": "Philosophy Talk",
+				"screen_name": "philtalkradio",
+				"location": "San Francisco, CA",
+				"description": "Philosophy Talk is the program that questions everything... except your intelligence. Listen live Sundays 10 am pacific on https://t.co/7GGWZ4Cj3L.",
+				"url": "https://t.co/V3xTVcszMq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/V3xTVcszMq",
+								"expanded_url": "http://www.philosophytalk.org",
+								"display_url": "philosophytalk.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7GGWZ4Cj3L",
+								"expanded_url": "http://www.kalw.org/listen-live",
+								"display_url": "kalw.org/listen-live",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 46128,
+				"friends_count": 607,
+				"listed_count": 977,
+				"created_at": "Thu Aug 06 00:05:06 +0000 2009",
+				"favourites_count": 670,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3219,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/529801547337576448/KUil9Ngx.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/529801547337576448/KUil9Ngx.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/641328475446616064/_XV2lvml_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/641328475446616064/_XV2lvml_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/63304316/1464213236",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Mar 23 16:16:34 +0000 2017",
 		"id": 844945979879149600,
 		"id_str": "844945979879149577",
