@@ -1,6 +1,206 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Wed Apr 12 13:32:08 +0000 2017",
+		"id": 852152354170384400,
+		"id_str": "852152354170384386",
+		"text": "RT @GilchristGeorge: BBC News - Teachers back possible primary test boycott https://t.co/bRLqzRQygs good, and I am only surprised that it t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GilchristGeorge",
+					"name": "George Gilchrist",
+					"id": 436964891,
+					"id_str": "436964891",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bRLqzRQygs",
+					"expanded_url": "http://www.bbc.co.uk/news/education-39485062",
+					"display_url": "bbc.co.uk/news/education…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 428,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1592,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1045,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 12 12:34:28 +0000 2017",
+			"id": 852137841937219600,
+			"id_str": "852137841937219585",
+			"text": "BBC News - Teachers back possible primary test boycott https://t.co/bRLqzRQygs good, and I am only surprised that it took this long",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/bRLqzRQygs",
+						"expanded_url": "http://www.bbc.co.uk/news/education-39485062",
+						"display_url": "bbc.co.uk/news/education…",
+						"indices": [
+							55,
+							78
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 436964891,
+				"id_str": "436964891",
+				"name": "George Gilchrist",
+				"screen_name": "GilchristGeorge",
+				"location": "Scotland",
+				"description": "Retired school headteacher. SCEL Fellow. SPTC board. Thinks, talks, writes, speaks, blogs about education, leadership, learning, and professional development",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6025,
+				"friends_count": 5483,
+				"listed_count": 221,
+				"created_at": "Wed Dec 14 20:05:39 +0000 2011",
+				"favourites_count": 3331,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 30464,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569549136/twilk_background_4fcbba3a4bd4b.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569549136/twilk_background_4fcbba3a4bd4b.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/849531362969346048/B0cuRdvl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/849531362969346048/B0cuRdvl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/436964891/1488786449",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 16,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 10 14:13:40 +0000 2017",
 		"id": 851438031462690800,
 		"id_str": "851438031462690816",
