@@ -1,6 +1,892 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Thu Apr 13 17:21:57 +0000 2017",
+		"id": 852572579688796200,
+		"id_str": "852572579688796162",
+		"text": "RT @drkeithwilson: Final version of intro to #PerceptionWithoutRepresentation now available online via #OpenAccess. #philosophy https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PerceptionWithoutRepresentation",
+					"indices": [
+						45,
+						77
+					]
+				},
+				{
+					"text": "OpenAccess",
+					"indices": [
+						103,
+						114
+					]
+				},
+				{
+					"text": "philosophy",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drkeithwilson",
+					"name": "Dr Keith Wilson",
+					"id": 758241070186631200,
+					"id_str": "758241070186631168",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 27 15:46:57 +0000 2017",
+			"id": 846388076586942500,
+			"id_str": "846388076586942465",
+			"text": "Final version of intro to #PerceptionWithoutRepresentation now available online via #OpenAccess. #philosophy https://t.co/UWMcnAf3b0",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PerceptionWithoutRepresentation",
+						"indices": [
+							26,
+							58
+						]
+					},
+					{
+						"text": "OpenAccess",
+						"indices": [
+							84,
+							95
+						]
+					},
+					{
+						"text": "philosophy",
+						"indices": [
+							97,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UWMcnAf3b0",
+						"expanded_url": "http://link.springer.com/article/10.1007/s11245-017-9460-1",
+						"display_url": "link.springer.com/article/10.100…",
+						"indices": [
+							109,
+							132
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 758241070186631200,
+				"id_str": "758241070186631168",
+				"name": "Dr Keith Wilson",
+				"screen_name": "drkeithwilson",
+				"location": "Glasgow, UK",
+				"description": "Philosopher of Mind and Perception on @rethink_senses project at @UofGCSPE, @UofGlasgow. (Retweets #philosophy-related content by @keith_wilson and others.)",
+				"url": "https://t.co/dlxqp9I2fm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dlxqp9I2fm",
+								"expanded_url": "http://gla.ac.uk/humanities/staff/keithwilson/",
+								"display_url": "gla.ac.uk/humanities/sta…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 125,
+				"friends_count": 96,
+				"listed_count": 7,
+				"created_at": "Wed Jul 27 10:02:13 +0000 2016",
+				"favourites_count": 7,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 177,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/760435842145984514/WCVB7PsX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/760435842145984514/WCVB7PsX_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 17:21:42 +0000 2017",
+		"id": 852572517931905000,
+		"id_str": "852572517931905025",
+		"text": "RT @TrueSciPhi: Which feeds do philosophy organizations follow? https://t.co/uWaympoSa4 https://t.co/i20JmREbrp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TrueSciPhi",
+					"name": "TrueSciPhi",
+					"id": 3300811066,
+					"id_str": "3300811066",
+					"indices": [
+						3,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uWaympoSa4",
+					"expanded_url": "http://truesciphi.org/phiorg_fav.html",
+					"display_url": "truesciphi.org/phiorg_fav.html",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 821434626098872300,
+					"id_str": "821434626098872321",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+					"url": "https://t.co/i20JmREbrp",
+					"display_url": "pic.twitter.com/i20JmREbrp",
+					"expanded_url": "https://twitter.com/TrueSciPhi/status/821434692490723328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1549,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 893,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821434692490723300,
+					"source_status_id_str": "821434692490723328",
+					"source_user_id": 3300811066,
+					"source_user_id_str": "3300811066"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 821434626098872300,
+					"id_str": "821434626098872321",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+					"url": "https://t.co/i20JmREbrp",
+					"display_url": "pic.twitter.com/i20JmREbrp",
+					"expanded_url": "https://twitter.com/TrueSciPhi/status/821434692490723328/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 506,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1549,
+							"h": 1153,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 893,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 821434692490723300,
+					"source_status_id_str": "821434692490723328",
+					"source_user_id": 3300811066,
+					"source_user_id_str": "3300811066"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Jan 17 19:11:06 +0000 2017",
+			"id": 821434692490723300,
+			"id_str": "821434692490723328",
+			"text": "Which feeds do philosophy organizations follow? https://t.co/uWaympoSa4 https://t.co/i20JmREbrp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uWaympoSa4",
+						"expanded_url": "http://truesciphi.org/phiorg_fav.html",
+						"display_url": "truesciphi.org/phiorg_fav.html",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 821434626098872300,
+						"id_str": "821434626098872321",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+						"url": "https://t.co/i20JmREbrp",
+						"display_url": "pic.twitter.com/i20JmREbrp",
+						"expanded_url": "https://twitter.com/TrueSciPhi/status/821434692490723328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1549,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 893,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 821434626098872300,
+						"id_str": "821434626098872321",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C2ZScLbUQAEOizB.jpg",
+						"url": "https://t.co/i20JmREbrp",
+						"display_url": "pic.twitter.com/i20JmREbrp",
+						"expanded_url": "https://twitter.com/TrueSciPhi/status/821434692490723328/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 506,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1549,
+								"h": 1153,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 893,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 821398400935612400,
+			"in_reply_to_status_id_str": "821398400935612416",
+			"in_reply_to_user_id": 3300811066,
+			"in_reply_to_user_id_str": "3300811066",
+			"in_reply_to_screen_name": "TrueSciPhi",
+			"user": {
+				"id": 3300811066,
+				"id_str": "3300811066",
+				"name": "TrueSciPhi",
+				"screen_name": "TrueSciPhi",
+				"location": "",
+				"description": "A window on science and philosophy communities on Twitter and YouTube, by Kelly Truelove (physics PhD, etc.). See site for more.",
+				"url": "https://t.co/toHFFayLXj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/toHFFayLXj",
+								"expanded_url": "http://TrueSciPhi.org",
+								"display_url": "TrueSciPhi.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3239,
+				"friends_count": 927,
+				"listed_count": 166,
+				"created_at": "Wed May 27 19:01:09 +0000 2015",
+				"favourites_count": 420,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 546,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605883968810971136/lnjPQd-0.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605883968810971136/lnjPQd-0.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824395520835596288/rtYSA4b-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824395520835596288/rtYSA4b-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3300811066/1485403439",
+				"profile_link_color": "888888",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Apr 13 15:30:38 +0000 2017",
+		"id": 852544566179876900,
+		"id_str": "852544566179876864",
+		"text": "RT @J_Frich: Universities urged to tackle PhD mental health crisis @timeshighered https://t.co/UHV750Ak4V via @timeshighered",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "J_Frich",
+					"name": "Jan Frich",
+					"id": 1661058085,
+					"id_str": "1661058085",
+					"indices": [
+						3,
+						11
+					]
+				},
+				{
+					"screen_name": "timeshighered",
+					"name": "TimesHigherEducation",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "timeshighered",
+					"name": "TimesHigherEducation",
+					"id": 23602600,
+					"id_str": "23602600",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UHV750Ak4V",
+					"expanded_url": "https://www.timeshighereducation.com/news/universities-urged-tackle-phd-mental-health-crisis",
+					"display_url": "timeshighereducation.com/news/universit…",
+					"indices": [
+						82,
+						105
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 429,
+			"friends_count": 353,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1595,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 13 12:32:43 +0000 2017",
+			"id": 852499791921721300,
+			"id_str": "852499791921721344",
+			"text": "Universities urged to tackle PhD mental health crisis @timeshighered https://t.co/UHV750Ak4V via @timeshighered",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "timeshighered",
+						"name": "TimesHigherEducation",
+						"id": 23602600,
+						"id_str": "23602600",
+						"indices": [
+							54,
+							68
+						]
+					},
+					{
+						"screen_name": "timeshighered",
+						"name": "TimesHigherEducation",
+						"id": 23602600,
+						"id_str": "23602600",
+						"indices": [
+							97,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/UHV750Ak4V",
+						"expanded_url": "https://www.timeshighereducation.com/news/universities-urged-tackle-phd-mental-health-crisis",
+						"display_url": "timeshighereducation.com/news/universit…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1661058085,
+				"id_str": "1661058085",
+				"name": "Jan Frich",
+				"screen_name": "J_Frich",
+				"location": "Oslo, Norway",
+				"description": "Professor of Medicine/Health Management, @UniOslo. Former Harkness fellow @Yale. Vice-rector candidate at UiO (2017) https://t.co/MoJoCelr0V",
+				"url": "https://t.co/UXsFPRkAVu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UXsFPRkAVu",
+								"expanded_url": "http://www.graver.info/",
+								"display_url": "graver.info",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MoJoCelr0V",
+								"expanded_url": "https://m.facebook.com/GraverSandlieFrich/",
+								"display_url": "m.facebook.com/GraverSandlieF…",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1287,
+				"friends_count": 1260,
+				"listed_count": 29,
+				"created_at": "Sat Aug 10 21:51:37 +0000 2013",
+				"favourites_count": 1414,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1692,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000271370885/037c8151f503db7f6337029279829281_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000271370885/037c8151f503db7f6337029279829281_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1661058085/1483379790",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Apr 12 13:32:08 +0000 2017",
 		"id": 852152354170384400,
 		"id_str": "852152354170384386",
