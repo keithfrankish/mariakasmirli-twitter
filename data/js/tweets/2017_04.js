@@ -1,6 +1,1249 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 18 13:00:07 +0000 2017",
+		"id": 854318625179787300,
+		"id_str": "854318625179787264",
+		"text": "RT @StepTogetherVol: #Backtowork today? Read how #volunteering helped Mike regain his confidence and land a new job! https://t.co/mBqsy0noc…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Backtowork",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"text": "volunteering",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StepTogetherVol",
+					"name": "Step Together",
+					"id": 245340261,
+					"id_str": "245340261",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 355,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 12:40:09 +0000 2017",
+			"id": 854313602513342500,
+			"id_str": "854313602513342464",
+			"text": "#Backtowork today? Read how #volunteering helped Mike regain his confidence and land a new job! https://t.co/mBqsy0nocd #tuesdaymotivation",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Backtowork",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "volunteering",
+						"indices": [
+							28,
+							41
+						]
+					},
+					{
+						"text": "tuesdaymotivation",
+						"indices": [
+							120,
+							138
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mBqsy0nocd",
+						"expanded_url": "http://bit.ly/2i5xsmq",
+						"display_url": "bit.ly/2i5xsmq",
+						"indices": [
+							96,
+							119
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 245340261,
+				"id_str": "245340261",
+				"name": "Step Together",
+				"screen_name": "StepTogetherVol",
+				"location": "Bristol, England",
+				"description": "Transforming lives through volunteering",
+				"url": "https://t.co/PZQjYNid1M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PZQjYNid1M",
+								"expanded_url": "http://www.step-together.org.uk",
+								"display_url": "step-together.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1003,
+				"friends_count": 569,
+				"listed_count": 46,
+				"created_at": "Mon Jan 31 13:23:34 +0000 2011",
+				"favourites_count": 119,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1169,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/574984210240311296/ruMLg9ZW.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/574984210240311296/ruMLg9ZW.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/702415717455556608/lNlXs7p7_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/702415717455556608/lNlXs7p7_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/245340261/1456304022",
+				"profile_link_color": "8C517B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 12:58:44 +0000 2017",
+		"id": 854318276331135000,
+		"id_str": "854318276331134980",
+		"text": "RT @grahamandre: A2: So important as our children can often be more tech savvy than the teachers #primaryrocks https://t.co/PRCb1fY5Qh",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "primaryrocks",
+					"indices": [
+						97,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "grahamandre",
+					"name": "Graham Andre'",
+					"id": 82697426,
+					"id_str": "82697426",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 854052390001094700,
+					"id_str": "854052390001094657",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+					"url": "https://t.co/PRCb1fY5Qh",
+					"display_url": "pic.twitter.com/PRCb1fY5Qh",
+					"expanded_url": "https://twitter.com/grahamandre/status/854052411882733568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 915,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 915,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854052411882733600,
+					"source_status_id_str": "854052411882733568",
+					"source_user_id": 82697426,
+					"source_user_id_str": "82697426"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854052390001094700,
+					"id_str": "854052390001094657",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+					"url": "https://t.co/PRCb1fY5Qh",
+					"display_url": "pic.twitter.com/PRCb1fY5Qh",
+					"expanded_url": "https://twitter.com/grahamandre/status/854052411882733568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 915,
+							"h": 685,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 915,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854052411882733600,
+					"source_status_id_str": "854052411882733568",
+					"source_user_id": 82697426,
+					"source_user_id_str": "82697426"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 355,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Apr 17 19:22:17 +0000 2017",
+			"id": 854052411882733600,
+			"id_str": "854052411882733568",
+			"text": "A2: So important as our children can often be more tech savvy than the teachers #primaryrocks https://t.co/PRCb1fY5Qh",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "primaryrocks",
+						"indices": [
+							80,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 854052390001094700,
+						"id_str": "854052390001094657",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+						"url": "https://t.co/PRCb1fY5Qh",
+						"display_url": "pic.twitter.com/PRCb1fY5Qh",
+						"expanded_url": "https://twitter.com/grahamandre/status/854052411882733568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 915,
+								"h": 685,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 915,
+								"h": 685,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854052390001094700,
+						"id_str": "854052390001094657",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9o0H62WsAEJQ5T.jpg",
+						"url": "https://t.co/PRCb1fY5Qh",
+						"display_url": "pic.twitter.com/PRCb1fY5Qh",
+						"expanded_url": "https://twitter.com/grahamandre/status/854052411882733568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 915,
+								"h": 685,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 915,
+								"h": 685,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82697426,
+				"id_str": "82697426",
+				"name": "Graham Andre'",
+				"screen_name": "grahamandre",
+				"location": "Isle of Wight",
+				"description": "Year 3 teacher at Lanesend Primary  Editor of http://t.co/YHqVuqmGFp. Lover of the http://t.co/4ljTTqLiG6 #wemarchon",
+				"url": "http://t.co/AJjkfw5NsA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/AJjkfw5NsA",
+								"expanded_url": "http://www.numeracyshed.com",
+								"display_url": "numeracyshed.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/YHqVuqmGFp",
+								"expanded_url": "http://www.numeracyshed.com",
+								"display_url": "numeracyshed.com",
+								"indices": [
+									46,
+									68
+								]
+							},
+							{
+								"url": "http://t.co/4ljTTqLiG6",
+								"expanded_url": "http://www.geniushour.com",
+								"display_url": "geniushour.com",
+								"indices": [
+									83,
+									105
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10504,
+				"friends_count": 8995,
+				"listed_count": 376,
+				"created_at": "Thu Oct 15 19:52:00 +0000 2009",
+				"favourites_count": 14335,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 34842,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567661100/j6khfo4e6rt6d9vei1ls.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567661100/j6khfo4e6rt6d9vei1ls.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/746384256323174400/VrF5m-tN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/746384256323174400/VrF5m-tN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82697426/1489248537",
+				"profile_link_color": "B3002D",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 38,
+			"favorite_count": 48,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 38,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 12:56:44 +0000 2017",
+		"id": 854317773274718200,
+		"id_str": "854317773274718208",
+		"text": "RT @anitaleirfall: Bill Nye, the science guy, says I convinced him that philosophy is not just a load of self-indulgent crap https://t.co/E…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "anitaleirfall",
+					"name": "Anita Leirfall",
+					"id": 147637306,
+					"id_str": "147637306",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 355,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 11:32:10 +0000 2017",
+			"id": 854296491745321000,
+			"id_str": "854296491745320961",
+			"text": "Bill Nye, the science guy, says I convinced him that philosophy is not just a load of self-indulgent crap https://t.co/EVx91uyIOt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/EVx91uyIOt",
+						"expanded_url": "https://qz.com/960303",
+						"display_url": "qz.com/960303",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 147637306,
+				"id_str": "147637306",
+				"name": "Anita Leirfall",
+				"screen_name": "anitaleirfall",
+				"location": "Oslo, Norway",
+				"description": "Associate Professor, Department of Philosophy, University of Bergen @UiB and Associate Professor of Philosophy, Norwegian University of Life Sciences @uniNMBU",
+				"url": "https://t.co/IkygNVOrPI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IkygNVOrPI",
+								"expanded_url": "http://www.uib.no/persons/Anita.Leirfall",
+								"display_url": "uib.no/persons/Anita.…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8195,
+				"friends_count": 2007,
+				"listed_count": 415,
+				"created_at": "Mon May 24 17:11:32 +0000 2010",
+				"favourites_count": 52272,
+				"utc_offset": 7200,
+				"time_zone": "Berlin",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53786,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/147637306/1366717854",
+				"profile_link_color": "002FFF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "e42ed02b50d62e29",
+				"url": "https://api.twitter.com/1.1/geo/id/e42ed02b50d62e29.json",
+				"place_type": "city",
+				"name": "Oslo",
+				"full_name": "Oslo, Norway",
+				"country_code": "NO",
+				"country": "Norway",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								10.4914682,
+								59.8097794
+							],
+							[
+								10.9515836,
+								59.8097794
+							],
+							[
+								10.9515836,
+								60.1350316
+							],
+							[
+								10.4914682,
+								60.1350316
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 28,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue Apr 18 06:26:42 +0000 2017",
+		"id": 854219620915531800,
+		"id_str": "854219620915531777",
+		"text": "RT @wef: Expats say these countries have the best education systems https://t.co/OTuXifQowW https://t.co/0lb9asMNf4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wef",
+					"name": "World Economic Forum",
+					"id": 5120691,
+					"id_str": "5120691",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OTuXifQowW",
+					"expanded_url": "http://wef.ch/2p3oCd8",
+					"display_url": "wef.ch/2p3oCd8",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 854170372631023600,
+					"id_str": "854170372631023616",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+					"url": "https://t.co/0lb9asMNf4",
+					"display_url": "pic.twitter.com/0lb9asMNf4",
+					"expanded_url": "https://twitter.com/wef/status/854170375688683520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854170375688683500,
+					"source_status_id_str": "854170375688683520",
+					"source_user_id": 5120691,
+					"source_user_id_str": "5120691"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 854170372631023600,
+					"id_str": "854170372631023616",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+					"url": "https://t.co/0lb9asMNf4",
+					"display_url": "pic.twitter.com/0lb9asMNf4",
+					"expanded_url": "https://twitter.com/wef/status/854170375688683520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 485,
+							"h": 295,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 854170375688683500,
+					"source_status_id_str": "854170375688683520",
+					"source_user_id": 5120691,
+					"source_user_id_str": "5120691"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 426,
+			"friends_count": 355,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1621,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 18 03:11:01 +0000 2017",
+			"id": 854170375688683500,
+			"id_str": "854170375688683520",
+			"text": "Expats say these countries have the best education systems https://t.co/OTuXifQowW https://t.co/0lb9asMNf4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OTuXifQowW",
+						"expanded_url": "http://wef.ch/2p3oCd8",
+						"display_url": "wef.ch/2p3oCd8",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 854170372631023600,
+						"id_str": "854170372631023616",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+						"url": "https://t.co/0lb9asMNf4",
+						"display_url": "pic.twitter.com/0lb9asMNf4",
+						"expanded_url": "https://twitter.com/wef/status/854170375688683520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 854170372631023600,
+						"id_str": "854170372631023616",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C9qfbaZV0AAt8FB.jpg",
+						"url": "https://t.co/0lb9asMNf4",
+						"display_url": "pic.twitter.com/0lb9asMNf4",
+						"expanded_url": "https://twitter.com/wef/status/854170375688683520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 485,
+								"h": 295,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5120691,
+				"id_str": "5120691",
+				"name": "World Economic Forum",
+				"screen_name": "wef",
+				"location": "Geneva, Switzerland",
+				"description": "The international organization for public private cooperation. Follow us for research, insight and analysis on global issues",
+				"url": "https://t.co/1vmI17VRPv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1vmI17VRPv",
+								"expanded_url": "http://wef.ch/agenda",
+								"display_url": "wef.ch/agenda",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3061279,
+				"friends_count": 340,
+				"listed_count": 22283,
+				"created_at": "Wed Apr 18 14:00:19 +0000 2007",
+				"favourites_count": 1908,
+				"utc_offset": 7200,
+				"time_zone": "Bern",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78864,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FCFCFC",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459256738458267648/NQmn-I-R.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/565498192171507712/r2Hb2gvX_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5120691/1485265550",
+				"profile_link_color": "419FCF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 42,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 15 20:10:05 +0000 2017",
 		"id": 853339666510217200,
 		"id_str": "853339666510217220",
