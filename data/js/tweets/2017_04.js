@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Tue Apr 25 13:28:43 +0000 2017",
+		"id": 856862539292045300,
+		"id_str": "856862539292045312",
+		"text": "RT @philosophybites: A quotation usually attributed to William James @TheEconomist https://t.co/qx0MraTG9g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						3,
+						19
+					]
+				},
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						69,
+						82
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qx0MraTG9g",
+					"expanded_url": "https://twitter.com/theeconomist/status/856828230946390018",
+					"display_url": "twitter.com/theeconomist/s…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 425,
+			"friends_count": 355,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1626,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1058,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue Apr 25 11:59:54 +0000 2017",
+			"id": 856840185534967800,
+			"id_str": "856840185534967808",
+			"text": "A quotation usually attributed to William James @TheEconomist https://t.co/qx0MraTG9g",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheEconomist",
+						"name": "The Economist",
+						"id": 5988062,
+						"id_str": "5988062",
+						"indices": [
+							48,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qx0MraTG9g",
+						"expanded_url": "https://twitter.com/theeconomist/status/856828230946390018",
+						"display_url": "twitter.com/theeconomist/s…",
+						"indices": [
+							62,
+							85
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37238862,
+				"id_str": "37238862",
+				"name": "Nigel Warburton",
+				"screen_name": "philosophybites",
+				"location": "Oxford  & London UK",
+				"description": "Freelance philosopher, podcaster, writer. A Little History of Philosophy etc. Interviewer for Philosophy Bites podcast. Consultant editor for https://t.co/t8pnqmAQzG",
+				"url": "https://t.co/kD7ridjs8Q",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kD7ridjs8Q",
+								"expanded_url": "http://www.nigelwarburton.com",
+								"display_url": "nigelwarburton.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/t8pnqmAQzG",
+								"expanded_url": "http://Aeon.co",
+								"display_url": "Aeon.co",
+								"indices": [
+									142,
+									165
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 59193,
+				"friends_count": 4351,
+				"listed_count": 2397,
+				"created_at": "Sat May 02 17:20:21 +0000 2009",
+				"favourites_count": 11897,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 29645,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B5B8B4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460012276162891777/w4GUbuZQ.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460012276162891777/w4GUbuZQ.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/762920466604580864/xHgTs0Pf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/762920466604580864/xHgTs0Pf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+				"profile_link_color": "000DFF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "3D1957",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 856828230946390000,
+			"quoted_status_id_str": "856828230946390018",
+			"quoted_status": {
+				"created_at": "Tue Apr 25 11:12:24 +0000 2017",
+				"id": 856828230946390000,
+				"id_str": "856828230946390018",
+				"text": "Our quote of the day is from American journalist Edward R. Murrow https://t.co/CbyzjQj9fL",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 856828152403943400,
+							"id_str": "856828152403943424",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/C-QQqjmXYAASqpA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-QQqjmXYAASqpA.jpg",
+							"url": "https://t.co/CbyzjQj9fL",
+							"display_url": "pic.twitter.com/CbyzjQj9fL",
+							"expanded_url": "https://twitter.com/TheEconomist/status/856828230946390018/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 384,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1911,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 678,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 856828152403943400,
+							"id_str": "856828152403943424",
+							"indices": [
+								66,
+								89
+							],
+							"media_url": "http://pbs.twimg.com/media/C-QQqjmXYAASqpA.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/C-QQqjmXYAASqpA.jpg",
+							"url": "https://t.co/CbyzjQj9fL",
+							"display_url": "pic.twitter.com/CbyzjQj9fL",
+							"expanded_url": "https://twitter.com/TheEconomist/status/856828230946390018/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 680,
+									"h": 384,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 1911,
+									"h": 1080,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 678,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 5988062,
+					"id_str": "5988062",
+					"name": "The Economist",
+					"screen_name": "TheEconomist",
+					"location": "London",
+					"description": "News and analysis with a global perspective.  Subscribe here: https://t.co/owztJzwlmm",
+					"url": "https://t.co/pN0OAmG4SP",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/pN0OAmG4SP",
+									"expanded_url": "http://www.economist.com",
+									"display_url": "economist.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/owztJzwlmm",
+									"expanded_url": "http://econ.st/2eqtp7o",
+									"display_url": "econ.st/2eqtp7o",
+									"indices": [
+										62,
+										85
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 20260956,
+					"friends_count": 158,
+					"listed_count": 108226,
+					"created_at": "Sat May 12 13:04:50 +0000 2007",
+					"favourites_count": 296,
+					"utc_offset": -14400,
+					"time_zone": "Eastern Time (US & Canada)",
+					"geo_enabled": false,
+					"verified": true,
+					"statuses_count": 104580,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "DFDFDF",
+					"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+					"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/845392952/963b46728d3607fe369457e527b9d62e.png",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/461499742950678528/2JnpHjUo_normal.png",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/5988062/1492695875",
+					"profile_link_color": "313331",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "2C2E2D",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1283,
+				"favorite_count": 1664,
+				"favorited": true,
+				"retweeted": true,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 20,
+			"favorite_count": 43,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 856828230946390000,
+		"quoted_status_id_str": "856828230946390018",
+		"retweet_count": 20,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 22 12:06:03 +0000 2017",
 		"id": 855754569128833000,
 		"id_str": "855754569128833025",
