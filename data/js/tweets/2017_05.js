@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 09 13:19:07 +0000 2017",
+		"id": 861933553319366700,
+		"id_str": "861933553319366657",
+		"text": "RT @EU_Commission: 🇪🇺  9 May = #EuropeDay, marking the anniversary of the 1950 Schuman Declaration  🇪🇺 https://t.co/P5ipzjywqe",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EuropeDay",
+					"indices": [
+						31,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EU_Commission",
+					"name": "European Commission",
+					"id": 157981564,
+					"id_str": "157981564",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 861617765316251600,
+					"id_str": "861617765316251648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+					"url": "https://t.co/P5ipzjywqe",
+					"display_url": "pic.twitter.com/P5ipzjywqe",
+					"expanded_url": "https://twitter.com/EU_Commission/status/861831112321978368/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 861831112321978400,
+					"source_status_id_str": "861831112321978368",
+					"source_user_id": 157981564,
+					"source_user_id_str": "157981564"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 861617765316251600,
+					"id_str": "861617765316251648",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+					"url": "https://t.co/P5ipzjywqe",
+					"display_url": "pic.twitter.com/P5ipzjywqe",
+					"expanded_url": "https://twitter.com/EU_Commission/status/861831112321978368/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 861831112321978400,
+					"source_status_id_str": "861831112321978368",
+					"source_user_id": 157981564,
+					"source_user_id_str": "157981564",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 43360,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/1280x720/e1QvE29pziuAFjhY.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/861617765316251648/pl/XQBqzYRlI1vGq7GB.m3u8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/640x360/qXTekrirkJrA55g2.mp4"
+							},
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/320x180/K41UHts9WwcEOutx.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Robert Schuman, 9 May 1950 [FR]",
+						"description": "\"L’Europe ne se fera pas d’un coup, ni dans une construction d’ensemble. Elle se fera par des réalisations concrètes créant d’abord une solidarité de fait.\"",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://europa.eu/european-union/about-eu/history_en"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 157981564,
+							"id_str": "157981564",
+							"name": "European Commission",
+							"screen_name": "EU_Commission",
+							"location": "Brussels, Belgium",
+							"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+							"url": "https://t.co/2HnQtKhvZ6",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/2HnQtKhvZ6",
+											"expanded_url": "http://ec.europa.eu",
+											"display_url": "ec.europa.eu",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/HDhTPYZYmg",
+											"expanded_url": "http://ec.europa.eu/priorities/",
+											"display_url": "ec.europa.eu/priorities/",
+											"indices": [
+												123,
+												146
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 743099,
+							"friends_count": 1102,
+							"listed_count": 9674,
+							"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+							"favourites_count": 5108,
+							"utc_offset": 7200,
+							"time_zone": "Brussels",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 24985,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "9DD3EE",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1490102543",
+							"profile_link_color": "0C7DA6",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "CFECF9",
+							"profile_text_color": "1D1E23",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": true,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 354,
+			"listed_count": 25,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1638,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1065,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 09 06:32:03 +0000 2017",
+			"id": 861831112321978400,
+			"id_str": "861831112321978368",
+			"text": "🇪🇺  9 May = #EuropeDay, marking the anniversary of the 1950 Schuman Declaration  🇪🇺 https://t.co/P5ipzjywqe",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "EuropeDay",
+						"indices": [
+							12,
+							22
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 861617765316251600,
+						"id_str": "861617765316251648",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+						"url": "https://t.co/P5ipzjywqe",
+						"display_url": "pic.twitter.com/P5ipzjywqe",
+						"expanded_url": "https://twitter.com/EU_Commission/status/861831112321978368/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 861617765316251600,
+						"id_str": "861617765316251648",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/C_UVAmWXkAAZBOu.jpg",
+						"url": "https://t.co/P5ipzjywqe",
+						"display_url": "pic.twitter.com/P5ipzjywqe",
+						"expanded_url": "https://twitter.com/EU_Commission/status/861831112321978368/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 43360,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/1280x720/e1QvE29pziuAFjhY.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/861617765316251648/pl/XQBqzYRlI1vGq7GB.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/640x360/qXTekrirkJrA55g2.mp4"
+								},
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/861617765316251648/vid/320x180/K41UHts9WwcEOutx.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Robert Schuman, 9 May 1950 [FR]",
+							"description": "\"L’Europe ne se fera pas d’un coup, ni dans une construction d’ensemble. Elle se fera par des réalisations concrètes créant d’abord une solidarité de fait.\"",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://europa.eu/european-union/about-eu/history_en"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157981564,
+				"id_str": "157981564",
+				"name": "European Commission",
+				"screen_name": "EU_Commission",
+				"location": "Brussels, Belgium",
+				"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+				"url": "https://t.co/2HnQtKhvZ6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2HnQtKhvZ6",
+								"expanded_url": "http://ec.europa.eu",
+								"display_url": "ec.europa.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HDhTPYZYmg",
+								"expanded_url": "http://ec.europa.eu/priorities/",
+								"display_url": "ec.europa.eu/priorities/",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 743099,
+				"friends_count": 1102,
+				"listed_count": 9674,
+				"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+				"favourites_count": 5108,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 24985,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9DD3EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1490102543",
+				"profile_link_color": "0C7DA6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CFECF9",
+				"profile_text_color": "1D1E23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1938,
+			"favorite_count": 1588,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1938,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun May 07 14:16:17 +0000 2017",
 		"id": 861223163249799200,
 		"id_str": "861223163249799169",
