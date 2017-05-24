@@ -1,6 +1,420 @@
 Grailbird.data.tweets_2017_05 = 
 [
 	{
+		"created_at": "Tue May 23 18:09:34 +0000 2017",
+		"id": 867080077279977500,
+		"id_str": "867080077279977473",
+		"text": "RT @Phillipson70: Places still available on my Philosophy for Children L1 courses in York, Staffordshire and Glasgow https://t.co/044lWV9fS…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Phillipson70",
+					"name": "Neil Phillipson",
+					"id": 418240820,
+					"id_str": "418240820",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416,
+			"friends_count": 355,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1654,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 23 13:26:30 +0000 2017",
+			"id": 867008841225035800,
+			"id_str": "867008841225035776",
+			"text": "Places still available on my Philosophy for Children L1 courses in York, Staffordshire and Glasgow… https://t.co/nIx7Rl5a5u",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nIx7Rl5a5u",
+						"expanded_url": "https://twitter.com/i/web/status/867008841225035776",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418240820,
+				"id_str": "418240820",
+				"name": "Neil Phillipson",
+				"screen_name": "Phillipson70",
+				"location": "Cheshire",
+				"description": "17 years a science teacher/consultant, now interested in education generally and Philosophy for Children, Dialogic Teaching and Peer Tutoring in particular",
+				"url": "http://t.co/NWMnAO2VsA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NWMnAO2VsA",
+								"expanded_url": "http://21stcenturylearners.org.uk",
+								"display_url": "21stcenturylearners.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 887,
+				"friends_count": 825,
+				"listed_count": 21,
+				"created_at": "Mon Nov 21 22:52:14 +0000 2011",
+				"favourites_count": 579,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3387,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825181049/d76716e36df45030738e4828e51a083d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825181049/d76716e36df45030738e4828e51a083d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418240820/1454714516",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 3,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Tue May 23 10:31:57 +0000 2017",
+		"id": 866964912874037200,
+		"id_str": "866964912874037248",
+		"text": "RT @EU_Commission: Flags at half-mast-Today we mourn with you.Tomorrow we'll work side by side 2 fight back.They underestimate ours&amp;your re…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EU_Commission",
+					"name": "European Commission",
+					"id": 157981564,
+					"id_str": "157981564",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 416,
+			"friends_count": 355,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1654,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1069,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Tue May 23 07:51:34 +0000 2017",
+			"id": 866924552718360600,
+			"id_str": "866924552718360577",
+			"text": "Flags at half-mast-Today we mourn with you.Tomorrow we'll work side by side 2 fight back.They underestimate ours&amp;yo… https://t.co/9iGpPKsMZ1",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9iGpPKsMZ1",
+						"expanded_url": "https://twitter.com/i/web/status/866924552718360577",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							121,
+							144
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 157981564,
+				"id_str": "157981564",
+				"name": "European Commission",
+				"screen_name": "EU_Commission",
+				"location": "Brussels, Belgium",
+				"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+				"url": "https://t.co/2HnQtKhvZ6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2HnQtKhvZ6",
+								"expanded_url": "http://ec.europa.eu",
+								"display_url": "ec.europa.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HDhTPYZYmg",
+								"expanded_url": "http://ec.europa.eu/priorities/",
+								"display_url": "ec.europa.eu/priorities/",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 748808,
+				"friends_count": 1106,
+				"listed_count": 9694,
+				"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+				"favourites_count": 5150,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 25186,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9DD3EE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/528323307620167680/okh3DRoM.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/844222700520378370/SwbiHE_O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1490102543",
+				"profile_link_color": "0C7DA6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CFECF9",
+				"profile_text_color": "1D1E23",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1217,
+			"favorite_count": 1589,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1217,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 19 14:54:12 +0000 2017",
 		"id": 865581359674400800,
 		"id_str": "865581359674400769",
