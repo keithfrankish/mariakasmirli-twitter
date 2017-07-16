@@ -1,6 +1,528 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sat Jul 15 18:28:26 +0000 2017",
+		"id": 886291379709771800,
+		"id_str": "886291379709771776",
+		"text": "RT @StathisPsillos: Descartes (Καρτέσιος) appears on the cover of 'logic problems'--a crosswords and sudoku pass time https://t.co/0ZdzQsGe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StathisPsillos",
+					"name": "Stathis Psillos",
+					"id": 3068008811,
+					"id_str": "3068008811",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 357,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1694,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 18:10:09 +0000 2017",
+			"id": 886286778445041700,
+			"id_str": "886286778445041664",
+			"text": "Descartes (Καρτέσιος) appears on the cover of 'logic problems'--a crosswords and sudoku pass time https://t.co/0ZdzQsGeNP",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 886286775416737800,
+						"id_str": "886286775416737794",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DEy5IGHXUAIX_sD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEy5IGHXUAIX_sD.jpg",
+						"url": "https://t.co/0ZdzQsGeNP",
+						"display_url": "pic.twitter.com/0ZdzQsGeNP",
+						"expanded_url": "https://twitter.com/StathisPsillos/status/886286778445041664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 886286775416737800,
+						"id_str": "886286775416737794",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/DEy5IGHXUAIX_sD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DEy5IGHXUAIX_sD.jpg",
+						"url": "https://t.co/0ZdzQsGeNP",
+						"display_url": "pic.twitter.com/0ZdzQsGeNP",
+						"expanded_url": "https://twitter.com/StathisPsillos/status/886286778445041664/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3068008811,
+				"id_str": "3068008811",
+				"name": "Stathis Psillos",
+				"screen_name": "StathisPsillos",
+				"location": "Athens Greece",
+				"description": "I am a philosopher, lucky enough to do philosophy for a living. I tweet about philosophy, and occasionally politics",
+				"url": "https://t.co/zUI0aPk6f3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zUI0aPk6f3",
+								"expanded_url": "http://www.phs.uoa.gr/psillos",
+								"display_url": "phs.uoa.gr/psillos",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1623,
+				"friends_count": 435,
+				"listed_count": 56,
+				"created_at": "Tue Mar 03 15:27:52 +0000 2015",
+				"favourites_count": 3150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5682,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "und"
+	},
+	{
+		"created_at": "Sat Jul 15 13:53:50 +0000 2017",
+		"id": 886222275795701800,
+		"id_str": "886222275795701763",
+		"text": "RT @turingcop: Travesty international: Turkey has arrested Amnesty International’s local director https://t.co/Fz6ZcOQAyg via @TheEconomist",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "turingcop",
+					"name": "David John Roden",
+					"id": 38394403,
+					"id_str": "38394403",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fz6ZcOQAyg",
+					"expanded_url": "https://www.economist.com/news/europe/21725105-detention-human-rights-activists-terrorism-charges-hard-other-countries?cid1=cust/ddnew/n/n/n/20170714n/owned/n/n/nwl/n/n/eu/Daily_Dispatch/email",
+					"display_url": "economist.com/news/europe/21…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 410,
+			"friends_count": 357,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1694,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1087,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jul 15 09:02:14 +0000 2017",
+			"id": 886148892483612700,
+			"id_str": "886148892483612672",
+			"text": "Travesty international: Turkey has arrested Amnesty International’s local director https://t.co/Fz6ZcOQAyg via @TheEconomist",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheEconomist",
+						"name": "The Economist",
+						"id": 5988062,
+						"id_str": "5988062",
+						"indices": [
+							111,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Fz6ZcOQAyg",
+						"expanded_url": "https://www.economist.com/news/europe/21725105-detention-human-rights-activists-terrorism-charges-hard-other-countries?cid1=cust/ddnew/n/n/n/20170714n/owned/n/n/nwl/n/n/eu/Daily_Dispatch/email",
+						"display_url": "economist.com/news/europe/21…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38394403,
+				"id_str": "38394403",
+				"name": "David John Roden",
+				"screen_name": "turingcop",
+				"location": "",
+				"description": "Philosopher interested in eccentric alternatives to humanity   http://t.co/03reG2WLJk\nhttps://t.co/hKJ3WdKefL",
+				"url": "https://t.co/6iUQtnBjHw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6iUQtnBjHw",
+								"expanded_url": "https://enemyindustry.wordpress.com",
+								"display_url": "enemyindustry.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/03reG2WLJk",
+								"expanded_url": "http://www.amazon.com/Posthuman-Life-Philosophy-Edge-Human/dp/1844658066",
+								"display_url": "amazon.com/Posthuman-Life…",
+								"indices": [
+									63,
+									85
+								]
+							},
+							{
+								"url": "https://t.co/hKJ3WdKefL",
+								"expanded_url": "http://figureground.org/interview-with-david-roden/",
+								"display_url": "figureground.org/interview-with…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2573,
+				"friends_count": 3141,
+				"listed_count": 180,
+				"created_at": "Thu May 07 08:09:50 +0000 2009",
+				"favourites_count": 9328,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14783,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38394403/1476095850",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Jul 08 09:42:43 +0000 2017",
 		"id": 883622367586656300,
 		"id_str": "883622367586656256",
