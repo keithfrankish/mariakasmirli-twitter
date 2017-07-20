@@ -1,6 +1,536 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Wed Jul 19 19:47:32 +0000 2017",
+		"id": 887760837238288400,
+		"id_str": "887760837238288386",
+		"text": "@clairimasson  Sweet and gentle. are they? :) https://t.co/w9mtHsnqr3",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clairimasson",
+					"name": "Claire M",
+					"id": 999668396,
+					"id_str": "999668396",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/w9mtHsnqr3",
+					"expanded_url": "https://twitter.com/SandringhamE7/status/885600900772966401",
+					"display_url": "twitter.com/SandringhamE7/…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 999668396,
+		"in_reply_to_user_id_str": "999668396",
+		"in_reply_to_screen_name": "clairimasson",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 357,
+			"listed_count": 0,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1696,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 885600900772966400,
+		"quoted_status_id_str": "885600900772966401",
+		"quoted_status": {
+			"created_at": "Thu Jul 13 20:44:43 +0000 2017",
+			"id": 885600900772966400,
+			"id_str": "885600900772966401",
+			"text": "This week's thinking Friday is '​Is stealing wrong if no one sees you?' @P4CSandringham https://t.co/bFPCEihGOp",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "P4CSandringham",
+						"name": "P4C Sandringham",
+						"id": 3389109273,
+						"id_str": "3389109273",
+						"indices": [
+							72,
+							87
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 885600884402651100,
+						"id_str": "885600884402651138",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEpJT--XgAILKZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEpJT--XgAILKZR.jpg",
+						"url": "https://t.co/bFPCEihGOp",
+						"display_url": "pic.twitter.com/bFPCEihGOp",
+						"expanded_url": "https://twitter.com/SandringhamE7/status/885600900772966401/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 223,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 262,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 885600884402651100,
+						"id_str": "885600884402651138",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DEpJT--XgAILKZR.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DEpJT--XgAILKZR.jpg",
+						"url": "https://t.co/bFPCEihGOp",
+						"display_url": "pic.twitter.com/bFPCEihGOp",
+						"expanded_url": "https://twitter.com/SandringhamE7/status/885600900772966401/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 262,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 340,
+								"h": 223,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 262,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								200,
+								131
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DEpJT--XgAILKZR.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3526189515,
+				"id_str": "3526189515",
+				"name": "Sandringham School",
+				"screen_name": "SandringhamE7",
+				"location": "Forest Gate, London",
+				"description": "Sandringham Primary School is an outstanding school in Newham. We deliver an exciting creative curriculum to children aged 2-11 years. We also run a Daycare.",
+				"url": "https://t.co/26MjtVcLmf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/26MjtVcLmf",
+								"expanded_url": "http://sandringham.newham.sch.uk/",
+								"display_url": "sandringham.newham.sch.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 460,
+				"friends_count": 196,
+				"listed_count": 23,
+				"created_at": "Wed Sep 02 19:17:11 +0000 2015",
+				"favourites_count": 448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1441,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/639510757017845760/p2SyvPdO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/639510757017845760/p2SyvPdO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3526189515/1441307770",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Jul 19 14:53:31 +0000 2017",
+		"id": 887686848373547000,
+		"id_str": "887686848373547009",
+		"text": "RT @Phillipson70: Last 6 places available on my Philosophy for Children course in Glasgow in October with @SAPERE_P4C https://t.co/z5TUcy94…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Phillipson70",
+					"name": "Neil Phillipson",
+					"id": 418240820,
+					"id_str": "418240820",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "SAPERE_P4C",
+					"name": "SAPERE",
+					"id": 296392522,
+					"id_str": "296392522",
+					"indices": [
+						106,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 411,
+			"friends_count": 357,
+			"listed_count": 0,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1696,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Jul 19 11:24:14 +0000 2017",
+			"id": 887634181534175200,
+			"id_str": "887634181534175232",
+			"text": "Last 6 places available on my Philosophy for Children course in Glasgow in October with @SAPERE_P4C… https://t.co/oPgirzgNlE",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SAPERE_P4C",
+						"name": "SAPERE",
+						"id": 296392522,
+						"id_str": "296392522",
+						"indices": [
+							88,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oPgirzgNlE",
+						"expanded_url": "https://twitter.com/i/web/status/887634181534175232",
+						"display_url": "twitter.com/i/web/status/8…",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 418240820,
+				"id_str": "418240820",
+				"name": "Neil Phillipson",
+				"screen_name": "Phillipson70",
+				"location": "Cheshire",
+				"description": "17 years a science teacher/consultant, now interested in education generally and Philosophy for Children, Dialogic Teaching and Peer Tutoring in particular",
+				"url": "http://t.co/NWMnAO2VsA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/NWMnAO2VsA",
+								"expanded_url": "http://21stcenturylearners.org.uk",
+								"display_url": "21stcenturylearners.org.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 927,
+				"friends_count": 865,
+				"listed_count": 21,
+				"created_at": "Mon Nov 21 22:52:14 +0000 2011",
+				"favourites_count": 680,
+				"utc_offset": 3600,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3491,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/825181049/d76716e36df45030738e4828e51a083d.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/825181049/d76716e36df45030738e4828e51a083d.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/418240820/1454714516",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Jul 17 05:25:36 +0000 2017",
 		"id": 886819150072557600,
 		"id_str": "886819150072557568",
