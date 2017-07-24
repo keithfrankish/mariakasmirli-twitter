@@ -1,6 +1,847 @@
 Grailbird.data.tweets_2017_07 = 
 [
 	{
+		"created_at": "Sun Jul 23 10:21:05 +0000 2017",
+		"id": 889067840384512000,
+		"id_str": "889067840384512000",
+		"text": "RT @turingcop: One of my new addictions https://t.co/bn2RlaxjYo via @WIRED",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "turingcop",
+					"name": "David John Roden",
+					"id": 38394403,
+					"id_str": "38394403",
+					"indices": [
+						3,
+						13
+					]
+				},
+				{
+					"screen_name": "WIRED",
+					"name": "WIRED",
+					"id": 1344951,
+					"id_str": "1344951",
+					"indices": [
+						68,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bn2RlaxjYo",
+					"expanded_url": "https://www.wired.com/2017/07/geeks-guide-rick-and-morty/?mbid=social_twitter_onsiteshare",
+					"display_url": "wired.com/2017/07/geeks-…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 356,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1706,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jul 23 09:44:21 +0000 2017",
+			"id": 889058594011873300,
+			"id_str": "889058594011873280",
+			"text": "One of my new addictions https://t.co/bn2RlaxjYo via @WIRED",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WIRED",
+						"name": "WIRED",
+						"id": 1344951,
+						"id_str": "1344951",
+						"indices": [
+							53,
+							59
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bn2RlaxjYo",
+						"expanded_url": "https://www.wired.com/2017/07/geeks-guide-rick-and-morty/?mbid=social_twitter_onsiteshare",
+						"display_url": "wired.com/2017/07/geeks-…",
+						"indices": [
+							25,
+							48
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38394403,
+				"id_str": "38394403",
+				"name": "David John Roden",
+				"screen_name": "turingcop",
+				"location": "",
+				"description": "Philosopher interested in eccentric alternatives to humanity   http://t.co/03reG2WLJk\nhttps://t.co/hKJ3WdKefL",
+				"url": "https://t.co/6iUQtnBjHw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6iUQtnBjHw",
+								"expanded_url": "https://enemyindustry.wordpress.com",
+								"display_url": "enemyindustry.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "http://t.co/03reG2WLJk",
+								"expanded_url": "http://www.amazon.com/Posthuman-Life-Philosophy-Edge-Human/dp/1844658066",
+								"display_url": "amazon.com/Posthuman-Life…",
+								"indices": [
+									63,
+									85
+								]
+							},
+							{
+								"url": "https://t.co/hKJ3WdKefL",
+								"expanded_url": "http://figureground.org/interview-with-david-roden/",
+								"display_url": "figureground.org/interview-with…",
+								"indices": [
+									86,
+									109
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2584,
+				"friends_count": 3150,
+				"listed_count": 182,
+				"created_at": "Thu May 07 08:09:50 +0000 2009",
+				"favourites_count": 9504,
+				"utc_offset": -36000,
+				"time_zone": "Hawaii",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14860,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/835817595743895554/y6nZWdQX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38394403/1476095850",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 09:41:29 +0000 2017",
+		"id": 889057874684645400,
+		"id_str": "889057874684645377",
+		"text": "RT @ziyatong: Mesmerizing -&gt; This sand pendulum is pure math magic. https://t.co/MUNl4NGkFn",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ziyatong",
+					"name": "IM🍑HIM",
+					"id": 948104532,
+					"id_str": "948104532",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 888395182617514000,
+					"id_str": "888395182617513985",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+					"url": "https://t.co/MUNl4NGkFn",
+					"display_url": "pic.twitter.com/MUNl4NGkFn",
+					"expanded_url": "https://twitter.com/ziyatong/status/888395548406841344/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888395548406841300,
+					"source_status_id_str": "888395548406841344",
+					"source_user_id": 948104532,
+					"source_user_id_str": "948104532"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 888395182617514000,
+					"id_str": "888395182617513985",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+					"url": "https://t.co/MUNl4NGkFn",
+					"display_url": "pic.twitter.com/MUNl4NGkFn",
+					"expanded_url": "https://twitter.com/ziyatong/status/888395548406841344/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 888395548406841300,
+					"source_status_id_str": "888395548406841344",
+					"source_user_id": 948104532,
+					"source_user_id_str": "948104532",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 108720,
+						"variants": [
+							{
+								"bitrate": 320000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/888395182617513985/vid/320x180/bZ-J3ZnSSOLEj4gx.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/888395182617513985/vid/640x360/YFrfiwFBvts8iTKv.mp4"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/888395182617513985/pl/fKuvFBhesvgrNFC3.m3u8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 948104532,
+							"id_str": "948104532",
+							"name": "IM🍑HIM",
+							"screen_name": "ziyatong",
+							"location": "Laniakea Supercluster",
+							"description": "Host/Producer at Daily Planet, Discovery Canada. Tweets on underreported science news + random hijinks. Views are my own.",
+							"url": "https://t.co/PA6x7Qxg2W",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/PA6x7Qxg2W",
+											"expanded_url": "http://www.discovery.ca/dailyplanet",
+											"display_url": "discovery.ca/dailyplanet",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 24375,
+							"friends_count": 1523,
+							"listed_count": 679,
+							"created_at": "Wed Nov 14 17:03:42 +0000 2012",
+							"favourites_count": 18388,
+							"utc_offset": -14400,
+							"time_zone": "Eastern Time (US & Canada)",
+							"geo_enabled": false,
+							"verified": true,
+							"statuses_count": 28825,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "09BEDE",
+							"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+							"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/948104532/1363741503",
+							"profile_link_color": "0084B4",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "regular"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 356,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1706,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 21 13:49:38 +0000 2017",
+			"id": 888395548406841300,
+			"id_str": "888395548406841344",
+			"text": "Mesmerizing -&gt; This sand pendulum is pure math magic. https://t.co/MUNl4NGkFn",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 888395182617514000,
+						"id_str": "888395182617513985",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+						"url": "https://t.co/MUNl4NGkFn",
+						"display_url": "pic.twitter.com/MUNl4NGkFn",
+						"expanded_url": "https://twitter.com/ziyatong/status/888395548406841344/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 888395182617514000,
+						"id_str": "888395182617513985",
+						"indices": [
+							57,
+							80
+						],
+						"media_url": "http://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DFQ286DVoAIqCaR.jpg",
+						"url": "https://t.co/MUNl4NGkFn",
+						"display_url": "pic.twitter.com/MUNl4NGkFn",
+						"expanded_url": "https://twitter.com/ziyatong/status/888395548406841344/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 108720,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/888395182617513985/vid/320x180/bZ-J3ZnSSOLEj4gx.mp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/888395182617513985/vid/640x360/YFrfiwFBvts8iTKv.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/888395182617513985/pl/fKuvFBhesvgrNFC3.m3u8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 948104532,
+				"id_str": "948104532",
+				"name": "IM🍑HIM",
+				"screen_name": "ziyatong",
+				"location": "Laniakea Supercluster",
+				"description": "Host/Producer at Daily Planet, Discovery Canada. Tweets on underreported science news + random hijinks. Views are my own.",
+				"url": "https://t.co/PA6x7Qxg2W",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PA6x7Qxg2W",
+								"expanded_url": "http://www.discovery.ca/dailyplanet",
+								"display_url": "discovery.ca/dailyplanet",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24375,
+				"friends_count": 1523,
+				"listed_count": 679,
+				"created_at": "Wed Nov 14 17:03:42 +0000 2012",
+				"favourites_count": 18388,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 28825,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "09BEDE",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711668347/9179a36ed91837a12ff9205fb6984269.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/433453539092754433/z0T_czjY_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/948104532/1363741503",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4483,
+			"favorite_count": 7274,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4483,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Jul 23 09:38:56 +0000 2017",
+		"id": 889057232658321400,
+		"id_str": "889057232658321408",
+		"text": "Education technology: Together, technology and teachers can revamp schools https://t.co/4Qsdsec2qs via @TheEconomist",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						103,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4Qsdsec2qs",
+					"expanded_url": "https://www.economist.com/news/leaders/21725313-how-science-learning-can-get-best-out-edtech-together-technology-and-teachers-can",
+					"display_url": "economist.com/news/leaders/2…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 356,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1706,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1093,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Jul 19 19:47:32 +0000 2017",
 		"id": 887760837238288400,
 		"id_str": "887760837238288386",
@@ -111,7 +952,7 @@ Grailbird.data.tweets_2017_07 =
 			"created_at": "Thu Jul 13 20:44:43 +0000 2017",
 			"id": 885600900772966400,
 			"id_str": "885600900772966401",
-			"text": "This week's thinking Friday is '​Is stealing wrong if no one sees you?' @P4CSandringham https://t.co/bFPCEihGOp",
+			"text": "This week's thinking Friday is 'Is stealing wrong if no one sees you?' @P4CSandringham https://t.co/bFPCEihGOp",
 			"truncated": false,
 			"entities": {
 				"hashtags": [],
