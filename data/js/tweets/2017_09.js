@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Thu Sep 14 15:53:05 +0000 2017",
+		"id": 908357946853163000,
+		"id_str": "908357946853163010",
+		"text": "RT @Kari_Kivinen: Dr Zachary Walker in @NETforumFIN !@lastbackpack https://t.co/jjIwVRhfaF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kari_Kivinen",
+					"name": "Kari Kivinen",
+					"id": 77735405,
+					"id_str": "77735405",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "NETforumFIN",
+					"name": "NETFORUM",
+					"id": 2987075829,
+					"id_str": "2987075829",
+					"indices": [
+						39,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 908331800413556700,
+					"id_str": "908331800413556737",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+					"url": "https://t.co/jjIwVRhfaF",
+					"display_url": "pic.twitter.com/jjIwVRhfaF",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/908331811155181568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908331811155181600,
+					"source_status_id_str": "908331811155181568",
+					"source_user_id": 77735405,
+					"source_user_id_str": "77735405"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 908331800413556700,
+					"id_str": "908331800413556737",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+					"url": "https://t.co/jjIwVRhfaF",
+					"display_url": "pic.twitter.com/jjIwVRhfaF",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/908331811155181568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1146,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 671,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 908331811155181600,
+					"source_status_id_str": "908331811155181568",
+					"source_user_id": 77735405,
+					"source_user_id_str": "77735405"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 360,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1788,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1121,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Sep 14 14:09:14 +0000 2017",
+			"id": 908331811155181600,
+			"id_str": "908331811155181568",
+			"text": "Dr Zachary Walker in @NETforumFIN !@lastbackpack https://t.co/jjIwVRhfaF",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NETforumFIN",
+						"name": "NETFORUM",
+						"id": 2987075829,
+						"id_str": "2987075829",
+						"indices": [
+							21,
+							33
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 908331800413556700,
+						"id_str": "908331800413556737",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+						"url": "https://t.co/jjIwVRhfaF",
+						"display_url": "pic.twitter.com/jjIwVRhfaF",
+						"expanded_url": "https://twitter.com/Kari_Kivinen/status/908331811155181568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 908331800413556700,
+						"id_str": "908331800413556737",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DJsK9b3XUAEeZoc.jpg",
+						"url": "https://t.co/jjIwVRhfaF",
+						"display_url": "pic.twitter.com/jjIwVRhfaF",
+						"expanded_url": "https://twitter.com/Kari_Kivinen/status/908331811155181568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1146,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 77735405,
+				"id_str": "77735405",
+				"name": "Kari Kivinen",
+				"screen_name": "Kari_Kivinen",
+				"location": "Helsinki, Suomi",
+				"description": "Interested in education, motivation, self-regulation,  multilingualism, art, IP, IT, French,  etc.",
+				"url": "https://t.co/sKuluJBIXh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sKuluJBIXh",
+								"expanded_url": "http://kivinen.wordpress.com",
+								"display_url": "kivinen.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 455,
+				"friends_count": 655,
+				"listed_count": 19,
+				"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+				"favourites_count": 1876,
+				"utc_offset": 7200,
+				"time_zone": "Brussels",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2263,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/574549743960911873/8xgC1XO0.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/574549743960911873/8xgC1XO0.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1496085694",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Sep 12 19:08:03 +0000 2017",
 		"id": 907682233355468800,
 		"id_str": "907682233355468801",
