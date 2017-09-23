@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2017_09 = 
 [
 	{
+		"created_at": "Fri Sep 22 14:36:12 +0000 2017",
+		"id": 911237699012579300,
+		"id_str": "911237699012579329",
+		"text": "RT @timcrane102: First copy of my new book has arrived. Published on 30 October https://t.co/VP0zl7h2fc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timcrane102",
+					"name": "Tim Crane",
+					"id": 235652202,
+					"id_str": "235652202",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 911062386009890800,
+					"id_str": "911062386009890816",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+					"url": "https://t.co/VP0zl7h2fc",
+					"display_url": "pic.twitter.com/VP0zl7h2fc",
+					"expanded_url": "https://twitter.com/timcrane102/status/911062388178341888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911062388178341900,
+					"source_status_id_str": "911062388178341888",
+					"source_user_id": 235652202,
+					"source_user_id_str": "235652202"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 911062386009890800,
+					"id_str": "911062386009890816",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+					"url": "https://t.co/VP0zl7h2fc",
+					"display_url": "pic.twitter.com/VP0zl7h2fc",
+					"expanded_url": "https://twitter.com/timcrane102/status/911062388178341888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 911062388178341900,
+					"source_status_id_str": "911062388178341888",
+					"source_user_id": 235652202,
+					"source_user_id_str": "235652202"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 423,
+			"friends_count": 361,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 1794,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1124,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Sep 22 02:59:34 +0000 2017",
+			"id": 911062388178341900,
+			"id_str": "911062388178341888",
+			"text": "First copy of my new book has arrived. Published on 30 October https://t.co/VP0zl7h2fc",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 911062386009890800,
+						"id_str": "911062386009890816",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+						"url": "https://t.co/VP0zl7h2fc",
+						"display_url": "pic.twitter.com/VP0zl7h2fc",
+						"expanded_url": "https://twitter.com/timcrane102/status/911062388178341888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 911062386009890800,
+						"id_str": "911062386009890816",
+						"indices": [
+							63,
+							86
+						],
+						"media_url": "http://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DKS-ab5W4AA9cr7.jpg",
+						"url": "https://t.co/VP0zl7h2fc",
+						"display_url": "pic.twitter.com/VP0zl7h2fc",
+						"expanded_url": "https://twitter.com/timcrane102/status/911062388178341888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 235652202,
+				"id_str": "235652202",
+				"name": "Tim Crane",
+				"screen_name": "timcrane102",
+				"location": "",
+				"description": "Professor of Philosophy at CEU, Budapest. Philosophy Editor at the TLS. #IstandwithCEU",
+				"url": "https://t.co/qD7dAjjV0w",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qD7dAjjV0w",
+								"expanded_url": "http://www.timcrane.com",
+								"display_url": "timcrane.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8220,
+				"friends_count": 898,
+				"listed_count": 226,
+				"created_at": "Sat Jan 08 19:13:50 +0000 2011",
+				"favourites_count": 2469,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5548,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/578116321189105664/uUHNDG4V_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/578116321189105664/uUHNDG4V_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/235652202/1491312499",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 57,
+			"favorite_count": 261,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 18 12:45:21 +0000 2017",
 		"id": 909760254539391000,
 		"id_str": "909760254539390984",
