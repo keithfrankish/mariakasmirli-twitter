@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Sun Mar 11 11:08:00 +0000 2018",
+		"id": 972791244110917600,
+		"id_str": "972791244110917633",
+		"text": "Ha! https://t.co/7fRlLsO0WS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7fRlLsO0WS",
+					"expanded_url": "https://twitter.com/RosanaMansson/status/972497063274524672",
+					"display_url": "twitter.com/RosanaMansson/…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466,
+			"friends_count": 382,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2061,
+			"utc_offset": 7200,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1262,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 972497063274524700,
+		"quoted_status_id_str": "972497063274524672",
+		"quoted_status": {
+			"created_at": "Sat Mar 10 15:39:02 +0000 2018",
+			"id": 972497063274524700,
+			"id_str": "972497063274524672",
+			"text": "Three of the six things every teacher needs to know #rEDHan #ämnesspanare https://t.co/sRICug6K7R",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rEDHan",
+						"indices": [
+							52,
+							59
+						]
+					},
+					{
+						"text": "ämnesspanare",
+						"indices": [
+							60,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 972497052704833500,
+						"id_str": "972497052704833542",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DX8A6ruWAAYRWp4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX8A6ruWAAYRWp4.jpg",
+						"url": "https://t.co/sRICug6K7R",
+						"display_url": "pic.twitter.com/sRICug6K7R",
+						"expanded_url": "https://twitter.com/RosanaMansson/status/972497063274524672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 940,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 556,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 972497052704833500,
+						"id_str": "972497052704833542",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DX8A6ruWAAYRWp4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX8A6ruWAAYRWp4.jpg",
+						"url": "https://t.co/sRICug6K7R",
+						"display_url": "pic.twitter.com/sRICug6K7R",
+						"expanded_url": "https://twitter.com/RosanaMansson/status/972497063274524672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1150,
+								"h": 940,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 556,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1150,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972497052704886800,
+						"id_str": "972497052704886784",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DX8A6ruW0AADC5X.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX8A6ruW0AADC5X.jpg",
+						"url": "https://t.co/sRICug6K7R",
+						"display_url": "pic.twitter.com/sRICug6K7R",
+						"expanded_url": "https://twitter.com/RosanaMansson/status/972497063274524672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 755,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 607,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 755,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 972497052725805000,
+						"id_str": "972497052725805059",
+						"indices": [
+							74,
+							97
+						],
+						"media_url": "http://pbs.twimg.com/media/DX8A6rzWAAMSbgd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DX8A6rzWAAMSbgd.jpg",
+						"url": "https://t.co/sRICug6K7R",
+						"display_url": "pic.twitter.com/sRICug6K7R",
+						"expanded_url": "https://twitter.com/RosanaMansson/status/972497063274524672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 811,
+								"h": 655,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 549,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 811,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2742025985,
+				"id_str": "2742025985",
+				"name": "rosanamansson",
+				"screen_name": "RosanaMansson",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/eRu2kTBFfR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eRu2kTBFfR",
+								"expanded_url": "http://lrbloggar.se/rosanamansson/",
+								"display_url": "lrbloggar.se/rosanamansson/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65,
+				"friends_count": 118,
+				"listed_count": 3,
+				"created_at": "Wed Aug 13 19:59:51 +0000 2014",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 109,
+				"lang": "sv",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/743874915435225088/hKpXr9AA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/743874915435225088/hKpXr9AA_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Sat Mar 10 13:47:38 +0000 2018",
 		"id": 972469027963637800,
 		"id_str": "972469027963637761",
