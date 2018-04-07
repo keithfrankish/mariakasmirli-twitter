@@ -1,6 +1,440 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Fri Apr 06 15:26:13 +0000 2018",
+		"id": 982278307734544400,
+		"id_str": "982278307734544385",
+		"text": "RT @HughJaeger: @mariakasmirli As a member of the early Bronze Age beaker culture I feel uncomfortable surrounded by people speaking foreig…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HughJaeger",
+					"name": "Hugh Jaeger",
+					"id": 928280101,
+					"id_str": "928280101",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "mariakasmirli",
+					"name": "Maria Kasmirli",
+					"id": 103135865,
+					"id_str": "103135865",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 386,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2150,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Apr 06 07:29:32 +0000 2018",
+			"id": 982158349180461000,
+			"id_str": "982158349180461056",
+			"text": "@mariakasmirli As a member of the early Bronze Age beaker culture I feel uncomfortable surrounded by people speakin… https://t.co/ZojemVdUDk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mariakasmirli",
+						"name": "Maria Kasmirli",
+						"id": 103135865,
+						"id_str": "103135865",
+						"indices": [
+							0,
+							14
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZojemVdUDk",
+						"expanded_url": "https://twitter.com/i/web/status/982158349180461056",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 980420404522217500,
+			"in_reply_to_status_id_str": "980420404522217472",
+			"in_reply_to_user_id": 103135865,
+			"in_reply_to_user_id_str": "103135865",
+			"in_reply_to_screen_name": "mariakasmirli",
+			"user": {
+				"id": 928280101,
+				"id_str": "928280101",
+				"name": "Hugh Jaeger",
+				"screen_name": "HughJaeger",
+				"location": "Oxford",
+				"description": "Green transport & energy: buses, trains, trams; wind, wave, tide, solar; not HS2 or nuclear. Free Kashmir, Palestine, Tibet, West Papua. https://t.co/ByUlkuAWhf",
+				"url": "http://t.co/7juGznnmdC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7juGznnmdC",
+								"expanded_url": "http://www.facebook.com/hugh.jaeger",
+								"display_url": "facebook.com/hugh.jaeger",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ByUlkuAWhf",
+								"expanded_url": "http://hughjaeger.wordpress.com/",
+								"display_url": "hughjaeger.wordpress.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2715,
+				"friends_count": 2741,
+				"listed_count": 262,
+				"created_at": "Mon Nov 05 19:39:39 +0000 2012",
+				"favourites_count": 247396,
+				"utc_offset": 0,
+				"time_zone": "Monrovia",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 118617,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "007A3D",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124128583/81c308d05b4a36dd11bee5552f981859.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124128583/81c308d05b4a36dd11bee5552f981859.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/873141150605086720/5sO8JXye_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/873141150605086720/5sO8JXye_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/928280101/1401335984",
+				"profile_link_color": "2B6BAC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Fri Apr 06 15:00:37 +0000 2018",
+		"id": 982271867691065300,
+		"id_str": "982271867691065345",
+		"text": "RT @Mr_K_Teacher: As someone new to Teaching I can't profess to know what things were like previously. What does strike me though is just h…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_K_Teacher",
+					"name": "Mr K (Primary Teacher) ✏️",
+					"id": 2291855666,
+					"id_str": "2291855666",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512,
+			"friends_count": 386,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2150,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1299,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Apr 05 08:48:08 +0000 2018",
+			"id": 981815739538690000,
+			"id_str": "981815739538690048",
+			"text": "As someone new to Teaching I can't profess to know what things were like previously. What does strike me though is… https://t.co/hbTIz9GtUG",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hbTIz9GtUG",
+						"expanded_url": "https://twitter.com/i/web/status/981815739538690048",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2291855666,
+				"id_str": "2291855666",
+				"name": "Mr K (Primary Teacher) ✏️",
+				"screen_name": "Mr_K_Teacher",
+				"location": "Crawley, South East",
+				"description": "David Keyte - Year 4 Primary School Teacher @YattendonSchool. Education Blogger 💻 Vlogger 🎙️ & Children's literature enthusiast 📚",
+				"url": "https://t.co/3obf3sWVdd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3obf3sWVdd",
+								"expanded_url": "https://mrkprimaryteacher.wordpress.com/",
+								"display_url": "mrkprimaryteacher.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3240,
+				"friends_count": 5001,
+				"listed_count": 12,
+				"created_at": "Tue Jan 14 23:50:30 +0000 2014",
+				"favourites_count": 3039,
+				"utc_offset": -25200,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3847,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971489018960596993/I6JHb30M_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971489018960596993/I6JHb30M_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2291855666/1522491376",
+				"profile_link_color": "466FCD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 58,
+			"favorited": true,
+			"retweeted": true,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Apr 03 16:33:49 +0000 2018",
 		"id": 981208155957887000,
 		"id_str": "981208155957886977",
