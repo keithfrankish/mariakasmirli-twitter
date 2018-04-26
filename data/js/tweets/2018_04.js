@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2018_04 = 
 [
 	{
+		"created_at": "Wed Apr 25 04:37:44 +0000 2018",
+		"id": 989000483535810600,
+		"id_str": "989000483535810561",
+		"text": "RT @Frankwspencer: Autism not associated with violence, advocates say https://t.co/1xQllqhd5z via @torontostar",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Frankwspencer",
+					"name": "Frank Spencer",
+					"id": 144153933,
+					"id_str": "144153933",
+					"indices": [
+						3,
+						17
+					]
+				},
+				{
+					"screen_name": "TorontoStar",
+					"name": "TorontoStar",
+					"id": 12848262,
+					"id_str": "12848262",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1xQllqhd5z",
+					"expanded_url": "https://www.thestar.com/news/gta/2018/04/24/autism-not-associated-with-violence-advocates-say.html",
+					"display_url": "thestar.com/news/gta/2018/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 390,
+			"listed_count": 28,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2202,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1315,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/437877662/x0d3dc0751702c3ddc4d926aba4b26e8.jpg",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Apr 25 04:21:40 +0000 2018",
+			"id": 988996439685640200,
+			"id_str": "988996439685640192",
+			"text": "Autism not associated with violence, advocates say https://t.co/1xQllqhd5z via @torontostar",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TorontoStar",
+						"name": "TorontoStar",
+						"id": 12848262,
+						"id_str": "12848262",
+						"indices": [
+							79,
+							91
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1xQllqhd5z",
+						"expanded_url": "https://www.thestar.com/news/gta/2018/04/24/autism-not-associated-with-violence-advocates-say.html",
+						"display_url": "thestar.com/news/gta/2018/…",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 144153933,
+				"id_str": "144153933",
+				"name": "Frank Spencer",
+				"screen_name": "Frankwspencer",
+				"location": "New Hampshire",
+				"description": "Psychologist, educator, and naturalist",
+				"url": "http://t.co/dwnc6UTaDp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/dwnc6UTaDp",
+								"expanded_url": "http://thinkersandthinking.com/",
+								"display_url": "thinkersandthinking.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3035,
+				"friends_count": 3785,
+				"listed_count": 191,
+				"created_at": "Sat May 15 13:11:16 +0000 2010",
+				"favourites_count": 153,
+				"utc_offset": -18000,
+				"time_zone": "Quito",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21583,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "568DB4",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/114527262/winter-trees.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/114527262/winter-trees.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/2666212728/d455087183fd71c82af00979997ab576_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/2666212728/d455087183fd71c82af00979997ab576_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/144153933/1353367017",
+				"profile_link_color": "568DB4",
+				"profile_sidebar_border_color": "EEE7E7",
+				"profile_sidebar_fill_color": "EEE7E7",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Apr 23 04:39:50 +0000 2018",
 		"id": 988276235317936100,
 		"id_str": "988276235317936129",
