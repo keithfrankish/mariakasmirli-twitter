@@ -1,6 +1,590 @@
 Grailbird.data.tweets_2018_05 = 
 [
 	{
+		"created_at": "Sun May 20 06:29:07 +0000 2018",
+		"id": 998088211699290100,
+		"id_str": "998088211699290112",
+		"text": "RT @LouiseClazey: An amazing opportunity to work in a large, exciting Art Department. Fancy coming to join our team in the beautiful North…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LouiseClazey",
+					"name": "LouiseClazey",
+					"id": 867004675,
+					"id_str": "867004675",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 397,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2235,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat May 19 10:40:47 +0000 2018",
+			"id": 997789154862882800,
+			"id_str": "997789154862882817",
+			"text": "An amazing opportunity to work in a large, exciting Art Department. Fancy coming to join our team in the beautiful… https://t.co/9qckSLxjlO",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9qckSLxjlO",
+						"expanded_url": "https://twitter.com/i/web/status/997789154862882817",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 867004675,
+				"id_str": "867004675",
+				"name": "LouiseClazey",
+				"screen_name": "LouiseClazey",
+				"location": "Cramlington Learning Village",
+				"description": "Art Teacher. Northumberland. All views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2839,
+				"friends_count": 1686,
+				"listed_count": 102,
+				"created_at": "Sun Oct 07 21:37:08 +0000 2012",
+				"favourites_count": 16555,
+				"utc_offset": 7200,
+				"time_zone": "Amsterdam",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14375,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/797770208/e43ce9fc657a28cf813eb68399bbb156.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/797770208/e43ce9fc657a28cf813eb68399bbb156.jpeg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/925081980018024448/pcwo6FZy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/925081980018024448/pcwo6FZy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/867004675/1509391599",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 7,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun May 20 06:27:09 +0000 2018",
+		"id": 998087715810959400,
+		"id_str": "998087715810959360",
+		"text": "RT @PaulGarvey4: Just brilliant. Thank you Stephen. \n\nI'd add, in Tip 3; 'teach staff to be critical of all research'. There are no magic b…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulGarvey4",
+					"name": "Talk for Teaching",
+					"id": 2357835259,
+					"id_str": "2357835259",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 397,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2235,
+			"utc_offset": 10800,
+			"time_zone": "Athens",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1328,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun May 20 06:26:10 +0000 2018",
+			"id": 998087467541712900,
+			"id_str": "998087467541712896",
+			"text": "Just brilliant. Thank you Stephen. \n\nI'd add, in Tip 3; 'teach staff to be critical of all research'. There are no… https://t.co/CbAK8lRkIZ",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CbAK8lRkIZ",
+						"expanded_url": "https://twitter.com/i/web/status/998087467541712896",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2357835259,
+				"id_str": "2357835259",
+				"name": "Talk for Teaching",
+				"screen_name": "PaulGarvey4",
+				"location": "Dawlish, in a storm, above.",
+				"description": "Author of 'Talk for Teaching' & 'Taking Control'. In-school help around both. Other help via DM! hashtag founder! #nobestwayoverall #talkupteaching #FFEd 😀😇",
+				"url": "https://t.co/edXp9iako0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/edXp9iako0",
+								"expanded_url": "http://www.quality-schools.com",
+								"display_url": "quality-schools.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30023,
+				"friends_count": 20049,
+				"listed_count": 218,
+				"created_at": "Sun Feb 23 10:51:47 +0000 2014",
+				"favourites_count": 5589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 49681,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857826600221540353/GdLxvHSU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857826600221540353/GdLxvHSU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2357835259/1400311476",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 998081154929578000,
+			"quoted_status_id_str": "998081154929577984",
+			"quoted_status": {
+				"created_at": "Sun May 20 06:01:05 +0000 2018",
+				"id": 998081154929578000,
+				"id_str": "998081154929577984",
+				"text": "NEW POST\n5 Tips for Creating a More Evidence Informed School https://t.co/FzHdZYkru8 https://t.co/oJ37iF2pam",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/FzHdZYkru8",
+							"expanded_url": "http://leadinglearner.me/2018/05/20/5-tips-for-creating-a-more-evidence-informed-school/",
+							"display_url": "leadinglearner.me/2018/05/20/5-t…",
+							"indices": [
+								61,
+								84
+							]
+						}
+					],
+					"media": [
+						{
+							"id": 998081152630976500,
+							"id_str": "998081152630976512",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/media/DdnlhS-U8AA3FOf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DdnlhS-U8AA3FOf.jpg",
+							"url": "https://t.co/oJ37iF2pam",
+							"display_url": "pic.twitter.com/oJ37iF2pam",
+							"expanded_url": "https://twitter.com/LeadingLearner/status/998081154929577984/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 998081152630976500,
+							"id_str": "998081152630976512",
+							"indices": [
+								85,
+								108
+							],
+							"media_url": "http://pbs.twimg.com/media/DdnlhS-U8AA3FOf.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DdnlhS-U8AA3FOf.jpg",
+							"url": "https://t.co/oJ37iF2pam",
+							"display_url": "pic.twitter.com/oJ37iF2pam",
+							"expanded_url": "https://twitter.com/LeadingLearner/status/998081154929577984/photo/1",
+							"type": "photo",
+							"sizes": {
+								"small": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"medium": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 659,
+									"h": 394,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 1545988158,
+					"id_str": "1545988158",
+					"name": "Stephen Tierney",
+					"screen_name": "LeadingLearner",
+					"location": "Blackpool",
+					"description": "CEO of the BEBCMAT.\nChair of @HeadsRoundTable & SSAT Vis2040. \nFocussed on Leading & Learning. \nAuthor of Liminal Leadership https://t.co/pFXZVTWPF8",
+					"url": "https://t.co/CER7eMNFEx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/CER7eMNFEx",
+									"expanded_url": "http://leadinglearner.me",
+									"display_url": "leadinglearner.me",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/pFXZVTWPF8",
+									"expanded_url": "https://goo.gl/AMFsls",
+									"display_url": "goo.gl/AMFsls",
+									"indices": [
+										125,
+										148
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 22234,
+					"friends_count": 436,
+					"listed_count": 320,
+					"created_at": "Tue Jun 25 15:31:37 +0000 2013",
+					"favourites_count": 9440,
+					"utc_offset": 3600,
+					"time_zone": "London",
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 32112,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/907290722545651712/7GeeOO1n_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/907290722545651712/7GeeOO1n_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/1545988158/1474485505",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": true,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 25,
+				"favorite_count": 38,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 998081154929578000,
+		"quoted_status_id_str": "998081154929577984",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri May 18 03:57:40 +0000 2018",
 		"id": 997325318833803300,
 		"id_str": "997325318833803264",
