@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Fri Jun 15 16:04:08 +0000 2018",
+		"id": 1007655000984703000,
+		"id_str": "1007655000984702977",
+		"text": "RT @microphilosophy: The most successful people I know don't define \"success\" in the terms that people who generally write about \"successfu…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "microphilosophy",
+					"name": "Julian Baggini",
+					"id": 21592033,
+					"id_str": "21592033",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 530,
+			"friends_count": 397,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1336,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jun 15 09:38:28 +0000 2018",
+			"id": 1007557947990388700,
+			"id_str": "1007557947990388741",
+			"text": "The most successful people I know don't define \"success\" in the terms that people who generally write about \"succes… https://t.co/r9ozglZvz2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/r9ozglZvz2",
+						"expanded_url": "https://twitter.com/i/web/status/1007557947990388741",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21592033,
+				"id_str": "21592033",
+				"name": "Julian Baggini",
+				"screen_name": "microphilosophy",
+				"location": "United Kingdom",
+				"description": "Writer (fact). Philosopher (judgement).",
+				"url": "http://t.co/8kBsqDU9X0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/8kBsqDU9X0",
+								"expanded_url": "http://www.microphilosophy.net",
+								"display_url": "microphilosophy.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17981,
+				"friends_count": 34,
+				"listed_count": 725,
+				"created_at": "Sun Feb 22 19:51:51 +0000 2009",
+				"favourites_count": 751,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5740,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/81713422/twitterme_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/81713422/twitterme_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21592033/1399456408",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1007355487904518100,
+			"quoted_status_id_str": "1007355487904518144",
+			"quoted_status": {
+				"created_at": "Thu Jun 14 20:13:58 +0000 2018",
+				"id": 1007355487904518100,
+				"id_str": "1007355487904518144",
+				"text": "The most successful people I've met:\n\n1. Obsess about pudding\n2. Can't do any work without two hours of preliminary… https://t.co/NHLwwegZQB",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/NHLwwegZQB",
+							"expanded_url": "https://twitter.com/i/web/status/1007355487904518144",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 19530624,
+					"id_str": "19530624",
+					"name": "Chris Addison",
+					"screen_name": "mrchrisaddison",
+					"location": "London",
+					"description": "Spy. Dammit! Ex-spy. I'm the triple threat - I can sing, I can act and I've got a gun. Contact: roba@avalonuk.com (avi: @idilsukan, banner: Lacey Terrell)",
+					"url": "https://t.co/ebmc2TKMDx",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/ebmc2TKMDx",
+									"expanded_url": "http://www.chrisaddison.com",
+									"display_url": "chrisaddison.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 354965,
+					"friends_count": 1098,
+					"listed_count": 3812,
+					"created_at": "Mon Jan 26 12:02:47 +0000 2009",
+					"favourites_count": 1949,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 60077,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C6E2EE",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+					"profile_background_tile": true,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/902100037043449856/pWINz-Gm_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/902100037043449856/pWINz-Gm_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/19530624/1466414443",
+					"profile_link_color": "1F98C7",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "DAECF4",
+					"profile_text_color": "663B12",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": true,
+				"quoted_status_id": 1005784785954967600,
+				"quoted_status_id_str": "1005784785954967552",
+				"retweet_count": 1057,
+				"favorite_count": 6804,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 24,
+			"favorite_count": 73,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1007355487904518100,
+		"quoted_status_id_str": "1007355487904518144",
+		"retweet_count": 24,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jun 07 16:47:36 +0000 2018",
 		"id": 1004766837693919200,
 		"id_str": "1004766837693919232",
