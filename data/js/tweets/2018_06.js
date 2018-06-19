@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Mon Jun 18 13:34:17 +0000 2018",
+		"id": 1008704453967573000,
+		"id_str": "1008704453967572992",
+		"text": "RT @danieljowen: If America were a civilised nation, Trump and Sessions would have been impeached and packed off to The Hague for this stuf…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danieljowen",
+					"name": "Daniel Owen",
+					"id": 1004057867840827400,
+					"id_str": "1004057867840827392",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 397,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jun 18 09:33:29 +0000 2018",
+			"id": 1008643857330921500,
+			"id_str": "1008643857330921472",
+			"text": "If America were a civilised nation, Trump and Sessions would have been impeached and packed off to The Hague for th… https://t.co/AURnjj8AbS",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AURnjj8AbS",
+						"expanded_url": "https://twitter.com/i/web/status/1008643857330921472",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1004057867840827400,
+				"id_str": "1004057867840827392",
+				"name": "Daniel Owen",
+				"screen_name": "danieljowen",
+				"location": "North Devon",
+				"description": "Philosophy. Politics. History. Economics. Physics. Food. Books. Culture. Parenting. Chickens. North Devon. These are all nouns I like.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25,
+				"friends_count": 581,
+				"listed_count": 0,
+				"created_at": "Tue Jun 05 17:50:24 +0000 2018",
+				"favourites_count": 10,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 37,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1004060337350430720/adGrCvf2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1004060337350430720/adGrCvf2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004057867840827392/1528221829",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Jun 18 04:19:36 +0000 2018",
+		"id": 1008564864040800300,
+		"id_str": "1008564864040800257",
+		"text": "RT @daviddpearce: Prespa is a fitting site for this moment — a stunningly beautiful lake in a mountainous triborder corner the two countrie…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daviddpearce",
+					"name": "David D. Pearce",
+					"id": 2712899680,
+					"id_str": "2712899680",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 397,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Jun 17 19:58:41 +0000 2018",
+			"id": 1008438805622394900,
+			"id_str": "1008438805622394882",
+			"text": "Prespa is a fitting site for this moment — a stunningly beautiful lake in a mountainous triborder corner the two co… https://t.co/2NmNg9p2sR",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2NmNg9p2sR",
+						"expanded_url": "https://twitter.com/i/web/status/1008438805622394882",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2712899680,
+				"id_str": "2712899680",
+				"name": "David D. Pearce",
+				"screen_name": "daviddpearce",
+				"location": "Maine and Southern California",
+				"description": "Ten years as journalist, 35 as diplomat, mainly in Middle East. Former ambassador to Algeria, Greece. Watercolorist. Classics buff. Maine born/bred.",
+				"url": "https://t.co/pMNnuyULc5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pMNnuyULc5",
+								"expanded_url": "http://daviddpearce.com",
+								"display_url": "daviddpearce.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4543,
+				"friends_count": 628,
+				"listed_count": 111,
+				"created_at": "Tue Jul 15 16:26:36 +0000 2014",
+				"favourites_count": 3726,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4990,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/978124216124895232/Hjb1Vnxa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/978124216124895232/Hjb1Vnxa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2712899680/1528681495",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1008434201123868700,
+			"quoted_status_id_str": "1008434201123868672",
+			"quoted_status": {
+				"created_at": "Sun Jun 17 19:40:24 +0000 2018",
+				"id": 1008434201123868700,
+				"id_str": "1008434201123868672",
+				"text": "#History made today on the shores of #LakePrespa as #Greece &amp; #Macedonia sign landmark accord. V moving speeches by… https://t.co/mTHDujgbli",
+				"truncated": true,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "History",
+							"indices": [
+								0,
+								8
+							]
+						},
+						{
+							"text": "LakePrespa",
+							"indices": [
+								37,
+								48
+							]
+						},
+						{
+							"text": "Greece",
+							"indices": [
+								52,
+								59
+							]
+						},
+						{
+							"text": "Macedonia",
+							"indices": [
+								66,
+								76
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/mTHDujgbli",
+							"expanded_url": "https://twitter.com/i/web/status/1008434201123868672",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 243716026,
+					"id_str": "243716026",
+					"name": "Helena Smith",
+					"screen_name": "HelenaSmithGDN",
+					"location": "Athens",
+					"description": "Helena Smith is the Guardian's correspondent in Greece, Turkey and Cyprus",
+					"url": "http://t.co/KxxuGcjrO5",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "http://t.co/KxxuGcjrO5",
+									"expanded_url": "http://www.guardian.co.uk/profile/helenasmith",
+									"display_url": "guardian.co.uk/profile/helena…",
+									"indices": [
+										0,
+										22
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 6767,
+					"friends_count": 839,
+					"listed_count": 411,
+					"created_at": "Thu Jan 27 17:16:24 +0000 2011",
+					"favourites_count": 799,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": false,
+					"verified": false,
+					"statuses_count": 3339,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1227380033/helena_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227380033/helena_normal.jpg",
+					"profile_link_color": "0084B4",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 4,
+				"favorite_count": 8,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 6,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1008434201123868700,
+		"quoted_status_id_str": "1008434201123868672",
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Jun 15 16:04:08 +0000 2018",
 		"id": 1007655000984703000,
 		"id_str": "1007655000984702977",
