@@ -1,6 +1,725 @@
 Grailbird.data.tweets_2018_06 = 
 [
 	{
+		"created_at": "Sat Jun 30 15:04:03 +0000 2018",
+		"id": 1013075701350662100,
+		"id_str": "1013075701350662144",
+		"text": "10 Leadership Lessons From An Orchestra Conductor https://t.co/DUKCo0QQNq via @leaderonomics",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "leaderonomics",
+					"name": "Leaderonomics",
+					"id": 101929243,
+					"id_str": "101929243",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DUKCo0QQNq",
+					"expanded_url": "https://leaderonomics.com/leadership/orchestra-conductor",
+					"display_url": "leaderonomics.com/leadership/orc…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 399,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 30 14:49:22 +0000 2018",
+		"id": 1013072003065172000,
+		"id_str": "1013072003065171968",
+		"text": "RT @tes: What PE can teach teachers about being prepared, differentiation and \nmarking and feedback: https://t.co/rRHe1TsWyX",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tes",
+					"name": "Tes",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rRHe1TsWyX",
+					"expanded_url": "http://bit.ly/2tC2KJI",
+					"display_url": "bit.ly/2tC2KJI",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 399,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 14:05:00 +0000 2018",
+			"id": 1013060841355251700,
+			"id_str": "1013060841355251712",
+			"text": "What PE can teach teachers about being prepared, differentiation and \nmarking and feedback: https://t.co/rRHe1TsWyX",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rRHe1TsWyX",
+						"expanded_url": "http://bit.ly/2tC2KJI",
+						"display_url": "bit.ly/2tC2KJI",
+						"indices": [
+							92,
+							115
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78874095,
+				"id_str": "78874095",
+				"name": "Tes",
+				"screen_name": "tes",
+				"location": "UK",
+				"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+				"url": "https://t.co/xsD4MT26vf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xsD4MT26vf",
+								"expanded_url": "http://www.tes.com/news",
+								"display_url": "tes.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 248388,
+				"friends_count": 981,
+				"listed_count": 2439,
+				"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+				"favourites_count": 1404,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75456,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1530201994",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 78,
+			"favorite_count": 114,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Jun 30 14:49:04 +0000 2018",
+		"id": 1013071928729456600,
+		"id_str": "1013071928729456640",
+		"text": "RT @csmontesca: #CRISSsummerschool @crissH2020 https://t.co/jIWs1kiWHy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CRISSsummerschool",
+					"indices": [
+						16,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "csmontesca",
+					"name": "csmontesca",
+					"id": 2330000016,
+					"id_str": "2330000016",
+					"indices": [
+						3,
+						14
+					]
+				},
+				{
+					"screen_name": "crissH2020",
+					"name": "CRISS",
+					"id": 824298519603376100,
+					"id_str": "824298519603376128",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1012971754883616800,
+					"id_str": "1012971754883616768",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+					"url": "https://t.co/jIWs1kiWHy",
+					"display_url": "pic.twitter.com/jIWs1kiWHy",
+					"expanded_url": "https://twitter.com/csmontesca/status/1012971836278300672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 731,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1012971836278300700,
+					"source_status_id_str": "1012971836278300672",
+					"source_user_id": 2330000016,
+					"source_user_id_str": "2330000016"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1012971754883616800,
+					"id_str": "1012971754883616768",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+					"url": "https://t.co/jIWs1kiWHy",
+					"display_url": "pic.twitter.com/jIWs1kiWHy",
+					"expanded_url": "https://twitter.com/csmontesca/status/1012971836278300672/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 731,
+							"h": 547,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 731,
+							"h": 547,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1012971836278300700,
+					"source_status_id_str": "1012971836278300672",
+					"source_user_id": 2330000016,
+					"source_user_id_str": "2330000016"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529,
+			"friends_count": 399,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1343,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Jun 30 08:11:20 +0000 2018",
+			"id": 1012971836278300700,
+			"id_str": "1012971836278300672",
+			"text": "#CRISSsummerschool @crissH2020 https://t.co/jIWs1kiWHy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CRISSsummerschool",
+						"indices": [
+							0,
+							18
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "crissH2020",
+						"name": "CRISS",
+						"id": 824298519603376100,
+						"id_str": "824298519603376128",
+						"indices": [
+							19,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1012971754883616800,
+						"id_str": "1012971754883616768",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+						"url": "https://t.co/jIWs1kiWHy",
+						"display_url": "pic.twitter.com/jIWs1kiWHy",
+						"expanded_url": "https://twitter.com/csmontesca/status/1012971836278300672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 731,
+								"h": 547,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 731,
+								"h": 547,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1012971754883616800,
+						"id_str": "1012971754883616768",
+						"indices": [
+							31,
+							54
+						],
+						"media_url": "http://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Dg7McbFXkAAK6Rq.jpg",
+						"url": "https://t.co/jIWs1kiWHy",
+						"display_url": "pic.twitter.com/jIWs1kiWHy",
+						"expanded_url": "https://twitter.com/csmontesca/status/1012971836278300672/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 731,
+								"h": 547,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 731,
+								"h": 547,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 509,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2330000016,
+				"id_str": "2330000016",
+				"name": "csmontesca",
+				"screen_name": "csmontesca",
+				"location": "Città di Castello",
+				"description": "il Centro studi Villa Montesca promuove ricerche e formazione sulla didattica e sulla pedagogia sperimentale",
+				"url": "http://t.co/0F4cMalShl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0F4cMalShl",
+								"expanded_url": "http://www.montesca.it",
+								"display_url": "montesca.it",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217,
+				"friends_count": 465,
+				"listed_count": 5,
+				"created_at": "Thu Feb 06 09:16:40 +0000 2014",
+				"favourites_count": 149,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1480,
+				"lang": "it",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/602365685772263425/Aa1sVPhd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/602365685772263425/Aa1sVPhd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2330000016/1508948081",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und"
+	},
+	{
 		"created_at": "Fri Jun 22 16:45:54 +0000 2018",
 		"id": 1010202229465329700,
 		"id_str": "1010202229465329665",
