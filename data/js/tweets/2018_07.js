@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Fri Jul 27 18:25:22 +0000 2018",
+		"id": 1022910834664792000,
+		"id_str": "1022910834664792066",
+		"text": "RT @SEL4MA: 5 keys to challenging unconscious biases: https://t.co/NYlpUWvMws #SEL https://t.co/UBccYRRvdt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SEL",
+					"indices": [
+						78,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SEL4MA",
+					"name": "SEL4MA",
+					"id": 552399483,
+					"id_str": "552399483",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NYlpUWvMws",
+					"expanded_url": "http://edut.to/1q4q8Lv",
+					"display_url": "edut.to/1q4q8Lv",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1022910353729114100,
+					"id_str": "1022910353729114117",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+					"url": "https://t.co/UBccYRRvdt",
+					"display_url": "pic.twitter.com/UBccYRRvdt",
+					"expanded_url": "https://twitter.com/SEL4MA/status/1022910355696218112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022910355696218100,
+					"source_status_id_str": "1022910355696218112",
+					"source_user_id": 552399483,
+					"source_user_id_str": "552399483"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1022910353729114100,
+					"id_str": "1022910353729114117",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+					"url": "https://t.co/UBccYRRvdt",
+					"display_url": "pic.twitter.com/UBccYRRvdt",
+					"expanded_url": "https://twitter.com/SEL4MA/status/1022910355696218112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1022910355696218100,
+					"source_status_id_str": "1022910355696218112",
+					"source_user_id": 552399483,
+					"source_user_id_str": "552399483"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 401,
+			"listed_count": 29,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Jul 27 18:23:28 +0000 2018",
+			"id": 1022910355696218100,
+			"id_str": "1022910355696218112",
+			"text": "5 keys to challenging unconscious biases: https://t.co/NYlpUWvMws #SEL https://t.co/UBccYRRvdt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SEL",
+						"indices": [
+							66,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NYlpUWvMws",
+						"expanded_url": "http://edut.to/1q4q8Lv",
+						"display_url": "edut.to/1q4q8Lv",
+						"indices": [
+							42,
+							65
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1022910353729114100,
+						"id_str": "1022910353729114117",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+						"url": "https://t.co/UBccYRRvdt",
+						"display_url": "pic.twitter.com/UBccYRRvdt",
+						"expanded_url": "https://twitter.com/SEL4MA/status/1022910355696218112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1022910353729114100,
+						"id_str": "1022910353729114117",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DjIbjA8X0AURGpN.jpg",
+						"url": "https://t.co/UBccYRRvdt",
+						"display_url": "pic.twitter.com/UBccYRRvdt",
+						"expanded_url": "https://twitter.com/SEL4MA/status/1022910355696218112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 552399483,
+				"id_str": "552399483",
+				"name": "SEL4MA",
+				"screen_name": "SEL4MA",
+				"location": "Massachusetts",
+				"description": "Social-Emotional Learning Alliance for Massachusetts (SEL4MA) advocates for SEL in all MA communities – fewer problems & better relationships for all kids!",
+				"url": "http://t.co/tJIUevgdvf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/tJIUevgdvf",
+								"expanded_url": "http://www.SEL4MA.org",
+								"display_url": "SEL4MA.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13204,
+				"friends_count": 8394,
+				"listed_count": 220,
+				"created_at": "Fri Apr 13 01:20:22 +0000 2012",
+				"favourites_count": 4730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12001,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798212145620119552/6ToWa9cd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798212145620119552/6ToWa9cd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/552399483/1511387763",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 5,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Thu Jul 26 15:45:36 +0000 2018",
 		"id": 1022508241157283800,
 		"id_str": "1022508241157283840",
