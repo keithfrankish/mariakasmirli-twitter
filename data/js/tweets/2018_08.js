@@ -1,6 +1,851 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Sun Aug 26 21:01:24 +0000 2018",
+		"id": 1033821736834355200,
+		"id_str": "1033821736834355202",
+		"text": "RT @tes: 'Up to 90 per cent of the children in prison have been excluded from school. It didn’t work. It didn’t shock them onto a different…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tes",
+					"name": "Tes",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 411,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 19:05:01 +0000 2018",
+			"id": 1033792449804689400,
+			"id_str": "1033792449804689408",
+			"text": "'Up to 90 per cent of the children in prison have been excluded from school. It didn’t work. It didn’t shock them o… https://t.co/aH8Tbz74X8",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/aH8Tbz74X8",
+						"expanded_url": "https://twitter.com/i/web/status/1033792449804689408",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78874095,
+				"id_str": "78874095",
+				"name": "Tes",
+				"screen_name": "tes",
+				"location": "UK",
+				"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+				"url": "https://t.co/xsD4MT26vf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xsD4MT26vf",
+								"expanded_url": "http://www.tes.com/news",
+								"display_url": "tes.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250584,
+				"friends_count": 992,
+				"listed_count": 2472,
+				"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+				"favourites_count": 1447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 77724,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 48,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 26 08:11:05 +0000 2018",
+		"id": 1033627879836409900,
+		"id_str": "1033627879836409858",
+		"text": "RT @totnogs: 💬 Almost no one has only one identity\n\n#MutualRespect 👊🏼 #YOUnite\n#every1human #21_Lessons https://t.co/V0CJCVgOJG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MutualRespect",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"text": "YOUnite",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "every1human",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"text": "21_Lessons",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "totnogs",
+					"name": "☰ Virtuous •• •",
+					"id": 759378775939358700,
+					"id_str": "759378775939358720",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033451530287042600,
+					"id_str": "1033451530287042560",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+					"url": "https://t.co/V0CJCVgOJG",
+					"display_url": "pic.twitter.com/V0CJCVgOJG",
+					"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033451539321512000,
+					"source_status_id_str": "1033451539321511936",
+					"source_user_id": 759378775939358700,
+					"source_user_id_str": "759378775939358720"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033451530287042600,
+					"id_str": "1033451530287042560",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+					"url": "https://t.co/V0CJCVgOJG",
+					"display_url": "pic.twitter.com/V0CJCVgOJG",
+					"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033451539321512000,
+					"source_status_id_str": "1033451539321511936",
+					"source_user_id": 759378775939358700,
+					"source_user_id_str": "759378775939358720"
+				},
+				{
+					"id": 1033451530274463700,
+					"id_str": "1033451530274463750",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DleOsPqX4AYznma.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleOsPqX4AYznma.jpg",
+					"url": "https://t.co/V0CJCVgOJG",
+					"display_url": "pic.twitter.com/V0CJCVgOJG",
+					"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033451539321512000,
+					"source_status_id_str": "1033451539321511936",
+					"source_user_id": 759378775939358700,
+					"source_user_id_str": "759378775939358720"
+				},
+				{
+					"id": 1033451530308001800,
+					"id_str": "1033451530308001792",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DleOsPyXoAACQLJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleOsPyXoAACQLJ.jpg",
+					"url": "https://t.co/V0CJCVgOJG",
+					"display_url": "pic.twitter.com/V0CJCVgOJG",
+					"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033451539321512000,
+					"source_status_id_str": "1033451539321511936",
+					"source_user_id": 759378775939358700,
+					"source_user_id_str": "759378775939358720"
+				},
+				{
+					"id": 1033451530274459600,
+					"id_str": "1033451530274459648",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/DleOsPqX0AArW6h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DleOsPqX0AArW6h.jpg",
+					"url": "https://t.co/V0CJCVgOJG",
+					"display_url": "pic.twitter.com/V0CJCVgOJG",
+					"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033451539321512000,
+					"source_status_id_str": "1033451539321511936",
+					"source_user_id": 759378775939358700,
+					"source_user_id_str": "759378775939358720"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 411,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2370,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1379,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Aug 25 20:30:22 +0000 2018",
+			"id": 1033451539321512000,
+			"id_str": "1033451539321511936",
+			"text": "💬 Almost no one has only one identity\n\n#MutualRespect 👊🏼 #YOUnite\n#every1human #21_Lessons https://t.co/V0CJCVgOJG",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MutualRespect",
+						"indices": [
+							39,
+							53
+						]
+					},
+					{
+						"text": "YOUnite",
+						"indices": [
+							57,
+							65
+						]
+					},
+					{
+						"text": "every1human",
+						"indices": [
+							66,
+							78
+						]
+					},
+					{
+						"text": "21_Lessons",
+						"indices": [
+							79,
+							90
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033451530287042600,
+						"id_str": "1033451530287042560",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+						"url": "https://t.co/V0CJCVgOJG",
+						"display_url": "pic.twitter.com/V0CJCVgOJG",
+						"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033451530287042600,
+						"id_str": "1033451530287042560",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleOsPtX0AAdY-a.jpg",
+						"url": "https://t.co/V0CJCVgOJG",
+						"display_url": "pic.twitter.com/V0CJCVgOJG",
+						"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033451530274463700,
+						"id_str": "1033451530274463750",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DleOsPqX4AYznma.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleOsPqX4AYznma.jpg",
+						"url": "https://t.co/V0CJCVgOJG",
+						"display_url": "pic.twitter.com/V0CJCVgOJG",
+						"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033451530308001800,
+						"id_str": "1033451530308001792",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DleOsPyXoAACQLJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleOsPyXoAACQLJ.jpg",
+						"url": "https://t.co/V0CJCVgOJG",
+						"display_url": "pic.twitter.com/V0CJCVgOJG",
+						"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1033451530274459600,
+						"id_str": "1033451530274459648",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/DleOsPqX0AArW6h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DleOsPqX0AArW6h.jpg",
+						"url": "https://t.co/V0CJCVgOJG",
+						"display_url": "pic.twitter.com/V0CJCVgOJG",
+						"expanded_url": "https://twitter.com/totnogs/status/1033451539321511936/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 759378775939358700,
+				"id_str": "759378775939358720",
+				"name": "☰ Virtuous •• •",
+				"screen_name": "totnogs",
+				"location": "België",
+				"description": "FP @UnitedHumans | values and NORMS | #MutualRespect 👊🏼 #YOUnite #every1human",
+				"url": "https://t.co/T1QTN1yikf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/T1QTN1yikf",
+								"expanded_url": "https://twitter.com/totnogs/lists",
+								"display_url": "twitter.com/totnogs/lists",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 157,
+				"listed_count": 3,
+				"created_at": "Sat Jul 30 13:23:03 +0000 2016",
+				"favourites_count": 39,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 688,
+				"lang": "nl",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016780028502298624/gxcsowI7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016780028502298624/gxcsowI7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/759378775939358720/1498943726",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 24 06:00:50 +0000 2018",
 		"id": 1032870329125949400,
 		"id_str": "1032870329125949440",
