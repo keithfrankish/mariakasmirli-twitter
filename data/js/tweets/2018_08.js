@@ -1,6 +1,843 @@
 Grailbird.data.tweets_2018_08 = 
 [
 	{
+		"created_at": "Mon Aug 27 19:18:18 +0000 2018",
+		"id": 1034158181302325200,
+		"id_str": "1034158181302325248",
+		"text": "RT @tes: Advice from @tes' @AnnMroz: One thing #NQT teachers need to remember is that just because someone is great at social media, it doe…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NQT",
+					"indices": [
+						47,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tes",
+					"name": "Tes",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						3,
+						7
+					]
+				},
+				{
+					"screen_name": "tes",
+					"name": "Tes",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						21,
+						25
+					]
+				},
+				{
+					"screen_name": "AnnMroz",
+					"name": "Ann Mroz",
+					"id": 19760125,
+					"id_str": "19760125",
+					"indices": [
+						27,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 411,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 27 16:05:00 +0000 2018",
+			"id": 1034109535223533600,
+			"id_str": "1034109535223533568",
+			"text": "Advice from @tes' @AnnMroz: One thing #NQT teachers need to remember is that just because someone is great at socia… https://t.co/vcLJAHvOME",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NQT",
+						"indices": [
+							38,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tes",
+						"name": "Tes",
+						"id": 78874095,
+						"id_str": "78874095",
+						"indices": [
+							12,
+							16
+						]
+					},
+					{
+						"screen_name": "AnnMroz",
+						"name": "Ann Mroz",
+						"id": 19760125,
+						"id_str": "19760125",
+						"indices": [
+							18,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vcLJAHvOME",
+						"expanded_url": "https://twitter.com/i/web/status/1034109535223533568",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78874095,
+				"id_str": "78874095",
+				"name": "Tes",
+				"screen_name": "tes",
+				"location": "UK",
+				"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+				"url": "https://t.co/xsD4MT26vf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xsD4MT26vf",
+								"expanded_url": "http://www.tes.com/news",
+								"display_url": "tes.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 250676,
+				"friends_count": 992,
+				"listed_count": 2472,
+				"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+				"favourites_count": 1447,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 77740,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 139,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 27 19:17:24 +0000 2018",
+		"id": 1034157953706876900,
+		"id_str": "1034157953706876929",
+		"text": "RT @AlumniEuropae: \"Commissioner Hahn is to begin discussions regarding a European school in Georgia\" https://t.co/ZDAUH2llHO https://t.co/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlumniEuropae",
+					"name": "Alumni Europae",
+					"id": 358080861,
+					"id_str": "358080861",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZDAUH2llHO",
+					"expanded_url": "http://georgiatoday.ge/news/11448/Georgian-PM-Meets-European-Commissioner-Johannes-Hahn-",
+					"display_url": "georgiatoday.ge/news/11448/Geo…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 411,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Aug 27 09:53:09 +0000 2018",
+			"id": 1034015956467687400,
+			"id_str": "1034015956467687424",
+			"text": "\"Commissioner Hahn is to begin discussions regarding a European school in Georgia\" https://t.co/ZDAUH2llHO https://t.co/ZDAUH2llHO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZDAUH2llHO",
+						"expanded_url": "http://georgiatoday.ge/news/11448/Georgian-PM-Meets-European-Commissioner-Johannes-Hahn-",
+						"display_url": "georgiatoday.ge/news/11448/Geo…",
+						"indices": [
+							83,
+							106
+						]
+					},
+					{
+						"url": "https://t.co/ZDAUH2llHO",
+						"expanded_url": "http://georgiatoday.ge/news/11448/Georgian-PM-Meets-European-Commissioner-Johannes-Hahn-",
+						"display_url": "georgiatoday.ge/news/11448/Geo…",
+						"indices": [
+							107,
+							130
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 358080861,
+				"id_str": "358080861",
+				"name": "Alumni Europae",
+				"screen_name": "AlumniEuropae",
+				"location": "Europe",
+				"description": "Alumni network bringing together former and final year students, staff, parents and others across the European schools.",
+				"url": "http://t.co/2eGNFoPl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/2eGNFoPl",
+								"expanded_url": "http://www.alumnieuropae.org",
+								"display_url": "alumnieuropae.org",
+								"indices": [
+									0,
+									20
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 276,
+				"friends_count": 14,
+				"listed_count": 2,
+				"created_at": "Fri Aug 19 10:30:19 +0000 2011",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 702,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1782332871/AELOGO_normal.JPG",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1782332871/AELOGO_normal.JPG",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Aug 27 05:47:21 +0000 2018",
+		"id": 1033954099627262000,
+		"id_str": "1033954099627261952",
+		"text": "RT @BarackObama: Our statement on the passing of Senator John McCain: https://t.co/3GBjNYxoj5",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BarackObama",
+					"name": "Barack Obama",
+					"id": 813286,
+					"id_str": "813286",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1033521847080575000,
+					"id_str": "1033521847080574976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+					"url": "https://t.co/3GBjNYxoj5",
+					"display_url": "pic.twitter.com/3GBjNYxoj5",
+					"expanded_url": "https://twitter.com/BarackObama/status/1033521851312623616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033521851312623600,
+					"source_status_id_str": "1033521851312623616",
+					"source_user_id": 813286,
+					"source_user_id_str": "813286"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1033521847080575000,
+					"id_str": "1033521847080574976",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+					"url": "https://t.co/3GBjNYxoj5",
+					"display_url": "pic.twitter.com/3GBjNYxoj5",
+					"expanded_url": "https://twitter.com/BarackObama/status/1033521851312623616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1033521851312623600,
+					"source_status_id_str": "1033521851312623616",
+					"source_user_id": 813286,
+					"source_user_id_str": "813286"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 539,
+			"friends_count": 411,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 26 01:09:45 +0000 2018",
+			"id": 1033521851312623600,
+			"id_str": "1033521851312623616",
+			"text": "Our statement on the passing of Senator John McCain: https://t.co/3GBjNYxoj5",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1033521847080575000,
+						"id_str": "1033521847080574976",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+						"url": "https://t.co/3GBjNYxoj5",
+						"display_url": "pic.twitter.com/3GBjNYxoj5",
+						"expanded_url": "https://twitter.com/BarackObama/status/1033521851312623616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1033521847080575000,
+						"id_str": "1033521847080574976",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DlfOpOLX4AAo_sc.jpg",
+						"url": "https://t.co/3GBjNYxoj5",
+						"display_url": "pic.twitter.com/3GBjNYxoj5",
+						"expanded_url": "https://twitter.com/BarackObama/status/1033521851312623616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 813286,
+				"id_str": "813286",
+				"name": "Barack Obama",
+				"screen_name": "BarackObama",
+				"location": "Washington, DC",
+				"description": "Dad, husband, President, citizen.",
+				"url": "https://t.co/93Y27HEnnX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/93Y27HEnnX",
+								"expanded_url": "https://www.obama.org/",
+								"display_url": "obama.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101817796,
+				"friends_count": 619480,
+				"listed_count": 228731,
+				"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+				"favourites_count": 11,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15521,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "77B0DC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+				"profile_link_color": "2574AD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C2E0F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 184150,
+			"favorite_count": 843291,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 184150,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Aug 26 21:01:24 +0000 2018",
 		"id": 1033821736834355200,
 		"id_str": "1033821736834355202",
