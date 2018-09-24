@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 23 06:55:55 +0000 2018",
+		"id": 1043755824961781800,
+		"id_str": "1043755824961781760",
+		"text": "RT @tes: Every teacher has a responsibility to NQTs to be welcoming, supportive and positive about teaching https://t.co/RY3LGjhTLl",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tes",
+					"name": "Tes",
+					"id": 78874095,
+					"id_str": "78874095",
+					"indices": [
+						3,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RY3LGjhTLl",
+					"expanded_url": "https://bit.ly/2pvrO2F",
+					"display_url": "bit.ly/2pvrO2F",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 537,
+			"friends_count": 412,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2397,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1389,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 15:05:01 +0000 2018",
+			"id": 1043516524047335400,
+			"id_str": "1043516524047335425",
+			"text": "Every teacher has a responsibility to NQTs to be welcoming, supportive and positive about teaching https://t.co/RY3LGjhTLl",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RY3LGjhTLl",
+						"expanded_url": "https://bit.ly/2pvrO2F",
+						"display_url": "bit.ly/2pvrO2F",
+						"indices": [
+							99,
+							122
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 78874095,
+				"id_str": "78874095",
+				"name": "Tes",
+				"screen_name": "tes",
+				"location": "UK",
+				"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+				"url": "https://t.co/xsD4MT26vf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xsD4MT26vf",
+								"expanded_url": "http://www.tes.com/news",
+								"display_url": "tes.com/news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 254043,
+				"friends_count": 1008,
+				"listed_count": 2488,
+				"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+				"favourites_count": 1477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 78821,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 170,
+			"favorite_count": 343,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 170,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Sep 17 15:37:18 +0000 2018",
 		"id": 1041712708775751700,
 		"id_str": "1041712708775751681",
