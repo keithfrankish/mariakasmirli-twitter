@@ -1,6 +1,476 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Mon Sep 24 04:47:52 +0000 2018",
+		"id": 1044085988316917800,
+		"id_str": "1044085988316917760",
+		"text": "RT @ZonePhysics: This is so cool 😊 https://t.co/yCzPNBEOej",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ZonePhysics",
+					"name": "Physics & Astronomy Zone",
+					"id": 934281246435405800,
+					"id_str": "934281246435405824",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1043542403980910600,
+					"id_str": "1043542403980910592",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+					"url": "https://t.co/yCzPNBEOej",
+					"display_url": "pic.twitter.com/yCzPNBEOej",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1043543080442454016/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043543080442454000,
+					"source_status_id_str": "1043543080442454016",
+					"source_user_id": 934281246435405800,
+					"source_user_id_str": "934281246435405824"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1043542403980910600,
+					"id_str": "1043542403980910592",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+					"url": "https://t.co/yCzPNBEOej",
+					"display_url": "pic.twitter.com/yCzPNBEOej",
+					"expanded_url": "https://twitter.com/ZonePhysics/status/1043543080442454016/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1043543080442454000,
+					"source_status_id_str": "1043543080442454016",
+					"source_user_id": 934281246435405800,
+					"source_user_id_str": "934281246435405824",
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							23
+						],
+						"duration_millis": 104617,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/vid/400x368/6wOuI-XKaH7m4ucX.mp4?tag=5"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/vid/194x180/BWN4xNxVtL7If7IT.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/pl/OZiyE1WFrCv20Z7e.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 934281246435405800,
+							"id_str": "934281246435405824",
+							"name": "Physics & Astronomy Zone",
+							"screen_name": "ZonePhysics",
+							"location": "New York, USA",
+							"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+							"url": "https://t.co/lHtjhVT7MH",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/lHtjhVT7MH",
+											"expanded_url": "http://facebook.com/physicsastronomyzone/",
+											"display_url": "facebook.com/physicsastrono…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 48748,
+							"friends_count": 11377,
+							"listed_count": 380,
+							"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+							"favourites_count": 2479,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 2401,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+							"profile_link_color": "E81C4F",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 536,
+			"friends_count": 412,
+			"listed_count": 30,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1489584217",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sat Sep 22 16:50:33 +0000 2018",
+			"id": 1043543080442454000,
+			"id_str": "1043543080442454016",
+			"text": "This is so cool 😊 https://t.co/yCzPNBEOej",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1043542403980910600,
+						"id_str": "1043542403980910592",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+						"url": "https://t.co/yCzPNBEOej",
+						"display_url": "pic.twitter.com/yCzPNBEOej",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1043543080442454016/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1043542403980910600,
+						"id_str": "1043542403980910592",
+						"indices": [
+							18,
+							41
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1043542403980910592/pu/img/RjHOhbsO2EjWu3PN.jpg",
+						"url": "https://t.co/yCzPNBEOej",
+						"display_url": "pic.twitter.com/yCzPNBEOej",
+						"expanded_url": "https://twitter.com/ZonePhysics/status/1043543080442454016/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 368,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								23
+							],
+							"duration_millis": 104617,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/vid/400x368/6wOuI-XKaH7m4ucX.mp4?tag=5"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/vid/194x180/BWN4xNxVtL7If7IT.mp4?tag=5"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1043542403980910592/pu/pl/OZiyE1WFrCv20Z7e.m3u8?tag=5"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 934281246435405800,
+				"id_str": "934281246435405824",
+				"name": "Physics & Astronomy Zone",
+				"screen_name": "ZonePhysics",
+				"location": "New York, USA",
+				"description": "Science Educational Website 🔬🔭\nWelcome to the official page physics & astronomy zone.this page is primarily Dedicated to physics and astronomy lovers.",
+				"url": "https://t.co/lHtjhVT7MH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lHtjhVT7MH",
+								"expanded_url": "http://facebook.com/physicsastronomyzone/",
+								"display_url": "facebook.com/physicsastrono…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 48748,
+				"friends_count": 11377,
+				"listed_count": 380,
+				"created_at": "Sat Nov 25 04:43:02 +0000 2017",
+				"favourites_count": 2479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2401,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005757901766627333/nii7Bs2B_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/934281246435405824/1511586771",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1584,
+			"favorite_count": 3696,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1584,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 23 06:55:55 +0000 2018",
 		"id": 1043755824961781800,
 		"id_str": "1043755824961781760",
