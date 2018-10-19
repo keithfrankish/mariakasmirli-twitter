@@ -178,6 +178,264 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 8083,
+			"friends_count": 4352,
+			"listed_count": 30,
+			"created_at": "Tue Jan 14 23:50:30 +0000 2014",
+			"favourites_count": 16137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13038,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2291855666/1539533870",
+			"profile_link_color": "466FCD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fac15539ff6509",
+			"url": "https://api.twitter.com/1.1/geo/id/01fac15539ff6509.json",
+			"place_type": "city",
+			"name": "Crawley",
+			"full_name": "Crawley, South East",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.236912,
+							51.088048
+						],
+						[
+							-0.136753,
+							51.088048
+						],
+						[
+							-0.136753,
+							51.167405
+						],
+						[
+							-0.236912,
+							51.167405
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 117,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BOOK GIVEAWAY!\n\nSo these are my book shelves at home.\n\nWhich book from my collection would you most like a copy of? \n\nFollow, RT and comment your book choice below. \n\nA winner will be chosen at random and a new copy will be sent to them!\n\n#readingrocks \n#readingforpleasure https://t.co/APc02vRjNB"
+	},
+	{
+		"created_at": "Wed Oct 17 20:48:12 +0000 2018",
+		"id": 1052662586087489500,
+		"id_str": "1052662586087489538",
+		"full_text": "BOOK GIVEAWAY!\n\nSo these are my book shelves at home.\n\nWhich book from my collection would you most like a copy of? \n\nFollow, RT and comment your book choice below. \n\nA winner will be chosen at random and a new copy will be sent to them!\n\n#readingrocks \n#readingforpleasure https://t.co/APc02vRjNB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "readingrocks",
+					"indices": [
+						239,
+						252
+					]
+				},
+				{
+					"text": "readingforpleasure",
+					"indices": [
+						254,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1052662551006330900,
+					"id_str": "1052662551006330888",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DpvPA00WwAgQ_dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpvPA00WwAgQ_dq.jpg",
+					"url": "https://t.co/APc02vRjNB",
+					"display_url": "pic.twitter.com/APc02vRjNB",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1052662586087489538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1052662551006330900,
+					"id_str": "1052662551006330888",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DpvPA00WwAgQ_dq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpvPA00WwAgQ_dq.jpg",
+					"url": "https://t.co/APc02vRjNB",
+					"display_url": "pic.twitter.com/APc02vRjNB",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1052662586087489538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1052662569637425200,
+					"id_str": "1052662569637425152",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/DpvPB6OWsAAEra2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DpvPB6OWsAAEra2.jpg",
+					"url": "https://t.co/APc02vRjNB",
+					"display_url": "pic.twitter.com/APc02vRjNB",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1052662586087489538/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2291855666,
+			"id_str": "2291855666",
+			"name": "David Keyte (Primary Teacher) ✏️📚",
+			"screen_name": "Mr_K_Teacher",
+			"location": "Crawley, South East",
+			"description": "Year 4 Teacher @YattendonSchool. English Leadership Team, Education Blogger & Children's Literature enthusiast. @hwrk_magazine & @imaginecentre contributor.",
+			"url": "https://t.co/3WsTfYaqZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3WsTfYaqZO",
+							"expanded_url": "https://www.youtube.com/channel/UCqyoy8RltQnVRjpaCdHohLg",
+							"display_url": "youtube.com/channel/UCqyoy…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 8082,
 			"friends_count": 4352,
 			"listed_count": 30,
