@@ -175,6 +175,188 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 100,
+		"favorite_count": 1567,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lovely surprise on my desk this morning from my Headteacher and Deputy Headteacher!\n\n#whyiloveteaching https://t.co/FC39kcVV9k"
+	},
+	{
+		"created_at": "Fri Oct 19 14:28:55 +0000 2018",
+		"id": 1053291911736377300,
+		"id_str": "1053291911736377349",
+		"full_text": "A lovely surprise on my desk this morning from my Headteacher and Deputy Headteacher!\n\n#whyiloveteaching https://t.co/FC39kcVV9k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "whyiloveteaching",
+					"indices": [
+						87,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1053291896653705200,
+					"id_str": "1053291896653705216",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4LZkDXcAACdb1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4LZkDXcAACdb1.jpg",
+					"url": "https://t.co/FC39kcVV9k",
+					"display_url": "pic.twitter.com/FC39kcVV9k",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1053291911736377349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1053291896653705200,
+					"id_str": "1053291896653705216",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Dp4LZkDXcAACdb1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dp4LZkDXcAACdb1.jpg",
+					"url": "https://t.co/FC39kcVV9k",
+					"display_url": "pic.twitter.com/FC39kcVV9k",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1053291911736377349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2291855666,
+			"id_str": "2291855666",
+			"name": "David Keyte (Primary Teacher) ✏️📚",
+			"screen_name": "Mr_K_Teacher",
+			"location": "Crawley, South East",
+			"description": "Year 4 Teacher @YattendonSchool. English Leadership Team, Education Blogger & Children's Literature enthusiast. @hwrk_magazine & @imaginecentre contributor.",
+			"url": "https://t.co/3WsTfYaqZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3WsTfYaqZO",
+							"expanded_url": "https://www.youtube.com/channel/UCqyoy8RltQnVRjpaCdHohLg",
+							"display_url": "youtube.com/channel/UCqyoy…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8231,
+			"friends_count": 4375,
+			"listed_count": 31,
+			"created_at": "Tue Jan 14 23:50:30 +0000 2014",
+			"favourites_count": 16372,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13143,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2291855666/1540070353",
+			"profile_link_color": "466FCD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
 		"favorite_count": 1566,
 		"favorited": true,
 		"retweeted": true,
