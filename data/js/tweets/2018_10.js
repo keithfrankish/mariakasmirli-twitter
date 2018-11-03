@@ -165,6 +165,112 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
+			"followers_count": 1363,
+			"friends_count": 1597,
+			"listed_count": 7,
+			"created_at": "Sat Feb 17 07:23:39 +0000 2018",
+			"favourites_count": 21,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040023539556872192/uZKJtNiq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040023539556872192/uZKJtNiq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/964762249339400192/1519372078",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yet another trolley problem - baby or the grandma? https://t.co/8ZNC9sAqeN"
+	},
+	{
+		"created_at": "Thu Oct 25 19:36:23 +0000 2018",
+		"id": 1055543616498794500,
+		"id_str": "1055543616498794496",
+		"full_text": "Yet another trolley problem - baby or the grandma? https://t.co/8ZNC9sAqeN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8ZNC9sAqeN",
+					"expanded_url": "http://ow.ly/Wktn30mnmQ4",
+					"display_url": "ow.ly/Wktn30mnmQ4",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 964762249339400200,
+			"id_str": "964762249339400192",
+			"name": "GaryFBengier",
+			"screen_name": "GaryFBengier",
+			"location": "",
+			"description": "Philosopher & writer. Technologist. Philanthropist. Former Silicon Valley executive. Traveler & wine lover.",
+			"url": "https://t.co/z3D0Zp9esc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z3D0Zp9esc",
+							"expanded_url": "http://bengierfoundation.org/garybengier/",
+							"display_url": "bengierfoundation.org/garybengier/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 1360,
 			"friends_count": 1576,
 			"listed_count": 7,
