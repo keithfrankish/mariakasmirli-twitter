@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Wed Nov 07 13:32:40 +0000 2018",
+		"id": 1060163124043698200,
+		"id_str": "1060163124043698177",
+		"full_text": "Should I kill myself or have a cup of coffee? For Camus's 105th birthday, we're revisiting @Skye_Cleary and @mpigliucci's take on the question, and how the Stoics and Existentialists agree on the answer #camus\n https://t.co/96vd1VDjWh?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "camus",
+					"indices": [
+						203,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Skye_Cleary",
+					"name": "Dr Skye Cleary",
+					"id": 1323654877,
+					"id_str": "1323654877",
+					"indices": [
+						91,
+						103
+					]
+				},
+				{
+					"screen_name": "mpigliucci",
+					"name": "Massimo Pigliucci",
+					"id": 122795357,
+					"id_str": "122795357",
+					"indices": [
+						108,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/96vd1VDjWh",
+					"expanded_url": "http://bit.ly/2zwyNyz",
+					"display_url": "bit.ly/2zwyNyz",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101720224,
+			"id_str": "101720224",
+			"name": "Institute of Arts and Ideas",
+			"screen_name": "IAI_TV",
+			"location": "London and Hay-on-Wye",
+			"description": "The IAI brings you ideas to change the world — free, for everyone. Hosts @HTLGIFestival - the world's premier philosophy and music festival.",
+			"url": "https://t.co/ygQx1oluWD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ygQx1oluWD",
+							"expanded_url": "http://www.iai.tv/player",
+							"display_url": "iai.tv/player",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16374,
+			"friends_count": 2285,
+			"listed_count": 507,
+			"created_at": "Mon Jan 04 10:17:17 +0000 2010",
+			"favourites_count": 3531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14646,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101720224/1524586987",
+			"profile_link_color": "3D4447",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 88,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Should I kill myself or have a cup of coffee? For Camus's 105th birthday, we're revisiting @Skye_Cleary and @mpigliucci's take on the question, and how the Stoics and Existentialists agree on the answer #camus\n https://t.co/96vd1VDjWh?"
+	},
+	{
+		"created_at": "Wed Nov 07 15:29:05 +0000 2018",
+		"id": 1060192422033010700,
+		"id_str": "1060192422033010688",
+		"full_text": "I'll be running open courses on Dialogic Teaching at schools in Cheshire and Notts in the new year. Please do consider joining us... https://t.co/044lWV9fSz https://t.co/zhVRMH5yBk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/044lWV9fSz",
+					"expanded_url": "http://21stcenturylearners.org.uk/?page_id=369",
+					"display_url": "21stcenturylearners.org.uk/?page_id=369",
+					"indices": [
+						133,
+						156
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060192074509750300,
+					"id_str": "1060192074509750273",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DraPExrWkAERe6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DraPExrWkAERe6N.jpg",
+					"url": "https://t.co/zhVRMH5yBk",
+					"display_url": "pic.twitter.com/zhVRMH5yBk",
+					"expanded_url": "https://twitter.com/Phillipson70/status/1060192422033010688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1174,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060192074509750300,
+					"id_str": "1060192074509750273",
+					"indices": [
+						157,
+						180
+					],
+					"media_url": "http://pbs.twimg.com/media/DraPExrWkAERe6N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DraPExrWkAERe6N.jpg",
+					"url": "https://t.co/zhVRMH5yBk",
+					"display_url": "pic.twitter.com/zhVRMH5yBk",
+					"expanded_url": "https://twitter.com/Phillipson70/status/1060192422033010688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1174,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 434,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1174,
+							"h": 750,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418240820,
+			"id_str": "418240820",
+			"name": "Neil Phillipson",
+			"screen_name": "Phillipson70",
+			"location": "Cheshire",
+			"description": "Dialogic Education author and trainer; Philosophy for Children #P4C trainer with @SAPERE_P4C; facilitator of dialogue with @Gen_Global_; associate of @UFAorg",
+			"url": "http://t.co/NWMnAO2VsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NWMnAO2VsA",
+							"expanded_url": "http://21stcenturylearners.org.uk",
+							"display_url": "21stcenturylearners.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1125,
+			"friends_count": 1053,
+			"listed_count": 19,
+			"created_at": "Mon Nov 21 22:52:14 +0000 2011",
+			"favourites_count": 1298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4089,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418240820/1530195477",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll be running open courses on Dialogic Teaching at schools in Cheshire and Notts in the new year. Please do consider joining us... https://t.co/044lWV9fSz https://t.co/zhVRMH5yBk"
+	},
+	{
 		"created_at": "Wed Nov 07 15:29:05 +0000 2018",
 		"id": 1060192422033010700,
 		"id_str": "1060192422033010688",
