@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Tue Nov 13 09:08:35 +0000 2018",
+		"id": 1062270993043988500,
+		"id_str": "1062270993043988480",
+		"full_text": "70 media literacy educators sharing good practice ln ‘Fight disinformation with media literacy’ event in Brussels. @EvensFoundation https://t.co/sDWPkbjjgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvensFoundation",
+					"name": "Evens Foundation",
+					"id": 3194634755,
+					"id_str": "3194634755",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062270981786480600,
+					"id_str": "1062270981786480641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"url": "https://t.co/sDWPkbjjgK",
+					"display_url": "pic.twitter.com/sDWPkbjjgK",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/1062270993043988480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062270981786480600,
+					"id_str": "1062270981786480641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"url": "https://t.co/sDWPkbjjgK",
+					"display_url": "pic.twitter.com/sDWPkbjjgK",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/1062270993043988480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation,  multilingualism, art, IP, IT, French,  etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 541,
+			"friends_count": 823,
+			"listed_count": 21,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 4832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1496085694",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "70 media literacy educators sharing good practice ln ‘Fight disinformation with media literacy’ event in Brussels. @EvensFoundation https://t.co/sDWPkbjjgK"
+	},
+	{
+		"created_at": "Sat Nov 10 11:34:10 +0000 2018",
+		"id": 1061220468005453800,
+		"id_str": "1061220468005453824",
+		"full_text": "BBC News - Where do teachers get the most respect? https://t.co/jIKP0DCJ6j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jIKP0DCJ6j",
+					"expanded_url": "https://www.bbc.co.uk/news/business-46063947",
+					"display_url": "bbc.co.uk/news/business-…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852086261611364400,
+			"id_str": "852086261611364352",
+			"name": "Paul Metcalf",
+			"screen_name": "PaulMetcalf123",
+			"location": "Eastbourne, England",
+			"description": "Mathematician, education consultant, teacher trainer and school inspector in the UK, Europe and elsewhere. Views expressed here are entirely my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 921,
+			"friends_count": 1676,
+			"listed_count": 9,
+			"created_at": "Wed Apr 12 09:09:30 +0000 2017",
+			"favourites_count": 340,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 453,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1045244504276717568/nuvWPzW-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1045244504276717568/nuvWPzW-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852086261611364352/1492782239",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC News - Where do teachers get the most respect? https://t.co/jIKP0DCJ6j"
+	},
+	{
 		"created_at": "Sat Nov 10 11:34:10 +0000 2018",
 		"id": 1061220468005453800,
 		"id_str": "1061220468005453824",
