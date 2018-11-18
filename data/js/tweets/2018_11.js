@@ -1,6 +1,404 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Sat Nov 17 10:46:07 +0000 2018",
+		"id": 1063745090299076600,
+		"id_str": "1063745090299076608",
+		"full_text": "After watching episode 2 of #school I was struck by some of the extreme behavioural challenges facing teachers and school leaders. I would love to hear your responses to some of the questions posed in this video... https://t.co/nrR6P6I7sm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "school",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1063744549317693400,
+					"id_str": "1063744549317693440",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063744549317693440/pu/img/Y1Cs7aXOSPyq_dGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063744549317693440/pu/img/Y1Cs7aXOSPyq_dGZ.jpg",
+					"url": "https://t.co/nrR6P6I7sm",
+					"display_url": "pic.twitter.com/nrR6P6I7sm",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1063745090299076608/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1063744549317693400,
+					"id_str": "1063744549317693440",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1063744549317693440/pu/img/Y1Cs7aXOSPyq_dGZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1063744549317693440/pu/img/Y1Cs7aXOSPyq_dGZ.jpg",
+					"url": "https://t.co/nrR6P6I7sm",
+					"display_url": "pic.twitter.com/nrR6P6I7sm",
+					"expanded_url": "https://twitter.com/Mr_K_Teacher/status/1063745090299076608/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 86789,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063744549317693440/pu/vid/360x640/Q8HPaZhQiR2A_yKl.mp4?tag=7"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063744549317693440/pu/vid/720x1280/7iFF2anGBHO0Bd1V.mp4?tag=7"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1063744549317693440/pu/pl/-Wf6Tr7gNAjo78Hl.m3u8?tag=7"
+							},
+							{
+								"bitrate": 572000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1063744549317693440/pu/vid/320x568/hiFq-hFOx8iBcG7U.mp4?tag=7"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2291855666,
+			"id_str": "2291855666",
+			"name": "David Keyte 📚🎙️",
+			"screen_name": "Mr_K_Teacher",
+			"location": "Crawley, South East",
+			"description": "Year 4 Teacher @YattendonSchool. English Leadership Team, Education Blogger, Podcaster & Children's Literature enthusiast. @hwrk_magazine contributor.",
+			"url": "https://t.co/3WsTfYaqZO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3WsTfYaqZO",
+							"expanded_url": "https://www.youtube.com/channel/UCqyoy8RltQnVRjpaCdHohLg",
+							"display_url": "youtube.com/channel/UCqyoy…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8827,
+			"friends_count": 4497,
+			"listed_count": 37,
+			"created_at": "Tue Jan 14 23:50:30 +0000 2014",
+			"favourites_count": 17921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14067,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046050687031922688/b6aLj9HA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2291855666/1542444164",
+			"profile_link_color": "466FCD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After watching episode 2 of #school I was struck by some of the extreme behavioural challenges facing teachers and school leaders. I would love to hear your responses to some of the questions posed in this video... https://t.co/nrR6P6I7sm"
+	},
+	{
+		"created_at": "Tue Nov 13 09:08:35 +0000 2018",
+		"id": 1062270993043988500,
+		"id_str": "1062270993043988480",
+		"full_text": "70 media literacy educators sharing good practice ln ‘Fight disinformation with media literacy’ event in Brussels. @EvensFoundation https://t.co/sDWPkbjjgK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EvensFoundation",
+					"name": "Evens Foundation",
+					"id": 3194634755,
+					"id_str": "3194634755",
+					"indices": [
+						115,
+						131
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1062270981786480600,
+					"id_str": "1062270981786480641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"url": "https://t.co/sDWPkbjjgK",
+					"display_url": "pic.twitter.com/sDWPkbjjgK",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/1062270993043988480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1062270981786480600,
+					"id_str": "1062270981786480641",
+					"indices": [
+						132,
+						155
+					],
+					"media_url": "http://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dr3x1GyWsAErUSv.jpg",
+					"url": "https://t.co/sDWPkbjjgK",
+					"display_url": "pic.twitter.com/sDWPkbjjgK",
+					"expanded_url": "https://twitter.com/Kari_Kivinen/status/1062270993043988480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation,  multilingualism, art, IP, IT, French,  etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 823,
+			"listed_count": 21,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 4855,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3196,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1496085694",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "70 media literacy educators sharing good practice ln ‘Fight disinformation with media literacy’ event in Brussels. @EvensFoundation https://t.co/sDWPkbjjgK"
+	},
+	{
 		"created_at": "Tue Nov 13 09:08:35 +0000 2018",
 		"id": 1062270993043988500,
 		"id_str": "1062270993043988480",
