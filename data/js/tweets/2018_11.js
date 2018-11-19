@@ -118,6 +118,123 @@ Grailbird.data.tweets_2018_11 =
 		"text": "”Parasta, mitä tämän päivän työ- elämässä voi toivoa, on vaativa työhaaste.” @Heino1Olli Tämä ei ole vitsi https://t.co/PC7vgkYUwv"
 	},
 	{
+		"created_at": "Sun Nov 18 05:42:37 +0000 2018",
+		"id": 1064031097770655700,
+		"id_str": "1064031097770655744",
+		"full_text": "”Parasta, mitä tämän päivän työ- elämässä voi toivoa, on vaativa työhaaste.” @Heino1Olli Tämä ei ole vitsi https://t.co/PC7vgkYUwv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Heino1Olli",
+					"name": "Olli-Pekka Heinonen",
+					"id": 734333779930718200,
+					"id_str": "734333779930718208",
+					"indices": [
+						77,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PC7vgkYUwv",
+					"expanded_url": "https://ls24.fi/artikkelit/tama-ei-ole-vitsi",
+					"display_url": "ls24.fi/artikkelit/tam…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation,  multilingualism, art, IP, IT, French,  etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 540,
+			"friends_count": 823,
+			"listed_count": 21,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 4862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3200,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845656389871652865/Turo5DGt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1496085694",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "fi",
+		"text": "”Parasta, mitä tämän päivän työ- elämässä voi toivoa, on vaativa työhaaste.” @Heino1Olli Tämä ei ole vitsi https://t.co/PC7vgkYUwv"
+	},
+	{
 		"created_at": "Sat Nov 17 10:46:07 +0000 2018",
 		"id": 1063745090299076600,
 		"id_str": "1063745090299076608",
