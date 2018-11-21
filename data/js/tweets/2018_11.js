@@ -67,6 +67,237 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
+			"followers_count": 16466,
+			"friends_count": 2285,
+			"listed_count": 513,
+			"created_at": "Mon Jan 04 10:17:17 +0000 2010",
+			"favourites_count": 3549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/758343441432645634/sGGN6b3B_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/101720224/1524586987",
+			"profile_link_color": "3D4447",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F0F0F0",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In case you missed it, here's our #WorldPhilosophyDay reading list of 70 books our philosopher friends think everyone should read before they shuffle off this mortal coil. How many have you read?\nhttps://t.co/SPzgdDA2x4?"
+	},
+	{
+		"created_at": "Mon Nov 19 19:05:03 +0000 2018",
+		"id": 1064595426882568200,
+		"id_str": "1064595426882568194",
+		"full_text": "You have the data, the planning, but still no one knows the class quite like their teacher, writes @MichaelT1979 https://t.co/EGSz1FCjDn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelT1979",
+					"name": "Michael Tidd",
+					"id": 84842105,
+					"id_str": "84842105",
+					"indices": [
+						99,
+						112
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EGSz1FCjDn",
+					"expanded_url": "https://bit.ly/2S2AHgi",
+					"display_url": "bit.ly/2S2AHgi",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78874095,
+			"id_str": "78874095",
+			"name": "Tes",
+			"screen_name": "tes",
+			"location": "UK",
+			"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+			"url": "https://t.co/xsD4MT26vf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xsD4MT26vf",
+							"expanded_url": "http://www.tes.com/news",
+							"display_url": "tes.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260390,
+			"friends_count": 1016,
+			"listed_count": 2522,
+			"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+			"favourites_count": 1517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 81199,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You have the data, the planning, but still no one knows the class quite like their teacher, writes @MichaelT1979 https://t.co/EGSz1FCjDn"
+	},
+	{
+		"created_at": "Mon Nov 19 12:11:00 +0000 2018",
+		"id": 1064491226655789000,
+		"id_str": "1064491226655789056",
+		"full_text": "In case you missed it, here's our #WorldPhilosophyDay reading list of 70 books our philosopher friends think everyone should read before they shuffle off this mortal coil. How many have you read?\nhttps://t.co/SPzgdDA2x4?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPhilosophyDay",
+					"indices": [
+						34,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPzgdDA2x4",
+					"expanded_url": "http://bit.ly/2qUgfmj",
+					"display_url": "bit.ly/2qUgfmj",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 101720224,
+			"id_str": "101720224",
+			"name": "Institute of Art and Ideas",
+			"screen_name": "IAI_TV",
+			"location": "London and Hay-on-Wye",
+			"description": "The IAI brings you ideas to change the world — free, for everyone. Hosts @HTLGIFestival - the world's premier philosophy and music festival.",
+			"url": "https://t.co/ygQx1oluWD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ygQx1oluWD",
+							"expanded_url": "http://www.iai.tv/player",
+							"display_url": "iai.tv/player",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
 			"followers_count": 16465,
 			"friends_count": 2285,
 			"listed_count": 513,
