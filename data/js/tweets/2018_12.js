@@ -523,6 +523,180 @@ Grailbird.data.tweets_2018_12 =
 		"text": "THINKING OF COMING TO OXFORD IN APRIL 2019❓\n\nREMEMBER TO SUBMIT YOUR ABSTRACT BEFORE FEBRUARY 1ST❗️ https://t.co/k5GLvPMlhu"
 	},
 	{
+		"created_at": "Sun Dec 09 18:47:36 +0000 2018",
+		"id": 1071838792657629200,
+		"id_str": "1071838792657629184",
+		"full_text": "THINKING OF COMING TO OXFORD IN APRIL 2019❓\n\nREMEMBER TO SUBMIT YOUR ABSTRACT BEFORE FEBRUARY 1ST❗️ https://t.co/k5GLvPMlhu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1071838783467855900,
+					"id_str": "1071838783467855873",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_vsdkWoAEvia1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_vsdkWoAEvia1.jpg",
+					"url": "https://t.co/k5GLvPMlhu",
+					"display_url": "pic.twitter.com/k5GLvPMlhu",
+					"expanded_url": "https://twitter.com/BritPhilofSport/status/1071838792657629184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 948,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 784,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071838783467855900,
+					"id_str": "1071838783467855873",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt_vsdkWoAEvia1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt_vsdkWoAEvia1.jpg",
+					"url": "https://t.co/k5GLvPMlhu",
+					"display_url": "pic.twitter.com/k5GLvPMlhu",
+					"expanded_url": "https://twitter.com/BritPhilofSport/status/1071838792657629184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 948,
+							"h": 784,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 948,
+							"h": 784,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39467599,
+			"id_str": "39467599",
+			"name": "BritPhilofSport",
+			"screen_name": "BritPhilofSport",
+			"location": "UK",
+			"description": "British Philosophy of Sport Association",
+			"url": "https://t.co/BkgNgWdLhu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BkgNgWdLhu",
+							"expanded_url": "http://www.philosophyofsport.org.uk",
+							"display_url": "philosophyofsport.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 513,
+			"friends_count": 196,
+			"listed_count": 26,
+			"created_at": "Tue May 12 09:37:40 +0000 2009",
+			"favourites_count": 75,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 396,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936599006075084801/3-UNsRli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936599006075084801/3-UNsRli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39467599/1398336125",
+			"profile_link_color": "8E259E",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THINKING OF COMING TO OXFORD IN APRIL 2019❓\n\nREMEMBER TO SUBMIT YOUR ABSTRACT BEFORE FEBRUARY 1ST❗️ https://t.co/k5GLvPMlhu"
+	},
+	{
 		"created_at": "Mon Sep 03 08:29:34 +0000 2018",
 		"id": 1036531637008433200,
 		"id_str": "1036531637008433152",
