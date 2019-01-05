@@ -94,7 +94,7 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 428,
 			"listed_count": 31,
 			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
-			"favourites_count": 2485,
+			"favourites_count": 2487,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
