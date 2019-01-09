@@ -1,6 +1,1390 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 08 19:15:49 +0000 2019",
+		"id": 1082717527380246500,
+		"id_str": "1082717527380246528",
+		"full_text": "@KizelArie Condolences, Arie.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KizelArie",
+					"name": "Dr. Arie Kizel",
+					"id": 1932238772,
+					"id_str": "1932238772",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1082669867466141700,
+		"in_reply_to_status_id_str": "1082669867466141697",
+		"in_reply_to_user_id": 1932238772,
+		"in_reply_to_user_id_str": "1932238772",
+		"in_reply_to_screen_name": "KizelArie",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 430,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1433,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1543693377",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2ee7eeaa84dbe65a",
+			"url": "https://api.twitter.com/1.1/geo/id/2ee7eeaa84dbe65a.json",
+			"place_type": "country",
+			"name": "Greece",
+			"full_name": "Greece",
+			"country_code": "GR",
+			"country": "Greece",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							19.3729582,
+							34.8020213
+						],
+						[
+							29.6447644,
+							34.8020213
+						],
+						[
+							29.6447644,
+							41.7485356
+						],
+						[
+							19.3729582,
+							41.7485356
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KizelArie Condolences, Arie."
+	},
+	{
+		"created_at": "Tue Jan 08 17:24:57 +0000 2019",
+		"id": 1082689629663490000,
+		"id_str": "1082689629663490055",
+		"full_text": "Fun afternoon, chasing the light in between showers of hail, rain &amp; snow. #blackandwhite #monochrome #landscapephotography #landscape #moodyphotography #fujixt2 #xf50mmf2 #fujifilm #seascape https://t.co/8MmXsQEMQL https://t.co/0XU1WuF3tq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blackandwhite",
+					"indices": [
+						78,
+						92
+					]
+				},
+				{
+					"text": "monochrome",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"text": "landscapephotography",
+					"indices": [
+						105,
+						126
+					]
+				},
+				{
+					"text": "landscape",
+					"indices": [
+						127,
+						137
+					]
+				},
+				{
+					"text": "moodyphotography",
+					"indices": [
+						138,
+						155
+					]
+				},
+				{
+					"text": "fujixt2",
+					"indices": [
+						156,
+						164
+					]
+				},
+				{
+					"text": "xf50mmf2",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"text": "fujifilm",
+					"indices": [
+						175,
+						184
+					]
+				},
+				{
+					"text": "seascape",
+					"indices": [
+						185,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8MmXsQEMQL",
+					"expanded_url": "http://bit.ly/2M2ttHm",
+					"display_url": "bit.ly/2M2ttHm",
+					"indices": [
+						195,
+						218
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082689628463870000,
+					"id_str": "1082689628463869953",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ8exKWsAEMNZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ8exKWsAEMNZa.jpg",
+					"url": "https://t.co/0XU1WuF3tq",
+					"display_url": "pic.twitter.com/0XU1WuF3tq",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1082689629663490055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082689628463870000,
+					"id_str": "1082689628463869953",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/DwZ8exKWsAEMNZa.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwZ8exKWsAEMNZa.jpg",
+					"url": "https://t.co/0XU1WuF3tq",
+					"display_url": "pic.twitter.com/0XU1WuF3tq",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1082689629663490055/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68189879,
+			"id_str": "68189879",
+			"name": "Graham",
+			"screen_name": "GraHodgetts",
+			"location": "Crete, Greece",
+			"description": "Wedding Photographer, father, runner, Welsh & a wine lover.",
+			"url": "http://t.co/oAIvPT1SCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oAIvPT1SCT",
+							"expanded_url": "http://www.grahamhodgetts.com",
+							"display_url": "grahamhodgetts.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 277,
+			"listed_count": 32,
+			"created_at": "Sun Aug 23 17:23:38 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954800901604208642/7ib7uIPt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954800901604208642/7ib7uIPt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68189879/1527098228",
+			"profile_link_color": "D1615E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun afternoon, chasing the light in between showers of hail, rain &amp; snow. #blackandwhite #monochrome #landscapephotography #landscape #moodyphotography #fujixt2 #xf50mmf2 #fujifilm #seascape https://t.co/8MmXsQEMQL https://t.co/0XU1WuF3tq"
+	},
+	{
+		"created_at": "Tue Jan 08 13:17:05 +0000 2019",
+		"id": 1082627251689132000,
+		"id_str": "1082627251689132032",
+		"full_text": "Still time to join me for a one day course on Dialogic Teaching in Cheshire next week https://t.co/oexDsOEq1S @diane_swift @knspsite @CheshireDEC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "diane_swift",
+					"name": "Diane Swift",
+					"id": 349866058,
+					"id_str": "349866058",
+					"indices": [
+						110,
+						122
+					]
+				},
+				{
+					"screen_name": "knspsite",
+					"name": "KNSTE ATs",
+					"id": 3091685290,
+					"id_str": "3091685290",
+					"indices": [
+						123,
+						132
+					]
+				},
+				{
+					"screen_name": "CheshireDEC",
+					"name": "Cheshire DEC",
+					"id": 2520832186,
+					"id_str": "2520832186",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oexDsOEq1S",
+					"expanded_url": "https://www.eventbrite.com/e/dialogic-teaching-tickets-51476366197",
+					"display_url": "eventbrite.com/e/dialogic-tea…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418240820,
+			"id_str": "418240820",
+			"name": "Neil Phillipson",
+			"screen_name": "Phillipson70",
+			"location": "Cheshire",
+			"description": "Dialogic Education author and trainer; Philosophy for Children #P4C trainer with @SAPERE_P4C; facilitator of dialogue with @Gen_Global_; associate of @UFAorg",
+			"url": "http://t.co/NWMnAO2VsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NWMnAO2VsA",
+							"expanded_url": "http://21stcenturylearners.org.uk",
+							"display_url": "21stcenturylearners.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1145,
+			"friends_count": 1076,
+			"listed_count": 19,
+			"created_at": "Mon Nov 21 22:52:14 +0000 2011",
+			"favourites_count": 1374,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418240820/1530195477",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still time to join me for a one day course on Dialogic Teaching in Cheshire next week https://t.co/oexDsOEq1S @diane_swift @knspsite @CheshireDEC"
+	},
+	{
+		"created_at": "Mon Jan 07 20:24:59 +0000 2019",
+		"id": 1082372547977642000,
+		"id_str": "1082372547977641990",
+		"full_text": "There is no minimum age for Greek dancing. A secure hug may be necessary. #monochrome #blackandwhite #documentaryweddingphotography #fujixpro2 #xf50mmf2 #weddingdance https://t.co/uWIZke4WQK https://t.co/BxsMMQivgb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "monochrome",
+					"indices": [
+						74,
+						85
+					]
+				},
+				{
+					"text": "blackandwhite",
+					"indices": [
+						86,
+						100
+					]
+				},
+				{
+					"text": "documentaryweddingphotography",
+					"indices": [
+						101,
+						131
+					]
+				},
+				{
+					"text": "fujixpro2",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"text": "xf50mmf2",
+					"indices": [
+						143,
+						152
+					]
+				},
+				{
+					"text": "weddingdance",
+					"indices": [
+						153,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uWIZke4WQK",
+					"expanded_url": "http://bit.ly/2ACdo6B",
+					"display_url": "bit.ly/2ACdo6B",
+					"indices": [
+						167,
+						190
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082372546555772900,
+					"id_str": "1082372546555772934",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVcGLAXgAYqiQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVcGLAXgAYqiQC.jpg",
+					"url": "https://t.co/BxsMMQivgb",
+					"display_url": "pic.twitter.com/BxsMMQivgb",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1082372547977641990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082372546555772900,
+					"id_str": "1082372546555772934",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/DwVcGLAXgAYqiQC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwVcGLAXgAYqiQC.jpg",
+					"url": "https://t.co/BxsMMQivgb",
+					"display_url": "pic.twitter.com/BxsMMQivgb",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1082372547977641990/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 426,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68189879,
+			"id_str": "68189879",
+			"name": "Graham",
+			"screen_name": "GraHodgetts",
+			"location": "Crete, Greece",
+			"description": "Wedding Photographer, father, runner, Welsh & a wine lover.",
+			"url": "http://t.co/oAIvPT1SCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/oAIvPT1SCT",
+							"expanded_url": "http://www.grahamhodgetts.com",
+							"display_url": "grahamhodgetts.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 220,
+			"friends_count": 277,
+			"listed_count": 32,
+			"created_at": "Sun Aug 23 17:23:38 +0000 2009",
+			"favourites_count": 424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4520,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954800901604208642/7ib7uIPt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954800901604208642/7ib7uIPt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68189879/1527098228",
+			"profile_link_color": "D1615E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There is no minimum age for Greek dancing. A secure hug may be necessary. #monochrome #blackandwhite #documentaryweddingphotography #fujixpro2 #xf50mmf2 #weddingdance https://t.co/uWIZke4WQK https://t.co/BxsMMQivgb"
+	},
+	{
+		"created_at": "Mon Jan 07 18:08:03 +0000 2019",
+		"id": 1082338088272175100,
+		"id_str": "1082338088272175104",
+		"full_text": "Join us on Jan 25th for the launch of @the_if_man’s new book on Questioning https://t.co/Y6okDel9FG  'the concept of open questioning mindset is a remarkable contribution. With it Peter has matched the much more famous pedagogical contribution, “growth mindset”, of Carol Dweck' https://t.co/PP714o1uY9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "the_if_man",
+					"name": "Peter Worley",
+					"id": 301469692,
+					"id_str": "301469692",
+					"indices": [
+						38,
+						49
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y6okDel9FG",
+					"expanded_url": "https://buff.ly/2QDaVCV",
+					"display_url": "buff.ly/2QDaVCV",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1082338086506369000,
+					"id_str": "1082338086506369025",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DwU8wVUWkAE26Ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwU8wVUWkAE26Ai.jpg",
+					"url": "https://t.co/PP714o1uY9",
+					"display_url": "pic.twitter.com/PP714o1uY9",
+					"expanded_url": "https://twitter.com/philosophyfound/status/1082338088272175104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1082338086506369000,
+					"id_str": "1082338086506369025",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/DwU8wVUWkAE26Ai.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwU8wVUWkAE26Ai.jpg",
+					"url": "https://t.co/PP714o1uY9",
+					"display_url": "pic.twitter.com/PP714o1uY9",
+					"expanded_url": "https://twitter.com/philosophyfound/status/1082338088272175104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 420,
+							"h": 645,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22465973,
+			"id_str": "22465973",
+			"name": "PhilosophyFoundation",
+			"screen_name": "philosophyfound",
+			"location": "London",
+			"description": "We are an award winning charity that brings philosophy to schools, business and the public sphere. Thinking changes.",
+			"url": "https://t.co/wdhCdithoG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wdhCdithoG",
+							"expanded_url": "http://www.philosophy-foundation.org",
+							"display_url": "philosophy-foundation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24729,
+			"friends_count": 1948,
+			"listed_count": 506,
+			"created_at": "Mon Mar 02 08:28:02 +0000 2009",
+			"favourites_count": 1039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7340,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743742436904558592/nN1YxUay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743742436904558592/nN1YxUay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22465973/1467727600",
+			"profile_link_color": "88D0C8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us on Jan 25th for the launch of @the_if_man’s new book on Questioning https://t.co/Y6okDel9FG  'the concept of open questioning mindset is a remarkable contribution. With it Peter has matched the much more famous pedagogical contribution, “growth mindset”, of Carol Dweck' https://t.co/PP714o1uY9"
+	},
+	{
+		"created_at": "Mon Jan 07 19:50:45 +0000 2019",
+		"id": 1082363931941916700,
+		"id_str": "1082363931941916674",
+		"full_text": "Ha! Sense and nonsense https://t.co/h1XbAlzXYb via @prospect_uk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "prospect_uk",
+					"name": "Prospect Magazine",
+					"id": 21417687,
+					"id_str": "21417687",
+					"indices": [
+						51,
+						63
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/h1XbAlzXYb",
+					"expanded_url": "https://www.prospectmagazine.co.uk/magazine/bryan-magee-profundity-obscurity-bad-writing",
+					"display_url": "prospectmagazine.co.uk/magazine/bryan…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 430,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1433,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/845737136401907714/bnW_nPGo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1543693377",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ha! Sense and nonsense https://t.co/h1XbAlzXYb via @prospect_uk"
+	},
+	{
+		"created_at": "Wed Dec 19 13:22:39 +0000 2018",
+		"id": 1075380895836749800,
+		"id_str": "1075380895836749824",
+		"full_text": "Want to use #P4C in #maths? Our one-day workshops in March and June will be full of ideas and resources for #PrimaryMaths and #SecondaryMaths. Find out more and register your interest on our website #MathsCPD #philosophyforchildren\nhttps://t.co/DrwbxwbHtm https://t.co/A4QTF1yWNH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "P4C",
+					"indices": [
+						12,
+						16
+					]
+				},
+				{
+					"text": "maths",
+					"indices": [
+						20,
+						26
+					]
+				},
+				{
+					"text": "PrimaryMaths",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"text": "SecondaryMaths",
+					"indices": [
+						126,
+						141
+					]
+				},
+				{
+					"text": "MathsCPD",
+					"indices": [
+						199,
+						208
+					]
+				},
+				{
+					"text": "philosophyforchildren",
+					"indices": [
+						209,
+						231
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DrwbxwbHtm",
+					"expanded_url": "http://ow.ly/23QA30n2KXV",
+					"display_url": "ow.ly/23QA30n2KXV",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1075380890346373100,
+					"id_str": "1075380890346373125",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuyFON9WwAUlkv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuyFON9WwAUlkv0.jpg",
+					"url": "https://t.co/A4QTF1yWNH",
+					"display_url": "pic.twitter.com/A4QTF1yWNH",
+					"expanded_url": "https://twitter.com/SAPERE_P4C/status/1075380895836749824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1075380890346373100,
+					"id_str": "1075380890346373125",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/DuyFON9WwAUlkv0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuyFON9WwAUlkv0.jpg",
+					"url": "https://t.co/A4QTF1yWNH",
+					"display_url": "pic.twitter.com/A4QTF1yWNH",
+					"expanded_url": "https://twitter.com/SAPERE_P4C/status/1075380895836749824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 296392522,
+			"id_str": "296392522",
+			"name": "SAPERE P4C",
+			"screen_name": "SAPERE_P4C",
+			"location": "United Kingdom",
+			"description": "SAPERE is the national charity supporting Philosophy for Children in the UK. We provide #P4C training, including INSETs, support, resources and advice.",
+			"url": "http://t.co/kvp0FHMx7J",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/kvp0FHMx7J",
+							"expanded_url": "http://www.sapere.org.uk",
+							"display_url": "sapere.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5587,
+			"friends_count": 5748,
+			"listed_count": 116,
+			"created_at": "Tue May 10 17:44:50 +0000 2011",
+			"favourites_count": 3888,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6781,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459432586419253248/YKWAWKGJ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459432586419253248/YKWAWKGJ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/296392522/1536665024",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Want to use #P4C in #maths? Our one-day workshops in March and June will be full of ideas and resources for #PrimaryMaths and #SecondaryMaths. Find out more and register your interest on our website #MathsCPD #philosophyforchildren\nhttps://t.co/DrwbxwbHtm https://t.co/A4QTF1yWNH"
+	},
+	{
+		"created_at": "Mon Jan 07 18:15:13 +0000 2019",
+		"id": 1082339890950488000,
+		"id_str": "1082339890950488064",
+		"full_text": "P4C Level one completed at Troedyrhiw Primary in Merthyr. Another group of enthusiastic teachers committed to P4C. Love my work!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 193436931,
+			"id_str": "193436931",
+			"name": "Sue Lyle",
+			"screen_name": "P4Cdialogue",
+			"location": "Swansea, Wales, UK",
+			"description": "Educator of children & teacher trainer 43years. Director of Dialogue Exchange. Trainer, Researcher, writer: P4C; Storytelling; Narrative Understanding; UNCRC;",
+			"url": "https://t.co/IZcYw3cH3W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IZcYw3cH3W",
+							"expanded_url": "http://dialogue-exchange.co.uk",
+							"display_url": "dialogue-exchange.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 818,
+			"listed_count": 33,
+			"created_at": "Tue Sep 21 20:26:19 +0000 2010",
+			"favourites_count": 844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5160,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/726655796692414464/HsJHh6NR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/726655796692414464/HsJHh6NR_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "P4C Level one completed at Troedyrhiw Primary in Merthyr. Another group of enthusiastic teachers committed to P4C. Love my work!"
+	},
+	{
 		"created_at": "Mon Jan 07 18:08:03 +0000 2019",
 		"id": 1082338088272175100,
 		"id_str": "1082338088272175104",
