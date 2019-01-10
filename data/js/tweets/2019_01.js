@@ -1,6 +1,1180 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Sep 21 19:06:06 +0000 2018",
+		"id": 1043214805337759700,
+		"id_str": "1043214805337759744",
+		"full_text": "Inside the Book Maker’s Studio #areporteratlarge https://t.co/LXhCEwFCPJ via @newyorker",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "areporteratlarge",
+					"indices": [
+						31,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NewYorker",
+					"name": "The New Yorker",
+					"id": 14677919,
+					"id_str": "14677919",
+					"indices": [
+						77,
+						87
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LXhCEwFCPJ",
+					"expanded_url": "http://video.newyorker.com/watch/lets-make-a-book-of-this",
+					"display_url": "video.newyorker.com/watch/lets-mak…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136985131,
+			"id_str": "136985131",
+			"name": "Eirini Linardaki",
+			"screen_name": "linarisot",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/9SN7lgyPSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9SN7lgyPSJ",
+							"expanded_url": "http://linardakiparisot.wixsite.com/linardaki-parisot",
+							"display_url": "linardakiparisot.wixsite.com/linardaki-pari…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47,
+			"friends_count": 285,
+			"listed_count": 0,
+			"created_at": "Sun Apr 25 13:07:21 +0000 2010",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61,
+			"lang": "fr",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880545809749684224/3NI_pJcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880545809749684224/3NI_pJcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136985131/1498773407",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inside the Book Maker’s Studio #areporteratlarge https://t.co/LXhCEwFCPJ via @newyorker"
+	},
+	{
+		"created_at": "Tue Jan 08 06:42:01 +0000 2019",
+		"id": 1082527828749549600,
+		"id_str": "1082527828749549568",
+		"full_text": "Does your questioning support pupil progress? Use our sketchnote to plan for the questions your pupils need. https://t.co/fcC1CaW9iD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 924180601137135600,
+					"id_str": "924180601137135621",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DNNZXDcWAAUklsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNNZXDcWAAUklsq.jpg",
+					"url": "https://t.co/fcC1CaW9iD",
+					"display_url": "pic.twitter.com/fcC1CaW9iD",
+					"expanded_url": "https://twitter.com/ImpactWales/status/924180609089658880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 924180609089658900,
+					"source_status_id_str": "924180609089658880",
+					"source_user_id": 3315627233,
+					"source_user_id_str": "3315627233"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 924180601137135600,
+					"id_str": "924180601137135621",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/DNNZXDcWAAUklsq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DNNZXDcWAAUklsq.jpg",
+					"url": "https://t.co/fcC1CaW9iD",
+					"display_url": "pic.twitter.com/fcC1CaW9iD",
+					"expanded_url": "https://twitter.com/ImpactWales/status/924180609089658880/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 924180609089658900,
+					"source_status_id_str": "924180609089658880",
+					"source_user_id": 3315627233,
+					"source_user_id_str": "3315627233"
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3315627233,
+			"id_str": "3315627233",
+			"name": "Impact",
+			"screen_name": "ImpactWales",
+			"location": "Wales, United Kingdom",
+			"description": "Providing support to schools that has real impact",
+			"url": "https://t.co/thZen6AEjD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/thZen6AEjD",
+							"expanded_url": "http://www.impact.wales",
+							"display_url": "impact.wales",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19199,
+			"friends_count": 3537,
+			"listed_count": 278,
+			"created_at": "Tue Jun 09 19:05:36 +0000 2015",
+			"favourites_count": 15288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25171,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080452499235053568/k2D25hwQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080452499235053568/k2D25hwQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3315627233/1546434909",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 84,
+		"favorite_count": 142,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Does your questioning support pupil progress? Use our sketchnote to plan for the questions your pupils need. https://t.co/fcC1CaW9iD"
+	},
+	{
+		"created_at": "Tue Jan 08 17:06:13 +0000 2019",
+		"id": 1082684912111706100,
+		"id_str": "1082684912111706113",
+		"full_text": "We Are, Where We Are: Spatial Cognition Shapes Our Self-Hood\n\nScientists are exploring how enclosed versus open spaces affect human cognition (h/t ⁦@marksstorm⁩)  https://t.co/M9EUvkPaf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marksstorm",
+					"name": "Mark Storm",
+					"id": 38185929,
+					"id_str": "38185929",
+					"indices": [
+						148,
+						159
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M9EUvkPaf6",
+					"expanded_url": "https://www.psychologytoday.com/us/blog/the-athletes-way/201605/we-are-where-we-are-spatial-cognition-shapes-our-self-hood",
+					"display_url": "psychologytoday.com/us/blog/the-at…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147637306,
+			"id_str": "147637306",
+			"name": "Anita Leirfall",
+			"screen_name": "anitaleirfall",
+			"location": "Oslo & Bergen, Norway",
+			"description": "Associate Professor, Department of Philosophy, University of Bergen @UiB_philosophy @UiB",
+			"url": "https://t.co/IkygNVOrPI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IkygNVOrPI",
+							"expanded_url": "http://www.uib.no/persons/Anita.Leirfall",
+							"display_url": "uib.no/persons/Anita.…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11490,
+			"friends_count": 2287,
+			"listed_count": 469,
+			"created_at": "Mon May 24 17:11:32 +0000 2010",
+			"favourites_count": 75678,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61363,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147637306/1497385916",
+			"profile_link_color": "002FFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We Are, Where We Are: Spatial Cognition Shapes Our Self-Hood\n\nScientists are exploring how enclosed versus open spaces affect human cognition (h/t ⁦@marksstorm⁩)  https://t.co/M9EUvkPaf6"
+	},
+	{
+		"created_at": "Wed Jan 09 15:10:18 +0000 2019",
+		"id": 1083018132405579800,
+		"id_str": "1083018132405579776",
+		"full_text": "The secret in education lies in respecting the student.\n ~ Ralph Waldo Emerson\n\n#education #edchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "education",
+					"indices": [
+						80,
+						90
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						91,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20929608,
+			"id_str": "20929608",
+			"name": "R Graham Oliver",
+			"screen_name": "rgrahamoliver",
+			"location": "Motueka, New Zealand",
+			"description": "\"Education - as if our lives depended on it\". The philosophy of education for a worthwhile life; based on our equal intrinsic value as persons. Let's talk!",
+			"url": "https://t.co/vn9sHSmrVp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vn9sHSmrVp",
+							"expanded_url": "http://whatiseducationhq.com",
+							"display_url": "whatiseducationhq.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 3217,
+			"listed_count": 12,
+			"created_at": "Sun Feb 15 19:15:38 +0000 2009",
+			"favourites_count": 575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3048,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076249702188777472/PHIbA2ml_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076249702188777472/PHIbA2ml_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20929608/1406599342",
+			"profile_link_color": "660066",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CCFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The secret in education lies in respecting the student.\n ~ Ralph Waldo Emerson\n\n#education #edchat"
+	},
+	{
+		"created_at": "Wed Jan 09 14:42:43 +0000 2019",
+		"id": 1083011187615453200,
+		"id_str": "1083011187615453184",
+		"full_text": "The Case for More Science and Philosophy Books for Children https://t.co/gq3clwHpu9 via @NautilusMag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NautilusMag",
+					"name": "Nautilus",
+					"id": 485109912,
+					"id_str": "485109912",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gq3clwHpu9",
+					"expanded_url": "http://nautil.us/blog/-the-case-for-more-science-and-philosophy-books-for-children",
+					"display_url": "nautil.us/blog/-the-case…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 432,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547061664",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Case for More Science and Philosophy Books for Children https://t.co/gq3clwHpu9 via @NautilusMag"
+	},
+	{
+		"created_at": "Tue Jan 08 16:21:30 +0000 2019",
+		"id": 1082673661293793300,
+		"id_str": "1082673661293793281",
+		"full_text": "Semester \"icebreaker\" Tip:\n\nAsk your students to share the kindest thing any teacher has ever said to them.\n\nIt's my favorite way to start a semester -- curating a community bonded by kindness.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923893094810079200,
+			"id_str": "923893094810079232",
+			"name": "Karen Moroski, PhD",
+			"screen_name": "MillennialProf_",
+			"location": "State College, PA",
+			"description": "Writing Center Coordinator & Asst. Teaching Prof of English @PennState. (Tweets = mine.) Researches affect, trauma, and writing studies. Queer and nonbinary.",
+			"url": "https://t.co/EqEQC5zr1E",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EqEQC5zr1E",
+							"expanded_url": "http://bit.ly/WriteCenteredBlog",
+							"display_url": "bit.ly/WriteCenteredB…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7920,
+			"friends_count": 2714,
+			"listed_count": 40,
+			"created_at": "Fri Oct 27 12:44:13 +0000 2017",
+			"favourites_count": 14053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6609,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1020820155486613514/kPrJHMgg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1020820155486613514/kPrJHMgg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923893094810079232/1509116187",
+			"profile_link_color": "380B61",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 501,
+		"favorite_count": 2654,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Semester \"icebreaker\" Tip:\n\nAsk your students to share the kindest thing any teacher has ever said to them.\n\nIt's my favorite way to start a semester -- curating a community bonded by kindness."
+	},
+	{
+		"created_at": "Tue Jan 08 13:04:45 +0000 2019",
+		"id": 1082624147644125200,
+		"id_str": "1082624147644125186",
+		"full_text": "\"Intellectual property is the asset of the future economy, of the future enterprise\". #IPvalue https://t.co/IK7pGpSvqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IPvalue",
+					"indices": [
+						86,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1041599692268863500,
+					"id_str": "1041599692268863489",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DnSDGFIW4AEpYKC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnSDGFIW4AEpYKC.jpg",
+					"url": "https://t.co/IK7pGpSvqi",
+					"display_url": "pic.twitter.com/IK7pGpSvqi",
+					"expanded_url": "https://twitter.com/EU_IPO/status/1082624147644125186/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1041599692268863500,
+					"id_str": "1041599692268863489",
+					"indices": [
+						95,
+						118
+					],
+					"media_url": "http://pbs.twimg.com/media/DnSDGFIW4AEpYKC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DnSDGFIW4AEpYKC.jpg",
+					"url": "https://t.co/IK7pGpSvqi",
+					"display_url": "pic.twitter.com/IK7pGpSvqi",
+					"expanded_url": "https://twitter.com/EU_IPO/status/1082624147644125186/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 45679,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1041599692268863489/pu/vid/320x180/0rz4jgSdCyIVEzzo.mp4?tag=5"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1041599692268863489/pu/vid/1280x720/mzsChJM7sEizwHqN.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1041599692268863489/pu/pl/_D3C1kk1K4_qHQ-3.m3u8?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1041599692268863489/pu/vid/640x360/Emq5EKZggzLt5LgZ.mp4?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 70650192,
+			"id_str": "70650192",
+			"name": "EUIPO",
+			"screen_name": "EU_IPO",
+			"location": "Alicante",
+			"description": "European Union Intellectual Property Office. Protecting trade marks and designs in the EU. Hosting the European Observatory on Infringements of IP Rights.",
+			"url": "https://t.co/KLDEGYVXwS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KLDEGYVXwS",
+							"expanded_url": "http://euipo.europa.eu",
+							"display_url": "euipo.europa.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21106,
+			"friends_count": 478,
+			"listed_count": 496,
+			"created_at": "Tue Sep 01 10:41:32 +0000 2009",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6019,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/712411148092612610/p_Jt-gdI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/712411148092612610/p_Jt-gdI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70650192/1543853089",
+			"profile_link_color": "024DA1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Intellectual property is the asset of the future economy, of the future enterprise\". #IPvalue https://t.co/IK7pGpSvqi"
+	},
+	{
+		"created_at": "Wed Jan 09 03:56:48 +0000 2019",
+		"id": 1082848638253043700,
+		"id_str": "1082848638253043712",
+		"full_text": "Exclusive: End exam tricks and willy-nilly off-rolling, heads told  https://t.co/NTP3N8QbfZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NTP3N8QbfZ",
+					"expanded_url": "https://www.tes.com/news/exclusive-end-exam-tricks-and-willy-nilly-rolling-heads-told",
+					"display_url": "tes.com/news/exclusive…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 432,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547061664",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exclusive: End exam tricks and willy-nilly off-rolling, heads told  https://t.co/NTP3N8QbfZ"
+	},
+	{
+		"created_at": "Wed Jan 09 03:44:17 +0000 2019",
+		"id": 1082845488297185300,
+		"id_str": "1082845488297185280",
+		"full_text": "Why GCSE English language needs a reboot https://t.co/cSsUUMnMsw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cSsUUMnMsw",
+					"expanded_url": "https://www.tes.com/news/why-gcse-english-language-needs-reboot",
+					"display_url": "tes.com/news/why-gcse-…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 432,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1442,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547061664",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why GCSE English language needs a reboot https://t.co/cSsUUMnMsw"
+	},
+	{
 		"created_at": "Tue Jan 08 19:15:49 +0000 2019",
 		"id": 1082717527380246500,
 		"id_str": "1082717527380246528",
