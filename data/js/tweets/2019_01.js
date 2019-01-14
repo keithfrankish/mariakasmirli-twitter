@@ -1,6 +1,889 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 22:19:42 +0000 2019",
+		"id": 1083126193883410400,
+		"id_str": "1084447454664318976",
+		"full_text": "The teacher asked the students to finish the sentence “I wish my teacher knew...” https://t.co/uAyEmvnezI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083126189516939300,
+					"id_str": "1083126189516939264",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DwgJh90UYAAKPfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwgJh90UYAAKPfe.jpg",
+					"url": "https://t.co/uAyEmvnezI",
+					"display_url": "pic.twitter.com/uAyEmvnezI",
+					"expanded_url": "https://twitter.com/AishaThinker/status/1083126193883410433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083126189516939300,
+					"id_str": "1083126189516939264",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/DwgJh90UYAAKPfe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwgJh90UYAAKPfe.jpg",
+					"url": "https://t.co/uAyEmvnezI",
+					"display_url": "pic.twitter.com/uAyEmvnezI",
+					"expanded_url": "https://twitter.com/AishaThinker/status/1083126193883410433/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 641,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 707,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 234856285,
+			"id_str": "234856285",
+			"name": "Aisha Alexander",
+			"screen_name": "AishaThinker",
+			"location": "Maryland",
+			"description": "Daughter of the dust. Womanist. Revolutionary Philanthropist. Bidialectal. @DreamDefenders Representa. Racial equity & strategy @MeyerFoundation. My tweets.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6040,
+			"friends_count": 2083,
+			"listed_count": 118,
+			"created_at": "Thu Jan 06 18:59:28 +0000 2011",
+			"favourites_count": 16021,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29599,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1082282108385718273/X6MQHUKK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1082282108385718273/X6MQHUKK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/234856285/1526315077",
+			"profile_link_color": "41405C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18757,
+		"favorite_count": 59001,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The teacher asked the students to finish the sentence “I wish my teacher knew...” https://t.co/uAyEmvnezI"
+	},
+	{
+		"created_at": "Sat Jan 12 22:41:07 +0000 2019",
+		"id": 1084218747429310500,
+		"id_str": "1084415600175341568",
+		"full_text": "\"What is wanted is not the will-to-believe, but the wish to find out, which is the exact opposite\" Bertrand Russell #quote @gerdunne71 @philosophyire https://t.co/ttbeQzdVhV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "quote",
+					"indices": [
+						116,
+						122
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gerdunne71",
+					"name": "Gerry",
+					"id": 3248116287,
+					"id_str": "3248116287",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "philosophyire",
+					"name": "Philosophy Ireland",
+					"id": 4708865541,
+					"id_str": "4708865541",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084218739514658800,
+					"id_str": "1084218739514658818",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DwvrMvuX0AIN5Vj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwvrMvuX0AIN5Vj.jpg",
+					"url": "https://t.co/ttbeQzdVhV",
+					"display_url": "pic.twitter.com/ttbeQzdVhV",
+					"expanded_url": "https://twitter.com/emmaefarrell/status/1084218747429310464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 1385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084218739514658800,
+					"id_str": "1084218739514658818",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/DwvrMvuX0AIN5Vj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DwvrMvuX0AIN5Vj.jpg",
+					"url": "https://t.co/ttbeQzdVhV",
+					"display_url": "pic.twitter.com/ttbeQzdVhV",
+					"expanded_url": "https://twitter.com/emmaefarrell/status/1084218747429310464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 869,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 492,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 1385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2450477073,
+			"id_str": "2450477073",
+			"name": "Dr Emma Farrell",
+			"screen_name": "emmaefarrell",
+			"location": "Dublin via Wexford",
+			"description": "Post-doctoral Research Fellow @CSLstudyUCD. Visiting Research Fellow @SchoolofEdTCD. Council Member @GaisceAward. Lover of all things outdoors. Opinions my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 485,
+			"listed_count": 21,
+			"created_at": "Mon Mar 31 19:02:02 +0000 2014",
+			"favourites_count": 2821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2043,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071471047151624192/sBGhxrO9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071471047151624192/sBGhxrO9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2450477073/1540762289",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What is wanted is not the will-to-believe, but the wish to find out, which is the exact opposite\" Bertrand Russell #quote @gerdunne71 @philosophyire https://t.co/ttbeQzdVhV"
+	},
+	{
+		"created_at": "Sat Jan 12 15:50:35 +0000 2019",
+		"id": 1084115431575687200,
+		"id_str": "1084412220786831361",
+		"full_text": "Join us to celebrate the launch of this book @TeatuliaUK in Covent Garden on Jan 25th at 7pm: free tea cocktails (or other drink of your choice), nibbles and questioning conversations: https://t.co/e07Wp6QusW #edchat #P4C https://t.co/jYfZfOLRND",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						209,
+						216
+					]
+				},
+				{
+					"text": "P4C",
+					"indices": [
+						217,
+						221
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeatuliaUK",
+					"name": "Teatulia",
+					"id": 1050337543428984800,
+					"id_str": "1050337543428984833",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/e07Wp6QusW",
+					"expanded_url": "https://www.eventbrite.co.uk/e/question-your-questioning-book-launch-tickets-53851330780",
+					"display_url": "eventbrite.co.uk/e/question-you…",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/jYfZfOLRND",
+					"expanded_url": "https://twitter.com/the_if_man/status/1083341187682045952",
+					"display_url": "twitter.com/the_if_man/sta…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22465973,
+			"id_str": "22465973",
+			"name": "PhilosophyFoundation",
+			"screen_name": "philosophyfound",
+			"location": "London",
+			"description": "We are an award winning charity that brings philosophy to schools, business and the public sphere. Thinking changes.",
+			"url": "https://t.co/wdhCdithoG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wdhCdithoG",
+							"expanded_url": "http://www.philosophy-foundation.org",
+							"display_url": "philosophy-foundation.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24790,
+			"friends_count": 1955,
+			"listed_count": 509,
+			"created_at": "Mon Mar 02 08:28:02 +0000 2009",
+			"favourites_count": 1050,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/743742436904558592/nN1YxUay_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/743742436904558592/nN1YxUay_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22465973/1467727600",
+			"profile_link_color": "88D0C8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083341187682046000,
+		"quoted_status_id_str": "1083341187682045952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jYfZfOLRND",
+			"expanded": "https://twitter.com/the_if_man/status/1083341187682045952",
+			"display": "twitter.com/the_if_man/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 10 12:34:01 +0000 2019",
+			"id": 1083341187682046000,
+			"id_str": "1083341187682045952",
+			"full_text": "My book 'Questioning for Primary Teachers' is out TODAY. Not just a collection of questioning strategies; a complete questioning pedagogy to help teachers create 'questioning classrooms', something I hope you'll agree we need many more of. https://t.co/9TadTiaCo3 #edutwitter #p4c",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "edutwitter",
+						"indices": [
+							264,
+							275
+						]
+					},
+					{
+						"text": "p4c",
+						"indices": [
+							276,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9TadTiaCo3",
+						"expanded_url": "https://www.amazon.co.uk/dp/1472957415",
+						"display_url": "amazon.co.uk/dp/1472957415",
+						"indices": [
+							240,
+							263
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 301469692,
+				"id_str": "301469692",
+				"name": "Peter Worley",
+				"screen_name": "the_if_man",
+				"location": "London, UK",
+				"description": "Dad, author, editor, CEO @philosophyfound, VRA at KCL. Anything I say in a tweet is provisional: open to criticism or correction.",
+				"url": "http://t.co/uAlyjNgzfd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/uAlyjNgzfd",
+								"expanded_url": "http://www.philosophy-foundation.org",
+								"display_url": "philosophy-foundation.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2409,
+				"friends_count": 843,
+				"listed_count": 110,
+				"created_at": "Thu May 19 14:37:04 +0000 2011",
+				"favourites_count": 2438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4275,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/442594042535092224/H_Gx5ICJ_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/442594042535092224/H_Gx5ICJ_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/301469692/1414181810",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us to celebrate the launch of this book @TeatuliaUK in Covent Garden on Jan 25th at 7pm: free tea cocktails (or other drink of your choice), nibbles and questioning conversations: https://t.co/e07Wp6QusW #edchat #P4C https://t.co/jYfZfOLRND"
+	},
+	{
+		"created_at": "Wed Jun 20 12:20:30 +0000 2018",
+		"id": 1009410660395094000,
+		"id_str": "1084411688143806465",
+		"full_text": "A short opinion piece for @TheGardianNews on why do philosophy in schools with a link to some more substantial pieces in @JournalP4C https://t.co/IMNirHHlSo @philosophyfound @philosophybites",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheGardianNews",
+					"name": "The Gaurdian",
+					"id": 903147446133555200,
+					"id_str": "903147446133555200",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "JournalP4C",
+					"name": "JPS",
+					"id": 2415196886,
+					"id_str": "2415196886",
+					"indices": [
+						121,
+						132
+					]
+				},
+				{
+					"screen_name": "philosophyfound",
+					"name": "PhilosophyFoundation",
+					"id": 22465973,
+					"id_str": "22465973",
+					"indices": [
+						157,
+						173
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						174,
+						190
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IMNirHHlSo",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2018/jun/20/school-british-pupils-philosophy",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 301469692,
+			"id_str": "301469692",
+			"name": "Peter Worley",
+			"screen_name": "the_if_man",
+			"location": "London, UK",
+			"description": "Dad, author, editor, CEO @philosophyfound, VRA at KCL. Anything I say in a tweet is provisional: open to criticism or correction.",
+			"url": "http://t.co/uAlyjNgzfd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uAlyjNgzfd",
+							"expanded_url": "http://www.philosophy-foundation.org",
+							"display_url": "philosophy-foundation.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2409,
+			"friends_count": 843,
+			"listed_count": 110,
+			"created_at": "Thu May 19 14:37:04 +0000 2011",
+			"favourites_count": 2438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442594042535092224/H_Gx5ICJ_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442594042535092224/H_Gx5ICJ_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/301469692/1414181810",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 51,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A short opinion piece for @TheGardianNews on why do philosophy in schools with a link to some more substantial pieces in @JournalP4C https://t.co/IMNirHHlSo @philosophyfound @philosophybites"
+	},
+	{
+		"created_at": "Sun Jan 13 10:26:30 +0000 2019",
+		"id": 1084396260289888300,
+		"id_str": "1084396260289888257",
+		"full_text": "Intellectual humility: the importance of knowing you might be wrong https://t.co/Z16oB3Nsql via @voxdotcom",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "voxdotcom",
+					"name": "Vox",
+					"id": 2347049341,
+					"id_str": "2347049341",
+					"indices": [
+						96,
+						106
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z16oB3Nsql",
+					"expanded_url": "https://www.vox.com/science-and-health/2019/1/4/17989224/intellectual-humility-explained-psychology-replication?utm_campaign=vox&utm_content=entry&utm_medium=social&utm_source=twitter",
+					"display_url": "vox.com/science-and-he…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 576,
+			"friends_count": 434,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2536,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1448,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547158349",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Intellectual humility: the importance of knowing you might be wrong https://t.co/Z16oB3Nsql via @voxdotcom"
+	},
+	{
 		"created_at": "Fri Sep 21 19:06:06 +0000 2018",
 		"id": 1043214805337759700,
 		"id_str": "1083024129400492033",
@@ -3161,7 +4044,7 @@ Grailbird.data.tweets_2019_01 =
 			"name": "👻 RAMSKY 👻",
 			"screen_name": "RRRamsky",
 			"location": "",
-			"description": "she/her ♀️🏳️‍🌈 Rowyn • Ramsky ■ not-that-kind-of-ghost-writer ■  2018 #PITCHWARS MENTEE! ■ Author of What Happened to 143 - seeking rep ■",
+			"description": "she/her ♀️🏳️🌈 Rowyn • Ramsky ■ not-that-kind-of-ghost-writer ■  2018 #PITCHWARS MENTEE! ■ Author of What Happened to 143 - seeking rep ■",
 			"url": "https://t.co/E59X0Uta74",
 			"entities": {
 				"url": {
