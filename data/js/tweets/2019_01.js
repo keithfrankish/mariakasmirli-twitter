@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Mon Jan 14 13:57:34 +0000 2019",
+		"id": 1084811766813679600,
+		"id_str": "1084848918914056192",
+		"full_text": "Happy World Logic Day!\n\nA logician's wife is having a baby.\nThe doctor immediately hands the newborn to the dad.\nThe wife: \"Is it a boy or a girl?\"\nThe logician: \"Yes.\"\n\n#worldlogicday #logicday #logic #14January https://t.co/9z10nlkAIa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "worldlogicday",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"text": "logicday",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "logic",
+					"indices": [
+						195,
+						201
+					]
+				},
+				{
+					"text": "14January",
+					"indices": [
+						202,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1084811470960033800,
+					"id_str": "1084811470960033793",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4GSQbXgAEGMPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4GSQbXgAEGMPT.jpg",
+					"url": "https://t.co/9z10nlkAIa",
+					"display_url": "pic.twitter.com/9z10nlkAIa",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1084811766813679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1084811470960033800,
+					"id_str": "1084811470960033793",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw4GSQbXgAEGMPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw4GSQbXgAEGMPT.jpg",
+					"url": "https://t.co/9z10nlkAIa",
+					"display_url": "pic.twitter.com/9z10nlkAIa",
+					"expanded_url": "https://twitter.com/EthicsInBricks/status/1084811766813679616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1039,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 879713840119861200,
+			"id_str": "879713840119861249",
+			"name": "Ethics in Bricks",
+			"screen_name": "EthicsInBricks",
+			"location": "Brick Lane",
+			"description": "Moral minifigures.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10527,
+			"friends_count": 99,
+			"listed_count": 101,
+			"created_at": "Tue Jun 27 14:51:38 +0000 2017",
+			"favourites_count": 3248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1215,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/942105969370247168/-Q8TF01e_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/942105969370247168/-Q8TF01e_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/879713840119861249/1536941545",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 281,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy World Logic Day!\n\nA logician's wife is having a baby.\nThe doctor immediately hands the newborn to the dad.\nThe wife: \"Is it a boy or a girl?\"\nThe logician: \"Yes.\"\n\n#worldlogicday #logicday #logic #14January https://t.co/9z10nlkAIa"
+	},
+	{
 		"created_at": "Wed Jan 09 22:19:42 +0000 2019",
 		"id": 1083126193883410400,
 		"id_str": "1084447454664318976",
