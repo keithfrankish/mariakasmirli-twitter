@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 15 19:42:53 +0000 2019",
+		"id": 1085261056472174600,
+		"id_str": "1085261056472174592",
+		"full_text": "https://t.co/Yc6pA0zU6v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085261005138128900,
+					"id_str": "1085261005138128897",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-fIlvXcAEc4GB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-fIlvXcAEc4GB.jpg",
+					"url": "https://t.co/Yc6pA0zU6v",
+					"display_url": "pic.twitter.com/Yc6pA0zU6v",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1085261056472174592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085261005138128900,
+					"id_str": "1085261005138128897",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/Dw-fIlvXcAEc4GB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dw-fIlvXcAEc4GB.jpg",
+					"url": "https://t.co/Yc6pA0zU6v",
+					"display_url": "pic.twitter.com/Yc6pA0zU6v",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1085261056472174592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 577,
+			"friends_count": 434,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1450,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547567920",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2ee7eeaa84dbe65a",
+			"url": "https://api.twitter.com/1.1/geo/id/2ee7eeaa84dbe65a.json",
+			"place_type": "country",
+			"name": "Greece",
+			"full_name": "Greece",
+			"country_code": "GR",
+			"country": "Greece",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							19.3729582,
+							34.8020213
+						],
+						[
+							29.6447644,
+							34.8020213
+						],
+						[
+							29.6447644,
+							41.7485356
+						],
+						[
+							19.3729582,
+							41.7485356
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Yc6pA0zU6v"
+	},
+	{
 		"created_at": "Mon Jan 14 13:57:34 +0000 2019",
 		"id": 1084811766813679600,
 		"id_str": "1084848918914056192",
