@@ -1,6 +1,298 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 14:26:09 +0000 2019",
+		"id": 1083731796322410500,
+		"id_str": "1085449689414148096",
+		"full_text": "A big welcome to the twitter to my new colleague at @OU_Philosophy @markpinder20. Philosophers and OU students, and espec their intersections should give him a follow.  \n\nHe engineers concepts.  Which is quite a thing to do with your life.\n@philosophybites @DavidEdmonds100 #FF https://t.co/0338OQOnnL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FF",
+					"indices": [
+						274,
+						277
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Philosophy",
+					"name": "Open Uni Philosophy",
+					"id": 916231909725933600,
+					"id_str": "916231909725933568",
+					"indices": [
+						52,
+						66
+					]
+				},
+				{
+					"screen_name": "MarkPinder20",
+					"name": "Mark Pinder",
+					"id": 1080453271100244000,
+					"id_str": "1080453271100243974",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						240,
+						256
+					]
+				},
+				{
+					"screen_name": "DavidEdmonds100",
+					"name": "David Edmonds",
+					"id": 1490439596,
+					"id_str": "1490439596",
+					"indices": [
+						257,
+						273
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0338OQOnnL",
+					"expanded_url": "https://twitter.com/MarkPinder20/status/1083656779513380864",
+					"display_url": "twitter.com/MarkPinder20/s…",
+					"indices": [
+						278,
+						301
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305848643,
+			"id_str": "305848643",
+			"name": "(((Jon Pike)))",
+			"screen_name": "runthinkwrite",
+			"location": "Hove UK",
+			"description": "Philosopher @PhilosophyOpen Philosophy, ethics, and metaphysics of sport. Political philosophy, justice, left stuff. Runner, triathlete, IMKona & coach",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441,
+			"friends_count": 1183,
+			"listed_count": 18,
+			"created_at": "Thu May 26 21:55:01 +0000 2011",
+			"favourites_count": 3011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/545925754303684608/mbrwQEE4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/545925754303684608/mbrwQEE4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305848643/1507307101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083656779513380900,
+		"quoted_status_id_str": "1083656779513380864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0338OQOnnL",
+			"expanded": "https://twitter.com/MarkPinder20/status/1083656779513380864",
+			"display": "twitter.com/MarkPinder20/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 09:28:04 +0000 2019",
+			"id": 1083656779513380900,
+			"id_str": "1083656779513380864",
+			"full_text": "\"I am lying.\" \n\nIs that true, or is it a lie?\n\n@OpenUniversity @OU_Philosophy @OU_FASS #BrainteaserMonth\n\nhttps://t.co/8GaOQ8PxbS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BrainteaserMonth",
+						"indices": [
+							87,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OpenUniversity",
+						"name": "The Open University",
+						"id": 14049061,
+						"id_str": "14049061",
+						"indices": [
+							47,
+							62
+						]
+					},
+					{
+						"screen_name": "OU_Philosophy",
+						"name": "Open Uni Philosophy",
+						"id": 916231909725933600,
+						"id_str": "916231909725933568",
+						"indices": [
+							63,
+							77
+						]
+					},
+					{
+						"screen_name": "OU_FASS",
+						"name": "OU FASS",
+						"id": 2515366050,
+						"id_str": "2515366050",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/8GaOQ8PxbS",
+						"expanded_url": "https://www.facebook.com/7084005675/posts/10157318320295676/",
+						"display_url": "facebook.com/7084005675/pos…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1080453271100244000,
+				"id_str": "1080453271100243974",
+				"name": "Mark Pinder",
+				"screen_name": "MarkPinder20",
+				"location": "",
+				"description": "Lecturer of Philosophy at the Open University",
+				"url": "https://t.co/qt4XR1mHSU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qt4XR1mHSU",
+								"expanded_url": "http://www.markpinder.org",
+								"display_url": "markpinder.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52,
+				"friends_count": 42,
+				"listed_count": 1,
+				"created_at": "Wed Jan 02 13:18:28 +0000 2019",
+				"favourites_count": 7,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 16,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080461769238331392/6OXQHjf2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080461769238331392/6OXQHjf2_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A big welcome to the twitter to my new colleague at @OU_Philosophy @markpinder20. Philosophers and OU students, and espec their intersections should give him a follow.  \n\nHe engineers concepts.  Which is quite a thing to do with your life.\n@philosophybites @DavidEdmonds100 #FF https://t.co/0338OQOnnL"
+	},
+	{
 		"created_at": "Tue Jan 15 19:42:53 +0000 2019",
 		"id": 1085261056472174600,
 		"id_str": "1085261056472174592",
