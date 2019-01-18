@@ -1,6 +1,263 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 16:41:57 +0000 2019",
+		"id": 1085940299308957700,
+		"id_str": "1085944064489472000",
+		"full_text": "First development meeting for a new GLOBAL ETHICS mooc! #philosophy #ethics #globalethics @OU_Philosophy @OU_FASS @OpenUniversity @manueldries @runthinkwrite @MarkPinder20 https://t.co/mJuVeZPaQQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosophy",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"text": "ethics",
+					"indices": [
+						68,
+						75
+					]
+				},
+				{
+					"text": "globalethics",
+					"indices": [
+						76,
+						89
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Philosophy",
+					"name": "Open Uni Philosophy",
+					"id": 916231909725933600,
+					"id_str": "916231909725933568",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"screen_name": "OU_FASS",
+					"name": "OU FASS",
+					"id": 2515366050,
+					"id_str": "2515366050",
+					"indices": [
+						105,
+						113
+					]
+				},
+				{
+					"screen_name": "OpenUniversity",
+					"name": "The Open University",
+					"id": 14049061,
+					"id_str": "14049061",
+					"indices": [
+						114,
+						129
+					]
+				},
+				{
+					"screen_name": "manueldries",
+					"name": "Manuel Dries",
+					"id": 155981313,
+					"id_str": "155981313",
+					"indices": [
+						130,
+						142
+					]
+				},
+				{
+					"screen_name": "runthinkwrite",
+					"name": "(((Jon Pike)))",
+					"id": 305848643,
+					"id_str": "305848643",
+					"indices": [
+						143,
+						157
+					]
+				},
+				{
+					"screen_name": "MarkPinder20",
+					"name": "Mark Pinder",
+					"id": 1080453271100244000,
+					"id_str": "1080453271100243974",
+					"indices": [
+						158,
+						171
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085940292732289000,
+					"id_str": "1085940292732289024",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DxII8VOXgAAaPGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxII8VOXgAAaPGh.jpg",
+					"url": "https://t.co/mJuVeZPaQQ",
+					"display_url": "pic.twitter.com/mJuVeZPaQQ",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1085940299308957696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085940292732289000,
+					"id_str": "1085940292732289024",
+					"indices": [
+						172,
+						195
+					],
+					"media_url": "http://pbs.twimg.com/media/DxII8VOXgAAaPGh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxII8VOXgAAaPGh.jpg",
+					"url": "https://t.co/mJuVeZPaQQ",
+					"display_url": "pic.twitter.com/mJuVeZPaQQ",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1085940299308957696/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1155,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 623,
+			"friends_count": 902,
+			"listed_count": 19,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 13,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First development meeting for a new GLOBAL ETHICS mooc! #philosophy #ethics #globalethics @OU_Philosophy @OU_FASS @OpenUniversity @manueldries @runthinkwrite @MarkPinder20 https://t.co/mJuVeZPaQQ"
+	},
+	{
 		"created_at": "Fri Jan 11 14:26:09 +0000 2019",
 		"id": 1083731796322410500,
 		"id_str": "1085449689414148096",
