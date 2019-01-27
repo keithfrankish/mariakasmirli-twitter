@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 26 08:49:42 +0000 2019",
+		"id": 1089082944080232400,
+		"id_str": "1089083584147832832",
+		"full_text": "I'm loving this book. Partly because it's so affirming to read someone outside my usual circles writing what I know. Partly because @Philippa_Perry keeps saying it is never too late to do better. She'll be on Sprogcast saying it, next month. https://t.co/RW3J46Jh4n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Philippa_Perry",
+					"name": "Philippa_Perry",
+					"id": 18667799,
+					"id_str": "18667799",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089082722193231900,
+					"id_str": "1089082722193231874",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx0y9zNX0AIRHHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx0y9zNX0AIRHHv.jpg",
+					"url": "https://t.co/RW3J46Jh4n",
+					"display_url": "pic.twitter.com/RW3J46Jh4n",
+					"expanded_url": "https://twitter.com/sprogcast/status/1089082944080232448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089082722193231900,
+					"id_str": "1089082722193231874",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx0y9zNX0AIRHHv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx0y9zNX0AIRHHv.jpg",
+					"url": "https://t.co/RW3J46Jh4n",
+					"display_url": "pic.twitter.com/RW3J46Jh4n",
+					"expanded_url": "https://twitter.com/sprogcast/status/1089082944080232448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3372223581,
+			"id_str": "3372223581",
+			"name": "Sprogcast",
+			"screen_name": "sprogcast",
+			"location": "",
+			"description": "A podcast about pregnancy, birth and early parenthood, with Karen Hall and Mark Harris. Tweets by Karen.",
+			"url": "http://t.co/88RB9XJXZg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/88RB9XJXZg",
+							"expanded_url": "http://facebook.com/sprogcast",
+							"display_url": "facebook.com/sprogcast",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1445,
+			"friends_count": 810,
+			"listed_count": 23,
+			"created_at": "Sun Jul 12 13:16:50 +0000 2015",
+			"favourites_count": 2206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4193,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691551713749274624/tsjUUuhN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691551713749274624/tsjUUuhN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3372223581/1447684577",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm loving this book. Partly because it's so affirming to read someone outside my usual circles writing what I know. Partly because @Philippa_Perry keeps saying it is never too late to do better. She'll be on Sprogcast saying it, next month. https://t.co/RW3J46Jh4n"
+	},
+	{
 		"created_at": "Fri Jan 25 16:18:20 +0000 2019",
 		"id": 1088833458502287400,
 		"id_str": "1088869175571947520",
