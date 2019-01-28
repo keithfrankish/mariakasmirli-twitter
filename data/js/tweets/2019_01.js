@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sun Jan 27 17:56:43 +0000 2019",
+		"id": 1089582992379523100,
+		"id_str": "1089599505266290688",
+		"full_text": "Today - #HolocaustMemorialDay – is a day to remember. To help learn the lessons of the past, the Holocaust is a mandatory part of the history curriculum and we provide funding to @HolocaustUK to work with schools\n #WeRemember #HMD2019 https://t.co/Lh5RKQ4CON",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HolocaustMemorialDay",
+					"indices": [
+						8,
+						29
+					]
+				},
+				{
+					"text": "WeRemember",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"text": "HMD2019",
+					"indices": [
+						226,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HolocaustUK",
+					"name": "H.E.T.",
+					"id": 236389590,
+					"id_str": "236389590",
+					"indices": [
+						179,
+						191
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1089582972511096800,
+					"id_str": "1089582972511096832",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx758M3WkAAF1wV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx758M3WkAAF1wV.jpg",
+					"url": "https://t.co/Lh5RKQ4CON",
+					"display_url": "pic.twitter.com/Lh5RKQ4CON",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1089582992379523073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1089582972511096800,
+					"id_str": "1089582972511096832",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx758M3WkAAF1wV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx758M3WkAAF1wV.jpg",
+					"url": "https://t.co/Lh5RKQ4CON",
+					"display_url": "pic.twitter.com/Lh5RKQ4CON",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1089582992379523073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089582966513299500,
+					"id_str": "1089582966513299457",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7572hXcAE1a_b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7572hXcAE1a_b.jpg",
+					"url": "https://t.co/Lh5RKQ4CON",
+					"display_url": "pic.twitter.com/Lh5RKQ4CON",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1089582992379523073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1334,
+							"h": 1044,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 939,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 532,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089582966240698400,
+					"id_str": "1089582966240698369",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7571gX4AELElK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7571gX4AELElK.jpg",
+					"url": "https://t.co/Lh5RKQ4CON",
+					"display_url": "pic.twitter.com/Lh5RKQ4CON",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1089582992379523073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 873,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1334,
+							"h": 971,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1089582966731432000,
+					"id_str": "1089582966731431936",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/Dx7573VX4AANS10.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dx7573VX4AANS10.jpg",
+					"url": "https://t.co/Lh5RKQ4CON",
+					"display_url": "pic.twitter.com/Lh5RKQ4CON",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1089582992379523073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1209,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 709,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 402,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143039548,
+			"id_str": "143039548",
+			"name": "DfE",
+			"screen_name": "educationgovuk",
+			"location": "London, UK",
+			"description": "Official Twitter account for the Department for Education, covering education, children’s services, HE & FE, apprenticeships, skills in England.",
+			"url": "http://t.co/qvJzxR9LqM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/qvJzxR9LqM",
+							"expanded_url": "http://www.gov.uk/dfe",
+							"display_url": "gov.uk/dfe",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308054,
+			"friends_count": 2688,
+			"listed_count": 3104,
+			"created_at": "Wed May 12 12:22:56 +0000 2010",
+			"favourites_count": 1846,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25475,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1085958731555368960/0sSRrEtX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1085958731555368960/0sSRrEtX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143039548/1543248345",
+			"profile_link_color": "104E75",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 133,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today - #HolocaustMemorialDay – is a day to remember. To help learn the lessons of the past, the Holocaust is a mandatory part of the history curriculum and we provide funding to @HolocaustUK to work with schools\n #WeRemember #HMD2019 https://t.co/Lh5RKQ4CON"
+	},
+	{
+		"created_at": "Sun Jan 27 13:18:00 +0000 2019",
+		"id": 1089512850245251100,
+		"id_str": "1089599395773984769",
+		"full_text": "This #HolocaustMemorialDay, we dedicate ourselves to never forgetting the sheer horror unleashed out of the climate of fear, hatred, and dehumanisation that was allowed to fester in 20th century Europe. Quote from Primo Levi - humanist and holocaust survivor #NeverForget https://t.co/PYgzhVLkGj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HolocaustMemorialDay",
+					"indices": [
+						5,
+						26
+					]
+				},
+				{
+					"text": "NeverForget",
+					"indices": [
+						259,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1088797316717445100,
+					"id_str": "1088797316717445120",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwvZA9XgAA2b-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwvZA9XgAA2b-F.jpg",
+					"url": "https://t.co/PYgzhVLkGj",
+					"display_url": "pic.twitter.com/PYgzhVLkGj",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1089512850245251073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1002,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1002,
+							"h": 1098,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1088797316717445100,
+					"id_str": "1088797316717445120",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/DxwvZA9XgAA2b-F.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxwvZA9XgAA2b-F.jpg",
+					"url": "https://t.co/PYgzhVLkGj",
+					"display_url": "pic.twitter.com/PYgzhVLkGj",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1089512850245251073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1002,
+							"h": 1098,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 621,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1002,
+							"h": 1098,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46686058,
+			"id_str": "46686058",
+			"name": "Humanists UK",
+			"screen_name": "Humanists_UK",
+			"location": "London",
+			"description": "We advance free thinking and promote humanism to create a tolerant society where rational thinking and kindness prevail. Registered charity no. 285987.",
+			"url": "https://t.co/o6YMksqCGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6YMksqCGI",
+							"expanded_url": "http://humanists.uk",
+							"display_url": "humanists.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 84765,
+			"friends_count": 2722,
+			"listed_count": 1267,
+			"created_at": "Fri Jun 12 16:18:39 +0000 2009",
+			"favourites_count": 7756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37184,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867040509302276096/77WbImaA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867040509302276096/77WbImaA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46686058/1495553721",
+			"profile_link_color": "4C4184",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD3D5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 68,
+		"favorite_count": 114,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This #HolocaustMemorialDay, we dedicate ourselves to never forgetting the sheer horror unleashed out of the climate of fear, hatred, and dehumanisation that was allowed to fester in 20th century Europe. Quote from Primo Levi - humanist and holocaust survivor #NeverForget https://t.co/PYgzhVLkGj"
+	},
+	{
+		"created_at": "Sun Jan 27 12:28:40 +0000 2019",
+		"id": 1089500435793276900,
+		"id_str": "1089599300525543424",
+		"full_text": "This #HolocaustMemorialDay we remember the six million Jews killed under the Nazi persecution, the mass murder of other targeted groups including LGBT people, disabled people, people of colour and Roma people, and the genocides that have scarred the world since.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HolocaustMemorialDay",
+					"indices": [
+						5,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3092283615,
+			"id_str": "3092283615",
+			"name": "WomensEqualityUK",
+			"screen_name": "WEP_UK",
+			"location": "Nationwide - UK",
+			"description": "The Women's Equality Party is a collaborative new force in British politics. Leader @SophieRunning #WeAreWE Because equality is better for everyone.",
+			"url": "https://t.co/RbVXGvhRUZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RbVXGvhRUZ",
+							"expanded_url": "http://womensequality.org.uk/join",
+							"display_url": "womensequality.org.uk/join",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 68309,
+			"friends_count": 3192,
+			"listed_count": 596,
+			"created_at": "Mon Mar 16 09:04:30 +0000 2015",
+			"favourites_count": 8825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10137,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1057936244724940805/r2gJJZIT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1057936244724940805/r2gJJZIT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3092283615/1548070530",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 88,
+		"favorite_count": 149,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "This #HolocaustMemorialDay we remember the six million Jews killed under the Nazi persecution, the mass murder of other targeted groups including LGBT people, disabled people, people of colour and Roma people, and the genocides that have scarred the world since."
+	},
+	{
+		"created_at": "Sun Jan 27 12:45:18 +0000 2019",
+		"id": 1089504620026703900,
+		"id_str": "1089598971604094976",
+		"full_text": "Today on #HolocaustMemorialDay\nmy wish is for the UK government to show the same humanity to refugees that Britain showed me in 1939.\n#HMD2019\nhttps://t.co/ht08dOtCbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HolocaustMemorialDay",
+					"indices": [
+						9,
+						30
+					]
+				},
+				{
+					"text": "HMD2019",
+					"indices": [
+						134,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ht08dOtCbh",
+					"expanded_url": "https://youtu.be/udIPoze8nAU",
+					"display_url": "youtu.be/udIPoze8nAU",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 462908518,
+			"id_str": "462908518",
+			"name": "Alf Dubs",
+			"screen_name": "AlfDubs",
+			"location": "",
+			"description": "Labour Peer, ex-MP for Battersea. Interested in human rights, asylum policy and Ireland. RT are not endorsements.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10569,
+			"friends_count": 270,
+			"listed_count": 83,
+			"created_at": "Fri Jan 13 14:13:22 +0000 2012",
+			"favourites_count": 149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 141,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000175315858/bba55412a5d99ba1304127bbdb45dfc3_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000175315858/bba55412a5d99ba1304127bbdb45dfc3_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 965,
+		"favorite_count": 2134,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today on #HolocaustMemorialDay\nmy wish is for the UK government to show the same humanity to refugees that Britain showed me in 1939.\n#HMD2019\nhttps://t.co/ht08dOtCbh"
+	},
+	{
 		"created_at": "Sat Jan 26 08:49:42 +0000 2019",
 		"id": 1089082944080232400,
 		"id_str": "1089083584147832832",
