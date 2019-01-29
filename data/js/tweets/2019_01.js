@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Fri Jan 11 15:07:39 +0000 2019",
+		"id": 1083742240441282600,
+		"id_str": "1089800190108798977",
+		"full_text": "THE aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. Sellars https://t.co/I2KdgD7PMp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I2KdgD7PMp",
+					"expanded_url": "https://twitter.com/cecilymwhiteley/status/1083515115692019713",
+					"display_url": "twitter.com/cecilymwhitele…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3068008811,
+			"id_str": "3068008811",
+			"name": "Stathis Psillos",
+			"screen_name": "StathisPsillos",
+			"location": "Athens Greece",
+			"description": "I am a philosopher, lucky enough to do philosophy for a living. I tweet about philosophy, and occasionally politics",
+			"url": "https://t.co/zUI0aPk6f3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUI0aPk6f3",
+							"expanded_url": "http://www.phs.uoa.gr/psillos",
+							"display_url": "phs.uoa.gr/psillos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2671,
+			"friends_count": 651,
+			"listed_count": 73,
+			"created_at": "Tue Mar 03 15:27:52 +0000 2015",
+			"favourites_count": 5595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8319,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572783820958769152/VZGcYbIt_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1083515115692019700,
+		"quoted_status_id_str": "1083515115692019713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/I2KdgD7PMp",
+			"expanded": "https://twitter.com/cecilymwhiteley/status/1083515115692019713",
+			"display": "twitter.com/cecilymwhitele…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 11 00:05:08 +0000 2019",
+			"id": 1083515115692019700,
+			"id_str": "1083515115692019713",
+			"full_text": "Philosophers, what’s the aim(s) of philosophy in your opinion?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				62
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 711664070231986200,
+				"id_str": "711664070231986176",
+				"name": "Cecily Whiteley",
+				"screen_name": "cecilymwhiteley",
+				"location": "London, England",
+				"description": "Philosophy of mind, neuroscience, evobio and (meta)metaphysics. MPhil/PhD Candidate @LSEPhilosophy. Probably thinking about consciousness🦇🐙🦑.",
+				"url": "https://t.co/drqImBuZLl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/drqImBuZLl",
+								"expanded_url": "https://www.cecilywhiteley.com",
+								"display_url": "cecilywhiteley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1934,
+				"friends_count": 1964,
+				"listed_count": 42,
+				"created_at": "Sun Mar 20 21:21:51 +0000 2016",
+				"favourites_count": 15831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3285,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088841209118887937/nZIUsdJ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088841209118887937/nZIUsdJ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/711664070231986176/1540903967",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 147,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "THE aim of philosophy, abstractly formulated, is to understand how things in the broadest possible sense of the term hang together in the broadest possible sense of the term. Sellars https://t.co/I2KdgD7PMp"
+	},
+	{
 		"created_at": "Sun Jan 27 17:56:43 +0000 2019",
 		"id": 1089582992379523100,
 		"id_str": "1089599505266290688",
