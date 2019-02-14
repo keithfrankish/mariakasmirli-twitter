@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 13 15:59:20 +0000 2019",
+		"id": 1095714046844784600,
+		"id_str": "1095729386198913025",
+		"full_text": "This morning, at our first PGR research seminar of the year, Chris Grey developed a scholastic account of musical beauty. What did you do? #philosophy #aesthetics @OpenUniversity @OUMusic @OU_FASS https://t.co/ad5OHpZY3S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosophy",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "aesthetics",
+					"indices": [
+						151,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OpenUniversity",
+					"name": "The Open University",
+					"id": 14049061,
+					"id_str": "14049061",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"screen_name": "OUMusic",
+					"name": "OU Music",
+					"id": 804646373580804100,
+					"id_str": "804646373580804096",
+					"indices": [
+						179,
+						187
+					]
+				},
+				{
+					"screen_name": "OU_FASS",
+					"name": "OU FASS",
+					"id": 2515366050,
+					"id_str": "2515366050",
+					"indices": [
+						188,
+						196
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1095714035834777600,
+					"id_str": "1095714035834777600",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTCHDlXcAA1eJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTCHDlXcAA1eJZ.jpg",
+					"url": "https://t.co/ad5OHpZY3S",
+					"display_url": "pic.twitter.com/ad5OHpZY3S",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1095714046844784641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1639,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1095714035834777600,
+					"id_str": "1095714035834777600",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/DzTCHDlXcAA1eJZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzTCHDlXcAA1eJZ.jpg",
+					"url": "https://t.co/ad5OHpZY3S",
+					"display_url": "pic.twitter.com/ad5OHpZY3S",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1095714046844784641/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 544,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1639,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 652,
+			"friends_count": 908,
+			"listed_count": 19,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 20,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This morning, at our first PGR research seminar of the year, Chris Grey developed a scholastic account of musical beauty. What did you do? #philosophy #aesthetics @OpenUniversity @OUMusic @OU_FASS https://t.co/ad5OHpZY3S"
+	},
+	{
 		"created_at": "Sat Feb 09 13:41:45 +0000 2019",
 		"id": 1094229870937284600,
 		"id_str": "1094229870937284610",
