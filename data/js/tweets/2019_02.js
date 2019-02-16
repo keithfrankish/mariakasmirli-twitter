@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 12 13:07:31 +0000 2019",
+		"id": 1095308416535482400,
+		"id_str": "1096285236084854784",
+		"full_text": "Given that professors of cognitive science and professors of education exist in separate orbits, change in teacher prep not likely to happen soon, but it’s something to work towards. \"And if that means reigniting the reading wars, then bring them on.\" https://t.co/KQ7K1ckpo9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQ7K1ckpo9",
+					"expanded_url": "https://thecriticalreader.com/unbalanced-literacy/",
+					"display_url": "thecriticalreader.com/unbalanced-lit…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16184557,
+			"id_str": "16184557",
+			"name": "Emily Hanford",
+			"screen_name": "ehanford",
+			"location": "Washington, DC",
+			"description": "Senior Producer/Education Correspondent, American Public Media. @apmreports @EducatePodcast ehanford at apm reports dot org",
+			"url": "https://t.co/2WUduEPcZh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2WUduEPcZh",
+							"expanded_url": "http://www.apmreports.org/",
+							"display_url": "apmreports.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4730,
+			"friends_count": 2117,
+			"listed_count": 181,
+			"created_at": "Mon Sep 08 13:59:39 +0000 2008",
+			"favourites_count": 5280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10505,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664256102721191936/vuxeMCwJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664256102721191936/vuxeMCwJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16184557/1495137239",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 63,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Given that professors of cognitive science and professors of education exist in separate orbits, change in teacher prep not likely to happen soon, but it’s something to work towards. \"And if that means reigniting the reading wars, then bring them on.\" https://t.co/KQ7K1ckpo9"
+	},
+	{
 		"created_at": "Wed Feb 13 15:59:20 +0000 2019",
 		"id": 1095714046844784600,
 		"id_str": "1095729386198913025",
