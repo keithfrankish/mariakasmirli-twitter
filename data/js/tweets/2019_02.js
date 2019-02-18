@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 17 13:24:56 +0000 2019",
+		"id": 1097124740031041500,
+		"id_str": "1097144068071665664",
+		"full_text": "The house on the beach - I was bemoaning the fact that the light was terrible on a mini photo walk the other day. Then this lovely beam of light appeared and wandered slowly across the beach. #monochrome #blackandwhitephotography #landscape #seascape #dr… https://t.co/digya9urVD https://t.co/zwAxH5ItEm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "monochrome",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"text": "blackandwhitephotography",
+					"indices": [
+						204,
+						229
+					]
+				},
+				{
+					"text": "landscape",
+					"indices": [
+						230,
+						240
+					]
+				},
+				{
+					"text": "seascape",
+					"indices": [
+						241,
+						250
+					]
+				},
+				{
+					"text": "dr",
+					"indices": [
+						251,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/digya9urVD",
+					"expanded_url": "http://bit.ly/2SIJkkM",
+					"display_url": "bit.ly/2SIJkkM",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097124738827202600,
+					"id_str": "1097124738827202560",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DznFIxwWsAAIQgh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznFIxwWsAAIQgh.jpg",
+					"url": "https://t.co/zwAxH5ItEm",
+					"display_url": "pic.twitter.com/zwAxH5ItEm",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1097124740031041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097124738827202600,
+					"id_str": "1097124738827202560",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/DznFIxwWsAAIQgh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DznFIxwWsAAIQgh.jpg",
+					"url": "https://t.co/zwAxH5ItEm",
+					"display_url": "pic.twitter.com/zwAxH5ItEm",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1097124740031041536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68189879,
+			"id_str": "68189879",
+			"name": "Graham",
+			"screen_name": "GraHodgetts",
+			"location": "Crete, Greece",
+			"description": "Reportage wedding photographer based in Greece. A father & a runner, Welsh & a wine lover. Landscapes & Street photography in spare time.",
+			"url": "https://t.co/oAIvPT1SCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAIvPT1SCT",
+							"expanded_url": "http://www.grahamhodgetts.com",
+							"display_url": "grahamhodgetts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 222,
+			"friends_count": 277,
+			"listed_count": 32,
+			"created_at": "Sun Aug 23 17:23:38 +0000 2009",
+			"favourites_count": 434,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4542,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68189879/1527098228",
+			"profile_link_color": "D1615E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The house on the beach - I was bemoaning the fact that the light was terrible on a mini photo walk the other day. Then this lovely beam of light appeared and wandered slowly across the beach. #monochrome #blackandwhitephotography #landscape #seascape #dr… https://t.co/digya9urVD https://t.co/zwAxH5ItEm"
+	},
+	{
 		"created_at": "Tue Feb 12 13:07:31 +0000 2019",
 		"id": 1095308416535482400,
 		"id_str": "1096285236084854784",
