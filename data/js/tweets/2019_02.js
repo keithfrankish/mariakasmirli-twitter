@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 16:56:57 +0000 2019",
+		"id": 1097902871687909400,
+		"id_str": "1098117789238419456",
+		"full_text": "If you could redesign England's education system (EY,I,II,III) (ignoring the disruption or initial cost of change): \n\nWhat would you keep? \nWhat would you change? \nWhat would you throw out? \nWhat would you introduce?\nHow much would you spend? \n\nGenuinely interested.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 61172258,
+			"id_str": "61172258",
+			"name": "Alex Weatherall",
+			"screen_name": "A_Weatherall",
+			"location": "North Yorkshire",
+			"description": "Father of 3 girls;\nHusband to Becki;\nNot currently a Physics Teacher;\nCTO @TeacherTapp (token male); https://t.co/ZYDEHNIYfj;\nCitizen of the World (AKA Nowhere)",
+			"url": "https://t.co/ft2wJJvWO3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ft2wJJvWO3",
+							"expanded_url": "http://teachingscienceinallweather.wordpress.com",
+							"display_url": "…hingscienceinallweather.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZYDEHNIYfj",
+							"expanded_url": "http://teachmyconcept.net",
+							"display_url": "teachmyconcept.net",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4246,
+			"friends_count": 1713,
+			"listed_count": 199,
+			"created_at": "Wed Jul 29 11:26:23 +0000 2009",
+			"favourites_count": 22108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 90382,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0E0D02",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/738062833485778944/Q6kR3yQH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/738062833485778944/Q6kR3yQH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61172258/1402347538",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "0E0D02",
+			"profile_text_color": "39BD91",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you could redesign England's education system (EY,I,II,III) (ignoring the disruption or initial cost of change): \n\nWhat would you keep? \nWhat would you change? \nWhat would you throw out? \nWhat would you introduce?\nHow much would you spend? \n\nGenuinely interested."
+	},
+	{
 		"created_at": "Mon Feb 18 11:23:44 +0000 2019",
 		"id": 1097456628473974800,
 		"id_str": "1097528765033447425",
