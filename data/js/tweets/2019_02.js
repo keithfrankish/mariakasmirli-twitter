@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 26 17:25:00 +0000 2019",
+		"id": 1100446646024970200,
+		"id_str": "1100647848822099968",
+		"full_text": "We're all set for tomorrow's postgraduate open day! We look forward to welcoming hundreds of prospective students to campus 😁 https://t.co/f1Ua3KyL2e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1100176491244126200,
+					"id_str": "1100176491244126209",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ScsJbXgAEQ689.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ScsJbXgAEQ689.jpg",
+					"url": "https://t.co/f1Ua3KyL2e",
+					"display_url": "pic.twitter.com/f1Ua3KyL2e",
+					"expanded_url": "https://twitter.com/sheffielduni/status/1100446646024970240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1100176491244126200,
+					"id_str": "1100176491244126209",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/D0ScsJbXgAEQ689.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0ScsJbXgAEQ689.jpg",
+					"url": "https://t.co/f1Ua3KyL2e",
+					"display_url": "pic.twitter.com/f1Ua3KyL2e",
+					"expanded_url": "https://twitter.com/sheffielduni/status/1100446646024970240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1023,
+							"h": 682,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1023,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19341622,
+			"id_str": "19341622",
+			"name": "The University of Sheffield",
+			"screen_name": "sheffielduni",
+			"location": "Sheffield, UK",
+			"description": "Top 5 UK university for best student experience and top UK students' union for 10 consecutive years - THE Student Experience Survey",
+			"url": "https://t.co/FFkKbhm6qI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FFkKbhm6qI",
+							"expanded_url": "http://www.sheffield.ac.uk",
+							"display_url": "sheffield.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 116396,
+			"friends_count": 11504,
+			"listed_count": 1222,
+			"created_at": "Thu Jan 22 15:06:17 +0000 2009",
+			"favourites_count": 7611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 18668,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F9D403",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/951423280275247110/HH6SiQWy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/951423280275247110/HH6SiQWy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19341622/1540282403",
+			"profile_link_color": "454545",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF200",
+			"profile_text_color": "231F20",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We're all set for tomorrow's postgraduate open day! We look forward to welcoming hundreds of prospective students to campus 😁 https://t.co/f1Ua3KyL2e"
+	},
+	{
 		"created_at": "Tue Feb 26 13:47:13 +0000 2019",
 		"id": 1100391840023539700,
 		"id_str": "1100468833997983744",
