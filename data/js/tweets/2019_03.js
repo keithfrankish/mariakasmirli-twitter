@@ -1,6 +1,138 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 04:43:48 +0000 2019",
+		"id": 1102963442124767200,
+		"id_str": "1103154188488527872",
+		"full_text": "Public Philosophy Is Good—For Philosophy and For the Public @apa_blog #philosophy #publicphilosophy https://t.co/8gpeWccKB8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosophy",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"text": "publicphilosophy",
+					"indices": [
+						82,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apa_blog",
+					"name": "APA Blog",
+					"id": 3599385615,
+					"id_str": "3599385615",
+					"indices": [
+						60,
+						69
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8gpeWccKB8",
+					"expanded_url": "https://blog.apaonline.org/2019/03/05/public-philosophy-is-good-for-philosophy-and-for-the-public/",
+					"display_url": "blog.apaonline.org/2019/03/05/pub…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1323654877,
+			"id_str": "1323654877",
+			"name": "Dr Skye Cleary",
+			"screen_name": "Skye_Cleary",
+			"location": "New York, NY",
+			"description": "Existentialism, Love, & the Good Life ❤️ 🧜🏻‍♀️ 🇦🇺",
+			"url": "https://t.co/LggsHqNbvA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LggsHqNbvA",
+							"expanded_url": "http://skyecleary.com",
+							"display_url": "skyecleary.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8023,
+			"friends_count": 4512,
+			"listed_count": 225,
+			"created_at": "Wed Apr 03 01:54:22 +0000 2013",
+			"favourites_count": 31601,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12755,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5ABB5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/715906969341665281/sTFKY69h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/715906969341665281/sTFKY69h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1323654877/1459614963",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Public Philosophy Is Good—For Philosophy and For the Public @apa_blog #philosophy #publicphilosophy https://t.co/8gpeWccKB8"
+	},
+	{
 		"created_at": "Sun Mar 03 20:03:01 +0000 2019",
 		"id": 1102298350840438800,
 		"id_str": "1102298350840438784",
