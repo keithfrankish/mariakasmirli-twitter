@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 15 05:57:27 +0000 2019",
+		"id": 1106415670684610600,
+		"id_str": "1106434214310920192",
+		"full_text": "Join me @CTVNews tomorrow morning at 7:15am for my tips for #sleepweek. \n“According to the Canadian Pediatric Society, one in four Canadians is sleep-deprived and 60 to 70% of students are struggling to focus in their morning classes due to a lack of sleep.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "sleepweek",
+					"indices": [
+						60,
+						70
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CTVNews",
+					"name": "CTV News",
+					"id": 203123011,
+					"id_str": "203123011",
+					"indices": [
+						8,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58220524,
+			"id_str": "58220524",
+			"name": "Michele Kambolis",
+			"screen_name": "Kambolis",
+			"location": "Vancouver, British Columbia",
+			"description": "I’m a therapist, HuffPo columnist, speaker & author here to help you struggle less & thrive more with a consciously healthy life. 💫💛",
+			"url": "https://t.co/dwj5iJF9fy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dwj5iJF9fy",
+							"expanded_url": "http://michelekambolis.com/",
+							"display_url": "michelekambolis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19647,
+			"friends_count": 8458,
+			"listed_count": 205,
+			"created_at": "Sun Jul 19 15:38:21 +0000 2009",
+			"favourites_count": 3347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2720,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "107DBE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086882712470708224/elCXG0Sy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086882712470708224/elCXG0Sy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58220524/1518750889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CEDBD7",
+			"profile_text_color": "8C9C43",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Join me @CTVNews tomorrow morning at 7:15am for my tips for #sleepweek. \n“According to the Canadian Pediatric Society, one in four Canadians is sleep-deprived and 60 to 70% of students are struggling to focus in their morning classes due to a lack of sleep."
+	},
+	{
 		"created_at": "Tue Mar 12 04:12:33 +0000 2019",
 		"id": 1105072704963731500,
 		"id_str": "1105320651336888320",
