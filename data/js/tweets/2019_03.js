@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 22 05:04:21 +0000 2019",
+		"id": 1108760934468718600,
+		"id_str": "1108957565671501824",
+		"full_text": "Tributes have been paid to Baroness Warnock, the moral philosopher, educator and author who had an “unparalleled impact” on public policy, who has died aged 94\n\nhttps://t.co/HqglzSjXfJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HqglzSjXfJ",
+					"expanded_url": "https://www.timeshighereducation.com/news/unparalleled-public-intellectual-mary-warnock-dies-aged-94",
+					"display_url": "timeshighereducation.com/news/unparalle…",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23602600,
+			"id_str": "23602600",
+			"name": "TimesHigherEducation",
+			"screen_name": "timeshighered",
+			"location": "Global",
+			"description": "Global HE news, comment & features. Publisher of the Times Higher Education World University Rankings (@THEworldunirank). For student advice, see @THEuniadvice.",
+			"url": "http://t.co/SHlBxmu5aC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SHlBxmu5aC",
+							"expanded_url": "http://www.timeshighereducation.com",
+							"display_url": "timeshighereducation.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 283872,
+			"friends_count": 3494,
+			"listed_count": 5796,
+			"created_at": "Tue Mar 10 15:08:03 +0000 2009",
+			"favourites_count": 4768,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 92945,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029658581434544129/TRvtevHr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23602600/1553162178",
+			"profile_link_color": "E02200",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F7F1D2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 45,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tributes have been paid to Baroness Warnock, the moral philosopher, educator and author who had an “unparalleled impact” on public policy, who has died aged 94\n\nhttps://t.co/HqglzSjXfJ"
+	},
+	{
 		"created_at": "Mon Mar 18 15:44:38 +0000 2019",
 		"id": 1107669146857287700,
 		"id_str": "1107669146857287680",
