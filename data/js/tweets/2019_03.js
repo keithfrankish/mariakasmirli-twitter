@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 24 21:08:19 +0000 2019",
+		"id": 1109737540305731600,
+		"id_str": "1109924930634895366",
+		"full_text": "If we’d narrowly voted for Remain we would’ve never been forced to figure out what EU actually is and how it functions. Best outcome from #BrexitChaos still possible: #peoplesvote  where better informed public tells Westminster that it no longer buys their negative EU narrative.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BrexitChaos",
+					"indices": [
+						138,
+						150
+					]
+				},
+				{
+					"text": "peoplesvote",
+					"indices": [
+						167,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155981313,
+			"id_str": "155981313",
+			"name": "Manuel Dries",
+			"screen_name": "manueldries",
+			"location": "London, UK, EU",
+			"description": "European Philosopher at The Open University @PhilosophyOpen; St Hilda’s College Oxford @hilda_beastoxf Tweets personal RTs ~ endorsements UK & German citizen",
+			"url": "https://t.co/VN2ksdNgPJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VN2ksdNgPJ",
+							"expanded_url": "https://open.academia.edu/ManuelDries",
+							"display_url": "open.academia.edu/ManuelDries",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609,
+			"friends_count": 2227,
+			"listed_count": 17,
+			"created_at": "Tue Jun 15 17:55:18 +0000 2010",
+			"favourites_count": 859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 683,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/790639018962743296/R1jnayM-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/790639018962743296/R1jnayM-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155981313/1540082897",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If we’d narrowly voted for Remain we would’ve never been forced to figure out what EU actually is and how it functions. Best outcome from #BrexitChaos still possible: #peoplesvote  where better informed public tells Westminster that it no longer buys their negative EU narrative."
+	},
+	{
+		"created_at": "Sun Mar 24 15:52:46 +0000 2019",
+		"id": 1108702994126831600,
+		"id_str": "1109845519667470338",
+		"full_text": "The second event of Emotional Bonds, this time on the theme of moral emotions, is on 4 April, 10.00am-4pm. Featuring @SimoneSchnall (University of Cambridge) on The Role of the Body in Perception, Morality and Risk Taking. https://t.co/M8IdewxKkM https://t.co/KJ8ni0xDyf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimoneSchnall",
+					"name": "Simone Schnall",
+					"id": 925489113578573800,
+					"id_str": "925489113578573825",
+					"indices": [
+						117,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/M8IdewxKkM",
+					"expanded_url": "https://emotional-bonds.weebly.com/moral-emotions.html",
+					"display_url": "emotional-bonds.weebly.com/moral-emotions…",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108702970609307600,
+					"id_str": "1108702970609307648",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/D2LnekSWkAAWB55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2LnekSWkAAWB55.jpg",
+					"url": "https://t.co/KJ8ni0xDyf",
+					"display_url": "pic.twitter.com/KJ8ni0xDyf",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1108702994126831616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108702970609307600,
+					"id_str": "1108702970609307648",
+					"indices": [
+						247,
+						270
+					],
+					"media_url": "http://pbs.twimg.com/media/D2LnekSWkAAWB55.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2LnekSWkAAWB55.jpg",
+					"url": "https://t.co/KJ8ni0xDyf",
+					"display_url": "pic.twitter.com/KJ8ni0xDyf",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1108702994126831616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 707,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1754,
+			"friends_count": 492,
+			"listed_count": 47,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3737,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1535465206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The second event of Emotional Bonds, this time on the theme of moral emotions, is on 4 April, 10.00am-4pm. Featuring @SimoneSchnall (University of Cambridge) on The Role of the Body in Perception, Morality and Risk Taking. https://t.co/M8IdewxKkM https://t.co/KJ8ni0xDyf"
+	},
+	{
 		"created_at": "Sat Mar 23 16:01:05 +0000 2019",
 		"id": 1109484956617601000,
 		"id_str": "1109485226357608449",
