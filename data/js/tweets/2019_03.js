@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 27 14:23:11 +0000 2019",
+		"id": 1110837023680725000,
+		"id_str": "1110910139052232704",
+		"full_text": "In an effort to get away from Facebook etc, I have reignited my blog [queue mini fanfare]. I need a place to write and get my photography seen. It will be a collection of photo stories &amp; general musings - please be gentle https://t.co/qKmy7UZp7S https://t.co/ivvvr4jG51",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qKmy7UZp7S",
+					"expanded_url": "https://teratakistudio.com",
+					"display_url": "teratakistudio.com",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1110836688820076500,
+					"id_str": "1110836688820076544",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D2p8FUCXgAAWGQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2p8FUCXgAAWGQb.jpg",
+					"url": "https://t.co/ivvvr4jG51",
+					"display_url": "pic.twitter.com/ivvvr4jG51",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1110837023680724993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1110836688820076500,
+					"id_str": "1110836688820076544",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/D2p8FUCXgAAWGQb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2p8FUCXgAAWGQb.jpg",
+					"url": "https://t.co/ivvvr4jG51",
+					"display_url": "pic.twitter.com/ivvvr4jG51",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1110837023680724993/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68189879,
+			"id_str": "68189879",
+			"name": "Graham Hodgetts",
+			"screen_name": "GraHodgetts",
+			"location": "Crete, Greece",
+			"description": "Reportage wedding photographer living in Crete, Greece. Taking landscape & street photography in my spare hours.",
+			"url": "https://t.co/oAIvPT1SCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAIvPT1SCT",
+							"expanded_url": "http://www.grahamhodgetts.com",
+							"display_url": "grahamhodgetts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 223,
+			"friends_count": 303,
+			"listed_count": 32,
+			"created_at": "Sun Aug 23 17:23:38 +0000 2009",
+			"favourites_count": 439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4566,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68189879/1527098228",
+			"profile_link_color": "D1615E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In an effort to get away from Facebook etc, I have reignited my blog [queue mini fanfare]. I need a place to write and get my photography seen. It will be a collection of photo stories &amp; general musings - please be gentle https://t.co/qKmy7UZp7S https://t.co/ivvvr4jG51"
+	},
+	{
 		"created_at": "Sun Mar 24 21:08:19 +0000 2019",
 		"id": 1109737540305731600,
 		"id_str": "1109924930634895366",
