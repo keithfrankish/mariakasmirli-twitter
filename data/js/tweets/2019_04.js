@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Tue Apr 02 18:21:28 +0000 2019",
+		"id": 1113037618663645200,
+		"id_str": "1113144430083616773",
+		"full_text": "⭐️ TODAY IS THE DAY ⭐️ \n\nConference registration is open from 11am-1pm. \n\nCome and see us at the sign in desk then grab yourself a coffee ☕️ https://t.co/8z3BApGBkv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1113037613659717600,
+					"id_str": "1113037613659717632",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D3JNz__WAAAgdhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3JNz__WAAAgdhG.jpg",
+					"url": "https://t.co/8z3BApGBkv",
+					"display_url": "pic.twitter.com/8z3BApGBkv",
+					"expanded_url": "https://twitter.com/BritPhilofSport/status/1113037618663645184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1113037613659717600,
+					"id_str": "1113037613659717632",
+					"indices": [
+						141,
+						164
+					],
+					"media_url": "http://pbs.twimg.com/media/D3JNz__WAAAgdhG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3JNz__WAAAgdhG.jpg",
+					"url": "https://t.co/8z3BApGBkv",
+					"display_url": "pic.twitter.com/8z3BApGBkv",
+					"expanded_url": "https://twitter.com/BritPhilofSport/status/1113037618663645184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1241,
+							"h": 827,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39467599,
+			"id_str": "39467599",
+			"name": "BritPhilofSport",
+			"screen_name": "BritPhilofSport",
+			"location": "UK",
+			"description": "British Philosophy of Sport Association",
+			"url": "https://t.co/BkgNgWdLhu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BkgNgWdLhu",
+							"expanded_url": "http://www.philosophyofsport.org.uk",
+							"display_url": "philosophyofsport.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 545,
+			"friends_count": 196,
+			"listed_count": 27,
+			"created_at": "Tue May 12 09:37:40 +0000 2009",
+			"favourites_count": 81,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 427,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/936599006075084801/3-UNsRli_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/936599006075084801/3-UNsRli_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39467599/1398336125",
+			"profile_link_color": "8E259E",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⭐️ TODAY IS THE DAY ⭐️ \n\nConference registration is open from 11am-1pm. \n\nCome and see us at the sign in desk then grab yourself a coffee ☕️ https://t.co/8z3BApGBkv"
+	},
+	{
 		"created_at": "Mon Apr 01 03:31:22 +0000 2019",
 		"id": 1111572244206104600,
 		"id_str": "1112558042392997888",
