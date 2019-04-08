@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sun Apr 07 20:12:15 +0000 2019",
+		"id": 1114984252280590300,
+		"id_str": "1114984252280590337",
+		"full_text": "Where is home for the child of nomads? – https://t.co/yaxdA6amc4 via @aeonmag",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						69,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yaxdA6amc4",
+					"expanded_url": "https://aeon.co/essays/where-is-home-for-the-child-of-nomads",
+					"display_url": "aeon.co/essays/where-i…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 627,
+			"friends_count": 450,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2736,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1515,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547567920",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where is home for the child of nomads? – https://t.co/yaxdA6amc4 via @aeonmag"
+	},
+	{
 		"created_at": "Thu Apr 04 13:47:17 +0000 2019",
 		"id": 1113800206435463200,
 		"id_str": "1113800206435463174",
