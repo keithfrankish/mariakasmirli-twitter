@@ -1,6 +1,518 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Wed Apr 10 16:59:59 +0000 2019",
+		"id": 1116011680021065700,
+		"id_str": "1116023030512222208",
+		"full_text": "New Video (3) on developing genuine teacher wellbeing: reforming accountability. \n\nLet staff take control of their own PD; eg. Set themselves an action research project of their choosing with no req for written evidence. Culture shift.\n\nVideo credit: Miguel Luz https://t.co/d5U6S6c0AX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1116011436403306500,
+					"id_str": "1116011436403306496",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116011436403306496/pu/img/yXrIFERCuCUZLa9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116011436403306496/pu/img/yXrIFERCuCUZLa9B.jpg",
+					"url": "https://t.co/d5U6S6c0AX",
+					"display_url": "pic.twitter.com/d5U6S6c0AX",
+					"expanded_url": "https://twitter.com/RogersHistory/status/1116011680021065735/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1116011436403306500,
+					"id_str": "1116011436403306496",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1116011436403306496/pu/img/yXrIFERCuCUZLa9B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1116011436403306496/pu/img/yXrIFERCuCUZLa9B.jpg",
+					"url": "https://t.co/d5U6S6c0AX",
+					"display_url": "pic.twitter.com/d5U6S6c0AX",
+					"expanded_url": "https://twitter.com/RogersHistory/status/1116011680021065735/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 120579,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116011436403306496/pu/vid/640x360/0IX6edIcXVu9TpK8.mp4?tag=8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116011436403306496/pu/vid/320x180/uxb7wV77TOY2VC9T.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1116011436403306496/pu/pl/fLzzM23oEwDIZvPS.m3u8?tag=8"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1116011436403306496/pu/vid/1280x720/H69Xy8xTEfZmAjuf.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1294853347,
+			"id_str": "1294853347",
+			"name": "Tom Rogers",
+			"screen_name": "RogersHistory",
+			"location": "Ljubljana, Slovenia",
+			"description": "Assistant headteacher - teaching and learning / History teacher / @tes columnist / Founder of @teamtmicons / talk and write about education",
+			"url": "https://t.co/Kp7C4q8NcK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Kp7C4q8NcK",
+							"expanded_url": "http://www.rogershistory.com",
+							"display_url": "rogershistory.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22177,
+			"friends_count": 4046,
+			"listed_count": 211,
+			"created_at": "Sun Mar 24 11:17:15 +0000 2013",
+			"favourites_count": 57433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 24621,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1032693784025473025/zbHPyzKt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1032693784025473025/zbHPyzKt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1294853347/1467360295",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 68,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Video (3) on developing genuine teacher wellbeing: reforming accountability. \n\nLet staff take control of their own PD; eg. Set themselves an action research project of their choosing with no req for written evidence. Culture shift.\n\nVideo credit: Miguel Luz https://t.co/d5U6S6c0AX"
+	},
+	{
+		"created_at": "Wed Apr 10 16:57:12 +0000 2019",
+		"id": 1115891956742271000,
+		"id_str": "1116022330277466112",
+		"full_text": "Today marks the 21st anniversary of the #GoodFridayAgreement. \nThe EU has played a key role in supporting the peace process between the UK, the Republic of Ireland and Northern Ireland.\nWe supported the political framework and used our #CohesionPolicy for economic development. https://t.co/oZqppKwfEn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoodFridayAgreement",
+					"indices": [
+						40,
+						60
+					]
+				},
+				{
+					"text": "CohesionPolicy",
+					"indices": [
+						236,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1115891123254329300,
+					"id_str": "1115891123254329345",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D3xxEHmWAAEtK4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3xxEHmWAAEtK4u.jpg",
+					"url": "https://t.co/oZqppKwfEn",
+					"display_url": "pic.twitter.com/oZqppKwfEn",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1115891956742270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1115891123254329300,
+					"id_str": "1115891123254329345",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D3xxEHmWAAEtK4u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3xxEHmWAAEtK4u.jpg",
+					"url": "https://t.co/oZqppKwfEn",
+					"display_url": "pic.twitter.com/oZqppKwfEn",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1115891956742270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115891420802560000,
+					"id_str": "1115891420802560000",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D3xxVcDXsAAE4cw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3xxVcDXsAAE4cw.jpg",
+					"url": "https://t.co/oZqppKwfEn",
+					"display_url": "pic.twitter.com/oZqppKwfEn",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1115891956742270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1445,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115891434782113800,
+					"id_str": "1115891434782113792",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D3xxWQIWwAAHAAu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3xxWQIWwAAHAAu.jpg",
+					"url": "https://t.co/oZqppKwfEn",
+					"display_url": "pic.twitter.com/oZqppKwfEn",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1115891956742270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 841,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1436,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1115891451861327900,
+					"id_str": "1115891451861327873",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/D3xxXPwW4AEUXjY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3xxXPwW4AEUXjY.jpg",
+					"url": "https://t.co/oZqppKwfEn",
+					"display_url": "pic.twitter.com/oZqppKwfEn",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1115891956742270977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1374,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 456,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 805,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157981564,
+			"id_str": "157981564",
+			"name": "European Commission 🇪🇺",
+			"screen_name": "EU_Commission",
+			"location": "Brussels, Belgium",
+			"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+			"url": "https://t.co/2HnQtKhvZ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HnQtKhvZ6",
+							"expanded_url": "http://ec.europa.eu",
+							"display_url": "ec.europa.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HDhTPYZYmg",
+							"expanded_url": "http://ec.europa.eu/priorities/",
+							"display_url": "ec.europa.eu/priorities/",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1067675,
+			"friends_count": 821,
+			"listed_count": 11378,
+			"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+			"favourites_count": 8488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 32810,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9DD3EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1554905719",
+			"profile_link_color": "0C7DA6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CFECF9",
+			"profile_text_color": "1D1E23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 502,
+		"favorite_count": 836,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today marks the 21st anniversary of the #GoodFridayAgreement. \nThe EU has played a key role in supporting the peace process between the UK, the Republic of Ireland and Northern Ireland.\nWe supported the political framework and used our #CohesionPolicy for economic development. https://t.co/oZqppKwfEn"
+	},
+	{
 		"created_at": "Tue Apr 09 04:13:11 +0000 2019",
 		"id": 1115189066599948300,
 		"id_str": "1115467669300490241",
