@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Sat Apr 20 14:33:58 +0000 2019",
+		"id": 1119245912168124400,
+		"id_str": "1119610161881075723",
+		"full_text": "Today I learned something I already knew..... https://t.co/JN8XkLkZRP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1119245813904019500,
+					"id_str": "1119245813904019456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hcI0IXkAAZgTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hcI0IXkAAZgTq.jpg",
+					"url": "https://t.co/JN8XkLkZRP",
+					"display_url": "pic.twitter.com/JN8XkLkZRP",
+					"expanded_url": "https://twitter.com/PaulMetcalf123/status/1119245912168124416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1119245813904019500,
+					"id_str": "1119245813904019456",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/D4hcI0IXkAAZgTq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D4hcI0IXkAAZgTq.jpg",
+					"url": "https://t.co/JN8XkLkZRP",
+					"display_url": "pic.twitter.com/JN8XkLkZRP",
+					"expanded_url": "https://twitter.com/PaulMetcalf123/status/1119245912168124416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 460,
+							"h": 514,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 852086261611364400,
+			"id_str": "852086261611364352",
+			"name": "Paul Metcalf",
+			"screen_name": "PaulMetcalf123",
+			"location": "Eastbourne, England",
+			"description": "Mathematician, education consultant, teacher trainer and school inspector in the UK, Europe and elsewhere. Views expressed here are entirely my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 964,
+			"friends_count": 1690,
+			"listed_count": 10,
+			"created_at": "Wed Apr 12 09:09:30 +0000 2017",
+			"favourites_count": 358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 480,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1101515433910382595/E9MM5xDc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101515433910382595/E9MM5xDc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/852086261611364352/1492782239",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today I learned something I already knew..... https://t.co/JN8XkLkZRP"
+	},
+	{
 		"created_at": "Wed Apr 17 16:52:31 +0000 2019",
 		"id": 1118557866208706600,
 		"id_str": "1118557866208706561",
