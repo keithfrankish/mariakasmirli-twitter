@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 02 07:07:58 +0000 2019",
+		"id": 1123607256996749300,
+		"id_str": "1123846574675845122",
+		"full_text": "Join us for Philosophy at the Showroom on 30th May when we'll be watching Black Narcissus (1947) and discussing sexuality, madness and religion with @ElizMGoodwin, Honorary Research Fellow in the Department of History.\nhttps://t.co/xWHvFfeeCk @showroomcinema",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ElizMGoodwin",
+					"name": "Liz Goodwin",
+					"id": 543339116,
+					"id_str": "543339116",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "showroomcinema",
+					"name": "Showroom Cinema",
+					"id": 118748199,
+					"id_str": "118748199",
+					"indices": [
+						243,
+						258
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xWHvFfeeCk",
+					"expanded_url": "https://www.sheffield.ac.uk/philosophy/events/showroom",
+					"display_url": "sheffield.ac.uk/philosophy/eve…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1781,
+			"friends_count": 497,
+			"listed_count": 46,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3801,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1535465206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us for Philosophy at the Showroom on 30th May when we'll be watching Black Narcissus (1947) and discussing sexuality, madness and religion with @ElizMGoodwin, Honorary Research Fellow in the Department of History.\nhttps://t.co/xWHvFfeeCk @showroomcinema"
+	},
+	{
 		"created_at": "Wed May 01 14:01:19 +0000 2019",
 		"id": 1123579189905494000,
 		"id_str": "1123588211333390338",
