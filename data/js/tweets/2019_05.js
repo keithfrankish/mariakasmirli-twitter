@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 04 19:13:07 +0000 2019",
+		"id": 1124751799624372200,
+		"id_str": "1124753840857915394",
+		"full_text": "We need recognition, we need understanding, we need compassion and we need immediate support, says the new @NAHTnews president @judyshaw4\n\nhttps://t.co/cl030VTHmS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NAHTnews",
+					"name": "NAHT",
+					"id": 426558941,
+					"id_str": "426558941",
+					"indices": [
+						107,
+						116
+					]
+				},
+				{
+					"screen_name": "judyshaw4",
+					"name": "Judy Shaw",
+					"id": 403715828,
+					"id_str": "403715828",
+					"indices": [
+						127,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cl030VTHmS",
+					"expanded_url": "https://bit.ly/2XY8utQ",
+					"display_url": "bit.ly/2XY8utQ",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78874095,
+			"id_str": "78874095",
+			"name": "Tes",
+			"screen_name": "tes",
+			"location": "UK",
+			"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+			"url": "https://t.co/xsD4MT26vf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xsD4MT26vf",
+							"expanded_url": "http://www.tes.com/news",
+							"display_url": "tes.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 272956,
+			"friends_count": 1036,
+			"listed_count": 2538,
+			"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+			"favourites_count": 1652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 85476,
+			"lang": "en-gb",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need recognition, we need understanding, we need compassion and we need immediate support, says the new @NAHTnews president @judyshaw4\n\nhttps://t.co/cl030VTHmS"
+	},
+	{
 		"created_at": "Thu May 02 07:07:58 +0000 2019",
 		"id": 1123607256996749300,
 		"id_str": "1123846574675845122",
