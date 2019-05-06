@@ -1,6 +1,447 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 05 13:43:21 +0000 2019",
+		"id": 1125023999782785000,
+		"id_str": "1125033240971051008",
+		"full_text": "The Guardian view on higher education: humans need the humanities - 'we need more philosophers and sociologists' @Humanities2020\nhttps://t.co/jp79tvqK6u https://t.co/jp79tvqK6u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Humanities2020",
+					"name": "Humanities 20:20 A new vision for EYFS and Primary",
+					"id": 1039183867381526500,
+					"id_str": "1039183867381526530",
+					"indices": [
+						113,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jp79tvqK6u",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/apr/30/the-guardian-view-on-higher-education-humans-need-the-humanities",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						129,
+						152
+					]
+				},
+				{
+					"url": "https://t.co/jp79tvqK6u",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/apr/30/the-guardian-view-on-higher-education-humans-need-the-humanities",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 763403629,
+			"id_str": "763403629",
+			"name": "A Level Philosophy",
+			"screen_name": "ALevelPhilos",
+			"location": "Horsham, West Sussex",
+			"description": "Teacher INSET, student conferences, webinars, textbooks and resources by Michael Lacewing",
+			"url": "http://t.co/OwO4eBixBU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OwO4eBixBU",
+							"expanded_url": "http://alevelphilosophy.co.uk",
+							"display_url": "alevelphilosophy.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1741,
+			"friends_count": 2209,
+			"listed_count": 39,
+			"created_at": "Fri Aug 17 09:47:46 +0000 2012",
+			"favourites_count": 1285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1934,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/801807760614715392/03p5uwBn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/801807760614715392/03p5uwBn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/763403629/1480076936",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Guardian view on higher education: humans need the humanities - 'we need more philosophers and sociologists' @Humanities2020\nhttps://t.co/jp79tvqK6u https://t.co/jp79tvqK6u"
+	},
+	{
+		"created_at": "Sun May 05 11:57:55 +0000 2019",
+		"id": 1125001925328547800,
+		"id_str": "1125006708592578560",
+		"full_text": "If you adopt the wrong approach, led by the wrong people, don't be surprised if it doesn't work. Though, I am sure you can produce 'data' to say it does",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 436964891,
+			"id_str": "436964891",
+			"name": "George Gilchrist",
+			"screen_name": "GilchristGeorge",
+			"location": "Scotland",
+			"description": "ex HT. Comments, talks and writes, about education, leadership, learning, and prof learning https://t.co/PhwqIPUGL9",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/PhwqIPUGL9",
+							"expanded_url": "http://gg1952.blogspot.co.uk",
+							"display_url": "gg1952.blogspot.co.uk",
+							"indices": [
+								92,
+								115
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8474,
+			"friends_count": 7841,
+			"listed_count": 242,
+			"created_at": "Wed Dec 14 20:05:39 +0000 2011",
+			"favourites_count": 8588,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42465,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070403668439171072/dwIpHBFI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070403668439171072/dwIpHBFI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/436964891/1551117249",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you adopt the wrong approach, led by the wrong people, don't be surprised if it doesn't work. Though, I am sure you can produce 'data' to say it does"
+	},
+	{
+		"created_at": "Sun May 05 11:33:40 +0000 2019",
+		"id": 1123942952861143000,
+		"id_str": "1125000604009549824",
+		"full_text": "This article credits the education system as responsible for producing “widespread critical thinking skills among the Finnish population” which in turn provides “a strong defense against concerted outside efforts to skew reality” @UniTurku  https://t.co/dtdRHyRapi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniTurku",
+					"name": "University of Turku",
+					"id": 187880099,
+					"id_str": "187880099",
+					"indices": [
+						230,
+						239
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dtdRHyRapi",
+					"expanded_url": "https://www.utupub.fi/bitstream/handle/10024/146586/mastersthesis2018Horn.pdf?sequence=1&isAllowed=y",
+					"display_url": "utupub.fi/bitstream/hand…",
+					"indices": [
+						241,
+						264
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation, multilingualism, art, IP, IT, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 580,
+			"friends_count": 886,
+			"listed_count": 24,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 6417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3498,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This article credits the education system as responsible for producing “widespread critical thinking skills among the Finnish population” which in turn provides “a strong defense against concerted outside efforts to skew reality” @UniTurku  https://t.co/dtdRHyRapi"
+	},
+	{
+		"created_at": "Sun May 05 05:53:16 +0000 2019",
+		"id": 1124914942690451500,
+		"id_str": "1124914942690451458",
+		"full_text": "Five complex terms every GCSE student should know https://t.co/1Yr1i1iKOi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1Yr1i1iKOi",
+					"expanded_url": "https://www.tes.com/news/five-complex-terms-every-gcse-student-should-know",
+					"display_url": "tes.com/news/five-comp…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 631,
+			"friends_count": 455,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1537,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547567920",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Five complex terms every GCSE student should know https://t.co/1Yr1i1iKOi"
+	},
+	{
 		"created_at": "Sat May 04 19:13:07 +0000 2019",
 		"id": 1124751799624372200,
 		"id_str": "1124753840857915394",
