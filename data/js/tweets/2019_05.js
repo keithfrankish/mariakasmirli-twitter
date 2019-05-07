@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 03:48:43 +0000 2019",
+		"id": 1125141148706717700,
+		"id_str": "1125245984613728257",
+		"full_text": "What would we learn about one another if we went through each others’ Twitter drafts? \n\n🤔\n\nI guess that’s an empirical question.\n\nWho is willing to reply with something (anything) copy-pasted from their Twitter drafts? \n\nI’ll go first. 👇",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 353720586,
+			"id_str": "353720586",
+			"name": "Nick Byrd",
+			"screen_name": "byrd_nick",
+			"location": "Florida, United States",
+			"description": "Fellow at @FloridaState | Philosophy of Cognitive Science (and vice versa) | Reasoning Wellbeing Willpower | @ActuallyNPH’s Doppelgänger | Pedestrian | Blogger",
+			"url": "https://t.co/txZQouixhX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/txZQouixhX",
+							"expanded_url": "https://byrdnick.com/blog",
+							"display_url": "byrdnick.com/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2352,
+			"friends_count": 518,
+			"listed_count": 186,
+			"created_at": "Fri Aug 12 14:48:49 +0000 2011",
+			"favourites_count": 841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12915,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBDBDB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/956309197515354112/gfqWZs5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/956309197515354112/gfqWZs5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/353720586/1549134298",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E8E8E8",
+			"profile_text_color": "2E2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What would we learn about one another if we went through each others’ Twitter drafts? \n\n🤔\n\nI guess that’s an empirical question.\n\nWho is willing to reply with something (anything) copy-pasted from their Twitter drafts? \n\nI’ll go first. 👇"
+	},
+	{
 		"created_at": "Sun May 05 13:43:21 +0000 2019",
 		"id": 1125023999782785000,
 		"id_str": "1125033240971051008",
