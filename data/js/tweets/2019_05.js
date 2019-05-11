@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 10:48:17 +0000 2019",
+		"id": 1126490260895039500,
+		"id_str": "1126801123065696258",
+		"full_text": "Without conversation, philosophy is just dogma – https://t.co/utThGxPba9 via @aeonmag @philosophybites",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/utThGxPba9",
+					"expanded_url": "https://aeon.co/essays/without-conversation-philosophy-is-just-dogma",
+					"display_url": "aeon.co/essays/without…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3903725355,
+			"id_str": "3903725355",
+			"name": "Luis",
+			"screen_name": "LuisKnell",
+			"location": "",
+			"description": "Musician, Wrestling fan & Philosophy enthusiast.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 99,
+			"friends_count": 526,
+			"listed_count": 0,
+			"created_at": "Thu Oct 08 23:28:07 +0000 2015",
+			"favourites_count": 1992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1154,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/652264680619159553/wN5KGa9G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652264680619159553/wN5KGa9G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3903725355/1444347562",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 40,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Without conversation, philosophy is just dogma – https://t.co/utThGxPba9 via @aeonmag @philosophybites"
+	},
+	{
 		"created_at": "Thu May 09 14:57:59 +0000 2019",
 		"id": 1126501574589554700,
 		"id_str": "1126501574589554688",
