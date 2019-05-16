@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 16:35:37 +0000 2019",
+		"id": 1128422066942820400,
+		"id_str": "1128700470330101760",
+		"full_text": "An excellent free resource hub for philosophy teachers in Ireland (but very useful for those based elsewhere too!)  https://t.co/9wdvre0nHD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9wdvre0nHD",
+					"expanded_url": "http://www.myshortcourse.com/",
+					"display_url": "myshortcourse.com",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2624007323,
+			"id_str": "2624007323",
+			"name": "Philosophy 4 Schools",
+			"screen_name": "RoyalInstPhilos",
+			"location": "North West, England",
+			"description": "Glenn Skelhorn: delivering funded 'intro to philosophy' courses in schools/colleges on behalf of the Royal Institute of Philosophy. P4C Facilitator L3 SAPERE",
+			"url": "https://t.co/P6uOGjR0rz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6uOGjR0rz",
+							"expanded_url": "http://royalinstitutephilosophy.org/funding-education/philosophy-in-schools/",
+							"display_url": "royalinstitutephilosophy.org/funding-educat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2226,
+			"friends_count": 4999,
+			"listed_count": 30,
+			"created_at": "Thu Jun 19 22:13:01 +0000 2014",
+			"favourites_count": 337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1368,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/479750691662364673/mF32w2HK_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/479750691662364673/mF32w2HK_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2624007323/1508108769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An excellent free resource hub for philosophy teachers in Ireland (but very useful for those based elsewhere too!)  https://t.co/9wdvre0nHD"
+	},
+	{
 		"created_at": "Mon May 13 06:44:29 +0000 2019",
 		"id": 1126459652051472400,
 		"id_str": "1127826931758587904",
