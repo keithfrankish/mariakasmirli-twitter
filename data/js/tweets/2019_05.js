@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 18:56:47 +0000 2019",
+		"id": 1129475730327375900,
+		"id_str": "1129823162525507585",
+		"full_text": "More on the greatness of Ireland today: \"You don’t exist just ‘to be useful’, President tells young philosophers\" https://t.co/5u7Rnhu9Pq via @IrishTimesCultr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IrishTimesCultr",
+					"name": "Irish Times Culture",
+					"id": 1111829022,
+					"id_str": "1111829022",
+					"indices": [
+						142,
+						158
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5u7Rnhu9Pq",
+					"expanded_url": "https://www.irishtimes.com/culture/you-don-t-exist-just-to-be-useful-president-tells-young-philosophers-1.3893505#.XN8RvZNreqs.twitter",
+					"display_url": "irishtimes.com/culture/you-do…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 235652202,
+			"id_str": "235652202",
+			"name": "Tim Crane",
+			"screen_name": "timcrane102",
+			"location": "Budapest, Hungary",
+			"description": "Professor of Philosophy at CEU, Budapest. Philosophy Editor at the TLS. #IstandwithCEU Author of The Meaning of Belief",
+			"url": "https://t.co/qD7dAjjV0w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qD7dAjjV0w",
+							"expanded_url": "http://www.timcrane.com",
+							"display_url": "timcrane.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11001,
+			"friends_count": 1092,
+			"listed_count": 287,
+			"created_at": "Sat Jan 08 19:13:50 +0000 2011",
+			"favourites_count": 8598,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9088,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/963162812141985796/PCTYJ4ld_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/235652202/1540510563",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More on the greatness of Ireland today: \"You don’t exist just ‘to be useful’, President tells young philosophers\" https://t.co/5u7Rnhu9Pq via @IrishTimesCultr"
+	},
+	{
 		"created_at": "Wed May 15 16:35:37 +0000 2019",
 		"id": 1128422066942820400,
 		"id_str": "1128700470330101760",
