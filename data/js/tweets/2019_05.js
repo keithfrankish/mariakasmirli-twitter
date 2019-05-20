@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 19 13:40:17 +0000 2019",
+		"id": 1130103038411198500,
+		"id_str": "1130105900377739264",
+		"full_text": "CNN reporters visited the French Finnish school of Helsinki and met  primary, secondary and upper secondary students and teachers. They had long discussions about the use of social media, disinformation and the EU-elections. @faktabaari @HRSK_LFF https://t.co/GKadixgjb6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Faktabaari",
+					"name": "Faktabaari",
+					"id": 2325242556,
+					"id_str": "2325242556",
+					"indices": [
+						225,
+						236
+					]
+				},
+				{
+					"screen_name": "HRSK_LFF",
+					"name": "HRSK",
+					"id": 798229998180122600,
+					"id_str": "798229998180122624",
+					"indices": [
+						237,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GKadixgjb6",
+					"expanded_url": "https://faktabaari.fi/edu/cnn-reporters-visited-the-french-finnish-school-of-helsinki/",
+					"display_url": "faktabaari.fi/edu/cnn-report…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation, multilingualism, art, IP, IT, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 582,
+			"friends_count": 894,
+			"listed_count": 24,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 6573,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3536,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CNN reporters visited the French Finnish school of Helsinki and met  primary, secondary and upper secondary students and teachers. They had long discussions about the use of social media, disinformation and the EU-elections. @faktabaari @HRSK_LFF https://t.co/GKadixgjb6"
+	},
+	{
 		"created_at": "Sat May 18 18:56:47 +0000 2019",
 		"id": 1129475730327375900,
 		"id_str": "1129823162525507585",
