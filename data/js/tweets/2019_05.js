@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 28 04:26:41 +0000 2019",
+		"id": 1132881506236604400,
+		"id_str": "1133228071400726533",
+		"full_text": "Eudaimonia classes: private school turns to the teachings of Aristotle in an attempt to boost pupil wellbeing.  https://t.co/pZBGV99Z2w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pZBGV99Z2w",
+					"expanded_url": "https://www.telegraph.co.uk/news/2019/05/18/school-turns-teachings-aristotle-attempt-boost-pupil-wellbeing/",
+					"display_url": "telegraph.co.uk/news/2019/05/1…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Freelance philosopher. A Little History of Philosophy, Philosophy Bites. Consultant editor @aeonmag, @thenewphil, @five_books. #philosophyinthebookshop",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73094,
+			"friends_count": 6266,
+			"listed_count": 2518,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 34256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 42230,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eudaimonia classes: private school turns to the teachings of Aristotle in an attempt to boost pupil wellbeing.  https://t.co/pZBGV99Z2w"
+	},
+	{
 		"created_at": "Mon May 27 13:06:40 +0000 2019",
 		"id": 1132927040523522000,
 		"id_str": "1132996542506381312",
