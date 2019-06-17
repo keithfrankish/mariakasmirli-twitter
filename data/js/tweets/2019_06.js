@@ -1,10 +1,116 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 05:31:05 +0000 2019",
+		"id": 1140129648308826100,
+		"id_str": "1140129648308826113",
+		"full_text": "BBC News - Obituary: Franco Zeffirelli https://t.co/0Otg4Bpic4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Otg4Bpic4",
+					"expanded_url": "https://www.bbc.com/news/entertainment-arts-24855930",
+					"display_url": "bbc.com/news/entertain…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 637,
+			"friends_count": 458,
+			"listed_count": 31,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2890,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1083088903102480387/2rLffYvL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1547567920",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "cs",
+		"text": "BBC News - Obituary: Franco Zeffirelli https://t.co/0Otg4Bpic4"
+	},
+	{
 		"created_at": "Fri Jun 07 15:40:27 +0000 2019",
 		"id": 1136952835164311600,
 		"id_str": "1137021508973453312",
-		"full_text": ".@JoshForstenzer​ and @caseystrine are in this highlights video discussing the Pedagogy of the Good Life at last year's workshop on the topic at @YaleDivSchool. https://t.co/XpDwlpzPsC",
+		"full_text": ".@JoshForstenzer and @caseystrine are in this highlights video discussing the Pedagogy of the Good Life at last year's workshop on the topic at @YaleDivSchool. https://t.co/XpDwlpzPsC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -135,7 +241,7 @@ Grailbird.data.tweets_2019_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": ".@JoshForstenzer​ and @caseystrine are in this highlights video discussing the Pedagogy of the Good Life at last year's workshop on the topic at @YaleDivSchool. https://t.co/XpDwlpzPsC"
+		"text": ".@JoshForstenzer and @caseystrine are in this highlights video discussing the Pedagogy of the Good Life at last year's workshop on the topic at @YaleDivSchool. https://t.co/XpDwlpzPsC"
 	},
 	{
 		"created_at": "Mon Jun 03 14:01:46 +0000 2019",
