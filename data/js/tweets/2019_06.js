@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 04:41:20 +0000 2019",
+		"id": 1140259166805794800,
+		"id_str": "1140479518618071040",
+		"full_text": "A useful reminder to audiences at talks: it can make all the difference to make eye contact, smile, and give a little “I’m following! You’re doing fine!” nod as they’re speaking. \n\nA sea of zero-affect faces can be hard to parse and adds to an already heavy cognitive load. https://t.co/LdehEYqedd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LdehEYqedd",
+					"expanded_url": "https://twitter.com/olivertraldi/status/1140073763884666882",
+					"display_url": "twitter.com/olivertraldi/s…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970766939009306600,
+			"id_str": "970766939009306625",
+			"name": "Tim Kenyon",
+			"screen_name": "TimAKenyon",
+			"location": "",
+			"description": "Human person, research admin, critical thinking author. Phil. of language, social epistemology, cycling. Tweets *at most* my own views, frequently less. he/him",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 330,
+			"friends_count": 427,
+			"listed_count": 8,
+			"created_at": "Mon Mar 05 21:04:09 +0000 2018",
+			"favourites_count": 3344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970766939009306625/1520811655",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1140073763884666900,
+		"quoted_status_id_str": "1140073763884666882",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LdehEYqedd",
+			"expanded": "https://twitter.com/olivertraldi/status/1140073763884666882",
+			"display": "twitter.com/olivertraldi/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 16 01:49:01 +0000 2019",
+			"id": 1140073763884666900,
+			"id_str": "1140073763884666882",
+			"full_text": "My first outside-of-class philosophy presentation didn't go so great. (And I traveled for 24 hours to get there!) I still get very nervous in front of people, especially presenting my own ideas, and when I look at people's faces and see them not reacting, I get sort of paralyzed.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 778952476565368800,
+				"id_str": "778952476565368832",
+				"name": "Oliver Traldi",
+				"screen_name": "olivertraldi",
+				"location": "",
+				"description": "I'm a book reviewer, essayist, and columnist @ArcDigi, and a graduate student in philosophy @philosophy_nd.",
+				"url": "https://t.co/SPwOYILXTy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SPwOYILXTy",
+								"expanded_url": "https://olivertraldi.weebly.com",
+								"display_url": "olivertraldi.weebly.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6240,
+				"friends_count": 2546,
+				"listed_count": 83,
+				"created_at": "Thu Sep 22 13:41:57 +0000 2016",
+				"favourites_count": 77203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4222,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1046254353085075457/--so_wZR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046254353085075457/--so_wZR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/778952476565368832/1538281509",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 105,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A useful reminder to audiences at talks: it can make all the difference to make eye contact, smile, and give a little “I’m following! You’re doing fine!” nod as they’re speaking. \n\nA sea of zero-affect faces can be hard to parse and adds to an already heavy cognitive load. https://t.co/LdehEYqedd"
+	},
+	{
 		"created_at": "Sun Jun 16 05:31:05 +0000 2019",
 		"id": 1140129648308826100,
 		"id_str": "1140129648308826113",
