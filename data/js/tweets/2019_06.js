@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 21 14:35:38 +0000 2019",
+		"id": 1141284488154091500,
+		"id_str": "1142078629175861248",
+		"full_text": "Anddd we've done it 🎉 the uni has been ranked within the top 100 in the world, 13th best in the UK and top in Yorkshire and the Humber! https://t.co/1cEsQzC6am",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1141273168641966100,
+					"id_str": "1141273168641966080",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ad5nCWwAAah1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ad5nCWwAAah1I.jpg",
+					"url": "https://t.co/1cEsQzC6am",
+					"display_url": "pic.twitter.com/1cEsQzC6am",
+					"expanded_url": "https://twitter.com/shefunistudents/status/1141284488154091520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1141273168641966100,
+					"id_str": "1141273168641966080",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9ad5nCWwAAah1I.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9ad5nCWwAAah1I.jpg",
+					"url": "https://t.co/1cEsQzC6am",
+					"display_url": "pic.twitter.com/1cEsQzC6am",
+					"expanded_url": "https://twitter.com/shefunistudents/status/1141284488154091520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25047459,
+			"id_str": "25047459",
+			"name": "University of Sheffield Students",
+			"screen_name": "shefunistudents",
+			"location": "University of Sheffield",
+			"description": "Official account for students at the University of Sheffield. We answer questions Mon-Fri, 9-5.",
+			"url": "https://t.co/rbTaFUmc7Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rbTaFUmc7Q",
+							"expanded_url": "http://www.sheffield.ac.uk/students",
+							"display_url": "sheffield.ac.uk/students",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7338,
+			"friends_count": 2333,
+			"listed_count": 101,
+			"created_at": "Wed Mar 18 08:55:40 +0000 2009",
+			"favourites_count": 921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5EC3F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/954374080584736768/YoUA67y9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/954374080584736768/YoUA67y9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25047459/1542213309",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anddd we've done it 🎉 the uni has been ranked within the top 100 in the world, 13th best in the UK and top in Yorkshire and the Humber! https://t.co/1cEsQzC6am"
+	},
+	{
 		"created_at": "Wed Jun 19 15:25:12 +0000 2019",
 		"id": 1141342408862552000,
 		"id_str": "1141366325115273217",
