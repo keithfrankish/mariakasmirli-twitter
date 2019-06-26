@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 25 19:28:05 +0000 2019",
+		"id": 1143600545703370800,
+		"id_str": "1143601777293631491",
+		"full_text": "Did you graduate in a Brussels European School in 2018? You can sign up for the 2018 Alumni Survey - future generations of students will be very thankful if you share your experience!\n\nhttps://t.co/XAw5jL9XIJ https://t.co/XAw5jL9XIJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XAw5jL9XIJ",
+					"expanded_url": "https://ec.europa.eu/eusurvey/runner/Survey_Alumni_ES_2017-2018",
+					"display_url": "ec.europa.eu/eusurvey/runne…",
+					"indices": [
+						185,
+						208
+					]
+				},
+				{
+					"url": "https://t.co/XAw5jL9XIJ",
+					"expanded_url": "https://ec.europa.eu/eusurvey/runner/Survey_Alumni_ES_2017-2018",
+					"display_url": "ec.europa.eu/eusurvey/runne…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 321624839,
+			"id_str": "321624839",
+			"name": "Euroschool Insider",
+			"screen_name": "ES_Insider",
+			"location": "",
+			"description": "Euroschool the inside story is a journalism project about the European School system, crowdsourcing the opinions of students, past students, staff and parents.",
+			"url": "http://t.co/wdHFZaEs3w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wdHFZaEs3w",
+							"expanded_url": "http://www.facebook.com/pages/Euroschool-the-inside-story",
+							"display_url": "facebook.com/pages/Euroscho…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143,
+			"friends_count": 2,
+			"listed_count": 2,
+			"created_at": "Tue Jun 21 21:39:22 +0000 2011",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1406895209/logosl_normal.gif",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1406895209/logosl_normal.gif",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you graduate in a Brussels European School in 2018? You can sign up for the 2018 Alumni Survey - future generations of students will be very thankful if you share your experience!\n\nhttps://t.co/XAw5jL9XIJ https://t.co/XAw5jL9XIJ"
+	},
+	{
 		"created_at": "Mon Jun 24 17:31:15 +0000 2019",
 		"id": 1143209987478609900,
 		"id_str": "1143209987478609920",
