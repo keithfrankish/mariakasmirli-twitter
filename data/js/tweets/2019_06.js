@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 27 20:04:58 +0000 2019",
+		"id": 1144262365959135200,
+		"id_str": "1144335834436505600",
+		"full_text": "Jenny Saul has a new paper out! \"(How) Should We Tell Implicit Bias Stories?\" in Disputatio https://t.co/LSsbyDWkPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LSsbyDWkPG",
+					"expanded_url": "https://content.sciendo.com/view/journals/disp/10/50/article-p217.xml",
+					"display_url": "content.sciendo.com/view/journals/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1813,
+			"friends_count": 500,
+			"listed_count": 44,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877450774946729984/5pQtplTL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1535465206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jenny Saul has a new paper out! \"(How) Should We Tell Implicit Bias Stories?\" in Disputatio https://t.co/LSsbyDWkPG"
+	},
+	{
 		"created_at": "Tue Jun 25 19:28:05 +0000 2019",
 		"id": 1143600545703370800,
 		"id_str": "1143601777293631491",
