@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 04:44:29 +0000 2019",
+		"id": 1143489041255555100,
+		"id_str": "1144466577078665217",
+		"full_text": "Did you know? Every week on the Teaching with @Europeanaeu blog you can find new inspiring learning scenarios and stories of implementation. Today it's all about helping girls pioneer #digital #economy! \n\n#EuropeanaEducation #CulturalHeritage #STEM\n\nhttps://t.co/waHw0Fp9un",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digital",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"text": "economy",
+					"indices": [
+						193,
+						201
+					]
+				},
+				{
+					"text": "EuropeanaEducation",
+					"indices": [
+						205,
+						224
+					]
+				},
+				{
+					"text": "CulturalHeritage",
+					"indices": [
+						225,
+						242
+					]
+				},
+				{
+					"text": "STEM",
+					"indices": [
+						243,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Europeanaeu",
+					"name": "Europeana",
+					"id": 79299249,
+					"id_str": "79299249",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/waHw0Fp9un",
+					"expanded_url": "https://bit.ly/2XsT8kn",
+					"display_url": "bit.ly/2XsT8kn",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 961889924000739300,
+			"id_str": "961889924000739328",
+			"name": "Future Classroom Lab by European Schoolnet",
+			"screen_name": "fcl_euschoolnet",
+			"location": "Brussels, Belgium",
+			"description": "Inspirational learning environment in Brussels, Belgium. Working on innovation in education, based on ICT and different learning zones.",
+			"url": "https://t.co/YyxHIxidKD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YyxHIxidKD",
+							"expanded_url": "http://fcl.eun.org/",
+							"display_url": "fcl.eun.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2500,
+			"friends_count": 718,
+			"listed_count": 26,
+			"created_at": "Fri Feb 09 09:10:03 +0000 2018",
+			"favourites_count": 778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/961892114773827585/RjwRtf2h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/961892114773827585/RjwRtf2h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/961889924000739328/1519636208",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Did you know? Every week on the Teaching with @Europeanaeu blog you can find new inspiring learning scenarios and stories of implementation. Today it's all about helping girls pioneer #digital #economy! \n\n#EuropeanaEducation #CulturalHeritage #STEM\n\nhttps://t.co/waHw0Fp9un"
+	},
+	{
 		"created_at": "Thu Jun 27 20:04:58 +0000 2019",
 		"id": 1144262365959135200,
 		"id_str": "1144335834436505600",
