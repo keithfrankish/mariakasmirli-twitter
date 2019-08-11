@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 10 17:56:15 +0000 2019",
+		"id": 1159405694589841400,
+		"id_str": "1160248508215156737",
+		"full_text": "“I wonder if even one of our politicians has ever heard desperate cries for help at high sea in the black of night,” Gaspare says. “I wonder what they would have done. No human being – sailor or not – would have turned away.” \n https://t.co/ltywrR8ZMj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ltywrR8ZMj",
+					"expanded_url": "https://www.theguardian.com/world/2019/aug/03/sicilian-fishermen-risk-prison-to-rescue-migrants-off-libya-italy-salvini?CMP=share_btn_fb&fbclid=IwAR0GdIgxWsb_9amuxg7Fq0Rw63ESof3YyG3j-gOY7hxsD5lHvItU3n2oLbA",
+					"display_url": "theguardian.com/world/2019/aug…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 166988769,
+			"id_str": "166988769",
+			"name": "Joshua Forstenzer",
+			"screen_name": "JoshForstenzer",
+			"location": "Sheffield, England",
+			"description": "Culturally confused French-American philosopher. Dewey scholar. Co-director of the Centre for Engaged Philosophy. University of Sheffield.",
+			"url": "https://t.co/miKy6avUwl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/miKy6avUwl",
+							"expanded_url": "https://www.sheffield.ac.uk/philosophy/staff/profiles/forstenzer",
+							"display_url": "sheffield.ac.uk/philosophy/sta…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 626,
+			"friends_count": 632,
+			"listed_count": 14,
+			"created_at": "Thu Jul 15 13:50:08 +0000 2010",
+			"favourites_count": 2043,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857963777077256192/_zwuGBPM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857963777077256192/_zwuGBPM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/166988769/1493391314",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I wonder if even one of our politicians has ever heard desperate cries for help at high sea in the black of night,” Gaspare says. “I wonder what they would have done. No human being – sailor or not – would have turned away.” \n https://t.co/ltywrR8ZMj"
+	},
+	{
 		"created_at": "Fri Aug 02 15:28:37 +0000 2019",
 		"id": 1156976376064467000,
 		"id_str": "1157312253550583809",
