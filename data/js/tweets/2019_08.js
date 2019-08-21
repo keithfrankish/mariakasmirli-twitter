@@ -1,6 +1,301 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 20 08:47:09 +0000 2019",
+		"id": 1163721350583922700,
+		"id_str": "1163734199712567296",
+		"full_text": "In Finland we have an excellent habit to declare school peace in the beginning of the school year. You can find the declaration of 2019 here: https://t.co/K0H3DUxtkd https://t.co/bajQI0i280",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K0H3DUxtkd",
+					"expanded_url": "https://dzmdrerwnq2zx.cloudfront.net/prod/2019/07/30103701/koulurauhan_julistusteksti_englanti_2019_A4.pdf",
+					"display_url": "dzmdrerwnq2zx.cloudfront.net/prod/2019/07/3…",
+					"indices": [
+						142,
+						165
+					]
+				},
+				{
+					"url": "https://t.co/bajQI0i280",
+					"expanded_url": "https://twitter.com/HRSK_LFF/status/1163720525094490112",
+					"display_url": "twitter.com/HRSK_LFF/statu…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in education, motivation, self-regulation, multilingualism, art, IP, IT, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 630,
+			"friends_count": 962,
+			"listed_count": 24,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 7404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1163720525094490000,
+		"quoted_status_id_str": "1163720525094490112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bajQI0i280",
+			"expanded": "https://twitter.com/HRSK_LFF/status/1163720525094490112",
+			"display": "twitter.com/HRSK_LFF/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 20 07:52:48 +0000 2019",
+			"id": 1163720525094490000,
+			"id_str": "1163720525094490112",
+			"full_text": "Koulurauha julistettu! Déclaration la paix scolaire pour l’année scolaire 2019 - 2020! https://t.co/UDVhdTyKaS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1163720518991827000,
+						"id_str": "1163720518991826946",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/ECZdpXhXUAIeMi6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECZdpXhXUAIeMi6.jpg",
+						"url": "https://t.co/UDVhdTyKaS",
+						"display_url": "pic.twitter.com/UDVhdTyKaS",
+						"expanded_url": "https://twitter.com/HRSK_LFF/status/1163720525094490112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1163720518991827000,
+						"id_str": "1163720518991826946",
+						"indices": [
+							87,
+							110
+						],
+						"media_url": "http://pbs.twimg.com/media/ECZdpXhXUAIeMi6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ECZdpXhXUAIeMi6.jpg",
+						"url": "https://t.co/UDVhdTyKaS",
+						"display_url": "pic.twitter.com/UDVhdTyKaS",
+						"expanded_url": "https://twitter.com/HRSK_LFF/status/1163720525094490112/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 798229998180122600,
+				"id_str": "798229998180122624",
+				"name": "HRSK",
+				"screen_name": "HRSK_LFF",
+				"location": "Helsinki, Suomi",
+				"description": "Helsingin ranskalais-suomalainen koulu Lycée franco-finlandais d'Helsinki Raumantie 4, 00350 Helsinki,",
+				"url": "https://t.co/1bwAbFQIoM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1bwAbFQIoM",
+								"expanded_url": "http://www.hrsk.fi",
+								"display_url": "hrsk.fi",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 145,
+				"friends_count": 37,
+				"listed_count": 2,
+				"created_at": "Mon Nov 14 18:23:56 +0000 2016",
+				"favourites_count": 449,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 606,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798271945338945536/dvKhql6F_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798271945338945536/dvKhql6F_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/798229998180122624/1479804238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Finland we have an excellent habit to declare school peace in the beginning of the school year. You can find the declaration of 2019 here: https://t.co/K0H3DUxtkd https://t.co/bajQI0i280"
+	},
+	{
 		"created_at": "Thu Aug 15 20:07:15 +0000 2019",
 		"id": 1162093417142325200,
 		"id_str": "1162093417142325248",
