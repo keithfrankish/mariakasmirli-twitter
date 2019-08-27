@@ -1,6 +1,576 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Mon Aug 26 18:30:55 +0000 2019",
+		"id": 1166055438951100400,
+		"id_str": "1166055438951100422",
+		"full_text": "@jonathanwebber Thanks Jonathan. I must look that up.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jonathanwebber",
+					"name": "Jonathan Webber",
+					"id": 41664785,
+					"id_str": "41664785",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165243106603819000,
+		"in_reply_to_status_id_str": "1165243106603819009",
+		"in_reply_to_user_id": 41664785,
+		"in_reply_to_user_id_str": "41664785",
+		"in_reply_to_screen_name": "jonathanwebber",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 471,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jonathanwebber Thanks Jonathan. I must look that up."
+	},
+	{
+		"created_at": "Mon Aug 26 18:30:05 +0000 2019",
+		"id": 1166055227222573000,
+		"id_str": "1166055227222573056",
+		"full_text": "@DrJohnLTaylor @keithfrankish Thanks John -- that looks really useful.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrJohnLTaylor",
+					"name": "John Taylor",
+					"id": 92386305,
+					"id_str": "92386305",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165243405636710400,
+		"in_reply_to_status_id_str": "1165243405636710401",
+		"in_reply_to_user_id": 92386305,
+		"in_reply_to_user_id_str": "92386305",
+		"in_reply_to_screen_name": "DrJohnLTaylor",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 471,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrJohnLTaylor @keithfrankish Thanks John -- that looks really useful."
+	},
+	{
+		"created_at": "Mon Aug 26 18:29:34 +0000 2019",
+		"id": 1166055099317272600,
+		"id_str": "1166055099317272576",
+		"full_text": "@JaapSoft Thanks Jaap. I'll take a look at that.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JaapSoft",
+					"name": "Jaap Bosman",
+					"id": 17039585,
+					"id_str": "17039585",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165245932121854000,
+		"in_reply_to_status_id_str": "1165245932121853952",
+		"in_reply_to_user_id": 17039585,
+		"in_reply_to_user_id_str": "17039585",
+		"in_reply_to_screen_name": "JaapSoft",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 471,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JaapSoft Thanks Jaap. I'll take a look at that."
+	},
+	{
+		"created_at": "Mon Aug 26 18:29:14 +0000 2019",
+		"id": 1166055013212463000,
+		"id_str": "1166055013212463104",
+		"full_text": "@Mrjjrocks @keithfrankish Thanks. Yes, I need to follow this up.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mrjjrocks",
+					"name": "Joseph Rachiele",
+					"id": 195049592,
+					"id_str": "195049592",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165245349696626700,
+		"in_reply_to_status_id_str": "1165245349696626689",
+		"in_reply_to_user_id": 195049592,
+		"in_reply_to_user_id_str": "195049592",
+		"in_reply_to_screen_name": "Mrjjrocks",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 471,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mrjjrocks @keithfrankish Thanks. Yes, I need to follow this up."
+	},
+	{
+		"created_at": "Mon Aug 26 18:28:30 +0000 2019",
+		"id": 1166054831049625600,
+		"id_str": "1166054831049625601",
+		"full_text": "@adamhayden @keithfrankish @AlisonGopnik Thanks Adam!",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamhayden",
+					"name": "Adam Hayden",
+					"id": 19505960,
+					"id_str": "19505960",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "AlisonGopnik",
+					"name": "Alison Gopnik",
+					"id": 379368747,
+					"id_str": "379368747",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1165245989281828900,
+		"in_reply_to_status_id_str": "1165245989281828864",
+		"in_reply_to_user_id": 19505960,
+		"in_reply_to_user_id_str": "19505960",
+		"in_reply_to_screen_name": "adamhayden",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 672,
+			"friends_count": 471,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamhayden @keithfrankish @AlisonGopnik Thanks Adam!"
+	},
+	{
 		"created_at": "Sat Aug 24 12:36:03 +0000 2019",
 		"id": 1165241356253638700,
 		"id_str": "1165241356253638662",
