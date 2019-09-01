@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sat Aug 31 20:06:36 +0000 2019",
+		"id": 1167890834961793000,
+		"id_str": "1167891457585209344",
+		"full_text": "A 2019 Teacher of the Year @WI_TOY2019 helped transform a single class into a school-wide program for English language learners. She shares her step-by-strategies. https://t.co/Wv6CCvJAb2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WI_TOY2019",
+					"name": "Sarahi Monterrey",
+					"id": 1882954614,
+					"id_str": "1882954614",
+					"indices": [
+						27,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Wv6CCvJAb2",
+					"expanded_url": "https://edut.to/32eaArI",
+					"display_url": "edut.to/32eaArI",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 35415477,
+			"id_str": "35415477",
+			"name": "edutopia",
+			"screen_name": "edutopia",
+			"location": "San Rafael, California, USA",
+			"description": "Inspiration and information about what works in education.",
+			"url": "http://t.co/1EFByufIFS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1EFByufIFS",
+							"expanded_url": "http://edutopia.org",
+							"display_url": "edutopia.org",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1112159,
+			"friends_count": 69404,
+			"listed_count": 16698,
+			"created_at": "Sun Apr 26 05:56:43 +0000 2009",
+			"favourites_count": 108054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 62716,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778673788414066688/9navbVHc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778673788414066688/9navbVHc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/35415477/1506104106",
+			"profile_link_color": "0099FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A 2019 Teacher of the Year @WI_TOY2019 helped transform a single class into a school-wide program for English language learners. She shares her step-by-strategies. https://t.co/Wv6CCvJAb2"
+	},
+	{
 		"created_at": "Tue Aug 27 16:56:38 +0000 2019",
 		"id": 1166394098804318200,
 		"id_str": "1166394098804318210",
