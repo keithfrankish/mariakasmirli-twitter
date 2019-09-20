@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 19 17:52:01 +0000 2019",
+		"id": 1174742957737631700,
+		"id_str": "1174742957737631744",
+		"full_text": "Harry and Marco https://t.co/7BrVgGyovC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174742898656600000,
+					"id_str": "1174742898656600064",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EE2GcTjW4AAWGvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE2GcTjW4AAWGvn.jpg",
+					"url": "https://t.co/7BrVgGyovC",
+					"display_url": "pic.twitter.com/7BrVgGyovC",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1174742957737631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1673,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174742898656600000,
+					"id_str": "1174742898656600064",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EE2GcTjW4AAWGvn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EE2GcTjW4AAWGvn.jpg",
+					"url": "https://t.co/7BrVgGyovC",
+					"display_url": "pic.twitter.com/7BrVgGyovC",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1174742957737631744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 980,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 555,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1673,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 671,
+			"friends_count": 477,
+			"listed_count": 32,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 2977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Harry and Marco https://t.co/7BrVgGyovC"
+	},
+	{
 		"created_at": "Tue Sep 17 11:03:15 +0000 2019",
 		"id": 1173914187036336000,
 		"id_str": "1173915312233832449",
