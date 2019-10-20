@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 19:29:34 +0000 2019",
+		"id": 1184476607509155800,
+		"id_str": "1185639142476132352",
+		"full_text": "today's speaker is @Lauradol4 on critical perspectivism, education, and media #philosophy #media https://t.co/fYWPxYy3h9 https://t.co/rzbvTyqJln",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosophy",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"text": "media",
+					"indices": [
+						90,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Lauradol4",
+					"name": "Laura D'Olimpio",
+					"id": 830505859,
+					"id_str": "830505859",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fYWPxYy3h9",
+					"expanded_url": "https://www.birmingham.ac.uk/staff/profiles/education/dolimpio-laura.aspx",
+					"display_url": "birmingham.ac.uk/staff/profiles…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1184476603662983200,
+					"id_str": "1184476603662983168",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EHAbMgYX4AA1z0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHAbMgYX4AA1z0n.jpg",
+					"url": "https://t.co/rzbvTyqJln",
+					"display_url": "pic.twitter.com/rzbvTyqJln",
+					"expanded_url": "https://twitter.com/NottsPhilosophy/status/1184476607509155840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1184476603662983200,
+					"id_str": "1184476603662983168",
+					"indices": [
+						121,
+						144
+					],
+					"media_url": "http://pbs.twimg.com/media/EHAbMgYX4AA1z0n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHAbMgYX4AA1z0n.jpg",
+					"url": "https://t.co/rzbvTyqJln",
+					"display_url": "pic.twitter.com/rzbvTyqJln",
+					"expanded_url": "https://twitter.com/NottsPhilosophy/status/1184476607509155840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 399,
+							"h": 399,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262628100,
+			"id_str": "262628100",
+			"name": "Notts Uni Philosophy",
+			"screen_name": "NottsPhilosophy",
+			"location": "Nottingham, UK",
+			"description": "This is the twitter account of the philosophy department at the University of Nottingham. We like philosophy!!",
+			"url": "https://t.co/OM2OMxUEFW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OM2OMxUEFW",
+							"expanded_url": "http://www.nottingham.ac.uk/philosophy/index.aspx",
+							"display_url": "nottingham.ac.uk/philosophy/ind…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2641,
+			"friends_count": 95,
+			"listed_count": 73,
+			"created_at": "Tue Mar 08 12:33:03 +0000 2011",
+			"favourites_count": 192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286388220/03-philosophy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286388220/03-philosophy_normal.jpg",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "today's speaker is @Lauradol4 on critical perspectivism, education, and media #philosophy #media https://t.co/fYWPxYy3h9 https://t.co/rzbvTyqJln"
+	},
+	{
 		"created_at": "Mon Oct 14 16:22:02 +0000 2019",
 		"id": 1183756070612811800,
 		"id_str": "1183780011184181250",
