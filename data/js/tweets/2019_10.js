@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 27 18:02:13 +0000 2019",
+		"id": 1188330865505513500,
+		"id_str": "1188516265629048832",
+		"full_text": "`Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three distinct factors: to make money; to have political influence, either foreign or domestic; or to cause trouble for the sake of it` https://t.co/guE04WkQ24",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/guE04WkQ24",
+					"expanded_url": "https://twitter.com/firstdraftnews/status/1188063223477497857",
+					"display_url": "twitter.com/firstdraftnews…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in media & information literacy, motivation research, self-regulation, multilingualism, IP-education, IT, languages, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 1006,
+			"listed_count": 24,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 8138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188063223477497900,
+		"quoted_status_id_str": "1188063223477497857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/guE04WkQ24",
+			"expanded": "https://twitter.com/firstdraftnews/status/1188063223477497857",
+			"display": "twitter.com/firstdraftnews…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 26 12:02:00 +0000 2019",
+			"id": 1188063223477497900,
+			"id_str": "1188063223477497857",
+			"full_text": "The term \"fake news\" doesn’t begin to describe the complexity of the different types of misinformation, disinformation and malinformation we're seeing. https://t.co/Gn7sJF46RJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				175
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Gn7sJF46RJ",
+						"expanded_url": "https://firstdraftnews.org/information-disorder-the-techniques-we-saw-in-2016-have-evolved/",
+						"display_url": "firstdraftnews.org/information-di…",
+						"indices": [
+							152,
+							175
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3314775459,
+				"id_str": "3314775459",
+				"name": "First Draft",
+				"screen_name": "firstdraftnews",
+				"location": "New York, USA",
+				"description": "Non-profit fighting misinformation globally. Proud engine behind CrossCheck and @comprova. Free course on verifying online media: https://t.co/J34OvUJHI1",
+				"url": "https://t.co/idfgThYSea",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idfgThYSea",
+								"expanded_url": "http://firstdraftnews.org",
+								"display_url": "firstdraftnews.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/J34OvUJHI1",
+								"expanded_url": "http://firstdraftnews.org/learn",
+								"display_url": "firstdraftnews.org/learn",
+								"indices": [
+									130,
+									153
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22352,
+				"friends_count": 1942,
+				"listed_count": 1247,
+				"created_at": "Tue Jun 09 11:01:31 +0000 2015",
+				"favourites_count": 2782,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 6727,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1172155111117864960/na4WVp-s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1172155111117864960/na4WVp-s_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3314775459/1568298444",
+				"profile_link_color": "9F1924",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 35,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "`Disinformation is content that is intentionally false and designed to cause harm. It is motivated by three distinct factors: to make money; to have political influence, either foreign or domestic; or to cause trouble for the sake of it` https://t.co/guE04WkQ24"
+	},
+	{
 		"created_at": "Fri Oct 25 15:29:00 +0000 2019",
 		"id": 1187667044726198300,
 		"id_str": "1187752931199770625",
