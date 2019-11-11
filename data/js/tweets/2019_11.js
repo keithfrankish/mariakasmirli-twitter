@@ -1,6 +1,103 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 22:23:44 +0000 2019",
+		"id": 1193625673555939300,
+		"id_str": "1193655505887072256",
+		"full_text": "I have been in teaching for 20 years now and have never come across a Story Map Bookmark. One of my Year 5 boys has just started reading longer novels but kept forgetting the plot. He invented his own storymap bookmark - all yr5 have them now -will make one and put on TES -genius",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 989959924619923500,
+			"id_str": "989959924619923462",
+			"name": "Mr B",
+			"screen_name": "mrBscintilla",
+			"location": "Newton Abbot, England",
+			"description": "Primary School Leader, edu-software designer, co-creator of the Scintilla Spark app - coming soon to a school near you - early launch deals out now",
+			"url": "https://t.co/cOWvfxAqcE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cOWvfxAqcE",
+							"expanded_url": "https://sparkplug.blog",
+							"display_url": "sparkplug.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1541,
+			"friends_count": 2532,
+			"listed_count": 5,
+			"created_at": "Fri Apr 27 20:10:13 +0000 2018",
+			"favourites_count": 824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067192417227558912/KgwsUdmB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067192417227558912/KgwsUdmB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/989959924619923462/1557211467",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 34,
+		"favorite_count": 437,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I have been in teaching for 20 years now and have never come across a Story Map Bookmark. One of my Year 5 boys has just started reading longer novels but kept forgetting the plot. He invented his own storymap bookmark - all yr5 have them now -will make one and put on TES -genius"
+	},
+	{
 		"created_at": "Sat Nov 09 11:39:48 +0000 2019",
 		"id": 1193131066216865800,
 		"id_str": "1193131066216865792",
