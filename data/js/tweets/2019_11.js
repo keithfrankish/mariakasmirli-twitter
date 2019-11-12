@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 11 16:14:25 +0000 2019",
+		"id": 1193907016986775600,
+		"id_str": "1193924951683809282",
+		"full_text": "This is an amazing visual for language acquisition!  Thanks to beavertonsd's multilingual dept. for creating principles that can apply to any classroom.  https://t.co/ONR9Om3xZA #ell #ellchat #teacher  #edchat",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ell",
+					"indices": [
+						178,
+						182
+					]
+				},
+				{
+					"text": "ellchat",
+					"indices": [
+						183,
+						191
+					]
+				},
+				{
+					"text": "teacher",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						202,
+						209
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ONR9Om3xZA",
+					"expanded_url": "http://bit.ly/2nUwpOv",
+					"display_url": "bit.ly/2nUwpOv",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tweepsmap.com\" rel=\"nofollow\">Tweepsmap</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2393313872,
+			"id_str": "2393313872",
+			"name": "Matt Hiefield",
+			"screen_name": "MattHiefield",
+			"location": "Beaverton, OR",
+			"description": "HS teacher for 25 yrs. Peace Corps. Future Ready/Google/Apple Exploring #digitalequity, #homeworkgap & #digitaldivide Issues!   Hablo español, je parle français",
+			"url": "https://t.co/b3oEF13h37",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b3oEF13h37",
+							"expanded_url": "http://digitaldivideinuseducation.blogspot.com/",
+							"display_url": "…gitaldivideinuseducation.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40753,
+			"friends_count": 33617,
+			"listed_count": 412,
+			"created_at": "Sun Mar 16 21:44:34 +0000 2014",
+			"favourites_count": 2194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846059128212484096/M7f9qmKu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846059128212484096/M7f9qmKu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2393313872/1529588892",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an amazing visual for language acquisition!  Thanks to beavertonsd's multilingual dept. for creating principles that can apply to any classroom.  https://t.co/ONR9Om3xZA #ell #ellchat #teacher  #edchat"
+	},
+	{
+		"created_at": "Mon Nov 11 12:30:22 +0000 2019",
+		"id": 1193833243436433400,
+		"id_str": "1193868567357333511",
+		"full_text": "Tomorrow: Join Richard Hudson, Hazel Pearson &amp; @GuyLongworth as they discuss grammar. What is it? Why do we have it? How does it relate to meaning? And why do scientists study it? \n\nMuch grammar! So philosophy! Very Forum.\n\n@quiteclare @RIPhilo @QMULLinguistics\n#LSEForum https://t.co/yFnlbxBlmk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LSEForum",
+					"indices": [
+						266,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GuyLongworth",
+					"name": "Guy Longworth",
+					"id": 142716265,
+					"id_str": "142716265",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "quiteclare",
+					"name": "•Clare M●riarty•",
+					"id": 756083810031329300,
+					"id_str": "756083810031329280",
+					"indices": [
+						228,
+						239
+					]
+				},
+				{
+					"screen_name": "RIPhilo",
+					"name": "RoyalInstPhilosophy",
+					"id": 4016524577,
+					"id_str": "4016524577",
+					"indices": [
+						240,
+						248
+					]
+				},
+				{
+					"screen_name": "QMULLinguistics",
+					"name": "Linguistics@QMUL",
+					"id": 2813108240,
+					"id_str": "2813108240",
+					"indices": [
+						249,
+						265
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1188831108886081500,
+					"id_str": "1188831108886081536",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EH-TmEcWsAADKeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH-TmEcWsAADKeI.jpg",
+					"url": "https://t.co/yFnlbxBlmk",
+					"display_url": "pic.twitter.com/yFnlbxBlmk",
+					"expanded_url": "https://twitter.com/forumphilosophy/status/1193833243436433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 254,
+									"y": 164,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1188831108886081500,
+					"id_str": "1188831108886081536",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EH-TmEcWsAADKeI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EH-TmEcWsAADKeI.jpg",
+					"url": "https://t.co/yFnlbxBlmk",
+					"display_url": "pic.twitter.com/yFnlbxBlmk",
+					"expanded_url": "https://twitter.com/forumphilosophy/status/1193833243436433408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 254,
+									"y": 164,
+									"h": 109,
+									"w": 109
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 383,
+									"y": 247,
+									"h": 165,
+									"w": 165
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3246996364,
+			"id_str": "3246996364",
+			"name": "Forum for Philosophy",
+			"screen_name": "forumphilosophy",
+			"location": "LSE",
+			"description": "The Forum for Philosophy | Science, politics & culture from a philosophical perspective #LSEForum #publicphilosophy #podcasts",
+			"url": "https://t.co/jI9vzFm8vb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jI9vzFm8vb",
+							"expanded_url": "http://www.philosophy-forum.org",
+							"display_url": "philosophy-forum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5375,
+			"friends_count": 1323,
+			"listed_count": 139,
+			"created_at": "Mon May 11 23:08:30 +0000 2015",
+			"favourites_count": 4042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "94D487",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047546198691926016/sI7ZREbp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047546198691926016/sI7ZREbp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3246996364/1570914753",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tomorrow: Join Richard Hudson, Hazel Pearson &amp; @GuyLongworth as they discuss grammar. What is it? Why do we have it? How does it relate to meaning? And why do scientists study it? \n\nMuch grammar! So philosophy! Very Forum.\n\n@quiteclare @RIPhilo @QMULLinguistics\n#LSEForum https://t.co/yFnlbxBlmk"
+	},
+	{
 		"created_at": "Sun Nov 10 22:23:44 +0000 2019",
 		"id": 1193625673555939300,
 		"id_str": "1193655505887072256",
