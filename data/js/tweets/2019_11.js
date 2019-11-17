@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 16:37:49 +0000 2019",
+		"id": 1195705220048785400,
+		"id_str": "1195742781442023425",
+		"full_text": "Coverage in the Times about our new Nuffield funded research project.\nhttps://t.co/nuB3aFai3h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nuB3aFai3h",
+					"expanded_url": "https://www.thetimes.co.uk/article/study-to-decide-whether-curriculum-for-excellence-harms-pupils-hwgzn8s8v",
+					"display_url": "thetimes.co.uk/article/study-…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 531346364,
+			"id_str": "531346364",
+			"name": "Mark Priestley 🇪🇺",
+			"screen_name": "MarkRPriestley",
+			"location": "University of Stirling",
+			"description": "Education Professor, University of Stirling. Lead editor of the Curriculum Journal. Interested in teachers and the curriculum. Blog at https://t.co/eZfvv8q5mx",
+			"url": "https://t.co/pzmPLTNQFr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pzmPLTNQFr",
+							"expanded_url": "http://rms.stir.ac.uk/converis-stirling/person/11016",
+							"display_url": "rms.stir.ac.uk/converis-stirl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eZfvv8q5mx",
+							"expanded_url": "http://mrpriestley.wordpress.com",
+							"display_url": "mrpriestley.wordpress.com",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7310,
+			"friends_count": 1111,
+			"listed_count": 113,
+			"created_at": "Tue Mar 20 15:20:03 +0000 2012",
+			"favourites_count": 328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030103",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170788153516527617/OFz4LV1A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170788153516527617/OFz4LV1A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/531346364/1439237749",
+			"profile_link_color": "947974",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "FA8459",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coverage in the Times about our new Nuffield funded research project.\nhttps://t.co/nuB3aFai3h"
+	},
+	{
 		"created_at": "Fri Nov 15 06:27:04 +0000 2019",
 		"id": 1195225424365858800,
 		"id_str": "1195226693243408386",
