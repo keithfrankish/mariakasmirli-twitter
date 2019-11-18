@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 18:49:26 +0000 2019",
+		"id": 1196120898685874200,
+		"id_str": "1196138290098954240",
+		"full_text": "Need advice about freedom of expression in universities? Our guidance sets out:\n\n🗒️ Information about the relevant laws and legal issues to consider\n🗒️ Definitions for terms related to freedom of expression\n🗒️ Case studies\n\nTake a look ➡️  https://t.co/ZAFXh5Spzs https://t.co/RN3Wc5DpZ2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZAFXh5Spzs",
+					"expanded_url": "http://socsi.in/bE1ol",
+					"display_url": "socsi.in/bE1ol",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1196120834387193900,
+					"id_str": "1196120834387193856",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196120834387193856/pu/img/-qfyZPJf8hzjMWda.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196120834387193856/pu/img/-qfyZPJf8hzjMWda.jpg",
+					"url": "https://t.co/RN3Wc5DpZ2",
+					"display_url": "pic.twitter.com/RN3Wc5DpZ2",
+					"expanded_url": "https://twitter.com/EHRC/status/1196120898685874176/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196120834387193900,
+					"id_str": "1196120834387193856",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1196120834387193856/pu/img/-qfyZPJf8hzjMWda.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1196120834387193856/pu/img/-qfyZPJf8hzjMWda.jpg",
+					"url": "https://t.co/RN3Wc5DpZ2",
+					"display_url": "pic.twitter.com/RN3Wc5DpZ2",
+					"expanded_url": "https://twitter.com/EHRC/status/1196120898685874176/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 30013,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196120834387193856/pu/vid/640x360/nYoJAZxyJPkFilKb.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1196120834387193856/pu/pl/b1e2_VHEVKnHkiXV.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196120834387193856/pu/vid/1280x720/rdyQl4pmXA-tNKRT.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1196120834387193856/pu/vid/480x270/KmOf60_GCVM2mYnE.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17438751,
+			"id_str": "17438751",
+			"name": "EHRC",
+			"screen_name": "EHRC",
+			"location": "Great Britain",
+			"description": "We’re here to stand up for freedom, compassion and justice in our changing times.",
+			"url": "http://t.co/VAc9FZBn90",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAc9FZBn90",
+							"expanded_url": "http://www.equalityhumanrights.com",
+							"display_url": "equalityhumanrights.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34770,
+			"friends_count": 1158,
+			"listed_count": 680,
+			"created_at": "Mon Nov 17 10:06:17 +0000 2008",
+			"favourites_count": 1384,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E3E3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148534490668720129/bMQD3hGC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148534490668720129/bMQD3hGC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17438751/1553858366",
+			"profile_link_color": "AF1685",
+			"profile_sidebar_border_color": "333A3B",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "3D3A3B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Need advice about freedom of expression in universities? Our guidance sets out:\n\n🗒️ Information about the relevant laws and legal issues to consider\n🗒️ Definitions for terms related to freedom of expression\n🗒️ Case studies\n\nTake a look ➡️  https://t.co/ZAFXh5Spzs https://t.co/RN3Wc5DpZ2"
+	},
+	{
+		"created_at": "Sun Nov 17 14:48:52 +0000 2019",
+		"id": 1196057398508769300,
+		"id_str": "1196077749246582784",
+		"full_text": "Who dreamed the dreams you can't remember?\nWho felt the touch you didn't notice?\nWho said the words you didn't mean?\nWho lives your life when you're not looking?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52522040,
+			"id_str": "52522040",
+			"name": "Keith Frankish",
+			"screen_name": "keithfrankish",
+			"location": "Heraklion, Crete, Greece",
+			"description": "Philosopher & writer. European. Honorary Reader @sheffielduni. Interests in consciousness, reasoning, belief. Tweeting phil mind, cog sci, Greece, links & chat.",
+			"url": "http://t.co/tXhT44huzC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/tXhT44huzC",
+							"expanded_url": "http://www.keithfrankish.com",
+							"display_url": "keithfrankish.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10741,
+			"friends_count": 1997,
+			"listed_count": 487,
+			"created_at": "Tue Jun 30 21:10:19 +0000 2009",
+			"favourites_count": 31673,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 52999,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "304075",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084131011598925825/GMmpq6w0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52522040/1554843010",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "C0C6CC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Who dreamed the dreams you can't remember?\nWho felt the touch you didn't notice?\nWho said the words you didn't mean?\nWho lives your life when you're not looking?"
+	},
+	{
+		"created_at": "Sun Nov 17 14:48:21 +0000 2019",
+		"id": 1196054127463153700,
+		"id_str": "1196077619541893120",
+		"full_text": "It’s International Students' Day! \nWith #ErasmusPlus you can study, train or volunteer in one of the 33 participating countries. Even if it can be a bit difficult to leave your family behind ↓ #EUandME https://t.co/Hdx6wYsOzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ErasmusPlus",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"text": "EUandME",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1157251720206082000,
+					"id_str": "1157251720206082048",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EA9lRt7XkAAjVkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA9lRt7XkAAjVkU.jpg",
+					"url": "https://t.co/Hdx6wYsOzp",
+					"display_url": "pic.twitter.com/Hdx6wYsOzp",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1196054127463153665/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1157251720206082000,
+					"id_str": "1157251720206082048",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/EA9lRt7XkAAjVkU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EA9lRt7XkAAjVkU.jpg",
+					"url": "https://t.co/Hdx6wYsOzp",
+					"display_url": "pic.twitter.com/Hdx6wYsOzp",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1196054127463153665/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 143680,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157251720206082048/vid/480x270/9cGRTwyAe8bNMdet.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157251720206082048/vid/640x360/PF2nxTHzQ52iPtZb.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1157251720206082048/vid/1280x720/rhSAX2DtgRe-oj1L.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1157251720206082048/pl/MHoaDAwCZY07-wsQ.m3u8?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "A Day in the Life of Tiago (Portugal)",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://ec.europa.eu/programmes/erasmus-plus/node_en"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157981564,
+			"id_str": "157981564",
+			"name": "European Commission 🇪🇺",
+			"screen_name": "EU_Commission",
+			"location": "Brussels, Belgium",
+			"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+			"url": "https://t.co/2HnQtKhvZ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HnQtKhvZ6",
+							"expanded_url": "http://ec.europa.eu",
+							"display_url": "ec.europa.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HDhTPYZYmg",
+							"expanded_url": "http://ec.europa.eu/priorities/",
+							"display_url": "ec.europa.eu/priorities/",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1177161,
+			"friends_count": 868,
+			"listed_count": 11848,
+			"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+			"favourites_count": 9712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 34889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9DD3EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1557842104",
+			"profile_link_color": "0C7DA6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CFECF9",
+			"profile_text_color": "1D1E23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 115,
+		"favorite_count": 257,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s International Students' Day! \nWith #ErasmusPlus you can study, train or volunteer in one of the 33 participating countries. Even if it can be a bit difficult to leave your family behind ↓ #EUandME https://t.co/Hdx6wYsOzp"
+	},
+	{
+		"created_at": "Sun Nov 17 11:02:35 +0000 2019",
+		"id": 1195837009258057700,
+		"id_str": "1196020806633115649",
+		"full_text": "Novels that Shaped Our World on BBC4 is excellent. It’s about how notions of Empire and race have been represented throughout the history of the novel in English",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79141911,
+			"id_str": "79141911",
+			"name": "Dame VictoriaG Esq (MPhil (failed))",
+			"screen_name": "ancientnmodern",
+			"location": "God's own county",
+			"description": "Old bag beset by family & life, longing for the silence of the grave",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2079,
+			"friends_count": 1752,
+			"listed_count": 65,
+			"created_at": "Fri Oct 02 09:48:24 +0000 2009",
+			"favourites_count": 58740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 66843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125151224985194500/bGToEl2A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79141911/1472489459",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Novels that Shaped Our World on BBC4 is excellent. It’s about how notions of Empire and race have been represented throughout the history of the novel in English"
+	},
+	{
 		"created_at": "Sat Nov 16 16:37:49 +0000 2019",
 		"id": 1195705220048785400,
 		"id_str": "1195742781442023425",
