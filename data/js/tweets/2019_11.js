@@ -1,6 +1,585 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 21 20:48:16 +0000 2019",
+		"id": 1197617092083798000,
+		"id_str": "1197617749771591689",
+		"full_text": "During #worldphilosophyday we remember that children are excellent philosophers and they need educational space open to encourage critical thinking in community of inquiry. \n\n#P4C #PwC @ICPIC_P4C #philosophyforchildren https://t.co/Oi8w46VclS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "worldphilosophyday",
+					"indices": [
+						7,
+						26
+					]
+				},
+				{
+					"text": "P4C",
+					"indices": [
+						175,
+						179
+					]
+				},
+				{
+					"text": "PwC",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "philosophyforchildren",
+					"indices": [
+						196,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ICPIC_P4C",
+					"name": "ICPIC_P4C",
+					"id": 2463633734,
+					"id_str": "2463633734",
+					"indices": [
+						185,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197617088984170500,
+					"id_str": "1197617088984170496",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7KZa3WwAAFfyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7KZa3WwAAFfyi.jpg",
+					"url": "https://t.co/Oi8w46VclS",
+					"display_url": "pic.twitter.com/Oi8w46VclS",
+					"expanded_url": "https://twitter.com/KizelArie/status/1197617092083798016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197617088984170500,
+					"id_str": "1197617088984170496",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ7KZa3WwAAFfyi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ7KZa3WwAAFfyi.jpg",
+					"url": "https://t.co/Oi8w46VclS",
+					"display_url": "pic.twitter.com/Oi8w46VclS",
+					"expanded_url": "https://twitter.com/KizelArie/status/1197617092083798016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 380,
+							"h": 380,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1932238772,
+			"id_str": "1932238772",
+			"name": "Dr. Arie Kizel",
+			"screen_name": "KizelArie",
+			"location": "Israel",
+			"description": "President of @ICPIC_P4C ; Head, Development of Educational Systems Program at the @haifaUniversity; Philosophy of Education #P4C #PwC Textbooks & Narrative",
+			"url": "https://t.co/OPYlsaj8BS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OPYlsaj8BS",
+							"expanded_url": "http://ariekizel.blogspot.co.il/",
+							"display_url": "ariekizel.blogspot.co.il",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2479,
+			"friends_count": 1242,
+			"listed_count": 62,
+			"created_at": "Thu Oct 03 22:22:37 +0000 2013",
+			"favourites_count": 19084,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8277,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171110703874433026/XFhJA2yV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171110703874433026/XFhJA2yV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1932238772/1565361476",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "During #worldphilosophyday we remember that children are excellent philosophers and they need educational space open to encourage critical thinking in community of inquiry. \n\n#P4C #PwC @ICPIC_P4C #philosophyforchildren https://t.co/Oi8w46VclS"
+	},
+	{
+		"created_at": "Thu Nov 21 20:33:38 +0000 2019",
+		"id": 1197614065859862500,
+		"id_str": "1197614065859862528",
+		"full_text": "For #WorldPhilosophyDay, here are some of my European School students asking \"What Have the Philosophers Ever Done For Us?\" https://t.co/9rtdCSLmfg (recorded last year)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPhilosophyDay",
+					"indices": [
+						4,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rtdCSLmfg",
+					"expanded_url": "https://youtu.be/n_kElnwv5d0",
+					"display_url": "youtu.be/n_kElnwv5d0",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 695,
+			"friends_count": 490,
+			"listed_count": 34,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3047,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For #WorldPhilosophyDay, here are some of my European School students asking \"What Have the Philosophers Ever Done For Us?\" https://t.co/9rtdCSLmfg (recorded last year)"
+	},
+	{
+		"created_at": "Thu Nov 21 14:26:43 +0000 2019",
+		"id": 1197163552433483800,
+		"id_str": "1197521728269955072",
+		"full_text": "Today is Trans Day of Remembrance when we commemorate all those who have been killed for being transgender or gender-diverse. \n\nCommunication is vital to tackle LGBT prejudice. Watch this short film or visit our website to find out more:  https://t.co/7ZJbPnRtBt https://t.co/vGmeJqAavd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7ZJbPnRtBt",
+					"expanded_url": "http://socsi.in/ynrOY",
+					"display_url": "socsi.in/ynrOY",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1197163466576056300,
+					"id_str": "1197163466576056321",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197163466576056321/pu/img/Jy0CF9a8E5LkyLAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197163466576056321/pu/img/Jy0CF9a8E5LkyLAy.jpg",
+					"url": "https://t.co/vGmeJqAavd",
+					"display_url": "pic.twitter.com/vGmeJqAavd",
+					"expanded_url": "https://twitter.com/EHRC/status/1197163552433483776/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197163466576056300,
+					"id_str": "1197163466576056321",
+					"indices": [
+						263,
+						286
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1197163466576056321/pu/img/Jy0CF9a8E5LkyLAy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1197163466576056321/pu/img/Jy0CF9a8E5LkyLAy.jpg",
+					"url": "https://t.co/vGmeJqAavd",
+					"display_url": "pic.twitter.com/vGmeJqAavd",
+					"expanded_url": "https://twitter.com/EHRC/status/1197163552433483776/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 77480,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1197163466576056321/pu/pl/dJ0mTCpalMR6eUv3.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197163466576056321/pu/vid/480x270/mkQf2ktsb0RK9MUt.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197163466576056321/pu/vid/640x360/lmZcwWVJ60jLTzZ0.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1197163466576056321/pu/vid/1280x720/3NvDp0Lr4n18EqyA.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17438751,
+			"id_str": "17438751",
+			"name": "EHRC",
+			"screen_name": "EHRC",
+			"location": "Great Britain",
+			"description": "We’re here to stand up for freedom, compassion and justice in our changing times.",
+			"url": "http://t.co/VAc9FZBn90",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/VAc9FZBn90",
+							"expanded_url": "http://www.equalityhumanrights.com",
+							"display_url": "equalityhumanrights.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34824,
+			"friends_count": 1159,
+			"listed_count": 679,
+			"created_at": "Mon Nov 17 10:06:17 +0000 2008",
+			"favourites_count": 1385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E3E3E3",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148534490668720129/bMQD3hGC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148534490668720129/bMQD3hGC_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17438751/1553858366",
+			"profile_link_color": "AF1685",
+			"profile_sidebar_border_color": "333A3B",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "3D3A3B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is Trans Day of Remembrance when we commemorate all those who have been killed for being transgender or gender-diverse. \n\nCommunication is vital to tackle LGBT prejudice. Watch this short film or visit our website to find out more:  https://t.co/7ZJbPnRtBt https://t.co/vGmeJqAavd"
+	},
+	{
 		"created_at": "Wed Nov 20 19:43:18 +0000 2019",
 		"id": 1197239011863154700,
 		"id_str": "1197239011863154689",
