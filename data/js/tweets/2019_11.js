@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 06:05:50 +0000 2019",
+		"id": 1197614065859862500,
+		"id_str": "1197758064646086657",
+		"full_text": "For #WorldPhilosophyDay, here are some of my European School students asking \"What Have the Philosophers Ever Done For Us?\" https://t.co/9rtdCSLmfg (recorded last year)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPhilosophyDay",
+					"indices": [
+						4,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rtdCSLmfg",
+					"expanded_url": "https://youtu.be/n_kElnwv5d0",
+					"display_url": "youtu.be/n_kElnwv5d0",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 697,
+			"friends_count": 491,
+			"listed_count": 34,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141117868991492097/PWhZxdck_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1560896022",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For #WorldPhilosophyDay, here are some of my European School students asking \"What Have the Philosophers Ever Done For Us?\" https://t.co/9rtdCSLmfg (recorded last year)"
+	},
+	{
 		"created_at": "Thu Nov 21 20:48:16 +0000 2019",
 		"id": 1197617092083798000,
 		"id_str": "1197617749771591689",
