@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 20:52:38 +0000 2019",
+		"id": 1199411343297785900,
+		"id_str": "1199430784890920961",
+		"full_text": "Absolutely not for me to tell anyone how to vote, but this video allows us to see Johnson and Corbyn fact-checking themselves. Deadline for registering to vote is 11.59 pm tonight https://t.co/PKe0yN4EGj. (We must admit, voice actors may have been used) https://t.co/XgX6AO8INn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PKe0yN4EGj",
+					"expanded_url": "https://www.gov.uk/register-to-vote",
+					"display_url": "gov.uk/register-to-vo…",
+					"indices": [
+						180,
+						203
+					]
+				},
+				{
+					"url": "https://t.co/XgX6AO8INn",
+					"expanded_url": "https://youtu.be/dYZswb7wCmA",
+					"display_url": "youtu.be/dYZswb7wCmA",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15439395,
+			"id_str": "15439395",
+			"name": "Stephen Fry",
+			"screen_name": "stephenfry",
+			"location": "Los Angeles, CA/ London UK",
+			"description": "How can I tell you what I think until I’ve heard what I’m going to say? 🏳️‍🌈 (Never read DMs I’m afraid)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12742251,
+			"friends_count": 49578,
+			"listed_count": 55195,
+			"created_at": "Tue Jul 15 11:45:30 +0000 2008",
+			"favourites_count": 1436,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 24089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/842053173757984768/ZYLuzKYt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/842053173757984768/ZYLuzKYt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15439395/1566895149",
+			"profile_link_color": "005192",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 469,
+		"favorite_count": 951,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely not for me to tell anyone how to vote, but this video allows us to see Johnson and Corbyn fact-checking themselves. Deadline for registering to vote is 11.59 pm tonight https://t.co/PKe0yN4EGj. (We must admit, voice actors may have been used) https://t.co/XgX6AO8INn"
+	},
+	{
 		"created_at": "Fri Nov 22 06:05:50 +0000 2019",
 		"id": 1197614065859862500,
 		"id_str": "1197758064646086657",
