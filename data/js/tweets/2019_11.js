@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 19:00:16 +0000 2019",
+		"id": 1200423381222527000,
+		"id_str": "1200489671039574016",
+		"full_text": "Thank you, Mr President! 🇪🇺 https://t.co/uGbBbhHjFW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1200423374712922000,
+					"id_str": "1200423374712922113",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjCsv3W4AEOjQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjCsv3W4AEOjQR.jpg",
+					"url": "https://t.co/uGbBbhHjFW",
+					"display_url": "pic.twitter.com/uGbBbhHjFW",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1200423381222526976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169426475",
+									"screen_name": "JunckerEU",
+									"name": "Jean-Claude Juncker"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 126,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200423374712922000,
+					"id_str": "1200423374712922113",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjCsv3W4AEOjQR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjCsv3W4AEOjQR.jpg",
+					"url": "https://t.co/uGbBbhHjFW",
+					"display_url": "pic.twitter.com/uGbBbhHjFW",
+					"expanded_url": "https://twitter.com/EU_Commission/status/1200423381222526976/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "169426475",
+									"screen_name": "JunckerEU",
+									"name": "Jean-Claude Juncker"
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 401,
+									"y": 223,
+									"h": 175,
+									"w": 175
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 227,
+									"y": 126,
+									"h": 99,
+									"w": 99
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157981564,
+			"id_str": "157981564",
+			"name": "European Commission 🇪🇺",
+			"screen_name": "EU_Commission",
+			"location": "Brussels, Belgium",
+			"description": "News and information from the European Commission. Tweets by the Social Media Team.",
+			"url": "https://t.co/2HnQtKhvZ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HnQtKhvZ6",
+							"expanded_url": "http://ec.europa.eu",
+							"display_url": "ec.europa.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1181957,
+			"friends_count": 859,
+			"listed_count": 11881,
+			"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+			"favourites_count": 9764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35020,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9DD3EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1574854001",
+			"profile_link_color": "0C7DA6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CFECF9",
+			"profile_text_color": "1D1E23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 519,
+		"favorite_count": 2680,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, Mr President! 🇪🇺 https://t.co/uGbBbhHjFW"
+	},
+	{
 		"created_at": "Thu Nov 28 17:22:07 +0000 2019",
 		"id": 1200102585509789700,
 		"id_str": "1200102585509789696",
