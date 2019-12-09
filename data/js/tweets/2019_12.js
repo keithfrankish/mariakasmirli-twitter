@@ -1,6 +1,347 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 20:23:09 +0000 2019",
+		"id": 1203763857661059000,
+		"id_str": "1203772019696902144",
+		"full_text": "👏👏👏 https://t.co/tMl8Oq1uXG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tMl8Oq1uXG",
+					"expanded_url": "https://twitter.com/eurofilmawards/status/1203378191039156224",
+					"display_url": "twitter.com/eurofilmawards…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29206264,
+			"id_str": "29206264",
+			"name": "Elly Vintiadis",
+			"screen_name": "EllyVintiadis",
+			"location": "",
+			"description": "A philosopher corrupting the youth at the American College of Greece. Also, a treat searchin' street urchin with very strong views about burgers.",
+			"url": "https://t.co/UVlmKgD3PO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UVlmKgD3PO",
+							"expanded_url": "http://www.ellyvintiadis.com",
+							"display_url": "ellyvintiadis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1169,
+			"friends_count": 1480,
+			"listed_count": 34,
+			"created_at": "Mon Apr 06 14:09:51 +0000 2009",
+			"favourites_count": 3649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29206264/1530034618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7A9099",
+			"profile_text_color": "020008",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1203378191039156200,
+		"quoted_status_id_str": "1203378191039156224",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tMl8Oq1uXG",
+			"expanded": "https://twitter.com/eurofilmawards/status/1203378191039156224",
+			"display": "twitter.com/eurofilmawards…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 07 18:18:13 +0000 2019",
+			"id": 1203378191039156200,
+			"id_str": "1203378191039156224",
+			"full_text": "Yorgos Lanthimos is European Director 2019 for THE FAVOURITE. #efa2019 https://t.co/Ok40roLoBx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "efa2019",
+						"indices": [
+							62,
+							70
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1203378148525723600,
+						"id_str": "1203378148525723648",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203378148525723648/pu/img/MSqxcFIHpn2cp8uX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203378148525723648/pu/img/MSqxcFIHpn2cp8uX.jpg",
+						"url": "https://t.co/Ok40roLoBx",
+						"display_url": "pic.twitter.com/Ok40roLoBx",
+						"expanded_url": "https://twitter.com/EuroFilmAwards/status/1203378191039156224/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1203378148525723600,
+						"id_str": "1203378148525723648",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1203378148525723648/pu/img/MSqxcFIHpn2cp8uX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1203378148525723648/pu/img/MSqxcFIHpn2cp8uX.jpg",
+						"url": "https://t.co/Ok40roLoBx",
+						"display_url": "pic.twitter.com/Ok40roLoBx",
+						"expanded_url": "https://twitter.com/EuroFilmAwards/status/1203378191039156224/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 10042,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1203378148525723648/pu/pl/23hEp50K9eSo08dN.m3u8?tag=10"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1203378148525723648/pu/vid/720x720/XyCH6KcqM5Vb-Ilf.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1203378148525723648/pu/vid/480x480/CCEMhpsdky9oXgJ9.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1203378148525723648/pu/vid/320x320/w3NP2njJ5KszBdJU.mp4?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 943745948,
+				"id_str": "943745948",
+				"name": "European Film Awards",
+				"screen_name": "EuroFilmAwards",
+				"location": "Europe",
+				"description": "32nd European Film Awards, 7 Dec 2019 in Berlin, Germany\n\nLive at 👉https://t.co/QMBMIPegW1\n17:00 CET: red carpet\n19:00 CET: ceremony\n\nTweet with #efa2019! 🙌🎥",
+				"url": "https://t.co/w0IF0y8KnJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/w0IF0y8KnJ",
+								"expanded_url": "http://www.europeanfilmawards.eu",
+								"display_url": "europeanfilmawards.eu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QMBMIPegW1",
+								"expanded_url": "http://europeanfilmawards.eu",
+								"display_url": "europeanfilmawards.eu",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 37876,
+				"friends_count": 1666,
+				"listed_count": 655,
+				"created_at": "Mon Nov 12 15:04:45 +0000 2012",
+				"favourites_count": 11742,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6929,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0002C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/959407123833683969/2UFTiPzZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/959407123833683969/2UFTiPzZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/943745948/1545143898",
+				"profile_link_color": "DB0F20",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 212,
+			"favorite_count": 459,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👏👏👏 https://t.co/tMl8Oq1uXG"
+	},
+	{
 		"created_at": "Sat Dec 07 06:28:46 +0000 2019",
 		"id": 1203199654881583000,
 		"id_str": "1203199654881583105",
