@@ -1,6 +1,704 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 11 04:46:27 +0000 2019",
+		"id": 1204327108572524500,
+		"id_str": "1204623454647005184",
+		"full_text": "O4L ONLINE (@O4LONLINE) Tweeted:\nChallenging Implicit Racist and Sexist Beliefs With Keith Frankish | EP.31 @seize_podcast @keithfrankish https://t.co/cKfPgpQbS8 https://t.co/raYKPM7upB (https://t.co/ClyhaUPYEN)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "O4LONLINE",
+					"name": "O4L ONLINE",
+					"id": 381934477,
+					"id_str": "381934477",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "seize_podcast",
+					"name": "Seize The Moment Podcast 🎙",
+					"id": 1117442297203953700,
+					"id_str": "1117442297203953664",
+					"indices": [
+						108,
+						122
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cKfPgpQbS8",
+					"expanded_url": "https://www.o4lonlinenetwork.com/challenging-implicit-racist-and-sexist-beliefs-with-keith-frankish-ep-31/",
+					"display_url": "o4lonlinenetwork.com/challenging-im…",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/ClyhaUPYEN",
+					"expanded_url": "https://twitter.com/O4LONLINE/status/1204097585486663682?s=20",
+					"display_url": "twitter.com/O4LONLINE/stat…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1204097583725076500,
+					"id_str": "1204097583725076481",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+					"url": "https://t.co/raYKPM7upB",
+					"display_url": "pic.twitter.com/raYKPM7upB",
+					"expanded_url": "https://twitter.com/O4LONLINE/status/1204097585486663682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1204097585486663700,
+					"source_status_id_str": "1204097585486663682",
+					"source_user_id": 381934477,
+					"source_user_id_str": "381934477",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 285,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 63,
+									"y": 81,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204097583725076500,
+					"id_str": "1204097583725076481",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+					"url": "https://t.co/raYKPM7upB",
+					"display_url": "pic.twitter.com/raYKPM7upB",
+					"expanded_url": "https://twitter.com/O4LONLINE/status/1204097585486663682/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1204097585486663700,
+					"source_status_id_str": "1204097585486663682",
+					"source_user_id": 381934477,
+					"source_user_id_str": "381934477",
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 158,
+									"y": 285,
+									"h": 27,
+									"w": 27
+								},
+								{
+									"x": 63,
+									"y": 81,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 238,
+									"y": 430,
+									"h": 41,
+									"w": 41
+								},
+								{
+									"x": 96,
+									"y": 123,
+									"h": 275,
+									"w": 275
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3133045098,
+			"id_str": "3133045098",
+			"name": "Bilal",
+			"screen_name": "bilal4ever194",
+			"location": "Accra, Ghana",
+			"description": "Bilal Hussein Johnson-Lomotey",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 341,
+			"friends_count": 1683,
+			"listed_count": 1,
+			"created_at": "Thu Apr 02 21:32:29 +0000 2015",
+			"favourites_count": 231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 161,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187655006851424256/SUhCIUKD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187655006851424256/SUhCIUKD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3133045098/1571816161",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1204097585486663700,
+		"quoted_status_id_str": "1204097585486663682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ClyhaUPYEN",
+			"expanded": "https://twitter.com/O4LONLINE/status/1204097585486663682?s=20",
+			"display": "twitter.com/O4LONLINE/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 09 17:56:50 +0000 2019",
+			"id": 1204097585486663700,
+			"id_str": "1204097585486663682",
+			"full_text": "Challenging Implicit Racist and Sexist Beliefs With Keith Frankish | EP.31 @seize_podcast @keithfrankish https://t.co/yLe2mctfUP https://t.co/0l47evYo04",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "seize_podcast",
+						"name": "Seize The Moment Podcast 🎙",
+						"id": 1117442297203953700,
+						"id_str": "1117442297203953664",
+						"indices": [
+							75,
+							89
+						]
+					},
+					{
+						"screen_name": "keithfrankish",
+						"name": "Keith Frankish",
+						"id": 52522040,
+						"id_str": "52522040",
+						"indices": [
+							90,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yLe2mctfUP",
+						"expanded_url": "https://www.o4lonlinenetwork.com/challenging-implicit-racist-and-sexist-beliefs-with-keith-frankish-ep-31/",
+						"display_url": "o4lonlinenetwork.com/challenging-im…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1204097583725076500,
+						"id_str": "1204097583725076481",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+						"url": "https://t.co/0l47evYo04",
+						"display_url": "pic.twitter.com/0l47evYo04",
+						"expanded_url": "https://twitter.com/O4LONLINE/status/1204097585486663682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 285,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 63,
+										"y": 81,
+										"h": 182,
+										"w": 182
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1204097583725076500,
+						"id_str": "1204097583725076481",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ELXQX3DW4AE3Qmq.jpg",
+						"url": "https://t.co/0l47evYo04",
+						"display_url": "pic.twitter.com/0l47evYo04",
+						"expanded_url": "https://twitter.com/O4LONLINE/status/1204097585486663682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 158,
+										"y": 285,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 63,
+										"y": 81,
+										"h": 182,
+										"w": 182
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 238,
+										"y": 430,
+										"h": 41,
+										"w": 41
+									},
+									{
+										"x": 96,
+										"y": 123,
+										"h": 275,
+										"w": 275
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 381934477,
+				"id_str": "381934477",
+				"name": "O4L ONLINE",
+				"screen_name": "O4LONLINE",
+				"location": "",
+				"description": "@thedinnerclubpm @ewrestletalk @alleyezontupac_ @seize_podcast @thahub411 @unkoolbro",
+				"url": "https://t.co/KeECakjwgP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KeECakjwgP",
+								"expanded_url": "http://o4lonlinenetwork.com",
+								"display_url": "o4lonlinenetwork.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 925,
+				"friends_count": 396,
+				"listed_count": 3,
+				"created_at": "Thu Sep 29 06:07:55 +0000 2011",
+				"favourites_count": 2146,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12077,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1204816842851835904/lhsqcUCL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1204816842851835904/lhsqcUCL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/381934477/1554511851",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "O4L ONLINE (@O4LONLINE) Tweeted:\nChallenging Implicit Racist and Sexist Beliefs With Keith Frankish | EP.31 @seize_podcast @keithfrankish https://t.co/cKfPgpQbS8 https://t.co/raYKPM7upB (https://t.co/ClyhaUPYEN)"
+	},
+	{
 		"created_at": "Mon Dec 09 18:39:57 +0000 2019",
 		"id": 1204108437803675600,
 		"id_str": "1204108437803675648",
