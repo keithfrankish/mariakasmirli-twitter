@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 11:25:32 +0000 2019",
+		"id": 1205388340654170000,
+		"id_str": "1205448664891695104",
+		"full_text": "The days shorten as they always do at this time of year. But the night has suddenly got much much deeper. https://t.co/Omfz4FGv4h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205388333821702100,
+					"id_str": "1205388333821702145",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpmTZ3XsAEQ3Pi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpmTZ3XsAEQ3Pi.jpg",
+					"url": "https://t.co/Omfz4FGv4h",
+					"display_url": "pic.twitter.com/Omfz4FGv4h",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1205388340654170112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205388333821702100,
+					"id_str": "1205388333821702145",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/ELpmTZ3XsAEQ3Pi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELpmTZ3XsAEQ3Pi.jpg",
+					"url": "https://t.co/Omfz4FGv4h",
+					"display_url": "pic.twitter.com/Omfz4FGv4h",
+					"expanded_url": "https://twitter.com/JohnKittmer/status/1205388340654170112/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 847892022,
+			"id_str": "847892022",
+			"name": "John Kittmer",
+			"screen_name": "JohnKittmer",
+			"location": "Tooting, London",
+			"description": "Northerner. Researcher in Greek literature and politics. Chair @AngHellenLeague. NED in shipping industry. Interests in LGBT+, ecology, faith. Ελληνολάτρης.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5012,
+			"friends_count": 225,
+			"listed_count": 151,
+			"created_at": "Wed Sep 26 18:34:08 +0000 2012",
+			"favourites_count": 8821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "98A5AB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197095946208923649/LwHXP8KO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197095946208923649/LwHXP8KO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/847892022/1572945242",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The days shorten as they always do at this time of year. But the night has suddenly got much much deeper. https://t.co/Omfz4FGv4h"
+	},
+	{
 		"created_at": "Wed Dec 11 04:46:27 +0000 2019",
 		"id": 1204327108572524500,
 		"id_str": "1204623454647005184",
