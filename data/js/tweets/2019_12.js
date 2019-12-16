@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 15 06:50:31 +0000 2019",
+		"id": 1206088726050431000,
+		"id_str": "1206104229099769856",
+		"full_text": "Re-posting the CNN article about Finnish information literacy approach.  @Faktabaari -  Russia's neighbor has developed a blueprint for countering misinformation. Can it be exported to the rest of the world? https://t.co/3kC7CMxG8G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Faktabaari",
+					"name": "Faktabaari",
+					"id": 2325242556,
+					"id_str": "2325242556",
+					"indices": [
+						73,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3kC7CMxG8G",
+					"expanded_url": "https://www.cnn.com/interactive/2019/05/europe/finland-fake-news-intl",
+					"display_url": "cnn.com/interactive/20…",
+					"indices": [
+						208,
+						231
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in media & information literacy, fact-checking, motivation & self-regulation research, multilingualism, IP-education, language teaching, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698,
+			"friends_count": 1039,
+			"listed_count": 25,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 8577,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Re-posting the CNN article about Finnish information literacy approach.  @Faktabaari -  Russia's neighbor has developed a blueprint for countering misinformation. Can it be exported to the rest of the world? https://t.co/3kC7CMxG8G"
+	},
+	{
 		"created_at": "Fri Dec 13 11:25:32 +0000 2019",
 		"id": 1205388340654170000,
 		"id_str": "1205448664891695104",
