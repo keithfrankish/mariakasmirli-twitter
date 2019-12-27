@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 26 21:54:37 +0000 2019",
+		"id": 1210157781468221400,
+		"id_str": "1210318023078359041",
+		"full_text": "Let’s all commit to giving every Brexit commemorative 50p we receive to charities like @asylumwelcome which support migrants and refugees coming to the UK https://t.co/SibcVSCZN6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AsylumWelcome",
+					"name": "Asylum Welcome",
+					"id": 486807020,
+					"id_str": "486807020",
+					"indices": [
+						87,
+						101
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SibcVSCZN6",
+					"expanded_url": "https://www.google.co.uk/amp/s/m.huffingtonpost.co.uk/amp/entry/50p-brexit-coins-royal-mint-commemorative-january_uk_5dfdd914e4b0b2520d0ba8cb/",
+					"display_url": "google.co.uk/amp/s/m.huffin…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Freelance philosopher. A Little History of Philosophy, Philosophy Bites. Consultant editor @aeonmag, @thenewphil, @five_books. @weareLIS founding faculty",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76568,
+			"friends_count": 6795,
+			"listed_count": 2541,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 42371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 73,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s all commit to giving every Brexit commemorative 50p we receive to charities like @asylumwelcome which support migrants and refugees coming to the UK https://t.co/SibcVSCZN6"
+	},
+	{
+		"created_at": "Thu Dec 26 19:57:46 +0000 2019",
+		"id": 1210285985965019100,
+		"id_str": "1210288615600926720",
+		"full_text": "What is digital citizenship?  Understanding our relationship with technology is critical to both our well being and our #democracy.  #edchat #edtech #DigitalHealth @beavertonsd https://t.co/xVOZc7L3Kw @gcouros @tedfujimoto @iste https://t.co/HSlctP5HDE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "democracy",
+					"indices": [
+						120,
+						130
+					]
+				},
+				{
+					"text": "edchat",
+					"indices": [
+						133,
+						140
+					]
+				},
+				{
+					"text": "edtech",
+					"indices": [
+						141,
+						148
+					]
+				},
+				{
+					"text": "DigitalHealth",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeavertonSD",
+					"name": "Beaverton Schools",
+					"id": 73167937,
+					"id_str": "73167937",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"screen_name": "gcouros",
+					"name": "George Couros",
+					"id": 18368680,
+					"id_str": "18368680",
+					"indices": [
+						201,
+						209
+					]
+				},
+				{
+					"screen_name": "tedfujimoto",
+					"name": "Ted Fujimoto 💡",
+					"id": 23959413,
+					"id_str": "23959413",
+					"indices": [
+						210,
+						222
+					]
+				},
+				{
+					"screen_name": "iste",
+					"name": "ISTE",
+					"id": 18119242,
+					"id_str": "18119242",
+					"indices": [
+						223,
+						228
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xVOZc7L3Kw",
+					"expanded_url": "http://bit.ly/2s8a16A",
+					"display_url": "bit.ly/2s8a16A",
+					"indices": [
+						177,
+						200
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1210285841714536400,
+					"id_str": "1210285841714536448",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210285841714536448/pu/img/w6TP1yWThm_iJLvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210285841714536448/pu/img/w6TP1yWThm_iJLvt.jpg",
+					"url": "https://t.co/HSlctP5HDE",
+					"display_url": "pic.twitter.com/HSlctP5HDE",
+					"expanded_url": "https://twitter.com/MattHiefield/status/1210285985965019136/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1210285841714536400,
+					"id_str": "1210285841714536448",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1210285841714536448/pu/img/w6TP1yWThm_iJLvt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1210285841714536448/pu/img/w6TP1yWThm_iJLvt.jpg",
+					"url": "https://t.co/HSlctP5HDE",
+					"display_url": "pic.twitter.com/HSlctP5HDE",
+					"expanded_url": "https://twitter.com/MattHiefield/status/1210285985965019136/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40082,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1210285841714536448/pu/pl/kocgfQfCIkiw2TPi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210285841714536448/pu/vid/1280x720/RSqdzjakSWFi_-zQ.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210285841714536448/pu/vid/480x270/Uuk9Gm4DgV_6Tpti.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1210285841714536448/pu/vid/640x360/4KdbeXeNt3MmhW3E.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2393313872,
+			"id_str": "2393313872",
+			"name": "Matt Hiefield",
+			"screen_name": "MattHiefield",
+			"location": "Beaverton, OR",
+			"description": "HS teacher for 25 yrs. Peace Corps. Future Ready/Google/Apple Exploring #digitalequity, #homeworkgap & #digitaldivide Issues!   Hablo español, je parle français",
+			"url": "https://t.co/b3oEF13h37",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/b3oEF13h37",
+							"expanded_url": "http://digitaldivideinuseducation.blogspot.com/",
+							"display_url": "…gitaldivideinuseducation.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42418,
+			"friends_count": 33521,
+			"listed_count": 414,
+			"created_at": "Sun Mar 16 21:44:34 +0000 2014",
+			"favourites_count": 2226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846059128212484096/M7f9qmKu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846059128212484096/M7f9qmKu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2393313872/1529588892",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What is digital citizenship?  Understanding our relationship with technology is critical to both our well being and our #democracy.  #edchat #edtech #DigitalHealth @beavertonsd https://t.co/xVOZc7L3Kw @gcouros @tedfujimoto @iste https://t.co/HSlctP5HDE"
+	},
+	{
 		"created_at": "Sun Dec 15 06:50:31 +0000 2019",
 		"id": 1206088726050431000,
 		"id_str": "1206104229099769856",
