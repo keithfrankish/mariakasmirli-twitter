@@ -1,6 +1,98 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 28 09:09:02 +0000 2019",
+		"id": 1210556108458381300,
+		"id_str": "1210850131127545856",
+		"full_text": "I have done no school work since we broke up and I’m starting to feel guilty. Should I feel guilty? I just feel like I need a break and to properly relax, but don’t want to go back to school and feel overwhelmed or behind #edutwitter",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edutwitter",
+					"indices": [
+						222,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1084041492128243700,
+			"id_str": "1084041492128243712",
+			"name": "Mr. Mitchell",
+			"screen_name": "Mr_Mitchell96",
+			"location": "",
+			"description": "Openly Gay Primary School teacher, based in London. Y6. Trained at the University of Plymouth 🌊 PE specialist 🏃🏼‍♂️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2552,
+			"friends_count": 890,
+			"listed_count": 7,
+			"created_at": "Sat Jan 12 10:56:47 +0000 2019",
+			"favourites_count": 1637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175399889997565952/Wr2YDTrq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175399889997565952/Wr2YDTrq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084041492128243712/1547401307",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 294,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I have done no school work since we broke up and I’m starting to feel guilty. Should I feel guilty? I just feel like I need a break and to properly relax, but don’t want to go back to school and feel overwhelmed or behind #edutwitter"
+	},
+	{
 		"created_at": "Fri Dec 27 20:37:26 +0000 2019",
 		"id": 1210609242891333600,
 		"id_str": "1210660983024295938",
