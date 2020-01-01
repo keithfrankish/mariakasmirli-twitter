@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 31 17:15:33 +0000 2019",
+		"id": 1212035015116304400,
+		"id_str": "1212059731046608896",
+		"full_text": "Where there is love... there is humanity. https://t.co/krvnpk5BB9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/krvnpk5BB9",
+					"expanded_url": "https://twitter.com/_SJPeace_/status/1211790100352454663",
+					"display_url": "twitter.com/_SJPeace_/stat…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4189175391,
+			"id_str": "4189175391",
+			"name": "Kevin Hancey",
+			"screen_name": "2006Hancey",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/zowVtQVEII",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zowVtQVEII",
+							"expanded_url": "https://youpic.com/photographer/Kfh/",
+							"display_url": "youpic.com/photographer/K…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38,
+			"friends_count": 190,
+			"listed_count": 0,
+			"created_at": "Sat Nov 14 21:33:15 +0000 2015",
+			"favourites_count": 2594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1125774524652253185/Uvrp1d9m_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125774524652253185/Uvrp1d9m_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4189175391/1541646646",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1211790100352454700,
+		"quoted_status_id_str": "1211790100352454663",
+		"quoted_status_permalink": {
+			"url": "https://t.co/krvnpk5BB9",
+			"expanded": "https://twitter.com/_SJPeace_/status/1211790100352454663",
+			"display": "twitter.com/_SJPeace_/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 30 23:24:08 +0000 2019",
+			"id": 1211790100352454700,
+			"id_str": "1211790100352454663",
+			"full_text": "My entire heart 😭❤\n\nHindu &amp; Sikh students become the Human shields of Muslim Students who are praying during a university protest against the Anti-Muslim Citizenship bill that passed in India to protect them from India State Police\n\nTHIS IS LOVE. THIS IS HUMANITY.\n\nSALUTE https://t.co/MPXzePn1Bk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1211790055456596000,
+						"id_str": "1211790055456595971",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211790055456595971/pu/img/aPxZqA8a2Swnr6df.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211790055456595971/pu/img/aPxZqA8a2Swnr6df.jpg",
+						"url": "https://t.co/MPXzePn1Bk",
+						"display_url": "pic.twitter.com/MPXzePn1Bk",
+						"expanded_url": "https://twitter.com/_SJPeace_/status/1211790100352454663/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"features": {}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1211790055456596000,
+						"id_str": "1211790055456595971",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1211790055456595971/pu/img/aPxZqA8a2Swnr6df.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1211790055456595971/pu/img/aPxZqA8a2Swnr6df.jpg",
+						"url": "https://t.co/MPXzePn1Bk",
+						"display_url": "pic.twitter.com/MPXzePn1Bk",
+						"expanded_url": "https://twitter.com/_SJPeace_/status/1211790100352454663/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 22433,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1211790055456595971/pu/vid/480x480/kq3QLsH_2Zhy61yh.mp4?tag=10"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1211790055456595971/pu/vid/320x320/rozAycoXO99EmZYN.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1211790055456595971/pu/pl/GwJoZ0m836ffl15V.m3u8?tag=10"
+								}
+							]
+						},
+						"features": {},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 716432228,
+				"id_str": "716432228",
+				"name": "StanceGrounded",
+				"screen_name": "_SJPeace_",
+				"location": "Detroit, MI",
+				"description": "Human/Civil Rights Activist- Muslim, American by birth, Pakistani. Educated man of color - changing the world one friend at a time. ✊🏽✊🏾✊🏿 #Resist #BLM",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 323193,
+				"friends_count": 44576,
+				"listed_count": 1288,
+				"created_at": "Wed Jul 25 17:22:39 +0000 2012",
+				"favourites_count": 15863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1196129597802369024/JEutnbaI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196129597802369024/JEutnbaI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/716432228/1548989721",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9419,
+			"favorite_count": 32046,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 43,
+		"favorite_count": 194,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where there is love... there is humanity. https://t.co/krvnpk5BB9"
+	},
+	{
 		"created_at": "Sat Dec 28 09:09:02 +0000 2019",
 		"id": 1210556108458381300,
 		"id_str": "1210850131127545856",
@@ -36,7 +341,7 @@ Grailbird.data.tweets_2019_12 =
 			"name": "Mr. Mitchell",
 			"screen_name": "Mr_Mitchell96",
 			"location": "",
-			"description": "Openly Gay Primary School teacher, based in London. Y6. Trained at the University of Plymouth 🌊 PE specialist 🏃🏼‍♂️",
+			"description": "Openly Gay Primary School teacher, based in London. Y6. Trained at the University of Plymouth 🌊 PE specialist 🏃🏼♂️",
 			"url": null,
 			"entities": {
 				"description": {
