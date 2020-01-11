@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 13:55:39 +0000 2020",
+		"id": 1215553509023797200,
+		"id_str": "1215633303270805511",
+		"full_text": "Had to wait for my wife who was at a meeting for a few hours this morning. Not bad when I have views like this though. Time for a spot of landscape photography. #landscape #iphoneonly https://t.co/IeMo9NfolS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "landscape",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"text": "iphoneonly",
+					"indices": [
+						172,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215553500781908000,
+					"id_str": "1215553500781907968",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6Dd_uWkAADIne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6Dd_uWkAADIne.jpg",
+					"url": "https://t.co/IeMo9NfolS",
+					"display_url": "pic.twitter.com/IeMo9NfolS",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1215553509023797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215553500781908000,
+					"id_str": "1215553500781907968",
+					"indices": [
+						184,
+						207
+					],
+					"media_url": "http://pbs.twimg.com/media/EN6Dd_uWkAADIne.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN6Dd_uWkAADIne.jpg",
+					"url": "https://t.co/IeMo9NfolS",
+					"display_url": "pic.twitter.com/IeMo9NfolS",
+					"expanded_url": "https://twitter.com/GraHodgetts/status/1215553509023797248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68189879,
+			"id_str": "68189879",
+			"name": "Graham Hodgetts",
+			"screen_name": "GraHodgetts",
+			"location": "Crete, Greece",
+			"description": "Documentary wedding photographer living in Crete, Greece. Landscape & street photography during the colder months.\n\nPrints at https://t.co/AIFuUShCgW",
+			"url": "https://t.co/oAIvPT1SCT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oAIvPT1SCT",
+							"expanded_url": "http://www.grahamhodgetts.com",
+							"display_url": "grahamhodgetts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AIFuUShCgW",
+							"expanded_url": "http://grahamhodgetts.darkroom.tech",
+							"display_url": "grahamhodgetts.darkroom.tech",
+							"indices": [
+								126,
+								149
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 231,
+			"friends_count": 317,
+			"listed_count": 32,
+			"created_at": "Sun Aug 23 17:23:38 +0000 2009",
+			"favourites_count": 502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4692,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090578685630078976/sKbRadHn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68189879/1527098228",
+			"profile_link_color": "D1615E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had to wait for my wife who was at a meeting for a few hours this morning. Not bad when I have views like this though. Time for a spot of landscape photography. #landscape #iphoneonly https://t.co/IeMo9NfolS"
+	},
+	{
 		"created_at": "Tue Jan 07 20:57:35 +0000 2020",
 		"id": 1033379003346776000,
 		"id_str": "1214652324108476416",
