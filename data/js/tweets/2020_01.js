@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 26 20:47:55 +0000 2020",
+		"id": 1221453810394128400,
+		"id_str": "1221535260535672833",
+		"full_text": "Participating in academic events in a language I only speak a little, I’ve always been struck (or appalled?) at how creativity, cleverness, insight, humour, &amp; of course precision just evaporate when you’re less than fluent. Huge respect for scholars stretching to work in English. https://t.co/5NrZzOrjk2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5NrZzOrjk2",
+					"expanded_url": "https://twitter.com/irisvanrooij/status/1221367001639215104",
+					"display_url": "twitter.com/irisvanrooij/s…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970766939009306600,
+			"id_str": "970766939009306625",
+			"name": "Tim Kenyon",
+			"screen_name": "TimAKenyon",
+			"location": "",
+			"description": "Human person, research admin, critical thinking author, phil. of language, social epistemology, cycling. Tweets *at most* my own views, frequently less. he",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 406,
+			"friends_count": 517,
+			"listed_count": 7,
+			"created_at": "Mon Mar 05 21:04:09 +0000 2018",
+			"favourites_count": 5016,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970766939009306625/1520811655",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221367001639215000,
+		"quoted_status_id_str": "1221367001639215104",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5NrZzOrjk2",
+			"expanded": "https://twitter.com/irisvanrooij/status/1221367001639215104",
+			"display": "twitter.com/irisvanrooij/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 26 09:39:19 +0000 2020",
+			"id": 1221367001639215000,
+			"id_str": "1221367001639215104",
+			"full_text": "Who here realises the ENORMOUS  privilege that the use of English as an international science &amp; publishing language conjures on native English speakers in academia?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1194617485,
+				"id_str": "1194617485",
+				"name": "Iris van Rooij",
+				"screen_name": "IrisVanRooij",
+				"location": "The Netherlands, Nijmegen",
+				"description": "Computational cognitive scientist @DondersInst | Psychology, Philosophy, Theoretical Computer Science | https://t.co/NXQx1K27vG | she/they 🏳️‍🌈",
+				"url": "https://t.co/GsJhtjNwR1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GsJhtjNwR1",
+								"expanded_url": "https://irisvanrooijcogsci.com/",
+								"display_url": "irisvanrooijcogsci.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NXQx1K27vG",
+								"expanded_url": "http://cognitionandintractability.com",
+								"display_url": "cognitionandintractability.com",
+								"indices": [
+									104,
+									127
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5772,
+				"friends_count": 1644,
+				"listed_count": 112,
+				"created_at": "Mon Feb 18 19:35:46 +0000 2013",
+				"favourites_count": 44317,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1079434565536702464/jjlex_y1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079434565536702464/jjlex_y1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194617485/1556224287",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 290,
+			"favorite_count": 2299,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Participating in academic events in a language I only speak a little, I’ve always been struck (or appalled?) at how creativity, cleverness, insight, humour, &amp; of course precision just evaporate when you’re less than fluent. Huge respect for scholars stretching to work in English. https://t.co/5NrZzOrjk2"
+	},
+	{
 		"created_at": "Wed Jan 22 03:49:39 +0000 2020",
 		"id": 1219523426953711600,
 		"id_str": "1219829451975950337",
