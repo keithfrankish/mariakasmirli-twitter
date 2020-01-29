@@ -1,6 +1,498 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 28 16:15:36 +0000 2020",
+		"id": 1222189516221489200,
+		"id_str": "1222191504766242817",
+		"full_text": "The joy of competence. Accessible to all. https://t.co/Lbt9MNTCC1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Lbt9MNTCC1",
+					"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312",
+					"display_url": "twitter.com/mikcritchlow/s…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16262887,
+			"id_str": "16262887",
+			"name": "Stephen Clark",
+			"screen_name": "stephen_clark",
+			"location": "Boston",
+			"description": "IA, MN, CA, RI, MA",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49,
+			"friends_count": 368,
+			"listed_count": 0,
+			"created_at": "Fri Sep 12 20:16:11 +0000 2008",
+			"favourites_count": 1051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/582362083087552512/qVdbIGc0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/582362083087552512/qVdbIGc0_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221928349620109300,
+		"quoted_status_id_str": "1221928349620109312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lbt9MNTCC1",
+			"expanded": "https://twitter.com/mikcritchlow/status/1221928349620109312",
+			"display": "twitter.com/mikcritchlow/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 22:49:55 +0000 2020",
+			"id": 1221928349620109300,
+			"id_str": "1221928349620109312",
+			"full_text": "More from my Riverbank School series, a young girl learns new skills stringing beads to make a necklace. The sheer joy when she gets it right - priceless. https://t.co/aT1blULqc3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1221928317458272300,
+						"id_str": "1221928317458272257",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUpVKcXUAEs_AG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUpVKcXUAEs_AG.jpg",
+						"url": "https://t.co/aT1blULqc3",
+						"display_url": "pic.twitter.com/aT1blULqc3",
+						"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1221928317458272300,
+						"id_str": "1221928317458272257",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUpVKcXUAEs_AG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUpVKcXUAEs_AG.jpg",
+						"url": "https://t.co/aT1blULqc3",
+						"display_url": "pic.twitter.com/aT1blULqc3",
+						"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1221928317470871600,
+						"id_str": "1221928317470871552",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUpVKfXkAAem3R.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUpVKfXkAAem3R.jpg",
+						"url": "https://t.co/aT1blULqc3",
+						"display_url": "pic.twitter.com/aT1blULqc3",
+						"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1221928317487665200,
+						"id_str": "1221928317487665157",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUpVKjX0AUmpKC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUpVKjX0AUmpKC.jpg",
+						"url": "https://t.co/aT1blULqc3",
+						"display_url": "pic.twitter.com/aT1blULqc3",
+						"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": [
+									{
+										"x": 793,
+										"y": 345,
+										"h": 319,
+										"w": 319
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 465,
+										"y": 202,
+										"h": 187,
+										"w": 187
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 263,
+										"y": 114,
+										"h": 106,
+										"w": 106
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 814,
+										"y": 354,
+										"h": 328,
+										"w": 328
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1221928317445603300,
+						"id_str": "1221928317445603328",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/EPUpVKZWAAAwiSt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EPUpVKZWAAAwiSt.jpg",
+						"url": "https://t.co/aT1blULqc3",
+						"display_url": "pic.twitter.com/aT1blULqc3",
+						"expanded_url": "https://twitter.com/mikcritchlow/status/1221928349620109312/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1365,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1088856194394001400,
+				"id_str": "1088856194394001409",
+				"name": "Mik Critchlow",
+				"screen_name": "mikcritchlow",
+				"location": "Ashington, England",
+				"description": "Photographer based in the North East of England. Documentary - Reportage - Portraiture. Coal Town available now from: https://t.co/JN2umUIoVp",
+				"url": "https://t.co/8MXvChBRhX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8MXvChBRhX",
+								"expanded_url": "http://www.mikcritchlow.com",
+								"display_url": "mikcritchlow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JN2umUIoVp",
+								"expanded_url": "http://bluecoatpress.co.uk/product/coal-t",
+								"display_url": "bluecoatpress.co.uk/product/coal-t",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3667,
+				"friends_count": 327,
+				"listed_count": 37,
+				"created_at": "Fri Jan 25 17:48:41 +0000 2019",
+				"favourites_count": 5615,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1755,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1088858871337226240/hE1PW2iE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088858871337226240/hE1PW2iE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088856194394001409/1569706515",
+				"profile_link_color": "020202",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 273,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The joy of competence. Accessible to all. https://t.co/Lbt9MNTCC1"
+	},
+	{
 		"created_at": "Sun Jan 26 20:47:55 +0000 2020",
 		"id": 1221453810394128400,
 		"id_str": "1221535260535672833",
@@ -122,7 +614,7 @@ Grailbird.data.tweets_2020_01 =
 				"name": "Iris van Rooij",
 				"screen_name": "IrisVanRooij",
 				"location": "The Netherlands, Nijmegen",
-				"description": "Computational cognitive scientist @DondersInst | Psychology, Philosophy, Theoretical Computer Science | https://t.co/NXQx1K27vG | she/they 🏳️‍🌈",
+				"description": "Computational cognitive scientist @DondersInst | Psychology, Philosophy, Theoretical Computer Science | https://t.co/NXQx1K27vG | she/they 🏳️🌈",
 				"url": "https://t.co/GsJhtjNwR1",
 				"entities": {
 					"url": {
