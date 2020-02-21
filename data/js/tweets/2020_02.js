@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 20 06:50:58 +0000 2020",
+		"id": 1230384330800795600,
+		"id_str": "1230384330800795648",
+		"full_text": "Ο πρώτος πτυχιούχος Πανεπιστημίου με σύνδρομο Down, μιλάει για την «καθυστερημένη» κοινωνία https://t.co/fnmozJ0Ls1 via @dinfo.gr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dinfo",
+					"name": "Dinfo Camara",
+					"id": 3246766474,
+					"id_str": "3246766474",
+					"indices": [
+						120,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fnmozJ0Ls1",
+					"expanded_url": "https://www.dinfo.gr/%ce%bf-%cf%80%cf%81%cf%8e%cf%84%ce%bf%cf%82-%cf%80%cf%84%cf%85%cf%87%ce%b9%ce%bf%cf%8d%cf%87%ce%bf%cf%82-%cf%80%ce%b1%ce%bd%ce%b5%cf%80%ce%b9%cf%83%cf%84%ce%b7%ce%bc%ce%af%ce%bf%cf%85-%ce%bc%ce%b5/",
+					"display_url": "dinfo.gr/%ce%bf-%cf%80%…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 720,
+			"friends_count": 520,
+			"listed_count": 35,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208132236261937152/UiKHzYd5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208132236261937152/UiKHzYd5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1576876149",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "el",
+		"text": "Ο πρώτος πτυχιούχος Πανεπιστημίου με σύνδρομο Down, μιλάει για την «καθυστερημένη» κοινωνία https://t.co/fnmozJ0Ls1 via @dinfo.gr"
+	},
+	{
 		"created_at": "Sat Feb 15 14:54:58 +0000 2020",
 		"id": 1228633341387251700,
 		"id_str": "1228694192874020864",
