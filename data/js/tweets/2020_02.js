@@ -1,6 +1,303 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 23 08:53:51 +0000 2020",
+		"id": 1231498347376267300,
+		"id_str": "1231502418195730433",
+		"full_text": "Thanks very much for this and for all the wonderful comments coming from Turkey in response to my earlier tweet. https://t.co/OBntkCHxCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OBntkCHxCC",
+					"expanded_url": "https://twitter.com/salihogluefe_/status/1231497117006520320",
+					"display_url": "twitter.com/salihogluefe_/…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books. Founding faculty @weareLIS. @unitedagents",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79963,
+			"friends_count": 6935,
+			"listed_count": 2567,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 44442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1231497117006520300,
+		"quoted_status_id_str": "1231497117006520320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OBntkCHxCC",
+			"expanded": "https://twitter.com/salihogluefe_/status/1231497117006520320",
+			"display": "twitter.com/salihogluefe_/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 23 08:32:47 +0000 2020",
+			"id": 1231497117006520300,
+			"id_str": "1231497117006520320",
+			"full_text": "@philosophybites Thank you for everything. Your books are very informative. You popular much in Turkey. We love you and philosophy. https://t.co/IveuGXN4Li",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				131
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "philosophybites",
+						"name": "Nigel Warburton",
+						"id": 37238862,
+						"id_str": "37238862",
+						"indices": [
+							0,
+							16
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1231497102515146800,
+						"id_str": "1231497102515146753",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/ERcoFwlWkAEEPfL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERcoFwlWkAEEPfL.jpg",
+						"url": "https://t.co/IveuGXN4Li",
+						"display_url": "pic.twitter.com/IveuGXN4Li",
+						"expanded_url": "https://twitter.com/salihogluefe_/status/1231497117006520320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1231497102515146800,
+						"id_str": "1231497102515146753",
+						"indices": [
+							132,
+							155
+						],
+						"media_url": "http://pbs.twimg.com/media/ERcoFwlWkAEEPfL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ERcoFwlWkAEEPfL.jpg",
+						"url": "https://t.co/IveuGXN4Li",
+						"display_url": "pic.twitter.com/IveuGXN4Li",
+						"expanded_url": "https://twitter.com/salihogluefe_/status/1231497117006520320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 37238862,
+			"in_reply_to_user_id_str": "37238862",
+			"in_reply_to_screen_name": "philosophybites",
+			"user": {
+				"id": 327710012,
+				"id_str": "327710012",
+				"name": "Efe Salihoğlu",
+				"screen_name": "salihogluefe_",
+				"location": "Earth",
+				"description": "Bir cesedi sırtlanmış, ufacık bir ruh. Felsefesever, sevdiğini okur, yazar.",
+				"url": "https://t.co/7vCmVRVbdU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7vCmVRVbdU",
+								"expanded_url": "http://medium.com/@salihogluefe",
+								"display_url": "medium.com/@salihogluefe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 678,
+				"friends_count": 108,
+				"listed_count": 3,
+				"created_at": "Sat Jul 02 01:03:03 +0000 2011",
+				"favourites_count": 727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 217,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203722920712921088/HuOIdw_K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203722920712921088/HuOIdw_K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/327710012/1578178850",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 134,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks very much for this and for all the wonderful comments coming from Turkey in response to my earlier tweet. https://t.co/OBntkCHxCC"
+	},
+	{
 		"created_at": "Sat Feb 22 21:19:36 +0000 2020",
 		"id": 1231321773737676800,
 		"id_str": "1231327706605871104",
