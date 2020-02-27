@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Wed Feb 26 04:28:00 +0000 2020",
+		"id": 1232419060408889300,
+		"id_str": "1232522680643002368",
+		"full_text": "Artist talk and brunch, Sunday, March 1st, noon-2.30pm - https://t.co/v5M23w86ub https://t.co/bpU7dCx7Oy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v5M23w86ub",
+					"expanded_url": "https://mailchi.mp/1596327f304a/artist-talk-and-brunchsunday-march-1st-noon-230pm",
+					"display_url": "mailchi.mp/1596327f304a/a…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1232419053370822700,
+					"id_str": "1232419053370822657",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ERpumXKXUAEEMxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERpumXKXUAEEMxd.jpg",
+					"url": "https://t.co/bpU7dCx7Oy",
+					"display_url": "pic.twitter.com/bpU7dCx7Oy",
+					"expanded_url": "https://twitter.com/linarisot/status/1232419060408889346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232419053370822700,
+					"id_str": "1232419053370822657",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ERpumXKXUAEEMxd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERpumXKXUAEEMxd.jpg",
+					"url": "https://t.co/bpU7dCx7Oy",
+					"display_url": "pic.twitter.com/bpU7dCx7Oy",
+					"expanded_url": "https://twitter.com/linarisot/status/1232419060408889346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1232419058563330000,
+					"id_str": "1232419058563330051",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/ERpumqgWsAMiaJX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERpumqgWsAMiaJX.jpg",
+					"url": "https://t.co/bpU7dCx7Oy",
+					"display_url": "pic.twitter.com/bpU7dCx7Oy",
+					"expanded_url": "https://twitter.com/linarisot/status/1232419060408889346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1181,
+							"h": 664,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1181,
+							"h": 664,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.mailchimp.com\" rel=\"nofollow\">Mailchimp</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 136985131,
+			"id_str": "136985131",
+			"name": "Eirini Linardaki",
+			"screen_name": "linarisot",
+			"location": "",
+			"description": "",
+			"url": "https://t.co/9SN7lgyPSJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9SN7lgyPSJ",
+							"expanded_url": "http://linardakiparisot.wixsite.com/linardaki-parisot",
+							"display_url": "linardakiparisot.wixsite.com/linardaki-pari…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 298,
+			"listed_count": 0,
+			"created_at": "Sun Apr 25 13:07:21 +0000 2010",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880545809749684224/3NI_pJcA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880545809749684224/3NI_pJcA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/136985131/1498773407",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Artist talk and brunch, Sunday, March 1st, noon-2.30pm - https://t.co/v5M23w86ub https://t.co/bpU7dCx7Oy"
+	},
+	{
 		"created_at": "Tue Feb 25 04:53:09 +0000 2020",
 		"id": 1231876456919322600,
 		"id_str": "1232166620501598208",
