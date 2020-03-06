@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 05 20:43:41 +0000 2020",
+		"id": 1235664430790250500,
+		"id_str": "1235667320950976512",
+		"full_text": "@keithfrankish @R3TheVerb @BBCRadio3 If you can listen to this tomorrow, you’ll hear an example near the end of the programme... https://t.co/Q88Q3jMCvj",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "R3TheVerb",
+					"name": "The Verb",
+					"id": 54497248,
+					"id_str": "54497248",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "BBCRadio3",
+					"name": "BBC Radio 3",
+					"id": 19290942,
+					"id_str": "19290942",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q88Q3jMCvj",
+					"expanded_url": "https://www.bbc.co.uk/programmes/b006tnsf",
+					"display_url": "bbc.co.uk/programmes/b00…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1235525550153887700,
+		"in_reply_to_status_id_str": "1235525550153887745",
+		"in_reply_to_user_id": 52522040,
+		"in_reply_to_user_id_str": "52522040",
+		"in_reply_to_screen_name": "keithfrankish",
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books. Founding faculty @weareLIS. @unitedagents",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80236,
+			"friends_count": 7000,
+			"listed_count": 2567,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 45042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1398336718",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@keithfrankish @R3TheVerb @BBCRadio3 If you can listen to this tomorrow, you’ll hear an example near the end of the programme... https://t.co/Q88Q3jMCvj"
+	},
+	{
+		"created_at": "Thu Mar 05 14:37:40 +0000 2020",
+		"id": 1235545061376643000,
+		"id_str": "1235575207915450370",
+		"full_text": "Bertrand Russell's home recordings discovered\n\nPreviously unheard recordings made by the philosopher Bertrand Russell have been discovered by the BBC ahead of the 50th anniversary of his death https://t.co/YUOpgNT2RB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YUOpgNT2RB",
+					"expanded_url": "https://www.bbc.co.uk/news/entertainment-arts-51302275?SThisFB",
+					"display_url": "bbc.co.uk/news/entertain…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147637306,
+			"id_str": "147637306",
+			"name": "Anita Leirfall",
+			"screen_name": "anitaleirfall",
+			"location": "Oslo & Bergen, Norway",
+			"description": "Associate Professor, Department of Philosophy, University of Bergen @UiB_philosophy @UiB",
+			"url": "https://t.co/IkygNVOrPI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IkygNVOrPI",
+							"expanded_url": "http://www.uib.no/persons/Anita.Leirfall",
+							"display_url": "uib.no/persons/Anita.…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14307,
+			"friends_count": 2565,
+			"listed_count": 541,
+			"created_at": "Mon May 24 17:11:32 +0000 2010",
+			"favourites_count": 93158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/442268268628148224/T4aTqP45_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147637306/1497385916",
+			"profile_link_color": "002FFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bertrand Russell's home recordings discovered\n\nPreviously unheard recordings made by the philosopher Bertrand Russell have been discovered by the BBC ahead of the 50th anniversary of his death https://t.co/YUOpgNT2RB"
+	},
+	{
 		"created_at": "Wed Mar 04 19:48:30 +0000 2020",
 		"id": 1235213927082057700,
 		"id_str": "1235291045216292867",
