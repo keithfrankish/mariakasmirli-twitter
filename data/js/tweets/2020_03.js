@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 10 07:03:32 +0000 2020",
+		"id": 1236229006783062000,
+		"id_str": "1237272861905170432",
+		"full_text": "\"To enter into dialogue is not to endeavour to impose one’s own view or to uncritically accept the view of a more authoritative other, but rather to engage in a shared search for meaning\" some very brief thoughts on the educational value of dialogue https://t.co/YoZlXxAs6L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YoZlXxAs6L",
+					"expanded_url": "http://21stcenturylearners.org.uk/?page_id=746",
+					"display_url": "21stcenturylearners.org.uk/?page_id=746",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 418240820,
+			"id_str": "418240820",
+			"name": "Neil Phillipson",
+			"screen_name": "Phillipson70",
+			"location": "Cheshire",
+			"description": "Dialogic Education author; Philosophy for Children #P4C trainer with @SAPERE_P4C; facilitator with @Gen_Global_; trainer with @dialoguewks; tutor with @knspsite",
+			"url": "http://t.co/NWMnAO2VsA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/NWMnAO2VsA",
+							"expanded_url": "http://21stcenturylearners.org.uk",
+							"display_url": "21stcenturylearners.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1316,
+			"friends_count": 1254,
+			"listed_count": 19,
+			"created_at": "Mon Nov 21 22:52:14 +0000 2011",
+			"favourites_count": 1973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4731,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793024909555408896/1I4t9SAq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/418240820/1530195477",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"To enter into dialogue is not to endeavour to impose one’s own view or to uncritically accept the view of a more authoritative other, but rather to engage in a shared search for meaning\" some very brief thoughts on the educational value of dialogue https://t.co/YoZlXxAs6L"
+	},
+	{
 		"created_at": "Sat Mar 07 21:36:36 +0000 2020",
 		"id": 1236343609470967800,
 		"id_str": "1236405413043744769",
