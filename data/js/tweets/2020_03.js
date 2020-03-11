@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Wed Mar 11 00:48:19 +0000 2020",
+		"id": 1237328526384259000,
+		"id_str": "1237540823295651840",
+		"full_text": "'Consciousness: how can we solve the greatest mystery in science?' Our very own Dr Keith Frankish discusses the difficulty of testing the subjective properties of consciousness over on @sciencefocus 🧠👇\n\nhttps://t.co/LZNQeR4Htj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sciencefocus",
+					"name": "BBC Science Focus Magazine",
+					"id": 25982688,
+					"id_str": "25982688",
+					"indices": [
+						185,
+						198
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LZNQeR4Htj",
+					"expanded_url": "https://www.sciencefocus.com/the-human-body/consciousness-how-can-we-solve-the-greatest-mystery-in-science/",
+					"display_url": "sciencefocus.com/the-human-body…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1962,
+			"friends_count": 496,
+			"listed_count": 51,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4108,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1566568524",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Consciousness: how can we solve the greatest mystery in science?' Our very own Dr Keith Frankish discusses the difficulty of testing the subjective properties of consciousness over on @sciencefocus 🧠👇\n\nhttps://t.co/LZNQeR4Htj"
+	},
+	{
 		"created_at": "Tue Mar 10 07:03:32 +0000 2020",
 		"id": 1236229006783062000,
 		"id_str": "1237272861905170432",
