@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 15:25:35 +0000 2020",
+		"id": 1238106898332876800,
+		"id_str": "1238123981498126336",
+		"full_text": "How about we listen to the experts, and not a semi-random list of things you speculate god would never allow? https://t.co/HWYJlko1fM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HWYJlko1fM",
+					"expanded_url": "https://twitter.com/hemantmehta/status/1238086607590182912",
+					"display_url": "twitter.com/hemantmehta/st…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46686058,
+			"id_str": "46686058",
+			"name": "Humanists UK",
+			"screen_name": "Humanists_UK",
+			"location": "London",
+			"description": "We advance free thinking and promote humanism to create a tolerant society where rational thinking and kindness prevail. Registered charity no. 285987.",
+			"url": "https://t.co/o6YMksqCGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6YMksqCGI",
+							"expanded_url": "http://humanists.uk",
+							"display_url": "humanists.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95782,
+			"friends_count": 2859,
+			"listed_count": 1294,
+			"created_at": "Fri Jun 12 16:18:39 +0000 2009",
+			"favourites_count": 10923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46686058/1495553721",
+			"profile_link_color": "4C4184",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD3D5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1238086607590183000,
+		"quoted_status_id_str": "1238086607590182912",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HWYJlko1fM",
+			"expanded": "https://twitter.com/hemantmehta/status/1238086607590182912",
+			"display": "twitter.com/hemantmehta/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 12 12:57:04 +0000 2020",
+			"id": 1238086607590183000,
+			"id_str": "1238086607590182912",
+			"full_text": "Church of Cyprus: God Would Never Let Coronavirus Spread via Communion https://t.co/uAzbvpAytI https://t.co/x6qzI07ASi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uAzbvpAytI",
+						"expanded_url": "http://dlvr.it/RRlBsp",
+						"display_url": "dlvr.it/RRlBsp",
+						"indices": [
+							71,
+							94
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1238086605585318000,
+						"id_str": "1238086605585317889",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/ES6RNUcVAAENd1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES6RNUcVAAENd1I.jpg",
+						"url": "https://t.co/x6qzI07ASi",
+						"display_url": "pic.twitter.com/x6qzI07ASi",
+						"expanded_url": "https://twitter.com/hemantmehta/status/1238086607590182912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1238086605585318000,
+						"id_str": "1238086605585317889",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/ES6RNUcVAAENd1I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ES6RNUcVAAENd1I.jpg",
+						"url": "https://t.co/x6qzI07ASi",
+						"display_url": "pic.twitter.com/x6qzI07ASi",
+						"expanded_url": "https://twitter.com/hemantmehta/status/1238086607590182912/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 768,
+								"h": 512,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23034673,
+				"id_str": "23034673",
+				"name": "Hemant Mehta",
+				"screen_name": "hemantmehta",
+				"location": "",
+				"description": "Editor: https://t.co/iMUID3EpWL. YouTuber. Podcaster. Tips: Mpromptu@gmail.com. I made a crossword once. Support: https://t.co/kxIcZEtSqD",
+				"url": "https://t.co/UMwyakzuKP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UMwyakzuKP",
+								"expanded_url": "http://friendlyatheist.com",
+								"display_url": "friendlyatheist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iMUID3EpWL",
+								"expanded_url": "http://FriendlyAtheist.com",
+								"display_url": "FriendlyAtheist.com",
+								"indices": [
+									8,
+									31
+								]
+							},
+							{
+								"url": "https://t.co/kxIcZEtSqD",
+								"expanded_url": "http://patreon.com/Hemant",
+								"display_url": "patreon.com/Hemant",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 69567,
+				"friends_count": 217,
+				"listed_count": 1676,
+				"created_at": "Fri Mar 06 05:23:51 +0000 2009",
+				"favourites_count": 6,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 62971,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/805666483359666176/1Cd8aRxJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/805666483359666176/1Cd8aRxJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23034673/1559830814",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 70,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 38,
+		"favorite_count": 174,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How about we listen to the experts, and not a semi-random list of things you speculate god would never allow? https://t.co/HWYJlko1fM"
+	},
+	{
 		"created_at": "Wed Mar 11 00:48:19 +0000 2020",
 		"id": 1237328526384259000,
 		"id_str": "1237540823295651840",
