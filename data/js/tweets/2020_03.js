@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 15 18:40:58 +0000 2020",
+		"id": 1239247633522327600,
+		"id_str": "1239260315025580032",
+		"full_text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾‍💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TeacherToolkit",
+					"name": "🇬🇧 TeacherToolkit.co.uk",
+					"id": 180327352,
+					"id_str": "180327352",
+					"indices": [
+						74,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/yknQWKz9yh",
+					"expanded_url": "https://www.pscp.tv/w/cT0P-DU2ODQwN3wxbFBLcVZ6bXFld0dipZZLiXv3XDM0UFC0sXqlzCcPelyvpK0pjRBQ4-bKqj4=",
+					"display_url": "pscp.tv/w/cT0P-DU2ODQw…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 180327352,
+			"id_str": "180327352",
+			"name": "🇬🇧 TeacherToolkit.co.uk",
+			"screen_name": "TeacherToolkit",
+			"location": "United Kingdom",
+			"description": "Teaching 27 Years | EdD Student 🔬 Researching Virtual Staffroom/Digital Sociology | No.1 Education Blog UK 🇬🇧 11.5M Readers | Teacher Trainer | Influencer 🚀",
+			"url": "https://t.co/KcfgV1lzDr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KcfgV1lzDr",
+							"expanded_url": "https://www.teachertoolkit.co.uk",
+							"display_url": "teachertoolkit.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 228003,
+			"friends_count": 979,
+			"listed_count": 2398,
+			"created_at": "Thu Aug 19 10:43:32 +0000 2010",
+			"favourites_count": 79176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 153270,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EA1F4C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1226093790257086464/irozAeaH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1226093790257086464/irozAeaH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/180327352/1560343596",
+			"profile_link_color": "EA1F4C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 159,
+		"favorite_count": 326,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾‍💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh"
+	},
+	{
 		"created_at": "Thu Mar 12 15:25:35 +0000 2020",
 		"id": 1238106898332876800,
 		"id_str": "1238123981498126336",
