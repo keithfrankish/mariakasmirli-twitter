@@ -1,10 +1,264 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 18:52:53 +0000 2020",
+		"id": 1239983915189833700,
+		"id_str": "1239988089986199555",
+		"full_text": "Stuck at home? Feel in need of some ancient philosophy? Check out our free videos on the Presocratics and my guide to Plato's Republic. https://t.co/hlo17gnfkF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hlo17gnfkF",
+					"expanded_url": "https://twitter.com/drangiehobbs/status/1136247720753160193",
+					"display_url": "twitter.com/drangiehobbs/s…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82591098,
+			"id_str": "82591098",
+			"name": "Angie Hobbs",
+			"screen_name": "drangiehobbs",
+			"location": "University of Sheffield",
+			"description": "Professor of the Public Understanding of Philosophy",
+			"url": "http://t.co/TLynjwBfFh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TLynjwBfFh",
+							"expanded_url": "http://angiehobbs.com",
+							"display_url": "angiehobbs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5975,
+			"friends_count": 228,
+			"listed_count": 262,
+			"created_at": "Thu Oct 15 10:59:55 +0000 2009",
+			"favourites_count": 3863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1136247720753160200,
+		"quoted_status_id_str": "1136247720753160193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hlo17gnfkF",
+			"expanded": "https://twitter.com/drangiehobbs/status/1136247720753160193",
+			"display": "twitter.com/drangiehobbs/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 05 12:25:41 +0000 2019",
+			"id": 1136247720753160200,
+			"id_str": "1136247720753160193",
+			"full_text": "Free link to our ongoing video series on Ancient Greek Philosophy - presented by me, directed by Graham McElearney and filmed by Tom Foster @GrahamMacca @frostytom @sheffielduni https://t.co/SqWGW6sjza",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				177
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GrahamMacca",
+						"name": "Graham F XMcElearney",
+						"id": 28569568,
+						"id_str": "28569568",
+						"indices": [
+							140,
+							152
+						]
+					},
+					{
+						"screen_name": "frostytom",
+						"name": "Tom Foster",
+						"id": 383166828,
+						"id_str": "383166828",
+						"indices": [
+							153,
+							163
+						]
+					},
+					{
+						"screen_name": "sheffielduni",
+						"name": "The University of Sheffield",
+						"id": 19341622,
+						"id_str": "19341622",
+						"indices": [
+							164,
+							177
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/SqWGW6sjza",
+						"expanded_url": "https://twitter.com/PhilosophyNow/status/1135881887732441088",
+						"display_url": "twitter.com/PhilosophyNow/…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82591098,
+				"id_str": "82591098",
+				"name": "Angie Hobbs",
+				"screen_name": "drangiehobbs",
+				"location": "University of Sheffield",
+				"description": "Professor of the Public Understanding of Philosophy",
+				"url": "http://t.co/TLynjwBfFh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/TLynjwBfFh",
+								"expanded_url": "http://angiehobbs.com",
+								"display_url": "angiehobbs.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5975,
+				"friends_count": 228,
+				"listed_count": 262,
+				"created_at": "Thu Oct 15 10:59:55 +0000 2009",
+				"favourites_count": 3863,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17350,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1135881887732441100,
+			"quoted_status_id_str": "1135881887732441088",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SqWGW6sjza",
+				"expanded": "https://twitter.com/PhilosophyNow/status/1135881887732441088",
+				"display": "twitter.com/PhilosophyNow/…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 21,
+		"favorite_count": 57,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stuck at home? Feel in need of some ancient philosophy? Check out our free videos on the Presocratics and my guide to Plato's Republic. https://t.co/hlo17gnfkF"
+	},
+	{
 		"created_at": "Sun Mar 15 18:40:58 +0000 2020",
 		"id": 1239247633522327600,
 		"id_str": "1239260315025580032",
-		"full_text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾‍💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh",
+		"full_text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +369,7 @@ Grailbird.data.tweets_2020_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾‍💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh"
+		"text": "47 Ideas 💡 for Teachers To Teach Remotely 👩🏾💻 &gt;&gt; \n\nLive video 🎥 by @TeacherToolkit &gt;&gt; \n\nDon’t reinvent the wheel; manage communications; have a routine; know the technology; remember vulnerable pupils and keep safeguarding a high priority.  https://t.co/yknQWKz9yh"
 	},
 	{
 		"created_at": "Thu Mar 12 15:25:35 +0000 2020",
