@@ -1,6 +1,218 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 21 19:46:22 +0000 2020",
+		"id": 1241417361883893800,
+		"id_str": "1241451102144466944",
+		"full_text": "Being in self isolation, you realize how much you depend on others for elementary things in your life. I’m grateful to my family for taking care of me. Covid19 doesn’t just take lives, it threatens to tear apart the very social fabric that keeps society together. Resist it!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3068008811,
+			"id_str": "3068008811",
+			"name": "Stathis Psillos",
+			"screen_name": "StathisPsillos",
+			"location": "Athens Greece",
+			"description": "I am a philosopher, lucky enough to do philosophy for a living. I tweet about philosophy, and occasionally politics",
+			"url": "https://t.co/zUI0aPk6f3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zUI0aPk6f3",
+							"expanded_url": "http://www.phs.uoa.gr/psillos",
+							"display_url": "phs.uoa.gr/psillos",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4130,
+			"friends_count": 783,
+			"listed_count": 94,
+			"created_at": "Tue Mar 03 15:27:52 +0000 2015",
+			"favourites_count": 7876,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9759,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214205121229312001/DFoqq9Du_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214205121229312001/DFoqq9Du_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3068008811/1549239146",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Being in self isolation, you realize how much you depend on others for elementary things in your life. I’m grateful to my family for taking care of me. Covid19 doesn’t just take lives, it threatens to tear apart the very social fabric that keeps society together. Resist it!"
+	},
+	{
+		"created_at": "Sat Mar 21 12:30:39 +0000 2020",
+		"id": 1241323305761726500,
+		"id_str": "1241341450572509184",
+		"full_text": "If only illusionism’s critics—no names no pack drills—could explain their position with the clarity, modesty, dialectical neutrality, &amp; civility @keithfrankish⁩ does his, then maybe progress could be made. Highly doubt they can, though. \n https://t.co/MKjMbg07wS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						149,
+						163
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MKjMbg07wS",
+					"expanded_url": "https://iai.tv/articles/the-demystification-of-consciousness-auid-1381",
+					"display_url": "iai.tv/articles/the-d…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 992146303814684700,
+			"id_str": "992146303814684680",
+			"name": "Sean Crawford",
+			"screen_name": "qualiazombie",
+			"location": "Manchester & Vancouver",
+			"description": "I was the shadow of the waxwing slain\nBy the false azure in the windowpane;\nI was the smudge of ashen fluff—and I\nLived on, flew on, in the reflected sky.",
+			"url": "https://t.co/SeotxBywxP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeotxBywxP",
+							"expanded_url": "https://philpeople.org/profiles/sean-crawford",
+							"display_url": "philpeople.org/profiles/sean-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 657,
+			"friends_count": 833,
+			"listed_count": 11,
+			"created_at": "Thu May 03 20:58:06 +0000 2018",
+			"favourites_count": 3687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183839549732077569/uf3tFpsj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183839549732077569/uf3tFpsj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/992146303814684680/1568548231",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If only illusionism’s critics—no names no pack drills—could explain their position with the clarity, modesty, dialectical neutrality, &amp; civility @keithfrankish⁩ does his, then maybe progress could be made. Highly doubt they can, though. \n https://t.co/MKjMbg07wS"
+	},
+	{
 		"created_at": "Fri Mar 20 18:58:49 +0000 2020",
 		"id": 1241076750114861000,
 		"id_str": "1241076750114861057",
