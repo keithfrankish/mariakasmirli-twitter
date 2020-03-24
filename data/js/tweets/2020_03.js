@@ -1,6 +1,260 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 23 11:36:47 +0000 2020",
+		"id": 1242049081670844400,
+		"id_str": "1242052668966817793",
+		"full_text": "@PaulGarvey4 @educationgovuk @GavinWilliamson https://t.co/uxJpaWSAdX",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulGarvey4",
+					"name": "Talk for Teaching",
+					"id": 2357835259,
+					"id_str": "2357835259",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "educationgovuk",
+					"name": "Department for Education",
+					"id": 143039548,
+					"id_str": "143039548",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "GavinWilliamson",
+					"name": "Gavin Williamson",
+					"id": 368314502,
+					"id_str": "368314502",
+					"indices": [
+						29,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uxJpaWSAdX",
+					"expanded_url": "https://www.nwemail.co.uk/news/18325965.a-huge-loss-primary-school-headteacher-dies-coronavirus/",
+					"display_url": "nwemail.co.uk/news/18325965.…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242040720241963000,
+		"in_reply_to_status_id_str": "1242040720241963010",
+		"in_reply_to_user_id": 2357835259,
+		"in_reply_to_user_id_str": "2357835259",
+		"in_reply_to_screen_name": "PaulGarvey4",
+		"user": {
+			"id": 1223722074566484000,
+			"id_str": "1223722074566483968",
+			"name": "FrustratedTeacher",
+			"screen_name": "FrustratedTeac9",
+			"location": "London, England",
+			"description": "Career changer trying to teach",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Sat Feb 01 21:37:53 +0000 2020",
+			"favourites_count": 391,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1223722475986530304/fD9V5wTS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1223722475986530304/fD9V5wTS_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@PaulGarvey4 @educationgovuk @GavinWilliamson https://t.co/uxJpaWSAdX"
+	},
+	{
+		"created_at": "Mon Mar 23 11:36:23 +0000 2020",
+		"id": 1242040720241963000,
+		"id_str": "1242052569511444480",
+		"full_text": "@educationgovuk Then #CloseTheSchoolsNow instead of there crazy bat-shit stupid, half-measures. It’s ***YOU** That is causing this. Stop trying to blame everyone else except your own measures. #CloseTheSchoolsNow instead of piddling about! @GavinWilliamson",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CloseTheSchoolsNow",
+					"indices": [
+						21,
+						40
+					]
+				},
+				{
+					"text": "CloseTheSchoolsNow",
+					"indices": [
+						193,
+						212
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "educationgovuk",
+					"name": "Department for Education",
+					"id": 143039548,
+					"id_str": "143039548",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "GavinWilliamson",
+					"name": "Gavin Williamson",
+					"id": 368314502,
+					"id_str": "368314502",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241843461986402300,
+		"in_reply_to_status_id_str": "1241843461986402306",
+		"in_reply_to_user_id": 143039548,
+		"in_reply_to_user_id_str": "143039548",
+		"in_reply_to_screen_name": "educationgovuk",
+		"user": {
+			"id": 2357835259,
+			"id_str": "2357835259",
+			"name": "Talk for Teaching",
+			"screen_name": "PaulGarvey4",
+			"location": "Dawlish (in a storm) - above.",
+			"description": "‘Talk for Teaching' 👍👍 Support by DM anytime 🙋‍♂️. School reviews. SEF & Ofsted help. HT Appraisal. #nobestwayoverall #talkupteaching #teacher5oclockclub☕️",
+			"url": "https://t.co/edXp9iako0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/edXp9iako0",
+							"expanded_url": "http://www.quality-schools.com",
+							"display_url": "quality-schools.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55238,
+			"friends_count": 39074,
+			"listed_count": 282,
+			"created_at": "Sun Feb 23 10:51:47 +0000 2014",
+			"favourites_count": 47343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/857826600221540353/GdLxvHSU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/857826600221540353/GdLxvHSU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2357835259/1580464939",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@educationgovuk Then #CloseTheSchoolsNow instead of there crazy bat-shit stupid, half-measures. It’s ***YOU** That is causing this. Stop trying to blame everyone else except your own measures. #CloseTheSchoolsNow instead of piddling about! @GavinWilliamson"
+	},
+	{
 		"created_at": "Sun Mar 22 18:26:55 +0000 2020",
 		"id": 1241683946611650600,
 		"id_str": "1241793497159647233",
