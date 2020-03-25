@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 19:55:17 +0000 2020",
+		"id": 1242525915252482000,
+		"id_str": "1242540508699938817",
+		"full_text": "Have the wise, hopeful, and careful words of Bertrand Russell, in his humanist message to future generations, ever been as relevant or as important as they appear to be in 2020? Please, listen and share. https://t.co/iUzQBgcYoZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1223292836222840800,
+					"id_str": "1223292836222840832",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223292836222840832/pu/img/tG4WU8XYLKntt3BK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223292836222840832/pu/img/tG4WU8XYLKntt3BK.jpg",
+					"url": "https://t.co/iUzQBgcYoZ",
+					"display_url": "pic.twitter.com/iUzQBgcYoZ",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1242525915252482049/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1223292836222840800,
+					"id_str": "1223292836222840832",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1223292836222840832/pu/img/tG4WU8XYLKntt3BK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1223292836222840832/pu/img/tG4WU8XYLKntt3BK.jpg",
+					"url": "https://t.co/iUzQBgcYoZ",
+					"display_url": "pic.twitter.com/iUzQBgcYoZ",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1242525915252482049/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 132562,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1223292836222840832/pu/pl/0Dx9tnMcANzhq_fz.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223292836222840832/pu/vid/360x270/14K4NaZqVYJMgAVP.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1223292836222840832/pu/vid/480x360/SkpoSmFa0hyGH_VS.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46686058,
+			"id_str": "46686058",
+			"name": "Humanists UK",
+			"screen_name": "Humanists_UK",
+			"location": "London",
+			"description": "We advance free thinking and promote humanism to create a tolerant society where rational thinking and kindness prevail. Registered charity no. 285987.",
+			"url": "https://t.co/o6YMksqCGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6YMksqCGI",
+							"expanded_url": "http://humanists.uk",
+							"display_url": "humanists.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 95975,
+			"friends_count": 2860,
+			"listed_count": 1291,
+			"created_at": "Fri Jun 12 16:18:39 +0000 2009",
+			"favourites_count": 10989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 45279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46686058/1495553721",
+			"profile_link_color": "4C4184",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD3D5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 124,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have the wise, hopeful, and careful words of Bertrand Russell, in his humanist message to future generations, ever been as relevant or as important as they appear to be in 2020? Please, listen and share. https://t.co/iUzQBgcYoZ"
+	},
+	{
 		"created_at": "Mon Mar 23 11:36:47 +0000 2020",
 		"id": 1242049081670844400,
 		"id_str": "1242052668966817793",
@@ -187,7 +390,7 @@ Grailbird.data.tweets_2020_03 =
 			"name": "Talk for Teaching",
 			"screen_name": "PaulGarvey4",
 			"location": "Dawlish (in a storm) - above.",
-			"description": "‘Talk for Teaching' 👍👍 Support by DM anytime 🙋‍♂️. School reviews. SEF & Ofsted help. HT Appraisal. #nobestwayoverall #talkupteaching #teacher5oclockclub☕️",
+			"description": "‘Talk for Teaching' 👍👍 Support by DM anytime 🙋♂️. School reviews. SEF & Ofsted help. HT Appraisal. #nobestwayoverall #talkupteaching #teacher5oclockclub☕️",
 			"url": "https://t.co/edXp9iako0",
 			"entities": {
 				"url": {
