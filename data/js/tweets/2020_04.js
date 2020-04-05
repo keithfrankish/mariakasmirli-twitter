@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 21:13:25 +0000 2020",
+		"id": 1246368921487360000,
+		"id_str": "1246546438408019970",
+		"full_text": "Book on what philosophy is and why it matters submitted to @Routledge_Phil and on its way to production! All the contributors are women working in philosophy- check it out soon: \"Philosophy by Women: 22 philosophers reflect on philosophy and its value.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Routledge_Phil",
+					"name": "Routledge Philosophy and Religion",
+					"id": 168416000,
+					"id_str": "168416000",
+					"indices": [
+						59,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29206264,
+			"id_str": "29206264",
+			"name": "Elly Vintiadis",
+			"screen_name": "EllyVintiadis",
+			"location": "",
+			"description": "A philosopher corrupting the youth at the American College of Greece. Also, a treat searchin' street urchin with very strong views about burgers.",
+			"url": "https://t.co/UVlmKgD3PO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UVlmKgD3PO",
+							"expanded_url": "http://www.ellyvintiadis.com",
+							"display_url": "ellyvintiadis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1289,
+			"friends_count": 1530,
+			"listed_count": 37,
+			"created_at": "Mon Apr 06 14:09:51 +0000 2009",
+			"favourites_count": 4198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6909,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29206264/1530034618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7A9099",
+			"profile_text_color": "020008",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Book on what philosophy is and why it matters submitted to @Routledge_Phil and on its way to production! All the contributors are women working in philosophy- check it out soon: \"Philosophy by Women: 22 philosophers reflect on philosophy and its value.\""
+	},
+	{
 		"created_at": "Fri Apr 03 08:21:03 +0000 2020",
 		"id": 1245988493794455600,
 		"id_str": "1245989677917749259",
