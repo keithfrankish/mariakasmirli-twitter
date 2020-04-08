@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 09:06:11 +0000 2020",
+		"id": 1247441017260966000,
+		"id_str": "1247450588096466945",
+		"full_text": "At the Greek Parliament the Italian flag next to Greek one as a sign of solidarity ti our neighbours. https://t.co/d9s4fXhHWu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247441009673490400,
+					"id_str": "1247441009673490434",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_M_TPX0AIukq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_M_TPX0AIukq8.jpg",
+					"url": "https://t.co/d9s4fXhHWu",
+					"display_url": "pic.twitter.com/d9s4fXhHWu",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1247441017260965888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247441009673490400,
+					"id_str": "1247441009673490434",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/EU_M_TPX0AIukq8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU_M_TPX0AIukq8.jpg",
+					"url": "https://t.co/d9s4fXhHWu",
+					"display_url": "pic.twitter.com/d9s4fXhHWu",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1247441017260965888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29206264,
+			"id_str": "29206264",
+			"name": "Elly Vintiadis",
+			"screen_name": "EllyVintiadis",
+			"location": "",
+			"description": "A philosopher corrupting the youth at the American College of Greece. Also, a treat searchin' street urchin with very strong views about burgers.",
+			"url": "https://t.co/UVlmKgD3PO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UVlmKgD3PO",
+							"expanded_url": "http://www.ellyvintiadis.com",
+							"display_url": "ellyvintiadis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1293,
+			"friends_count": 1537,
+			"listed_count": 38,
+			"created_at": "Mon Apr 06 14:09:51 +0000 2009",
+			"favourites_count": 4203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6919,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29206264/1530034618",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7A9099",
+			"profile_text_color": "020008",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "At the Greek Parliament the Italian flag next to Greek one as a sign of solidarity ti our neighbours. https://t.co/d9s4fXhHWu"
+	},
+	{
 		"created_at": "Mon Apr 06 06:35:11 +0000 2020",
 		"id": 1247050200595730400,
 		"id_str": "1247050200595730433",
