@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 17:45:15 +0000 2020",
+		"id": 1246137606674530300,
+		"id_str": "1248305989889261573",
+		"full_text": "Michelangelo's grocery list, which he illustrated for a servant who was likely illiterate. It's dated March 18, 1518 - around then time of Lent. This 500-year-old list is now on display at Casa Buonarroti in Florence, Italy. Learn more: https://t.co/KQOxOPctKN https://t.co/lDyjQkg9RC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KQOxOPctKN",
+					"expanded_url": "https://www.atlasobscura.com/articles/michelangelo-shopping-list-sketch",
+					"display_url": "atlasobscura.com/articles/miche…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1246137570758660000,
+					"id_str": "1246137570758660096",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsrhK5WkAA21GP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsrhK5WkAA21GP.jpg",
+					"url": "https://t.co/lDyjQkg9RC",
+					"display_url": "pic.twitter.com/lDyjQkg9RC",
+					"expanded_url": "https://twitter.com/DrLindseyFitz/status/1246137606674530309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246137570758660000,
+					"id_str": "1246137570758660096",
+					"indices": [
+						261,
+						284
+					],
+					"media_url": "http://pbs.twimg.com/media/EUsrhK5WkAA21GP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUsrhK5WkAA21GP.jpg",
+					"url": "https://t.co/lDyjQkg9RC",
+					"display_url": "pic.twitter.com/lDyjQkg9RC",
+					"expanded_url": "https://twitter.com/DrLindseyFitz/status/1246137606674530309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 599,
+							"h": 852,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 599,
+							"h": 852,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229509740,
+			"id_str": "229509740",
+			"name": "Lindsey Fitzharris",
+			"screen_name": "DrLindseyFitz",
+			"location": "United Kingdom",
+			"description": "Storyteller. Medical historian (Oxford, PhD). Conveyor of nightmarish history. Author: THE BUTCHERING ART. Host: @SmithsonianChan's CURIOUS LIFE AND DEATH OF...",
+			"url": "https://t.co/e40Bn4YG9k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e40Bn4YG9k",
+							"expanded_url": "http://drlindseyfitzharris.com",
+							"display_url": "drlindseyfitzharris.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 109354,
+			"friends_count": 898,
+			"listed_count": 1424,
+			"created_at": "Wed Dec 22 15:53:01 +0000 2010",
+			"favourites_count": 68954,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 63491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213543448445362177/j20M9yR6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213543448445362177/j20M9yR6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229509740/1487503629",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 260,
+		"favorite_count": 871,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Michelangelo's grocery list, which he illustrated for a servant who was likely illiterate. It's dated March 18, 1518 - around then time of Lent. This 500-year-old list is now on display at Casa Buonarroti in Florence, Italy. Learn more: https://t.co/KQOxOPctKN https://t.co/lDyjQkg9RC"
+	},
+	{
 		"created_at": "Tue Apr 07 09:06:11 +0000 2020",
 		"id": 1247441017260966000,
 		"id_str": "1247450588096466945",
