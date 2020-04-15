@@ -1,6 +1,283 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 14 12:50:40 +0000 2020",
+		"id": 1250043589373104000,
+		"id_str": "1250043796739502080",
+		"full_text": "“Ruth Mandel: A child of the Holocaust, a believer in democracy... Mandel, who passed away Saturday, ran the Eagleton Institute of Politics for more than 2 decades until retiring, &amp; before that ran its groundbreaking Center for American Women in Politics.” https://t.co/GPEVsuoAbk https://t.co/dEOixDSVMZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GPEVsuoAbk",
+					"expanded_url": "https://www.nj.com/opinion/2020/04/ruth-mandel-a-child-of-the-holocaust-a-believer-in-democracy-moran.html?outputType=amp",
+					"display_url": "nj.com/opinion/2020/0…",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250043576605724700,
+					"id_str": "1250043576605724672",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkMAolX0AAnaG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkMAolX0AAnaG5.jpg",
+					"url": "https://t.co/dEOixDSVMZ",
+					"display_url": "pic.twitter.com/dEOixDSVMZ",
+					"expanded_url": "https://twitter.com/McKayMSmith/status/1250043589373104128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250043576605724700,
+					"id_str": "1250043576605724672",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EVkMAolX0AAnaG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVkMAolX0AAnaG5.jpg",
+					"url": "https://t.co/dEOixDSVMZ",
+					"display_url": "pic.twitter.com/dEOixDSVMZ",
+					"expanded_url": "https://twitter.com/McKayMSmith/status/1250043589373104128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 741,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 420,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2480936977,
+			"id_str": "2480936977",
+			"name": "McKay Smith",
+			"screen_name": "McKayMSmith",
+			"location": "Washington, DC",
+			"description": "Attorney @TheJusticeDept | Professor @GWLaw, @WMLawSchool, & @GeorgeMasonLaw | Former @SenJohnMcCain Staffer, EDVA Prosecutor, & @DHSgov | Tweets on Holocaust",
+			"url": "https://t.co/an1cWkxlxK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/an1cWkxlxK",
+							"expanded_url": "https://www.thedailybeast.com/catching-one-nazi-became-his-life",
+							"display_url": "thedailybeast.com/catching-one-n…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 96293,
+			"friends_count": 49839,
+			"listed_count": 441,
+			"created_at": "Wed May 07 01:04:59 +0000 2014",
+			"favourites_count": 39354,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 19988,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1145058464328232961/rljYrm1v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145058464328232961/rljYrm1v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2480936977/1557640391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Ruth Mandel: A child of the Holocaust, a believer in democracy... Mandel, who passed away Saturday, ran the Eagleton Institute of Politics for more than 2 decades until retiring, &amp; before that ran its groundbreaking Center for American Women in Politics.” https://t.co/GPEVsuoAbk https://t.co/dEOixDSVMZ"
+	},
+	{
+		"created_at": "Tue Apr 14 12:17:18 +0000 2020",
+		"id": 1249999353999212500,
+		"id_str": "1250035398128132096",
+		"full_text": "Apparently there are some free downloads available of my paper, with Sean Cordell, arguing *CONTROVERSIALLY* that Lance Armstrong was a cheat. Well, someone had to. Here they are\nArmstrong was a Cheat: A Reply to Eric Moore https://t.co/KnUCRudIOH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KnUCRudIOH",
+					"expanded_url": "https://www.tandfonline.com/doi/full/10.1080/17511321.2018.1561747#.XpWHrQNkj2Q.twitter",
+					"display_url": "tandfonline.com/doi/full/10.10…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305848643,
+			"id_str": "305848643",
+			"name": "(((Jon Pike)))",
+			"screen_name": "runthinkwrite",
+			"location": "Hove UK",
+			"description": "Faculty @PhilosophyOpen I do the ethics and metaphysics of sport. Chair @britphilofsport Also pol phil, justice, left stuff. Runner. (Hubris: Meno 79e7–80b7)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2082,
+			"friends_count": 2446,
+			"listed_count": 28,
+			"created_at": "Thu May 26 21:55:01 +0000 2011",
+			"favourites_count": 12407,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3911,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305848643/1507307101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apparently there are some free downloads available of my paper, with Sean Cordell, arguing *CONTROVERSIALLY* that Lance Armstrong was a cheat. Well, someone had to. Here they are\nArmstrong was a Cheat: A Reply to Eric Moore https://t.co/KnUCRudIOH"
+	},
+	{
 		"created_at": "Mon Apr 13 13:46:42 +0000 2020",
 		"id": 1249695508827910100,
 		"id_str": "1249695508827910144",
