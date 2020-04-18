@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 08:47:45 +0000 2020",
+		"id": 1250978017670836200,
+		"id_str": "1251069827386609664",
+		"full_text": "In the current pandemic crisis, thinkers like Aristotle, Kant and Mill can help us think more clearly about the moral dilemmas we face, writes philosopher Rebecca Goldstein. @platobooktour https://t.co/4KVmVJOsYO via @WSJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "platobooktour",
+					"name": "Plato On Book Tour",
+					"id": 2329316496,
+					"id_str": "2329316496",
+					"indices": [
+						174,
+						188
+					]
+				},
+				{
+					"screen_name": "WSJ",
+					"name": "The Wall Street Journal",
+					"id": 3108351,
+					"id_str": "3108351",
+					"indices": [
+						217,
+						221
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4KVmVJOsYO",
+					"expanded_url": "https://www.wsj.com/articles/what-would-aristotle-do-in-a-pandemic-11587048934",
+					"display_url": "wsj.com/articles/what-…",
+					"indices": [
+						189,
+						212
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107225267,
+			"id_str": "107225267",
+			"name": "Steven Pinker",
+			"screen_name": "sapinker",
+			"location": "Boston, MA",
+			"description": "Cognitive scientist at Harvard.",
+			"url": "https://t.co/ee4m6ZRAIV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ee4m6ZRAIV",
+							"expanded_url": "http://www.stevenpinker.com",
+							"display_url": "stevenpinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 607721,
+			"friends_count": 51,
+			"listed_count": 9352,
+			"created_at": "Thu Jan 21 22:20:32 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107225267/1547524511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 526,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the current pandemic crisis, thinkers like Aristotle, Kant and Mill can help us think more clearly about the moral dilemmas we face, writes philosopher Rebecca Goldstein. @platobooktour https://t.co/4KVmVJOsYO via @WSJ"
+	},
+	{
 		"created_at": "Thu Apr 16 10:59:14 +0000 2020",
 		"id": 1250739673879785500,
 		"id_str": "1250740529215737856",
