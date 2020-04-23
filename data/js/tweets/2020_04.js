@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 16:09:14 +0000 2020",
+		"id": 1247187912418099200,
+		"id_str": "1252992871046754304",
+		"full_text": "Our short Intro to Global Ethics @FutureLearn starts again today here https://t.co/q8hGNyWTx0 Our world has changed since my colleagues and I wrote this — pandemics were not on our minds. Global inequality, migration &amp; climate change were — and these issues will outlast #COVID19 https://t.co/V2tLHHJaOs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						275,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FutureLearn",
+					"name": "FutureLearn",
+					"id": 999095640,
+					"id_str": "999095640",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q8hGNyWTx0",
+					"expanded_url": "http://ow.ly/bEo950whreY",
+					"display_url": "ow.ly/bEo950whreY",
+					"indices": [
+						70,
+						93
+					]
+				},
+				{
+					"url": "https://t.co/V2tLHHJaOs",
+					"expanded_url": "https://twitter.com/OU_FASS/status/1174972150244986881",
+					"display_url": "twitter.com/OU_FASS/status…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155981313,
+			"id_str": "155981313",
+			"name": "Manuel Dries",
+			"screen_name": "manueldries",
+			"location": "London, UK, EU",
+			"description": "Philosophy @ The Open University @OU_Philosophy, also St Hilda's College, Oxford. All tweets personal & RT not all endorsements",
+			"url": "https://t.co/VN2ksdNgPJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VN2ksdNgPJ",
+							"expanded_url": "https://open.academia.edu/ManuelDries",
+							"display_url": "open.academia.edu/ManuelDries",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 778,
+			"friends_count": 2529,
+			"listed_count": 16,
+			"created_at": "Tue Jun 15 17:55:18 +0000 2010",
+			"favourites_count": 1482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1012,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222881587005513730/ahttz_j-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222881587005513730/ahttz_j-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155981313/1587164717",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174972150244987000,
+		"quoted_status_id_str": "1174972150244986881",
+		"quoted_status_permalink": {
+			"url": "https://t.co/V2tLHHJaOs",
+			"expanded": "https://twitter.com/OU_FASS/status/1174972150244986881",
+			"display": "twitter.com/OU_FASS/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 20 09:02:45 +0000 2019",
+			"id": 1174972150244987000,
+			"id_str": "1174972150244986881",
+			"full_text": "Confused about climate change? Panicked about plastic? How do you find the right solutions to global issues? Try our free short course Global Ethics: An Introduction   https://t.co/wLjm4WKAYk\n@FutureLearn @OpenUniversity @OU_Philosophy @OUstudents #climatechange #climatestrike",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "climatechange",
+						"indices": [
+							248,
+							262
+						]
+					},
+					{
+						"text": "climatestrike",
+						"indices": [
+							263,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FutureLearn",
+						"name": "FutureLearn",
+						"id": 999095640,
+						"id_str": "999095640",
+						"indices": [
+							192,
+							204
+						]
+					},
+					{
+						"screen_name": "OpenUniversity",
+						"name": "The Open University",
+						"id": 14049061,
+						"id_str": "14049061",
+						"indices": [
+							205,
+							220
+						]
+					},
+					{
+						"screen_name": "OU_Philosophy",
+						"name": "Open Uni Philosophy",
+						"id": 916231909725933600,
+						"id_str": "916231909725933568",
+						"indices": [
+							221,
+							235
+						]
+					},
+					{
+						"screen_name": "OUstudents",
+						"name": "OU Students",
+						"id": 45616878,
+						"id_str": "45616878",
+						"indices": [
+							236,
+							247
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/wLjm4WKAYk",
+						"expanded_url": "http://ow.ly/bEo950whreY",
+						"display_url": "ow.ly/bEo950whreY",
+						"indices": [
+							168,
+							191
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2515366050,
+				"id_str": "2515366050",
+				"name": "OU FASS",
+				"screen_name": "OU_FASS",
+				"location": "Milton Keynes",
+				"description": "The Faculty of Arts and Social Sciences (FASS) at The Open University is a world leader for  supported distance higher education, learning and research.",
+				"url": "https://t.co/7E91IKWvNV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7E91IKWvNV",
+								"expanded_url": "http://fass.open.ac.uk",
+								"display_url": "fass.open.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5129,
+				"friends_count": 357,
+				"listed_count": 66,
+				"created_at": "Thu May 22 12:56:26 +0000 2014",
+				"favourites_count": 1710,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1145593750707740672/htnaDWhQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1145593750707740672/htnaDWhQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2515366050/1578308109",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our short Intro to Global Ethics @FutureLearn starts again today here https://t.co/q8hGNyWTx0 Our world has changed since my colleagues and I wrote this — pandemics were not on our minds. Global inequality, migration &amp; climate change were — and these issues will outlast #COVID19 https://t.co/V2tLHHJaOs"
+	},
+	{
 		"created_at": "Tue Apr 21 13:05:31 +0000 2020",
 		"id": 1252583503008538600,
 		"id_str": "1252584249879924737",
