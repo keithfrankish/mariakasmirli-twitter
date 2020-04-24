@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 13:50:25 +0000 2020",
+		"id": 1253313602238533600,
+		"id_str": "1253320323690139648",
+		"full_text": "Really wrong: That the current lockdown is a model for a low-energy future. \"You'll have no job, your kids won't go to school, you'll never see your friends or relatives again, &amp; govt will print trillions of dollars\" is not sound climate action. https://t.co/fmBz9YJby8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fmBz9YJby8",
+					"expanded_url": "https://www.bbc.co.uk/programmes/m000hfs7",
+					"display_url": "bbc.co.uk/programmes/m00…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107225267,
+			"id_str": "107225267",
+			"name": "Steven Pinker",
+			"screen_name": "sapinker",
+			"location": "Boston, MA",
+			"description": "Cognitive scientist at Harvard.",
+			"url": "https://t.co/ee4m6ZRAIV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ee4m6ZRAIV",
+							"expanded_url": "http://www.stevenpinker.com",
+							"display_url": "stevenpinker.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 609395,
+			"friends_count": 51,
+			"listed_count": 9358,
+			"created_at": "Thu Jan 21 22:20:32 +0000 2010",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953839152511909888/-3EQDjTM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107225267/1547524511",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 105,
+		"favorite_count": 482,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really wrong: That the current lockdown is a model for a low-energy future. \"You'll have no job, your kids won't go to school, you'll never see your friends or relatives again, &amp; govt will print trillions of dollars\" is not sound climate action. https://t.co/fmBz9YJby8"
+	},
+	{
 		"created_at": "Wed Apr 22 16:09:14 +0000 2020",
 		"id": 1247187912418099200,
 		"id_str": "1252992871046754304",
