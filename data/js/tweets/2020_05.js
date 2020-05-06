@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 15:53:07 +0000 2020",
+		"id": 1256418442539864000,
+		"id_str": "1257699855599898624",
+		"full_text": "Such a gripping beginning for a paper... https://t.co/FADEI8t2UN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1256418427830440000,
+					"id_str": "1256418427830439936",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-x50AWkAAweP7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW-x50AWkAAweP7.png",
+					"url": "https://t.co/FADEI8t2UN",
+					"display_url": "pic.twitter.com/FADEI8t2UN",
+					"expanded_url": "https://twitter.com/Helenreflects/status/1256418442539864065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1256418427830440000,
+					"id_str": "1256418427830439936",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/media/EW-x50AWkAAweP7.png",
+					"media_url_https": "https://pbs.twimg.com/media/EW-x50AWkAAweP7.png",
+					"url": "https://t.co/FADEI8t2UN",
+					"display_url": "pic.twitter.com/FADEI8t2UN",
+					"expanded_url": "https://twitter.com/Helenreflects/status/1256418442539864065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 291,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1916,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 165,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2294509452,
+			"id_str": "2294509452",
+			"name": "Helen De Cruz",
+			"screen_name": "Helenreflects",
+			"location": "",
+			"description": "Philosopher. Educator. Tweets about philosophy, science, religion, art, and other stuff that matters to me.",
+			"url": "https://t.co/4hvvLHzI2o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4hvvLHzI2o",
+							"expanded_url": "http://helendecruz.net/",
+							"display_url": "helendecruz.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7338,
+			"friends_count": 4885,
+			"listed_count": 102,
+			"created_at": "Thu Jan 16 14:14:56 +0000 2014",
+			"favourites_count": 28472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919468074918662144/HT1OLoYi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919468074918662144/HT1OLoYi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2294509452/1574032162",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 118,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Such a gripping beginning for a paper... https://t.co/FADEI8t2UN"
+	},
+	{
+		"created_at": "Tue May 05 12:26:39 +0000 2020",
+		"id": 1257646571132465200,
+		"id_str": "1257647896629055493",
+		"full_text": "Julian Baggini and Jeremy Stangroom’s selection for their 2001 book New British Philosophy: the Interviews looks spot on 19 years later (and more than a dozen of these have appeared on the Philosophy Bites podcast) https://t.co/b155WkzOT9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1257646535581544400,
+					"id_str": "1257646535581544450",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQO3F5WsAIxLur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQO3F5WsAIxLur.jpg",
+					"url": "https://t.co/b155WkzOT9",
+					"display_url": "pic.twitter.com/b155WkzOT9",
+					"expanded_url": "https://twitter.com/philosophybites/status/1257646571132465153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257646535581544400,
+					"id_str": "1257646535581544450",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/EXQO3F5WsAIxLur.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXQO3F5WsAIxLur.jpg",
+					"url": "https://t.co/b155WkzOT9",
+					"display_url": "pic.twitter.com/b155WkzOT9",
+					"expanded_url": "https://twitter.com/philosophybites/status/1257646571132465153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Founding faculty @weareLIS. A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books. @unitedagents",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 81801,
+			"friends_count": 7198,
+			"listed_count": 2576,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 48600,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 49526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 92,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Julian Baggini and Jeremy Stangroom’s selection for their 2001 book New British Philosophy: the Interviews looks spot on 19 years later (and more than a dozen of these have appeared on the Philosophy Bites podcast) https://t.co/b155WkzOT9"
+	},
+	{
+		"created_at": "Tue May 05 11:50:28 +0000 2020",
+		"id": 1257629147481940000,
+		"id_str": "1257638791717761024",
+		"full_text": "🇷🇴 Alătură-te echipei noastre! Starting the 1st of August 2020, our Secondary school has a job opening for a teacher of Romanian!\nhttps://t.co/5AIASl18Gi https://t.co/NYS8zaxwBS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5AIASl18Gi",
+					"expanded_url": "https://www.europeanschoolthehague.nl/join-our-team/advertisements/~board/vacancies/post/s2020-17",
+					"display_url": "europeanschoolthehague.nl/join-our-team/…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257629110500720600,
+					"id_str": "1257629110500720640",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP_A0aWAAAM_io.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXP_A0aWAAAM_io.jpg",
+					"url": "https://t.co/NYS8zaxwBS",
+					"display_url": "pic.twitter.com/NYS8zaxwBS",
+					"expanded_url": "https://twitter.com/eshthehague/status/1257629147481939969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257629110500720600,
+					"id_str": "1257629110500720640",
+					"indices": [
+						154,
+						177
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP_A0aWAAAM_io.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXP_A0aWAAAM_io.jpg",
+					"url": "https://t.co/NYS8zaxwBS",
+					"display_url": "pic.twitter.com/NYS8zaxwBS",
+					"expanded_url": "https://twitter.com/eshthehague/status/1257629147481939969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 613524399,
+			"id_str": "613524399",
+			"name": "European School The Hague",
+			"screen_name": "eshthehague",
+			"location": "Houtrustweg 2 / Oostduinlaan 50  The Hague",
+			"description": "European School in the international heart of The Netherlands",
+			"url": "http://t.co/2QzE39aetO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/2QzE39aetO",
+							"expanded_url": "http://www.eshthehague.nl",
+							"display_url": "eshthehague.nl",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364,
+			"friends_count": 156,
+			"listed_count": 2,
+			"created_at": "Wed Jun 20 13:35:51 +0000 2012",
+			"favourites_count": 250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 655,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1017343250099818501/5E8j-sq-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017343250099818501/5E8j-sq-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/613524399/1505305142",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "🇷🇴 Alătură-te echipei noastre! Starting the 1st of August 2020, our Secondary school has a job opening for a teacher of Romanian!\nhttps://t.co/5AIASl18Gi https://t.co/NYS8zaxwBS"
+	},
+	{
 		"created_at": "Mon May 04 14:32:30 +0000 2020",
 		"id": 1257310773723795500,
 		"id_str": "1257317183106854914",
