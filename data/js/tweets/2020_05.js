@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Thu May 07 08:04:29 +0000 2020",
+		"id": 1258253971627692000,
+		"id_str": "1258306698466516992",
+		"full_text": "@mra2020hf @khgalea @PaulGarvey4 Morn both! Lots going on today for me; teach, safe &amp; well calls, deliver training, short zoom meet...just taking 1 step &amp; 1 task at a time...thoughts of a work free long weekend, a big switch off, will help-plans incl read, film, family, garden, walk &amp; tunes.\n#teacher5oclockclub https://t.co/1MVrZFZiQC",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			324
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teacher5oclockclub",
+					"indices": [
+						305,
+						324
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mra2020hf",
+					"name": "📚 😊 Mick ☀ 🍻",
+					"id": 1244239158735929300,
+					"id_str": "1244239158735929344",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "khgalea",
+					"name": "Mrs HytnerMFL🇪🇸🇫🇷",
+					"id": 1221973699,
+					"id_str": "1221973699",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "PaulGarvey4",
+					"name": "Talk for Teaching",
+					"id": 2357835259,
+					"id_str": "2357835259",
+					"indices": [
+						20,
+						32
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1258253967110398000,
+					"id_str": "1258253967110397952",
+					"indices": [
+						325,
+						348
+					],
+					"media_url": "http://pbs.twimg.com/media/EXY3UQrXYAAtZYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXY3UQrXYAAtZYt.jpg",
+					"url": "https://t.co/1MVrZFZiQC",
+					"display_url": "pic.twitter.com/1MVrZFZiQC",
+					"expanded_url": "https://twitter.com/MarkGoodwin8/status/1258253971627692032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1258253967110398000,
+					"id_str": "1258253967110397952",
+					"indices": [
+						325,
+						348
+					],
+					"media_url": "http://pbs.twimg.com/media/EXY3UQrXYAAtZYt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXY3UQrXYAAtZYt.jpg",
+					"url": "https://t.co/1MVrZFZiQC",
+					"display_url": "pic.twitter.com/1MVrZFZiQC",
+					"expanded_url": "https://twitter.com/MarkGoodwin8/status/1258253971627692032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1258248004324282400,
+		"in_reply_to_status_id_str": "1258248004324282369",
+		"in_reply_to_user_id": 1244239158735929300,
+		"in_reply_to_user_id_str": "1244239158735929344",
+		"in_reply_to_screen_name": "mra2020hf",
+		"user": {
+			"id": 454804757,
+			"id_str": "454804757",
+			"name": "Mark Goodwin Equal Parts Education",
+			"screen_name": "MarkGoodwin8",
+			"location": "Stafford, England",
+			"description": "Teacher, trainer & coach. \nHelping to make school work for all staff & students.\nOnly One You coaching.\nStudent second chances a speciality.\n#brewEdstaffs",
+			"url": "https://t.co/BRd1IqJCky",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BRd1IqJCky",
+							"expanded_url": "http://www.equalpartseducation.co.uk",
+							"display_url": "equalpartseducation.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2131,
+			"friends_count": 2619,
+			"listed_count": 8,
+			"created_at": "Wed Jan 04 11:56:40 +0000 2012",
+			"favourites_count": 13119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062313344227532800/YtlK5oLo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062313344227532800/YtlK5oLo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/454804757/1564650941",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@mra2020hf @khgalea @PaulGarvey4 Morn both! Lots going on today for me; teach, safe &amp; well calls, deliver training, short zoom meet...just taking 1 step &amp; 1 task at a time...thoughts of a work free long weekend, a big switch off, will help-plans incl read, film, family, garden, walk &amp; tunes.\n#teacher5oclockclub https://t.co/1MVrZFZiQC"
+	},
+	{
 		"created_at": "Tue May 05 15:53:07 +0000 2020",
 		"id": 1256418442539864000,
 		"id_str": "1257699855599898624",
