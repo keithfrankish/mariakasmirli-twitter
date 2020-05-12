@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 11 07:26:50 +0000 2020",
+		"id": 1259742265230200800,
+		"id_str": "1259746773062598656",
+		"full_text": "\"What I think would be unwise is for us to inadvertently rush back to lift the lockdown.\" \n\nLondon Mayor @SadiqKhan says he's \"seen no evidence yet\" how restaurants and pubs could possibly reopen from the 4th July.\n\n#KayBurley\n\n#COVID19: https://t.co/j72NwlTkpj https://t.co/9Sa9PcKHBI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KayBurley",
+					"indices": [
+						216,
+						226
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						228,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SadiqKhan",
+					"name": "Sadiq Khan",
+					"id": 19397942,
+					"id_str": "19397942",
+					"indices": [
+						105,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j72NwlTkpj",
+					"expanded_url": "http://trib.al/FEtDmSJ",
+					"display_url": "trib.al/FEtDmSJ",
+					"indices": [
+						238,
+						261
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1259742114147184600,
+					"id_str": "1259742114147184640",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EXuA6O0WsAMvEw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXuA6O0WsAMvEw_.jpg",
+					"url": "https://t.co/9Sa9PcKHBI",
+					"display_url": "pic.twitter.com/9Sa9PcKHBI",
+					"expanded_url": "https://twitter.com/SkyNews/status/1259742265230200832/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1259742114147184600,
+					"id_str": "1259742114147184640",
+					"indices": [
+						262,
+						285
+					],
+					"media_url": "http://pbs.twimg.com/media/EXuA6O0WsAMvEw_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXuA6O0WsAMvEw_.jpg",
+					"url": "https://t.co/9Sa9PcKHBI",
+					"display_url": "pic.twitter.com/9Sa9PcKHBI",
+					"expanded_url": "https://twitter.com/SkyNews/status/1259742265230200832/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 98240,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1259742114147184640/vid/1280x720/_obemIVeFPOyHqAw.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1259742114147184640/vid/640x360/U_XFsryiqti9XQWg.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1259742114147184640/pl/eI8JHQVXiNl-H9Mz.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1259742114147184640/vid/480x270/2fmq_n_gC0RduVSG.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://wildmoka.com\" rel=\"nofollow\">Wildmoka</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7587032,
+			"id_str": "7587032",
+			"name": "SkyNews",
+			"screen_name": "SkyNews",
+			"location": "London, UK",
+			"description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+			"url": "https://t.co/SnOv0usOtw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SnOv0usOtw",
+							"expanded_url": "http://news.sky.com/",
+							"display_url": "news.sky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6068045,
+			"friends_count": 28,
+			"listed_count": 25390,
+			"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 394245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1516873161",
+			"profile_link_color": "385FAC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 184,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"What I think would be unwise is for us to inadvertently rush back to lift the lockdown.\" \n\nLondon Mayor @SadiqKhan says he's \"seen no evidence yet\" how restaurants and pubs could possibly reopen from the 4th July.\n\n#KayBurley\n\n#COVID19: https://t.co/j72NwlTkpj https://t.co/9Sa9PcKHBI"
+	},
+	{
 		"created_at": "Sun May 10 17:22:30 +0000 2020",
 		"id": 791315571916898300,
 		"id_str": "1259534291282857990",
