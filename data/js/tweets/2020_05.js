@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 06:05:58 +0000 2020",
+		"id": 1260088568313151500,
+		"id_str": "1260088808957259776",
+		"full_text": "The “relaxation” of responsibilities local authorities have to students with education, health and care plans will have a serious impact on students, David Ellis the chief executive of a specialist college has warned\nhttps://t.co/kvXVRLbCGS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvXVRLbCGS",
+					"expanded_url": "https://www.tes.com/news/changes-law-echps-will-have-serious-impact",
+					"display_url": "tes.com/news/changes-l…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 78874095,
+			"id_str": "78874095",
+			"name": "Tes",
+			"screen_name": "tes",
+			"location": "UK",
+			"description": "Follow us for exclusive news, views on schools, #edchat, pedagogy and #education policy from @Tes.",
+			"url": "https://t.co/xsD4MT26vf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xsD4MT26vf",
+							"expanded_url": "http://www.tes.com/news",
+							"display_url": "tes.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 308773,
+			"friends_count": 1070,
+			"listed_count": 2549,
+			"created_at": "Thu Oct 01 11:03:29 +0000 2009",
+			"favourites_count": 2254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 96147,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/982251787473137664/GYJv1GBM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/78874095/1532017700",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The “relaxation” of responsibilities local authorities have to students with education, health and care plans will have a serious impact on students, David Ellis the chief executive of a specialist college has warned\nhttps://t.co/kvXVRLbCGS"
+	},
+	{
 		"created_at": "Mon May 11 07:26:50 +0000 2020",
 		"id": 1259742265230200800,
 		"id_str": "1259746773062598656",
