@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 15 14:08:54 +0000 2020",
+		"id": 1261182612481151000,
+		"id_str": "1261297506866139138",
+		"full_text": "So, this is what happened when I tried to see how exposed philosopers are to Covid19 https://t.co/r8z6YPIJ7Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1261182602175811600,
+					"id_str": "1261182602175811587",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCe5QeXkAMTw_x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCe5QeXkAMTw_x.jpg",
+					"url": "https://t.co/r8z6YPIJ7Q",
+					"display_url": "pic.twitter.com/r8z6YPIJ7Q",
+					"expanded_url": "https://twitter.com/AnneliJefferson/status/1261182612481150977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1261182602175811600,
+					"id_str": "1261182602175811587",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EYCe5QeXkAMTw_x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYCe5QeXkAMTw_x.jpg",
+					"url": "https://t.co/r8z6YPIJ7Q",
+					"display_url": "pic.twitter.com/r8z6YPIJ7Q",
+					"expanded_url": "https://twitter.com/AnneliJefferson/status/1261182612481150977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 340,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 864522108763811800,
+			"id_str": "864522108763811842",
+			"name": "Anneli Jefferson",
+			"screen_name": "AnneliJefferson",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 364,
+			"friends_count": 235,
+			"listed_count": 7,
+			"created_at": "Tue May 16 16:45:07 +0000 2017",
+			"favourites_count": 1810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1048,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213752869788299264/CWOayIPK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213752869788299264/CWOayIPK_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 577,
+		"favorite_count": 3217,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So, this is what happened when I tried to see how exposed philosopers are to Covid19 https://t.co/r8z6YPIJ7Q"
+	},
+	{
 		"created_at": "Thu May 14 19:06:19 +0000 2020",
 		"id": 1261009966368018400,
 		"id_str": "1261009966368018432",
