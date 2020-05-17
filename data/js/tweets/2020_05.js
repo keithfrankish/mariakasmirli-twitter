@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 16 10:08:47 +0000 2020",
+		"id": 1261584906821554200,
+		"id_str": "1261599467255541760",
+		"full_text": "Interesting question from John. I can't think of any right now but I will mull on it. https://t.co/3KcX8tv1A3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3KcX8tv1A3",
+					"expanded_url": "https://twitter.com/johnodowd1/status/1261582934483578880",
+					"display_url": "twitter.com/johnodowd1/sta…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14198038,
+			"id_str": "14198038",
+			"name": "Ken Armstrong",
+			"screen_name": "kenarmstrong1",
+			"location": "Ireland",
+			"description": "Writer of plays for theatre, radio and screen. Irish. Out there running just to be on the run.",
+			"url": "http://t.co/68qM0vix0F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/68qM0vix0F",
+							"expanded_url": "http://kenwriting.com",
+							"display_url": "kenwriting.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4151,
+			"friends_count": 1311,
+			"listed_count": 206,
+			"created_at": "Sat Mar 22 17:29:58 +0000 2008",
+			"favourites_count": 6628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 129959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "010A07",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256642798394249216/kUk9Dpu8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256642798394249216/kUk9Dpu8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14198038/1416864588",
+			"profile_link_color": "3E09EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1261582934483579000,
+		"quoted_status_id_str": "1261582934483578880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3KcX8tv1A3",
+			"expanded": "https://twitter.com/johnodowd1/status/1261582934483578880",
+			"display": "twitter.com/johnodowd1/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 16 09:03:05 +0000 2020",
+			"id": 1261582934483579000,
+			"id_str": "1261582934483578880",
+			"full_text": "Advice please. My stepdaughter, 10,  has shown potential to be a really good actress. So we’re making a film together. I want to show her some of the great performances by young actors. What comes to mind?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 279201183,
+				"id_str": "279201183",
+				"name": "John O Dowd",
+				"screen_name": "johnodowd1",
+				"location": "London",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1184,
+				"friends_count": 495,
+				"listed_count": 7,
+				"created_at": "Fri Apr 08 20:01:11 +0000 2011",
+				"favourites_count": 1448,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5603,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1256888485048451072/0HY3JsVJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256888485048451072/0HY3JsVJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/279201183/1589045215",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting question from John. I can't think of any right now but I will mull on it. https://t.co/3KcX8tv1A3"
+	},
+	{
 		"created_at": "Fri May 15 14:08:54 +0000 2020",
 		"id": 1261182612481151000,
 		"id_str": "1261297506866139138",
