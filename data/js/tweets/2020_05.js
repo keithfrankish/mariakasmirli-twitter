@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 20 15:22:07 +0000 2020",
+		"id": 1263036459919032300,
+		"id_str": "1263127872409153536",
+		"full_text": "Stuck in your armchair? The editors of @philosophy1926 and Think, thanks @CambUP_PHILNYUK, are making 50+ articles free to read. This week, ethics and politics: Anscombe, MacIntyre, Diamond, Singer, North, Korsgaard, Warnock, Scanlon, Wolff – more soon. https://t.co/UljB8kfdFV https://t.co/3eFJoR3Ozp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philosophy1926",
+					"name": "Philosophy",
+					"id": 1194910975876575200,
+					"id_str": "1194910975876575232",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "CambUP_PHILNYUK",
+					"name": "CUP Philosophy",
+					"id": 385390890,
+					"id_str": "385390890",
+					"indices": [
+						73,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UljB8kfdFV",
+					"expanded_url": "https://tinyurl.com/y8kr63xw",
+					"display_url": "tinyurl.com/y8kr63xw",
+					"indices": [
+						254,
+						277
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1263034897649844200,
+					"id_str": "1263034897649844224",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYczjC1XQAAOPIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYczjC1XQAAOPIx.jpg",
+					"url": "https://t.co/3eFJoR3Ozp",
+					"display_url": "pic.twitter.com/3eFJoR3Ozp",
+					"expanded_url": "https://twitter.com/RIPhilo/status/1263036459919032320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1893,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1109,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1263034897649844200,
+					"id_str": "1263034897649844224",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/EYczjC1XQAAOPIx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYczjC1XQAAOPIx.jpg",
+					"url": "https://t.co/3eFJoR3Ozp",
+					"display_url": "pic.twitter.com/3eFJoR3Ozp",
+					"expanded_url": "https://twitter.com/RIPhilo/status/1263036459919032320/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1893,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 629,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1109,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4016524577,
+			"id_str": "4016524577",
+			"name": "Royal Institute of Philosophy",
+			"screen_name": "RIPhilo",
+			"location": "London, England",
+			"description": "The Royal Institute of Philosophy is a charity dedicated to the advancement of philosophy.",
+			"url": "https://t.co/s04q92EMxb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/s04q92EMxb",
+							"expanded_url": "http://royalinstitutephilosophy.org",
+							"display_url": "royalinstitutephilosophy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6424,
+			"friends_count": 452,
+			"listed_count": 103,
+			"created_at": "Thu Oct 22 11:29:25 +0000 2015",
+			"favourites_count": 1467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/664854896806600704/QYhP1Mvh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/664854896806600704/QYhP1Mvh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4016524577/1447348714",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 83,
+		"favorite_count": 107,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stuck in your armchair? The editors of @philosophy1926 and Think, thanks @CambUP_PHILNYUK, are making 50+ articles free to read. This week, ethics and politics: Anscombe, MacIntyre, Diamond, Singer, North, Korsgaard, Warnock, Scanlon, Wolff – more soon. https://t.co/UljB8kfdFV https://t.co/3eFJoR3Ozp"
+	},
+	{
 		"created_at": "Sun May 17 06:12:21 +0000 2020",
 		"id": 1261902356582711300,
 		"id_str": "1261902356582711296",
