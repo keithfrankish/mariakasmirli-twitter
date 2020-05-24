@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 20:36:19 +0000 2020",
+		"id": 1264222376776151000,
+		"id_str": "1264294109524697089",
+		"full_text": "Henrik Ibsen died on this day, 23 May, in 1906. He was one of the very few 19th century male writers who managed to create female characters whose conflicts carried the play. Rebecca, Ellida, Hedda, and Nora: they are not foils to men's problems. I honor his work now as always. https://t.co/jNCIi2tNxL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1264222374028808200,
+					"id_str": "1264222374028808197",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EYtrjREWkAUQ5RA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYtrjREWkAUQ5RA.jpg",
+					"url": "https://t.co/jNCIi2tNxL",
+					"display_url": "pic.twitter.com/jNCIi2tNxL",
+					"expanded_url": "https://twitter.com/TorilMoi/status/1264222376776151040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1264222374028808200,
+					"id_str": "1264222374028808197",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EYtrjREWkAUQ5RA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EYtrjREWkAUQ5RA.jpg",
+					"url": "https://t.co/jNCIi2tNxL",
+					"display_url": "pic.twitter.com/jNCIi2tNxL",
+					"expanded_url": "https://twitter.com/TorilMoi/status/1264222376776151040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 180,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1228374707432456200,
+			"id_str": "1228374707432456194",
+			"name": "Toril Moi",
+			"screen_name": "TorilMoi",
+			"location": "Durham, NC",
+			"description": "Literature prof. Duke, researcher Norwegian National Library, writer Morgenbladet",
+			"url": "https://t.co/IaFy4RLPMp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IaFy4RLPMp",
+							"expanded_url": "http://www.torilmoi.com",
+							"display_url": "torilmoi.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1280,
+			"friends_count": 727,
+			"listed_count": 3,
+			"created_at": "Fri Feb 14 17:45:45 +0000 2020",
+			"favourites_count": 412,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228375662060285952/Uns7pPJ5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228375662060285952/Uns7pPJ5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228374707432456194/1582474156",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 328,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Henrik Ibsen died on this day, 23 May, in 1906. He was one of the very few 19th century male writers who managed to create female characters whose conflicts carried the play. Rebecca, Ellida, Hedda, and Nora: they are not foils to men's problems. I honor his work now as always. https://t.co/jNCIi2tNxL"
+	},
+	{
 		"created_at": "Fri May 22 15:18:51 +0000 2020",
 		"id": 1263842035829813200,
 		"id_str": "1263851829311438848",
