@@ -1,6 +1,1340 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 14:55:05 +0000 2020",
+		"id": 1264905298051022800,
+		"id_str": "1264933011419774977",
+		"full_text": "Michael Dummett was a fierce opponent of racism (unlike Frege, about whom he wrote,  who was a racist - when I interviewed Dummett for Philosophy Bites he spoke of how upset he had been when he learnt of Frege’s anti-semitism). https://t.co/oVP8rIYE1v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oVP8rIYE1v",
+					"expanded_url": "https://twitter.com/alanigolanski/status/1264698803430600704",
+					"display_url": "twitter.com/alanigolanski/…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Founding faculty @weareLIS. A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books. @unitedagents",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82262,
+			"friends_count": 7337,
+			"listed_count": 2407,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 50077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264698803430600700,
+		"quoted_status_id_str": "1264698803430600704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oVP8rIYE1v",
+			"expanded": "https://twitter.com/alanigolanski/status/1264698803430600704",
+			"display": "twitter.com/alanigolanski/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 23:24:26 +0000 2020",
+			"id": 1264698803430600700,
+			"id_str": "1264698803430600704",
+			"full_text": "In 1967, philosopher of language Michael Dummett and his wife, the author Ann Dummett, were arrested for picketing against racial discrimination, charged with public disorder, but acquitted upon an official admission that the police, not protesters, had obstructed passage. https://t.co/iLTPTMUwdD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264698799261442000,
+						"id_str": "1264698799261442050",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EY0c23XXYAIV_oV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EY0c23XXYAIV_oV.jpg",
+						"url": "https://t.co/iLTPTMUwdD",
+						"display_url": "pic.twitter.com/iLTPTMUwdD",
+						"expanded_url": "https://twitter.com/alanigolanski/status/1264698803430600704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 968,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 968,
+								"h": 681,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264698799261442000,
+						"id_str": "1264698799261442050",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/EY0c23XXYAIV_oV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EY0c23XXYAIV_oV.jpg",
+						"url": "https://t.co/iLTPTMUwdD",
+						"display_url": "pic.twitter.com/iLTPTMUwdD",
+						"expanded_url": "https://twitter.com/alanigolanski/status/1264698803430600704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 968,
+								"h": 681,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 968,
+								"h": 681,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 478,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3012317703,
+				"id_str": "3012317703",
+				"name": "Alani Golanski",
+				"screen_name": "alanigolanski",
+				"location": "Brooklyn, NY",
+				"description": "James Kent Scholar @ColumbiaLaw -- #philosophy of #law & #science @GC_CUNY -- Fellow PoundInstitute -- #CalArtian -- Director @weitzluxenberg (own 2 cents).",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3593,
+				"friends_count": 2640,
+				"listed_count": 23,
+				"created_at": "Mon Feb 02 15:11:39 +0000 2015",
+				"favourites_count": 7879,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6012,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1043560723450941441/0Mmx7VEK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1043560723450941441/0Mmx7VEK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3012317703/1537646147",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 24,
+			"favorite_count": 154,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Michael Dummett was a fierce opponent of racism (unlike Frege, about whom he wrote,  who was a racist - when I interviewed Dummett for Philosophy Bites he spoke of how upset he had been when he learnt of Frege’s anti-semitism). https://t.co/oVP8rIYE1v"
+	},
+	{
+		"created_at": "Mon May 25 14:15:42 +0000 2020",
+		"id": 1264891606521577500,
+		"id_str": "1264923098798841861",
+		"full_text": "Prof. Sophie Grace Chappell, and others, in this @forumphilosophy podcast on the future of feminism👇🏼 https://t.co/jT2OB0i4ue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "forumphilosophy",
+					"name": "Forum for Philosophy",
+					"id": 3246996364,
+					"id_str": "3246996364",
+					"indices": [
+						49,
+						65
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jT2OB0i4ue",
+					"expanded_url": "https://twitter.com/forumphilosophy/status/1264506426921062400",
+					"display_url": "twitter.com/forumphilosoph…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 1144,
+			"listed_count": 24,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264506426921062400,
+		"quoted_status_id_str": "1264506426921062400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jT2OB0i4ue",
+			"expanded": "https://twitter.com/forumphilosophy/status/1264506426921062400",
+			"display": "twitter.com/forumphilosoph…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 10:40:00 +0000 2020",
+			"id": 1264506426921062400,
+			"id_str": "1264506426921062400",
+			"full_text": "What is the future for feminism? @DanielleCSands is joined by Sophie-Grace Chappell (@SophieGraceCha1), Heidi Mizra, Jacqueline Rose &amp; Zoe Williams (@zoesqwilliams) to discuss what the future holds for feminist movements: https://t.co/6IAMXvXC4H\n\n#LSEForum #publicphilosophy https://t.co/xOkDgQx5Pu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LSEForum",
+						"indices": [
+							251,
+							260
+						]
+					},
+					{
+						"text": "publicphilosophy",
+						"indices": [
+							261,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DanielleCSands",
+						"name": "Danielle",
+						"id": 216746595,
+						"id_str": "216746595",
+						"indices": [
+							33,
+							48
+						]
+					},
+					{
+						"screen_name": "SophieGraceCha1",
+						"name": "SophieGraceCha1",
+						"id": 1243298616007106600,
+						"id_str": "1243298616007106560",
+						"indices": [
+							85,
+							101
+						]
+					},
+					{
+						"screen_name": "zoesqwilliams",
+						"name": "(((Zoe Williams)))",
+						"id": 370589204,
+						"id_str": "370589204",
+						"indices": [
+							153,
+							167
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/6IAMXvXC4H",
+						"expanded_url": "http://wp.me/p6zUjQ-2Sn",
+						"display_url": "wp.me/p6zUjQ-2Sn",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1262091390370173000,
+						"id_str": "1262091390370172931",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYPZbsUX0AM9QNw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYPZbsUX0AM9QNw.jpg",
+						"url": "https://t.co/xOkDgQx5Pu",
+						"display_url": "pic.twitter.com/xOkDgQx5Pu",
+						"expanded_url": "https://twitter.com/forumphilosophy/status/1264506426921062400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1262091390370173000,
+						"id_str": "1262091390370172931",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EYPZbsUX0AM9QNw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EYPZbsUX0AM9QNw.jpg",
+						"url": "https://t.co/xOkDgQx5Pu",
+						"display_url": "pic.twitter.com/xOkDgQx5Pu",
+						"expanded_url": "https://twitter.com/forumphilosophy/status/1264506426921062400/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3246996364,
+				"id_str": "3246996364",
+				"name": "Forum for Philosophy",
+				"screen_name": "forumphilosophy",
+				"location": "LSE",
+				"description": "The Forum for Philosophy | Science, politics & culture from a philosophical perspective #LSEForum #publicphilosophy #podcasts",
+				"url": "https://t.co/jI9vzFm8vb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jI9vzFm8vb",
+								"expanded_url": "http://www.philosophy-forum.org",
+								"display_url": "philosophy-forum.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6803,
+				"friends_count": 1354,
+				"listed_count": 138,
+				"created_at": "Mon May 11 23:08:30 +0000 2015",
+				"favourites_count": 4104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5604,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "94D487",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047546198691926016/sI7ZREbp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047546198691926016/sI7ZREbp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3246996364/1570914753",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Prof. Sophie Grace Chappell, and others, in this @forumphilosophy podcast on the future of feminism👇🏼 https://t.co/jT2OB0i4ue"
+	},
+	{
+		"created_at": "Mon May 25 14:13:29 +0000 2020",
+		"id": 1264829110846718000,
+		"id_str": "1264922539006066690",
+		"full_text": "On the occasions when I was caring for a young child when I had flu and her father was away, I tried as far as possible to be in a separate room; I did not enclose her in a car with me for 260 miles. And no loo breaks for a young child? I don’t believe it #DominicGoings",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DominicGoings",
+					"indices": [
+						256,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82591098,
+			"id_str": "82591098",
+			"name": "Angie Hobbs",
+			"screen_name": "drangiehobbs",
+			"location": "University of Sheffield",
+			"description": "Professor of the Public Understanding of Philosophy",
+			"url": "http://t.co/TLynjwBfFh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TLynjwBfFh",
+							"expanded_url": "http://angiehobbs.com",
+							"display_url": "angiehobbs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6037,
+			"friends_count": 230,
+			"listed_count": 242,
+			"created_at": "Thu Oct 15 10:59:55 +0000 2009",
+			"favourites_count": 4168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On the occasions when I was caring for a young child when I had flu and her father was away, I tried as far as possible to be in a separate room; I did not enclose her in a car with me for 260 miles. And no loo breaks for a young child? I don’t believe it #DominicGoings"
+	},
+	{
+		"created_at": "Mon May 25 14:12:37 +0000 2020",
+		"id": 1264875494018867200,
+		"id_str": "1264922322948980736",
+		"full_text": "\"In just the same way that the French Revolution opened up a public discourse on matters of the State, there is an unprecedented cacophony of opinions being expressed right now on how schools should respond, reopen and reimagine the future of learning. \" https://t.co/vkZ1TOmgT3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vkZ1TOmgT3",
+					"expanded_url": "https://twitter.com/davidwillows/status/1263820993216249857",
+					"display_url": "twitter.com/davidwillows/s…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in media & information literacy, fact-checking, motivation & self-regulation research, multilingualism, IP-education, language teaching, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 1168,
+			"listed_count": 27,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 10375,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4263,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1263820993216249900,
+		"quoted_status_id_str": "1263820993216249857",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vkZ1TOmgT3",
+			"expanded": "https://twitter.com/davidwillows/status/1263820993216249857",
+			"display": "twitter.com/davidwillows/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 22 13:16:20 +0000 2020",
+			"id": 1263820993216249900,
+			"id_str": "1263820993216249857",
+			"full_text": "New Blog Post: Schools in an Age When Everyone is an Expert https://t.co/gWN3jUD3n6 #covid19 #edchat #distancelearning",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "covid19",
+						"indices": [
+							84,
+							92
+						]
+					},
+					{
+						"text": "edchat",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "distancelearning",
+						"indices": [
+							101,
+							118
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gWN3jUD3n6",
+						"expanded_url": "https://bit.ly/2TuovIp",
+						"display_url": "bit.ly/2TuovIp",
+						"indices": [
+							60,
+							83
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14512468,
+				"id_str": "14512468",
+				"name": "David Willows",
+				"screen_name": "davidwillows",
+				"location": "Brussels, Belgium",
+				"description": "Responsible for Advancement at the International School of Brussels. https://t.co/zqMjF6ikln",
+				"url": "https://t.co/gB1xOTCogp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gB1xOTCogp",
+								"expanded_url": "https://about.me/davidwillows",
+								"display_url": "about.me/davidwillows",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/zqMjF6ikln",
+								"expanded_url": "http://fragments2.com",
+								"display_url": "fragments2.com",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1236,
+				"friends_count": 322,
+				"listed_count": 56,
+				"created_at": "Thu Apr 24 14:47:24 +0000 2008",
+				"favourites_count": 433,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1270,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154292591485247488/rSMVa5H4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154292591485247488/rSMVa5H4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14512468/1507625937",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B4D4D6",
+				"profile_text_color": "0D010D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"In just the same way that the French Revolution opened up a public discourse on matters of the State, there is an unprecedented cacophony of opinions being expressed right now on how schools should respond, reopen and reimagine the future of learning. \" https://t.co/vkZ1TOmgT3"
+	},
+	{
+		"created_at": "Mon May 25 14:11:47 +0000 2020",
+		"id": 1264891931575935000,
+		"id_str": "1264922114232066050",
+		"full_text": "Congratulations, @MargueriteHogg 🥳🎓 https://t.co/DTwXn9pjWG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MargueriteHogg",
+					"name": "Marguerite Hogg",
+					"id": 305661174,
+					"id_str": "305661174",
+					"indices": [
+						17,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DTwXn9pjWG",
+					"expanded_url": "https://twitter.com/MargueriteHogg/status/1264613612603219969",
+					"display_url": "twitter.com/MargueriteHogg…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 935,
+			"friends_count": 1144,
+			"listed_count": 24,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 84,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264613612603220000,
+		"quoted_status_id_str": "1264613612603219969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DTwXn9pjWG",
+			"expanded": "https://twitter.com/MargueriteHogg/status/1264613612603219969",
+			"display": "twitter.com/MargueriteHogg…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 24 17:45:55 +0000 2020",
+			"id": 1264613612603220000,
+			"id_str": "1264613612603219969",
+			"full_text": "In other news, I got 88% on my final philosophy essay of this @OU_Philosophy module so as someone who said ‘I don’t *get* philosophy’, I’m actually now quite chuffed and proud of myself for persevering 😀 #AdultEducation #AdultLearner https://t.co/hzuoPg3ovn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AdultEducation",
+						"indices": [
+							204,
+							219
+						]
+					},
+					{
+						"text": "AdultLearner",
+						"indices": [
+							220,
+							233
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OU_Philosophy",
+						"name": "Open Uni Philosophy",
+						"id": 916231909725933600,
+						"id_str": "916231909725933568",
+						"indices": [
+							62,
+							76
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264613604243972000,
+						"id_str": "1264613604243972105",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYzPX3MWoAk8uMi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYzPX3MWoAk8uMi.jpg",
+						"url": "https://t.co/hzuoPg3ovn",
+						"display_url": "pic.twitter.com/hzuoPg3ovn",
+						"expanded_url": "https://twitter.com/MargueriteHogg/status/1264613612603219969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264613604243972000,
+						"id_str": "1264613604243972105",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EYzPX3MWoAk8uMi.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EYzPX3MWoAk8uMi.jpg",
+						"url": "https://t.co/hzuoPg3ovn",
+						"display_url": "pic.twitter.com/hzuoPg3ovn",
+						"expanded_url": "https://twitter.com/MargueriteHogg/status/1264613612603219969/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 486,
+								"h": 274,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								243,
+								137
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EYzPX3MWoAk8uMi.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305661174,
+				"id_str": "305661174",
+				"name": "Marguerite Hogg",
+				"screen_name": "MargueriteHogg",
+				"location": "Yorkshire and The Humber",
+				"description": "Policy Development Adviser, Association of Colleges. OU Part-time BA (Hons) PPE student. Gig goer. Culture vulture. Mum! Views my own! #FEAlumni 🇬🇧🇪🇺🌍",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1349,
+				"friends_count": 2803,
+				"listed_count": 25,
+				"created_at": "Thu May 26 15:54:23 +0000 2011",
+				"favourites_count": 17732,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9534,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/857153542725021697/aMpSkzNO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/857153542725021697/aMpSkzNO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/305661174/1558352142",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "433e837997c2d4b7",
+				"url": "https://api.twitter.com/1.1/geo/id/433e837997c2d4b7.json",
+				"place_type": "city",
+				"name": "Wakefield",
+				"full_name": "Wakefield, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.551536,
+								53.636339
+							],
+							[
+								-1.465554,
+								53.636339
+							],
+							[
+								-1.465554,
+								53.722056
+							],
+							[
+								-1.551536,
+								53.722056
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 59,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations, @MargueriteHogg 🥳🎓 https://t.co/DTwXn9pjWG"
+	},
+	{
 		"created_at": "Sat May 23 20:36:19 +0000 2020",
 		"id": 1264222376776151000,
 		"id_str": "1264294109524697089",
