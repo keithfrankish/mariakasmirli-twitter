@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 26 16:14:19 +0000 2020",
+		"id": 1265314631784038400,
+		"id_str": "1265315337991585793",
+		"full_text": "As more districts seek to include special education students in core instruction, a solid system of collaboration between #SpecEd &amp; general ed teachers is paramount to inclusion work's success. https://t.co/4QU5YF19xc https://t.co/iTiMjEkG92",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpecEd",
+					"indices": [
+						122,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4QU5YF19xc",
+					"expanded_url": "https://bit.ly/2WIkfo3",
+					"display_url": "bit.ly/2WIkfo3",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1265314630164983800,
+					"id_str": "1265314630164983810",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9M88QWsAI_jQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9M88QWsAI_jQI.jpg",
+					"url": "https://t.co/iTiMjEkG92",
+					"display_url": "pic.twitter.com/iTiMjEkG92",
+					"expanded_url": "https://twitter.com/ASCD/status/1265314631784038400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265314630164983800,
+					"id_str": "1265314630164983810",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/media/EY9M88QWsAI_jQI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EY9M88QWsAI_jQI.jpg",
+					"url": "https://t.co/iTiMjEkG92",
+					"display_url": "pic.twitter.com/iTiMjEkG92",
+					"expanded_url": "https://twitter.com/ASCD/status/1265314631784038400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15743206,
+			"id_str": "15743206",
+			"name": "ASCD",
+			"screen_name": "ASCD",
+			"location": "Alexandria, VA (D.C. area)",
+			"description": "Some know us as The Association for Supervision and Curriculum Development, others know us as ASCD. We're a global nonprofit that helps educators at every step.",
+			"url": "https://t.co/nAriNAS7s2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nAriNAS7s2",
+							"expanded_url": "https://bit.ly/2zv8uH5",
+							"display_url": "bit.ly/2zv8uH5",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253548,
+			"friends_count": 2146,
+			"listed_count": 3869,
+			"created_at": "Tue Aug 05 23:22:23 +0000 2008",
+			"favourites_count": 17203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "72A8B2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090661113916739586/mFljNalS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090661113916739586/mFljNalS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15743206/1525828421",
+			"profile_link_color": "22505F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "589199",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As more districts seek to include special education students in core instruction, a solid system of collaboration between #SpecEd &amp; general ed teachers is paramount to inclusion work's success. https://t.co/4QU5YF19xc https://t.co/iTiMjEkG92"
+	},
+	{
 		"created_at": "Mon May 25 14:55:05 +0000 2020",
 		"id": 1264905298051022800,
 		"id_str": "1264933011419774977",
