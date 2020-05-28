@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 27 16:03:11 +0000 2020",
+		"id": 1265669853270212600,
+		"id_str": "1265674921344196608",
+		"full_text": "Here’s my antibody test; at 50% accuracy it’s not much less accurate than its competitors- “just flip it”... https://t.co/Tb0E7GjOEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1265669846043418600,
+					"id_str": "1265669846043418625",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZCQBOhXYAEZ3x6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZCQBOhXYAEZ3x6.jpg",
+					"url": "https://t.co/Tb0E7GjOEJ",
+					"display_url": "pic.twitter.com/Tb0E7GjOEJ",
+					"expanded_url": "https://twitter.com/Frankwspencer/status/1265669853270212609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1265669846043418600,
+					"id_str": "1265669846043418625",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EZCQBOhXYAEZ3x6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZCQBOhXYAEZ3x6.jpg",
+					"url": "https://t.co/Tb0E7GjOEJ",
+					"display_url": "pic.twitter.com/Tb0E7GjOEJ",
+					"expanded_url": "https://twitter.com/Frankwspencer/status/1265669853270212609/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 144153933,
+			"id_str": "144153933",
+			"name": "Frank Spencer",
+			"screen_name": "Frankwspencer",
+			"location": "New Hampshire",
+			"description": "Psychologist, educator, and naturalist",
+			"url": "http://t.co/dwnc6UTaDp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/dwnc6UTaDp",
+							"expanded_url": "http://thinkersandthinking.com/",
+							"display_url": "thinkersandthinking.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3375,
+			"friends_count": 5000,
+			"listed_count": 177,
+			"created_at": "Sat May 15 13:11:16 +0000 2010",
+			"favourites_count": 155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "568DB4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2666212728/d455087183fd71c82af00979997ab576_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2666212728/d455087183fd71c82af00979997ab576_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/144153933/1353367017",
+			"profile_link_color": "568DB4",
+			"profile_sidebar_border_color": "EEE7E7",
+			"profile_sidebar_fill_color": "EEE7E7",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s my antibody test; at 50% accuracy it’s not much less accurate than its competitors- “just flip it”... https://t.co/Tb0E7GjOEJ"
+	},
+	{
 		"created_at": "Tue May 26 16:14:19 +0000 2020",
 		"id": 1265314631784038400,
 		"id_str": "1265315337991585793",
