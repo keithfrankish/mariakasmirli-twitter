@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Fri May 29 16:26:40 +0000 2020",
+		"id": 1265571301479063600,
+		"id_str": "1266405608087060480",
+		"full_text": "Please RT this important survey! #udl #educationforall https://t.co/INLxb7nVSv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "udl",
+					"indices": [
+						33,
+						37
+					]
+				},
+				{
+					"text": "educationforall",
+					"indices": [
+						38,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INLxb7nVSv",
+					"expanded_url": "https://twitter.com/SchoolofEdTCD/status/1265566890757361670",
+					"display_url": "twitter.com/SchoolofEdTCD/…",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 401618891,
+			"id_str": "401618891",
+			"name": "Joanne Banks",
+			"screen_name": "bankoninclusion",
+			"location": "Dublin City, Ireland",
+			"description": "Assistant Prof. in Inclusive Education @tcddublin. Opinions my own. RTs not an endorsement.",
+			"url": "https://t.co/dRzwNsTdwe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dRzwNsTdwe",
+							"expanded_url": "http://peoplefinder.tcd.ie/Profile?Username=BANKSJO",
+							"display_url": "peoplefinder.tcd.ie/Profile?Userna…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 975,
+			"friends_count": 460,
+			"listed_count": 12,
+			"created_at": "Sun Oct 30 20:38:03 +0000 2011",
+			"favourites_count": 1617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/905425350204813313/P66vmOjs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/905425350204813313/P66vmOjs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/401618891/1580414812",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1265566890757361700,
+		"quoted_status_id_str": "1265566890757361670",
+		"quoted_status_permalink": {
+			"url": "https://t.co/INLxb7nVSv",
+			"expanded": "https://twitter.com/SchoolofEdTCD/status/1265566890757361670",
+			"display": "twitter.com/SchoolofEdTCD/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 27 08:53:54 +0000 2020",
+			"id": 1265566890757361700,
+			"id_str": "1265566890757361670",
+			"full_text": "CALLING ALL #TEACHERS: please share your experience of teaching and learning practices since school closures. The Coivd-19 Primary and Post-primary Teacher Survey is now live: https://t.co/uQzwS90GSx\n\n#Covid19TeacherSurvey #EducationForAll #TeacherSurvey \n\nhttps://t.co/EnVvfQ5RRI https://t.co/W79MQmSXEy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TEACHERS",
+						"indices": [
+							12,
+							21
+						]
+					},
+					{
+						"text": "Covid19TeacherSurvey",
+						"indices": [
+							201,
+							222
+						]
+					},
+					{
+						"text": "EducationForAll",
+						"indices": [
+							223,
+							239
+						]
+					},
+					{
+						"text": "TeacherSurvey",
+						"indices": [
+							240,
+							254
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/uQzwS90GSx",
+						"expanded_url": "http://tcdtap.postedthis.top/Ozl4cO",
+						"display_url": "tcdtap.postedthis.top/Ozl4cO",
+						"indices": [
+							176,
+							199
+						]
+					},
+					{
+						"url": "https://t.co/EnVvfQ5RRI",
+						"expanded_url": "https://www.tcd.ie/Education/research/covid-19/teaching-and-learning-resources//",
+						"display_url": "tcd.ie/Education/rese…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1265566886802186200,
+						"id_str": "1265566886802186243",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EZAyYNdXYAMaKnG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZAyYNdXYAMaKnG.jpg",
+						"url": "https://t.co/W79MQmSXEy",
+						"display_url": "pic.twitter.com/W79MQmSXEy",
+						"expanded_url": "https://twitter.com/SchoolofEdTCD/status/1265566890757361670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1265566886802186200,
+						"id_str": "1265566886802186243",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/EZAyYNdXYAMaKnG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZAyYNdXYAMaKnG.jpg",
+						"url": "https://t.co/W79MQmSXEy",
+						"display_url": "pic.twitter.com/W79MQmSXEy",
+						"expanded_url": "https://twitter.com/SchoolofEdTCD/status/1265566890757361670/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2150680998,
+				"id_str": "2150680998",
+				"name": "School of Education",
+				"screen_name": "SchoolofEdTCD",
+				"location": "Dublin, Ireland",
+				"description": "Representing the School of Education, Trinity College, the University of Dublin, Dublin 2, Ireland",
+				"url": "https://t.co/RvZpu2pQtf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RvZpu2pQtf",
+								"expanded_url": "http://www.tcd.ie/Education/",
+								"display_url": "tcd.ie/Education/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2986,
+				"friends_count": 370,
+				"listed_count": 49,
+				"created_at": "Wed Oct 23 10:07:52 +0000 2013",
+				"favourites_count": 3250,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2246,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/661147638893514752/E6HBmibO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/661147638893514752/E6HBmibO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2150680998/1447147861",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please RT this important survey! #udl #educationforall https://t.co/INLxb7nVSv"
+	},
+	{
 		"created_at": "Wed May 27 16:03:11 +0000 2020",
 		"id": 1265669853270212600,
 		"id_str": "1265674921344196608",
