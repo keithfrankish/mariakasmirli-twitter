@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 07 17:03:25 +0000 2020",
+		"id": 1269667073829015600,
+		"id_str": "1269676346164338689",
+		"full_text": "The KidsRights Index is the first and only global ranking that annually measures how children’s rights are respected worldwide and to what extent countries are committed to improving the rights of children. Finland #3. KidsRights Index https://t.co/V1h4ge20az",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1h4ge20az",
+					"expanded_url": "https://kidsrights.org/research/kidsrights-index/",
+					"display_url": "kidsrights.org/research/kidsr…",
+					"indices": [
+						236,
+						259
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Interested in media & information literacy, fact-checking, motivation & self-regulation research, multilingualism, IP-education, language teaching, French, etc.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 848,
+			"friends_count": 1173,
+			"listed_count": 28,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 10492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The KidsRights Index is the first and only global ranking that annually measures how children’s rights are respected worldwide and to what extent countries are committed to improving the rights of children. Finland #3. KidsRights Index https://t.co/V1h4ge20az"
+	},
+	{
 		"created_at": "Sat Jun 06 15:23:15 +0000 2020",
 		"id": 1269286611654762500,
 		"id_str": "1269288752297500674",
