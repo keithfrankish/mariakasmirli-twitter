@@ -1,6 +1,162 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 10:29:47 +0000 2020",
+		"id": 1269938814627262500,
+		"id_str": "1269939673322971138",
+		"full_text": "Why do what the government tells you?\n\nDr. Jon Pike (@runthinkwrite) on the Social Contract: https://t.co/YKVnWb1Dzb\n\nStephen Fry (@stephenfry) on Civil Disobedience: https://t.co/1iCj93LQDJ\n\n@OU_FASS @OUFreeLearning",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "runthinkwrite",
+					"name": "Jon Pike",
+					"id": 305848643,
+					"id_str": "305848643",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"screen_name": "stephenfry",
+					"name": "Stephen Fry",
+					"id": 15439395,
+					"id_str": "15439395",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"screen_name": "OU_FASS",
+					"name": "OU FASS",
+					"id": 2515366050,
+					"id_str": "2515366050",
+					"indices": [
+						192,
+						200
+					]
+				},
+				{
+					"screen_name": "OUFreeLearning",
+					"name": "OpenLearn",
+					"id": 108571173,
+					"id_str": "108571173",
+					"indices": [
+						201,
+						216
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YKVnWb1Dzb",
+					"expanded_url": "https://www.open.edu/openlearn/history-the-arts/culture/philosophy/what-the-social-contract",
+					"display_url": "open.edu/openlearn/hist…",
+					"indices": [
+						93,
+						116
+					]
+				},
+				{
+					"url": "https://t.co/1iCj93LQDJ",
+					"expanded_url": "https://youtu.be/elrTpoY6AYQ",
+					"display_url": "youtu.be/elrTpoY6AYQ",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 941,
+			"friends_count": 1146,
+			"listed_count": 24,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 86,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why do what the government tells you?\n\nDr. Jon Pike (@runthinkwrite) on the Social Contract: https://t.co/YKVnWb1Dzb\n\nStephen Fry (@stephenfry) on Civil Disobedience: https://t.co/1iCj93LQDJ\n\n@OU_FASS @OUFreeLearning"
+	},
+	{
 		"created_at": "Sun Jun 07 17:03:25 +0000 2020",
 		"id": 1269667073829015600,
 		"id_str": "1269676346164338689",
