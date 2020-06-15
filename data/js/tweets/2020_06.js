@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 16:34:08 +0000 2020",
+		"id": 1271375399465840600,
+		"id_str": "1272205694847107072",
+		"full_text": "EXCLUSIVE: Keir Starmer has scored the highest Opposition leader rating since Blair in mid-90s https://t.co/pTwM1Gj0Hh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pTwM1Gj0Hh",
+					"expanded_url": "https://bit.ly/2zpC2tM",
+					"display_url": "bit.ly/2zpC2tM",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38142380,
+			"id_str": "38142380",
+			"name": "Evening Standard",
+			"screen_name": "standardnews",
+			"location": "London",
+			"description": "Breaking news and updates on top stories from the newsdesk of the @EveningStandard 📰",
+			"url": "http://t.co/OfWZUFsZeL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/OfWZUFsZeL",
+							"expanded_url": "http://www.standard.co.uk",
+							"display_url": "standard.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 636037,
+			"friends_count": 886,
+			"listed_count": 3844,
+			"created_at": "Wed May 06 08:47:09 +0000 2009",
+			"favourites_count": 36,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 345130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/973162573389533185/HOwtAp6Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/973162573389533185/HOwtAp6Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38142380/1549874035",
+			"profile_link_color": "303F9F",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 272,
+		"favorite_count": 932,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EXCLUSIVE: Keir Starmer has scored the highest Opposition leader rating since Blair in mid-90s https://t.co/pTwM1Gj0Hh"
+	},
+	{
 		"created_at": "Sat Jun 13 12:45:09 +0000 2020",
 		"id": 1271761865107017700,
 		"id_str": "1271785682160279552",
