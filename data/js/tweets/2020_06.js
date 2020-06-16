@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 12:04:24 +0000 2020",
+		"id": 1272483106684055600,
+		"id_str": "1272500201689878528",
+		"full_text": "Jules Holroyd, Robin Scaife &amp; Andreas Bunge (who received his PhD in 2018) with Tom Stafford from Psychology, had their paper 'To blame? The effects of moralized feedback on implicit racial bias' accepted for publication in Collabra: Psychology 👇\n\nhttps://t.co/kplwslkliA https://t.co/DB5SG18Cph",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kplwslkliA",
+					"expanded_url": "https://www.sheffield.ac.uk/philosophy/news/new-interdisciplinary-publication",
+					"display_url": "sheffield.ac.uk/philosophy/new…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1272483022399516700,
+					"id_str": "1272483022399516673",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EajEkSTWsAE1wBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajEkSTWsAE1wBo.jpg",
+					"url": "https://t.co/DB5SG18Cph",
+					"display_url": "pic.twitter.com/DB5SG18Cph",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1272483106684055555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272483022399516700,
+					"id_str": "1272483022399516673",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EajEkSTWsAE1wBo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EajEkSTWsAE1wBo.jpg",
+					"url": "https://t.co/DB5SG18Cph",
+					"display_url": "pic.twitter.com/DB5SG18Cph",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1272483106684055555/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1996,
+			"friends_count": 494,
+			"listed_count": 45,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1566568524",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jules Holroyd, Robin Scaife &amp; Andreas Bunge (who received his PhD in 2018) with Tom Stafford from Psychology, had their paper 'To blame? The effects of moralized feedback on implicit racial bias' accepted for publication in Collabra: Psychology 👇\n\nhttps://t.co/kplwslkliA https://t.co/DB5SG18Cph"
+	},
+	{
+		"created_at": "Mon Jun 15 05:53:21 +0000 2020",
+		"id": 1272212672453447700,
+		"id_str": "1272406824046800896",
+		"full_text": "'The trust in adequacy of verbal expression is a measure of narrowness of conscious experience.'\n\n– A. N. #Whitehead\n\n(RPWP) https://t.co/TqXi771fjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Whitehead",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1272212655701360600,
+					"id_str": "1272212655701360640",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EafOq33WAAAx0vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EafOq33WAAAx0vL.jpg",
+					"url": "https://t.co/TqXi771fjM",
+					"display_url": "pic.twitter.com/TqXi771fjM",
+					"expanded_url": "https://twitter.com/PeterSjostedtH/status/1272212672453447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1272212655701360600,
+					"id_str": "1272212655701360640",
+					"indices": [
+						125,
+						148
+					],
+					"media_url": "http://pbs.twimg.com/media/EafOq33WAAAx0vL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EafOq33WAAAx0vL.jpg",
+					"url": "https://t.co/TqXi771fjM",
+					"display_url": "pic.twitter.com/TqXi771fjM",
+					"expanded_url": "https://twitter.com/PeterSjostedtH/status/1272212672453447681/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 677,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1020,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2286496932,
+			"id_str": "2286496932",
+			"name": "Dr Peter Sjöstedt-H",
+			"screen_name": "PeterSjostedtH",
+			"location": "UK",
+			"description": "Philosopher of Mind and Ontologist (Whitehead – Nietzsche – Spinoza – Psilocybin)｜Research Fellow & Associate Lecturer (Exeter)｜TEDx Talk: https://t.co/TCnCgFtoxC",
+			"url": "https://t.co/NNGW8UDhEt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NNGW8UDhEt",
+							"expanded_url": "http://www.philosopher.eu",
+							"display_url": "philosopher.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TCnCgFtoxC",
+							"expanded_url": "http://youtu.be/tV8PSevhd_M",
+							"display_url": "youtu.be/tV8PSevhd_M",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 5611,
+			"friends_count": 1158,
+			"listed_count": 142,
+			"created_at": "Sat Jan 11 11:36:38 +0000 2014",
+			"favourites_count": 8580,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9887,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089986736871170049/A7EycCxa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089986736871170049/A7EycCxa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2286496932/1548005642",
+			"profile_link_color": "6B94BF",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 65,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The trust in adequacy of verbal expression is a measure of narrowness of conscious experience.'\n\n– A. N. #Whitehead\n\n(RPWP) https://t.co/TqXi771fjM"
+	},
+	{
 		"created_at": "Sun Jun 14 16:34:08 +0000 2020",
 		"id": 1271375399465840600,
 		"id_str": "1272205694847107072",
