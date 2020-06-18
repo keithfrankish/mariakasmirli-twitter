@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 07:55:40 +0000 2020",
+		"id": 1273160747967828000,
+		"id_str": "1273162379610775553",
+		"full_text": "This is the end of a long and complicated process, but it's pretty amazing to see some of my thinking incorporated into global regulations covering TUEs. Many thanks to @ukantidoping and @wada_ama\n\nhttps://t.co/RIvg9KcvKF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ukantidoping",
+					"name": "UK Anti-Doping",
+					"id": 87171929,
+					"id_str": "87171929",
+					"indices": [
+						169,
+						182
+					]
+				},
+				{
+					"screen_name": "wada_ama",
+					"name": "WADA",
+					"id": 108985884,
+					"id_str": "108985884",
+					"indices": [
+						187,
+						196
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RIvg9KcvKF",
+					"expanded_url": "https://www.wada-ama.org/en/media/news/2020-06/wada-publishes-final-versions-of-2021-world-anti-doping-code-and-international",
+					"display_url": "wada-ama.org/en/media/news/…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305848643,
+			"id_str": "305848643",
+			"name": "Jon Pike",
+			"screen_name": "runthinkwrite",
+			"location": "Hove UK",
+			"description": "Faculty @PhilosophyOpen I do the ethics and metaphysics of sport. Chair @britphilofsport Also pol phil, justice, left stuff. Runner. (Hubris: Meno 79e7–80b7)",
+			"url": "https://t.co/qtIF9pvTUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qtIF9pvTUs",
+							"expanded_url": "http://www.open.ac.uk/people/jep34",
+							"display_url": "open.ac.uk/people/jep34",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 2637,
+			"listed_count": 24,
+			"created_at": "Thu May 26 21:55:01 +0000 2011",
+			"favourites_count": 16343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4768,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305848643/1507307101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the end of a long and complicated process, but it's pretty amazing to see some of my thinking incorporated into global regulations covering TUEs. Many thanks to @ukantidoping and @wada_ama\n\nhttps://t.co/RIvg9KcvKF"
+	},
+	{
 		"created_at": "Mon Jun 15 12:04:24 +0000 2020",
 		"id": 1272483106684055600,
 		"id_str": "1272500201689878528",
