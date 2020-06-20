@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 20:00:51 +0000 2020",
+		"id": 1274066932384305200,
+		"id_str": "1274069653694885891",
+		"full_text": "\"I may not have been sure about what really did interest me, but I was absolutely sure about what didn’t.\" Albert Camus https://t.co/in3WsuIwmp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274066924549349400,
+					"id_str": "1274066924549349377",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea5lHhnWoAEBh9p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea5lHhnWoAEBh9p.jpg",
+					"url": "https://t.co/in3WsuIwmp",
+					"display_url": "pic.twitter.com/in3WsuIwmp",
+					"expanded_url": "https://twitter.com/tablespoon_one/status/1274066932384305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274066924549349400,
+					"id_str": "1274066924549349377",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/Ea5lHhnWoAEBh9p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ea5lHhnWoAEBh9p.jpg",
+					"url": "https://t.co/in3WsuIwmp",
+					"display_url": "pic.twitter.com/in3WsuIwmp",
+					"expanded_url": "https://twitter.com/tablespoon_one/status/1274066932384305154/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 904,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 848,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.socialoomph.com\" rel=\"nofollow\">SocialOomph</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1247888709418012700,
+			"id_str": "1247888709418012673",
+			"name": "One Tablespoon Philosophy",
+			"screen_name": "tablespoon_one",
+			"location": "",
+			"description": "Blog. Philosophy’s key-ideas applied to the 21st century in short reads. \nBased in Zurich, Switzerland.\nhttps://t.co/fVCn9kZXwT",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/fVCn9kZXwT",
+							"expanded_url": "http://onetablespoonphilosophy.com",
+							"display_url": "onetablespoonphilosophy.com",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 280,
+			"friends_count": 222,
+			"listed_count": 2,
+			"created_at": "Wed Apr 08 14:07:23 +0000 2020",
+			"favourites_count": 420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247889019066695692/DZ-kGrzc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247889019066695692/DZ-kGrzc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1247888709418012673/1586467316",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"I may not have been sure about what really did interest me, but I was absolutely sure about what didn’t.\" Albert Camus https://t.co/in3WsuIwmp"
+	},
+	{
+		"created_at": "Fri Jun 19 14:29:28 +0000 2020",
+		"id": 1273958835300991000,
+		"id_str": "1273986261708148736",
+		"full_text": "Congratulations to ⁦@Malala⁩ for graduating in Philosophy, Politics and Economics 👏🏻  https://t.co/WOtjertXYj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Malala",
+					"name": "Malala",
+					"id": 937499232,
+					"id_str": "937499232",
+					"indices": [
+						20,
+						27
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WOtjertXYj",
+					"expanded_url": "https://www.bbc.co.uk/news/uk-england-oxfordshire-53107764",
+					"display_url": "bbc.co.uk/news/uk-englan…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2624007323,
+			"id_str": "2624007323",
+			"name": "Philosophy 4 Schools",
+			"screen_name": "RoyalInstPhilos",
+			"location": "North West, England",
+			"description": "Glenn Skelhorn: delivering funded 'intro to philosophy' courses in schools/colleges on behalf of the Royal Institute of Philosophy. P4C Facilitator L3 SAPERE",
+			"url": "https://t.co/P6uOGjR0rz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6uOGjR0rz",
+							"expanded_url": "http://royalinstitutephilosophy.org/funding-education/philosophy-in-schools/",
+							"display_url": "royalinstitutephilosophy.org/funding-educat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2800,
+			"friends_count": 4995,
+			"listed_count": 41,
+			"created_at": "Thu Jun 19 22:13:01 +0000 2014",
+			"favourites_count": 575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1970,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168220747535454213/89N0ZKQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168220747535454213/89N0ZKQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2624007323/1508108769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations to ⁦@Malala⁩ for graduating in Philosophy, Politics and Economics 👏🏻  https://t.co/WOtjertXYj"
+	},
+	{
 		"created_at": "Wed Jun 17 07:55:40 +0000 2020",
 		"id": 1273160747967828000,
 		"id_str": "1273162379610775553",
