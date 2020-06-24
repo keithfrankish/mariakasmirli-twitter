@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 15:58:42 +0000 2020",
+		"id": 1275436962329972700,
+		"id_str": "1275458269180497922",
+		"full_text": "This is a really good - fully funded - PhD opportunity to work with John William Devine and Mike McNamee at Swansea.  Area is analytical philosophy of sport and sport ethics.  Highly recommended (UK and EU only, I'm afraid) Please RT\n\nhttps://t.co/dPjl8EZUnf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dPjl8EZUnf",
+					"expanded_url": "https://www.swansea.ac.uk/postgraduate/scholarships/research/sport-exercise-science-phd-philosophy-sport.php",
+					"display_url": "swansea.ac.uk/postgraduate/s…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 305848643,
+			"id_str": "305848643",
+			"name": "Jon Pike",
+			"screen_name": "runthinkwrite",
+			"location": "Hove UK",
+			"description": "Faculty @PhilosophyOpen I do the ethics and metaphysics of sport. Chair @britphilofsport Also pol phil, justice, left stuff. Runner. (Hubris: Meno 79e7–80b7)",
+			"url": "https://t.co/qtIF9pvTUs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qtIF9pvTUs",
+							"expanded_url": "http://www.open.ac.uk/people/jep34",
+							"display_url": "open.ac.uk/people/jep34",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 2656,
+			"listed_count": 24,
+			"created_at": "Thu May 26 21:55:01 +0000 2011",
+			"favourites_count": 17146,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191037771131097088/XeOHAHJM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/305848643/1507307101",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a really good - fully funded - PhD opportunity to work with John William Devine and Mike McNamee at Swansea.  Area is analytical philosophy of sport and sport ethics.  Highly recommended (UK and EU only, I'm afraid) Please RT\n\nhttps://t.co/dPjl8EZUnf"
+	},
+	{
+		"created_at": "Tue Jun 23 08:53:55 +0000 2020",
+		"id": 1275338206943285200,
+		"id_str": "1275351365448065024",
+		"full_text": "Please join us at 11:00 today for a special live broadcast - our Humanist National Memorial Ceremony to commemorate the victims of the coronavirus pandemic.\n\nhttps://t.co/fdQS6WWL9Z\n\n#NationalMemorialCeremony https://t.co/fyQtthULao",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalMemorialCeremony",
+					"indices": [
+						183,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fdQS6WWL9Z",
+					"expanded_url": "http://ow.ly/PF5450AesZO",
+					"display_url": "ow.ly/PF5450AesZO",
+					"indices": [
+						158,
+						181
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275338205420761000,
+					"id_str": "1275338205420761089",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EbLpVz6WsAEc9gw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbLpVz6WsAEc9gw.jpg",
+					"url": "https://t.co/fyQtthULao",
+					"display_url": "pic.twitter.com/fyQtthULao",
+					"expanded_url": "https://twitter.com/Ceremonies_UK/status/1275338206943285248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275338205420761000,
+					"id_str": "1275338205420761089",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/EbLpVz6WsAEc9gw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbLpVz6WsAEc9gw.jpg",
+					"url": "https://t.co/fyQtthULao",
+					"display_url": "pic.twitter.com/fyQtthULao",
+					"expanded_url": "https://twitter.com/Ceremonies_UK/status/1275338206943285248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 540,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 899582533,
+			"id_str": "899582533",
+			"name": "Humanist Ceremonies",
+			"screen_name": "Ceremonies_UK",
+			"location": "England/Wales/NI/Channel Isles",
+			"description": "Meaningful, non-religious wedding, naming, and funeral ceremonies from @Humanists_UK. Find a celebrant: https://t.co/MqNyP1bk1o",
+			"url": "https://t.co/ActLRnCsG3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ActLRnCsG3",
+							"expanded_url": "http://humanistceremonies.org.uk",
+							"display_url": "humanistceremonies.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MqNyP1bk1o",
+							"expanded_url": "https://humanism.org.uk/ceremonies/find-a-celebrant/",
+							"display_url": "humanism.org.uk/ceremonies/fin…",
+							"indices": [
+								104,
+								127
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1992,
+			"friends_count": 568,
+			"listed_count": 43,
+			"created_at": "Tue Oct 23 09:21:37 +0000 2012",
+			"favourites_count": 1198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1073576666990108673/ZraswL5D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1073576666990108673/ZraswL5D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/899582533/1544799643",
+			"profile_link_color": "00C7B1",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please join us at 11:00 today for a special live broadcast - our Humanist National Memorial Ceremony to commemorate the victims of the coronavirus pandemic.\n\nhttps://t.co/fdQS6WWL9Z\n\n#NationalMemorialCeremony https://t.co/fyQtthULao"
+	},
+	{
 		"created_at": "Mon Jun 22 08:12:30 +0000 2020",
 		"id": 1274853732820430800,
 		"id_str": "1274978555999420416",
