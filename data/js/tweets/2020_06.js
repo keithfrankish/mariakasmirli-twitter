@@ -1,6 +1,167 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 07:31:56 +0000 2020",
+		"id": 1241741861502570500,
+		"id_str": "1275693121347760128",
+		"full_text": "“Man cannot be free if he does not know that he is subject to necessity, because his freedom is always won in his never wholly successful attempts to liberate himself from necessity.”\n\nHannah Arendt, The Human Condition, 1958 https://t.co/sQhDfansqe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241741851041955800,
+					"id_str": "1241741851041955842",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/ETuNom4XgAIPt84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETuNom4XgAIPt84.jpg",
+					"url": "https://t.co/sQhDfansqe",
+					"display_url": "pic.twitter.com/sQhDfansqe",
+					"expanded_url": "https://twitter.com/LiteraryVienna/status/1241741861502570496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241741851041955800,
+					"id_str": "1241741851041955842",
+					"indices": [
+						226,
+						249
+					],
+					"media_url": "http://pbs.twimg.com/media/ETuNom4XgAIPt84.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ETuNom4XgAIPt84.jpg",
+					"url": "https://t.co/sQhDfansqe",
+					"display_url": "pic.twitter.com/sQhDfansqe",
+					"expanded_url": "https://twitter.com/LiteraryVienna/status/1241741861502570496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 558,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 829,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 965223859090796500,
+			"id_str": "965223859090796544",
+			"name": "LiteraryVienna",
+			"screen_name": "LiteraryVienna",
+			"location": "Vienna, Austria",
+			"description": "#Literatur aus und über #Wien und andere Geschichten. | #Literature from and about #Vienna and other stories....",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10841,
+			"friends_count": 1606,
+			"listed_count": 119,
+			"created_at": "Sun Feb 18 13:57:55 +0000 2018",
+			"favourites_count": 3220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182064676609429505/uJkHBhww_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182064676609429505/uJkHBhww_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/965223859090796544/1570644781",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Man cannot be free if he does not know that he is subject to necessity, because his freedom is always won in his never wholly successful attempts to liberate himself from necessity.”\n\nHannah Arendt, The Human Condition, 1958 https://t.co/sQhDfansqe"
+	},
+	{
 		"created_at": "Tue Jun 23 15:58:42 +0000 2020",
 		"id": 1275436962329972700,
 		"id_str": "1275458269180497922",
