@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 26 04:54:35 +0000 2020",
+		"id": 1276213548419555300,
+		"id_str": "1276378302324891651",
+		"full_text": "\"I work in the philosophy department at the University of Bristol, &amp; according to the logic of the market we are rivals with our fellow philosophers at UWE. But academics think of our counterparts in other institutions as colleagues rather than adversaries.” \n\n1/5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1106119996202254300,
+			"id_str": "1106119996202254336",
+			"name": "British Philosophical Association",
+			"screen_name": "BritishPhiloso1",
+			"location": "United Kingdom",
+			"description": "Representing Professional Philosophers in the UK",
+			"url": "https://t.co/d09exHHngs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d09exHHngs",
+							"expanded_url": "https://www.bpa.ac.uk/",
+							"display_url": "bpa.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 593,
+			"friends_count": 105,
+			"listed_count": 7,
+			"created_at": "Thu Mar 14 09:08:52 +0000 2019",
+			"favourites_count": 48,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106121881147592704/0qXi9B9P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106121881147592704/0qXi9B9P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1106119996202254336/1552556696",
+			"profile_link_color": "B60A00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 54,
+		"favorite_count": 138,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"I work in the philosophy department at the University of Bristol, &amp; according to the logic of the market we are rivals with our fellow philosophers at UWE. But academics think of our counterparts in other institutions as colleagues rather than adversaries.” \n\n1/5"
+	},
+	{
 		"created_at": "Wed Jun 24 07:31:56 +0000 2020",
 		"id": 1241741861502570500,
 		"id_str": "1275693121347760128",
