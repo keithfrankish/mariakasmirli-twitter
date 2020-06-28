@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 27 17:49:13 +0000 2020",
+		"id": 1276928777944289300,
+		"id_str": "1276935632179343361",
+		"full_text": "I believe this 👇🏻 https://t.co/HeaqWu3IlS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HeaqWu3IlS",
+					"expanded_url": "https://twitter.com/samantharhill/status/1276928268701241344",
+					"display_url": "twitter.com/samantharhill/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Founding faculty @weareLIS. A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books. @unitedagents",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82797,
+			"friends_count": 7465,
+			"listed_count": 2419,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 52072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276928268701241300,
+		"quoted_status_id_str": "1276928268701241344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HeaqWu3IlS",
+			"expanded": "https://twitter.com/samantharhill/status/1276928268701241344",
+			"display": "twitter.com/samantharhill/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 27 17:19:58 +0000 2020",
+			"id": 1276928268701241300,
+			"id_str": "1276928268701241344",
+			"full_text": "\"If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them.\"\n\n― George Orwell",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15751723,
+				"id_str": "15751723",
+				"name": "Samantha Rose Hill",
+				"screen_name": "Samantharhill",
+				"location": "Annandale-on-Hudson",
+				"description": "Hannah Arendt Center: https://t.co/2gxYAmzaJ4 Bard Political Studies: https://t.co/lzZYkpdjRn Brooklyn Institute: https://t.co/CXkmtmloxQ",
+				"url": "https://t.co/JdIV0BQiVi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JdIV0BQiVi",
+								"expanded_url": "https://www.samantharosehill.com/",
+								"display_url": "samantharosehill.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/2gxYAmzaJ4",
+								"expanded_url": "http://hac.bard.edu",
+								"display_url": "hac.bard.edu",
+								"indices": [
+									22,
+									45
+								]
+							},
+							{
+								"url": "https://t.co/lzZYkpdjRn",
+								"expanded_url": "http://bit.ly/2rpHMLT",
+								"display_url": "bit.ly/2rpHMLT",
+								"indices": [
+									70,
+									93
+								]
+							},
+							{
+								"url": "https://t.co/CXkmtmloxQ",
+								"expanded_url": "http://bit.ly/2s0VdjJ",
+								"display_url": "bit.ly/2s0VdjJ",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10903,
+				"friends_count": 1026,
+				"listed_count": 109,
+				"created_at": "Wed Aug 06 16:15:45 +0000 2008",
+				"favourites_count": 12631,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6819,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/797963136116477952/2w_eAaOr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/797963136116477952/2w_eAaOr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15751723/1472048452",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 139,
+			"favorite_count": 445,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 144,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I believe this 👇🏻 https://t.co/HeaqWu3IlS"
+	},
+	{
 		"created_at": "Fri Jun 26 04:54:35 +0000 2020",
 		"id": 1276213548419555300,
 		"id_str": "1276378302324891651",
