@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 28 14:51:34 +0000 2020",
+		"id": 1277230105421582300,
+		"id_str": "1277253312321073152",
+		"full_text": "A friend reminded me of Hugh Mellor’s witty lists of philosopher causes of death. E.g Anscombe: By intention, Cantor: Set aside, Nagel: Struck by bat, Zeno: Run over by tortoise. Finding Hugh’s entry for himself had a painful poignancy. \n\nMellor: By chance.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993536006,
+			"id_str": "993536006",
+			"name": "Daisy Dixon",
+			"screen_name": "daisyldixon",
+			"location": "Cambridge, UK",
+			"description": "Junior Research Fellow in Philosophy & Art at @Peterhouse_cam @Cambridge_Uni. Practising artist: paint & sound installation.",
+			"url": "https://t.co/J5Yq0MnNDj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J5Yq0MnNDj",
+							"expanded_url": "http://www.daisydixon.co.uk",
+							"display_url": "daisydixon.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 592,
+			"friends_count": 420,
+			"listed_count": 13,
+			"created_at": "Thu Dec 06 17:55:23 +0000 2012",
+			"favourites_count": 1139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1277320804590641159/7fhAg5Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1277320804590641159/7fhAg5Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993536006/1401809251",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 83,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A friend reminded me of Hugh Mellor’s witty lists of philosopher causes of death. E.g Anscombe: By intention, Cantor: Set aside, Nagel: Struck by bat, Zeno: Run over by tortoise. Finding Hugh’s entry for himself had a painful poignancy. \n\nMellor: By chance."
+	},
+	{
 		"created_at": "Sat Jun 27 17:49:13 +0000 2020",
 		"id": 1276928777944289300,
 		"id_str": "1276935632179343361",
