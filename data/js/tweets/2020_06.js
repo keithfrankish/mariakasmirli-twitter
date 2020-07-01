@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 18:43:54 +0000 2020",
+		"id": 1278029273710891000,
+		"id_str": "1278036554477375490",
+		"full_text": "\"Do not adopt 50 different technologies and approaches. Let your students focus on learning new course content instead of learning how to use a new tool.\" - @symbolictweet https://t.co/hsiIwnwzsb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "symbolictweet",
+					"name": "Lindsay Tan",
+					"id": 57031921,
+					"id_str": "57031921",
+					"indices": [
+						157,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hsiIwnwzsb",
+					"expanded_url": "https://toph.at/out",
+					"display_url": "toph.at/out",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43406353,
+			"id_str": "43406353",
+			"name": "Top Hat",
+			"screen_name": "TopHat",
+			"location": "Toronto, Ontario",
+			"description": "Top Hat is the active learning platform that makes it easy for professors to engage students and build comprehension before, during and after class.",
+			"url": "https://t.co/j4izSKAODK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j4izSKAODK",
+							"expanded_url": "https://support.tophat.com/s/",
+							"display_url": "support.tophat.com/s/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12783,
+			"friends_count": 11221,
+			"listed_count": 380,
+			"created_at": "Fri May 29 20:48:36 +0000 2009",
+			"favourites_count": 3162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267453607865126914/34VGCH7k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267453607865126914/34VGCH7k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43406353/1554479794",
+			"profile_link_color": "8D4ADC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "787878",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Do not adopt 50 different technologies and approaches. Let your students focus on learning new course content instead of learning how to use a new tool.\" - @symbolictweet https://t.co/hsiIwnwzsb"
+	},
+	{
 		"created_at": "Mon Jun 29 19:25:13 +0000 2020",
 		"id": 1277684568225693700,
 		"id_str": "1277684568225693698",
