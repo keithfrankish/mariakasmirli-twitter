@@ -1,10 +1,105 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 12:16:17 +0000 2020",
+		"id": 1287695421561811000,
+		"id_str": "1288810646377828352",
+		"full_text": "Here in the Department of Philosophy, we are immensely proud of our Women in Philosophy credentials and we are delighted to bring 'The Philosopher Queens' publication to your attention. (1/2)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2005,
+			"friends_count": 490,
+			"listed_count": 47,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1566568524",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Here in the Department of Philosophy, we are immensely proud of our Women in Philosophy credentials and we are delighted to bring 'The Philosopher Queens' publication to your attention. (1/2)"
+	},
+	{
 		"created_at": "Sat Jul 18 08:45:30 +0000 2020",
 		"id": 1284407694821138400,
 		"id_str": "1284408945122201600",
-		"full_text": "Psyche’s audio project - opportunities for freelance audio producers/editors ⁦@aeonmag⁩  https://t.co/OOaGfYiYfC",
+		"full_text": "Psyche’s audio project - opportunities for freelance audio producers/editors @aeonmag  https://t.co/OOaGfYiYfC",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +210,7 @@ Grailbird.data.tweets_2020_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Psyche’s audio project - opportunities for freelance audio producers/editors ⁦@aeonmag⁩  https://t.co/OOaGfYiYfC"
+		"text": "Psyche’s audio project - opportunities for freelance audio producers/editors @aeonmag  https://t.co/OOaGfYiYfC"
 	},
 	{
 		"created_at": "Fri Jul 10 14:10:13 +0000 2020",
