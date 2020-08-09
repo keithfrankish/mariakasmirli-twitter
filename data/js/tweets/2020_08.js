@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 18:51:07 +0000 2020",
+		"id": 1292040404951609300,
+		"id_str": "1292171498376105985",
+		"full_text": "If you’re planning on making a significant contribution to philosophy remember that everyone who had ever done that has been at least a little bit punk.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "Newt counter. Founding faculty @weareLIS. A Little History of Philosophy, Philosophy Bites podcast. Consultant editor @aeonmag, @thenewphil, @five_books.",
+			"url": "https://t.co/kD7ridjs8Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kD7ridjs8Q",
+							"expanded_url": "http://www.nigelwarburton.com",
+							"display_url": "nigelwarburton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83012,
+			"friends_count": 7598,
+			"listed_count": 2417,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 53816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 51983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/878329460180656128/Ut9ffVks_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 267,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If you’re planning on making a significant contribution to philosophy remember that everyone who had ever done that has been at least a little bit punk."
+	},
+	{
 		"created_at": "Wed Aug 05 15:24:56 +0000 2020",
 		"id": 1291016166627070000,
 		"id_str": "1291032447824658433",
