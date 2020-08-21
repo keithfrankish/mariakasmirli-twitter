@@ -1,6 +1,251 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 20 06:29:19 +0000 2020",
+		"id": 1296057603978600400,
+		"id_str": "1296333473742041093",
+		"full_text": "The Ethics of Cultural Heritage https://t.co/17ZGRDpKXW \n\nA new FREE online course, by members of @OU_Philosophy and the @Heritageinwar project.\n\n@OU_FASS @OU_SSGS @history_ou @OUFreeLearning https://t.co/UtSLRSnEDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OU_Philosophy",
+					"name": "Open Uni Philosophy",
+					"id": 916231909725933600,
+					"id_str": "916231909725933568",
+					"indices": [
+						98,
+						112
+					]
+				},
+				{
+					"screen_name": "Heritageinwar",
+					"name": "Heritage in War",
+					"id": 1047006082785259500,
+					"id_str": "1047006082785259522",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "OU_FASS",
+					"name": "OU FASS",
+					"id": 2515366050,
+					"id_str": "2515366050",
+					"indices": [
+						146,
+						154
+					]
+				},
+				{
+					"screen_name": "OU_SSGS",
+					"name": "OU School of Social Sciences and Global Studies",
+					"id": 1273630429510279200,
+					"id_str": "1273630429510279168",
+					"indices": [
+						155,
+						163
+					]
+				},
+				{
+					"screen_name": "history_ou",
+					"name": "HistoryOU",
+					"id": 927837371390980100,
+					"id_str": "927837371390980096",
+					"indices": [
+						164,
+						175
+					]
+				},
+				{
+					"screen_name": "OUFreeLearning",
+					"name": "OpenLearn",
+					"id": 108571173,
+					"id_str": "108571173",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/17ZGRDpKXW",
+					"expanded_url": "https://www.open.edu/openlearn/history-the-arts/the-ethics-cultural-heritage/content-section-overview",
+					"display_url": "open.edu/openlearn/hist…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296057596332384300,
+					"id_str": "1296057596332384257",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EfyFhF3WoAEJpRh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfyFhF3WoAEJpRh.jpg",
+					"url": "https://t.co/UtSLRSnEDB",
+					"display_url": "pic.twitter.com/UtSLRSnEDB",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1296057603978600449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296057596332384300,
+					"id_str": "1296057596332384257",
+					"indices": [
+						192,
+						215
+					],
+					"media_url": "http://pbs.twimg.com/media/EfyFhF3WoAEJpRh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfyFhF3WoAEJpRh.jpg",
+					"url": "https://t.co/UtSLRSnEDB",
+					"display_url": "pic.twitter.com/UtSLRSnEDB",
+					"expanded_url": "https://twitter.com/OU_Philosophy/status/1296057603978600449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 347,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 732,
+							"h": 373,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 732,
+							"h": 373,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 916231909725933600,
+			"id_str": "916231909725933568",
+			"name": "Open Uni Philosophy",
+			"screen_name": "OU_Philosophy",
+			"location": "",
+			"description": "Philosophy Department at the Faculty of Arts and Social Sciences, Open University",
+			"url": "https://t.co/ktq7G6gtXi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ktq7G6gtXi",
+							"expanded_url": "http://fass.open.ac.uk/philosophy",
+							"display_url": "fass.open.ac.uk/philosophy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1002,
+			"friends_count": 1157,
+			"listed_count": 26,
+			"created_at": "Fri Oct 06 09:21:24 +0000 2017",
+			"favourites_count": 91,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966299652038582272/5gzTcT-g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/916231909725933568/1507287185",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Ethics of Cultural Heritage https://t.co/17ZGRDpKXW \n\nA new FREE online course, by members of @OU_Philosophy and the @Heritageinwar project.\n\n@OU_FASS @OU_SSGS @history_ou @OUFreeLearning https://t.co/UtSLRSnEDB"
+	},
+	{
 		"created_at": "Sat Aug 08 18:51:07 +0000 2020",
 		"id": 1292040404951609300,
 		"id_str": "1292171498376105985",
