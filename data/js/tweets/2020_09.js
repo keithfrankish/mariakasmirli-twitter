@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 18:42:23 +0000 2020",
+		"id": 1303571632473030700,
+		"id_str": "1303765713656655874",
+		"full_text": "Final Philosophy lesson for the year today. I’m going to miss spending a couple of hours each week with young people discussing the big questions in life. Our final COI question was this: What has Philosophy taught you that will benefit you as a human being? (Answers in pic) 🥰 https://t.co/giwvw4pvvD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1303571567675228200,
+					"id_str": "1303571567675228160",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehc3byaUwAAloL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehc3byaUwAAloL-.jpg",
+					"url": "https://t.co/giwvw4pvvD",
+					"display_url": "pic.twitter.com/giwvw4pvvD",
+					"expanded_url": "https://twitter.com/BiancaH80/status/1303571632473030662/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1303571567675228200,
+					"id_str": "1303571567675228160",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/Ehc3byaUwAAloL-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ehc3byaUwAAloL-.jpg",
+					"url": "https://t.co/giwvw4pvvD",
+					"display_url": "pic.twitter.com/giwvw4pvvD",
+					"expanded_url": "https://twitter.com/BiancaH80/status/1303571632473030662/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79401897,
+			"id_str": "79401897",
+			"name": "Bianca ‘Jimmy’ Hewes",
+			"screen_name": "BiancaH80",
+			"location": "Sydney, Australia",
+			"description": "Educator, author, punk. I wrote some PBL books for the Australian Curriculum: https://t.co/wvO3uKXVZg",
+			"url": "https://t.co/Xgoadu9gaG",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Xgoadu9gaG",
+							"expanded_url": "http://www.biancahewes.wordpress.com",
+							"display_url": "biancahewes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wvO3uKXVZg",
+							"expanded_url": "https://hbe.com.au/bianca-hewes.html",
+							"display_url": "hbe.com.au/bianca-hewes.h…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7372,
+			"friends_count": 2427,
+			"listed_count": 330,
+			"created_at": "Sat Oct 03 07:29:04 +0000 2009",
+			"favourites_count": 13024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 71508,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283652681886658560/SxE5gAx1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283652681886658560/SxE5gAx1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79401897/1361070878",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final Philosophy lesson for the year today. I’m going to miss spending a couple of hours each week with young people discussing the big questions in life. Our final COI question was this: What has Philosophy taught you that will benefit you as a human being? (Answers in pic) 🥰 https://t.co/giwvw4pvvD"
+	},
+	{
 		"created_at": "Sat Sep 05 16:24:00 +0000 2020",
 		"id": 1302281337584390100,
 		"id_str": "1302281337584390145",
