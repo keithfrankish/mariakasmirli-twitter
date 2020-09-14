@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 13 05:33:21 +0000 2020",
+		"id": 1304827397351641000,
+		"id_str": "1305016696990838784",
+		"full_text": "A new publication for teachers from the Council of Europe - Digital Resistance - a handbook for teachers on how to support their students to recognise fake news and false information found in the online environment.\n\nhttps://t.co/fHuSQO0Ul8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHuSQO0Ul8",
+					"expanded_url": "https://rm.coe.int/digital-resistance-handbook-for-teachers-eng/16809f7e53?fbclid=IwAR0lOkBrar8zErQI5WmGRlnEodGwd5NedqwwrlzsVQiQUjdVflZLg_YwQgk",
+					"display_url": "rm.coe.int/digital-resist…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77735405,
+			"id_str": "77735405",
+			"name": "Kari Kivinen",
+			"screen_name": "Kari_Kivinen",
+			"location": "Helsinki, Suomi",
+			"description": "Finnish headmaster interested in media & information literacy, fact-checking, motivation & self-regulation research, multilingualism, IP-education, EU & French.",
+			"url": "https://t.co/sKuluJBIXh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sKuluJBIXh",
+							"expanded_url": "http://kivinen.wordpress.com",
+							"display_url": "kivinen.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 891,
+			"friends_count": 1210,
+			"listed_count": 0,
+			"created_at": "Sun Sep 27 13:29:13 +0000 2009",
+			"favourites_count": 11254,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102121621995827200/Mk7DxwdQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77735405/1551601330",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A new publication for teachers from the Council of Europe - Digital Resistance - a handbook for teachers on how to support their students to recognise fake news and false information found in the online environment.\n\nhttps://t.co/fHuSQO0Ul8"
+	},
+	{
 		"created_at": "Wed Sep 09 18:42:23 +0000 2020",
 		"id": 1303571632473030700,
 		"id_str": "1303765713656655874",
