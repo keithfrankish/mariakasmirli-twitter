@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 17:52:41 +0000 2020",
+		"id": 1305450981463920600,
+		"id_str": "1305927531577708544",
+		"full_text": "This annoyed quite a few people. My interview with Nigel Warburton @philosophybites  on the importance of clarity in Philosophy. https://t.co/WwXpNUINks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "philosophybites",
+					"name": "Nigel Warburton",
+					"id": 37238862,
+					"id_str": "37238862",
+					"indices": [
+						67,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WwXpNUINks",
+					"expanded_url": "https://www.cambridge.org/core/blog/2014/01/24/the-importance-of-clarity-in-philosophy-a-short-interview-with-nigel-warburton/",
+					"display_url": "cambridge.org/core/blog/2014…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98470340,
+			"id_str": "98470340",
+			"name": "Stephen Law",
+			"screen_name": "stephenlaw60",
+			"location": "Oxford, England",
+			"description": "Philosopher and author.",
+			"url": "https://t.co/Fqg0htm3Gc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fqg0htm3Gc",
+							"expanded_url": "http://stephenlaw4schools.blogspot.co.uk",
+							"display_url": "stephenlaw4schools.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10390,
+			"friends_count": 4580,
+			"listed_count": 312,
+			"created_at": "Mon Dec 21 21:02:53 +0000 2009",
+			"favourites_count": 14731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17490,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98470340/1591204959",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 76,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This annoyed quite a few people. My interview with Nigel Warburton @philosophybites  on the importance of clarity in Philosophy. https://t.co/WwXpNUINks"
+	},
+	{
 		"created_at": "Sun Sep 13 05:33:21 +0000 2020",
 		"id": 1304827397351641000,
 		"id_str": "1305016696990838784",
