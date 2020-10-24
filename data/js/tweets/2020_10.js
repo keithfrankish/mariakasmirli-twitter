@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 16:52:14 +0000 2020",
+		"id": 1319683061022339000,
+		"id_str": "1319683061022339076",
+		"full_text": "Go, go, go Eileen! You tell them! https://t.co/ghJundqPlL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ghJundqPlL",
+					"expanded_url": "https://twitter.com/EileenFrankish/status/1319674986320351234",
+					"display_url": "twitter.com/EileenFrankish…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek philosopher and teacher. Tweeting about philosophy, education, and P4C.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 803,
+			"friends_count": 617,
+			"listed_count": 28,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3643,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1869,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208132236261937152/UiKHzYd5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208132236261937152/UiKHzYd5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1576876149",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319674986320351200,
+		"quoted_status_id_str": "1319674986320351234",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ghJundqPlL",
+			"expanded": "https://twitter.com/EileenFrankish/status/1319674986320351234",
+			"display": "twitter.com/EileenFrankish…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 16:20:09 +0000 2020",
+			"id": 1319674986320351200,
+			"id_str": "1319674986320351234",
+			"full_text": "I'm the same age as Maureen and I disagree with her. In the war people\nfollowed the rules. Socializing now is like not observing the blackout\nthen, and it will make things worse. The blitz spirit was about\nprotecting each other, not stubbornly insisting on doing what you want!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 744583449957244900,
+				"id_str": "744583449957244928",
+				"name": "Eileen Frankish",
+				"screen_name": "EileenFrankish",
+				"location": "Doncaster, England",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19,
+				"friends_count": 10,
+				"listed_count": 0,
+				"created_at": "Sun Jun 19 17:31:43 +0000 2016",
+				"favourites_count": 1119,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 50,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/971502009542209536/JDhIMZ5p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/971502009542209536/JDhIMZ5p_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 110,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Go, go, go Eileen! You tell them! https://t.co/ghJundqPlL"
+	},
+	{
 		"created_at": "Sun Oct 11 05:16:01 +0000 2020",
 		"id": 1314838154508107800,
 		"id_str": "1315159194987880449",
