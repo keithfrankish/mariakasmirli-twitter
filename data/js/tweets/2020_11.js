@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 10:06:52 +0000 2020",
+		"id": 1330101304174252000,
+		"id_str": "1330452680129597442",
+		"full_text": "If you would like to take out a subscription to THINK, which I edit for the Royal Institute of Philosophy, go here: https://t.co/b8Ev3xdDAX Great for schools! See below for recent issue on Naturalism. https://t.co/pWHkCUlux3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/b8Ev3xdDAX",
+					"expanded_url": "https://www.cambridge.org/core/journals/think/subscribe",
+					"display_url": "cambridge.org/core/journals/…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1330101282321916000,
+					"id_str": "1330101282321915908",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EnV4EbAW4AQIv8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnV4EbAW4AQIv8U.jpg",
+					"url": "https://t.co/pWHkCUlux3",
+					"display_url": "pic.twitter.com/pWHkCUlux3",
+					"expanded_url": "https://twitter.com/stephenlaw60/status/1330101304174252033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330101282321916000,
+					"id_str": "1330101282321915908",
+					"indices": [
+						201,
+						224
+					],
+					"media_url": "http://pbs.twimg.com/media/EnV4EbAW4AQIv8U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnV4EbAW4AQIv8U.jpg",
+					"url": "https://t.co/pWHkCUlux3",
+					"display_url": "pic.twitter.com/pWHkCUlux3",
+					"expanded_url": "https://twitter.com/stephenlaw60/status/1330101304174252033/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1064,
+							"h": 1226,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 98470340,
+			"id_str": "98470340",
+			"name": "Stephen Law",
+			"screen_name": "stephenlaw60",
+			"location": "Oxford, England",
+			"description": "Philosopher and author.",
+			"url": "https://t.co/Fqg0htm3Gc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Fqg0htm3Gc",
+							"expanded_url": "http://stephenlaw4schools.blogspot.co.uk",
+							"display_url": "stephenlaw4schools.blogspot.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10692,
+			"friends_count": 4761,
+			"listed_count": 319,
+			"created_at": "Mon Dec 21 21:02:53 +0000 2009",
+			"favourites_count": 15469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268231630226948098/V4v3jfC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/98470340/1591204959",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you would like to take out a subscription to THINK, which I edit for the Royal Institute of Philosophy, go here: https://t.co/b8Ev3xdDAX Great for schools! See below for recent issue on Naturalism. https://t.co/pWHkCUlux3"
+	},
+	{
 		"created_at": "Sat Nov 21 17:01:16 +0000 2020",
 		"id": 1330194580382290000,
 		"id_str": "1330194580382289920",
