@@ -1,6 +1,288 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 24 18:13:07 +0000 2020",
+		"id": 1330983023433703400,
+		"id_str": "1331299824512225280",
+		"full_text": "I will be delivering this course from January. Please share with anyone who might be interested. https://t.co/qSmJOCargB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qSmJOCargB",
+					"expanded_url": "https://twitter.com/philos4teens/status/1330982047926640653",
+					"display_url": "twitter.com/philos4teens/s…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2624007323,
+			"id_str": "2624007323",
+			"name": "Philosophy for Schools",
+			"screen_name": "RoyalInstPhilos",
+			"location": "North West, England",
+			"description": "Glenn Skelhorn: delivering funded 'intro to philosophy' courses in schools/colleges on behalf of the Royal Institute of Philosophy. P4C Facilitator L3 SAPERE",
+			"url": "https://t.co/P6uOGjR0rz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/P6uOGjR0rz",
+							"expanded_url": "http://royalinstitutephilosophy.org/funding-education/philosophy-in-schools/",
+							"display_url": "royalinstitutephilosophy.org/funding-educat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3067,
+			"friends_count": 4997,
+			"listed_count": 48,
+			"created_at": "Thu Jun 19 22:13:01 +0000 2014",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168220747535454213/89N0ZKQn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168220747535454213/89N0ZKQn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2624007323/1508108769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1330982047926640600,
+		"quoted_status_id_str": "1330982047926640653",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qSmJOCargB",
+			"expanded": "https://twitter.com/philos4teens/status/1330982047926640653",
+			"display": "twitter.com/philos4teens/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 23 21:10:23 +0000 2020",
+			"id": 1330982047926640600,
+			"id_str": "1330982047926640653",
+			"full_text": "Looking for an alternative gift for the thinking teenager? 10-week intro to philosophy course, starting Jan £70/£60 early bird. Weekly live discussions, vids, and activities. More info: https://t.co/QJbnCnaDc9 https://t.co/JXpX9yTttG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QJbnCnaDc9",
+						"expanded_url": "http://www.philosophyforteens.com",
+						"display_url": "philosophyforteens.com",
+						"indices": [
+							186,
+							209
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1330982042134323200,
+						"id_str": "1330982042134323201",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EniZHY_XIAEI_v8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EniZHY_XIAEI_v8.jpg",
+						"url": "https://t.co/JXpX9yTttG",
+						"display_url": "pic.twitter.com/JXpX9yTttG",
+						"expanded_url": "https://twitter.com/philos4teens/status/1330982047926640653/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1330982042134323200,
+						"id_str": "1330982042134323201",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/EniZHY_XIAEI_v8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EniZHY_XIAEI_v8.jpg",
+						"url": "https://t.co/JXpX9yTttG",
+						"display_url": "pic.twitter.com/JXpX9yTttG",
+						"expanded_url": "https://twitter.com/philos4teens/status/1330982047926640653/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1265935835922419700,
+				"id_str": "1265935835922419712",
+				"name": "Philosophy for Teenagers",
+				"screen_name": "philos4teens",
+				"location": "",
+				"description": "Online philosophy courses and events for teenagers",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 78,
+				"friends_count": 37,
+				"listed_count": 2,
+				"created_at": "Thu May 28 09:20:11 +0000 2020",
+				"favourites_count": 5,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265936009788903427/KHZcMXmo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265936009788903427/KHZcMXmo_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I will be delivering this course from January. Please share with anyone who might be interested. https://t.co/qSmJOCargB"
+	},
+	{
 		"created_at": "Sun Nov 22 10:06:52 +0000 2020",
 		"id": 1330101304174252000,
 		"id_str": "1330452680129597442",
