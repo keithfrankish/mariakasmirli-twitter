@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 05:24:58 +0000 2020",
+		"id": 1337867953744777200,
+		"id_str": "1338354273718050816",
+		"full_text": "@Mr_K_Teacher Do I care whether people personally approve of my career choice? No. \n\nDo I care whether society values and respects education? Absolutely.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mr_K_Teacher",
+					"name": "David Keyte",
+					"id": 2291855666,
+					"id_str": "2291855666",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337864595806023700,
+		"in_reply_to_status_id_str": "1337864595806023680",
+		"in_reply_to_user_id": 2291855666,
+		"in_reply_to_user_id_str": "2291855666",
+		"in_reply_to_screen_name": "Mr_K_Teacher",
+		"user": {
+			"id": 412237538,
+			"id_str": "412237538",
+			"name": "Chris Newman",
+			"screen_name": "Chris_Newman91",
+			"location": "Guildford, England",
+			"description": "Head of English @TeamFHES & AQA GCSE English Language examiner. Passionate about education with a keen interest in fitness, food and travel.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 612,
+			"friends_count": 740,
+			"listed_count": 8,
+			"created_at": "Mon Nov 14 12:45:05 +0000 2011",
+			"favourites_count": 2541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1333170875890348042/eF1jjnM9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333170875890348042/eF1jjnM9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/412237538/1548491352",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 80,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@Mr_K_Teacher Do I care whether people personally approve of my career choice? No. \n\nDo I care whether society values and respects education? Absolutely."
+	},
+	{
 		"created_at": "Mon Dec 07 19:02:17 +0000 2020",
 		"id": 1336017309354385400,
 		"id_str": "1336023241614389251",
