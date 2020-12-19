@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 05:58:35 +0000 2020",
+		"id": 1339811891917578200,
+		"id_str": "1339812284227592192",
+		"full_text": "Tchaikovsky's \"The Nutcracker\" premiered on this day in 1892. A century later, and twenty years after he unloosed his beloved Wild Things on the world, Maurice Sendak reimagined it in weird and wondrous illustrations https://t.co/z5EJaf6asD https://t.co/i235BoAhrx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5EJaf6asD",
+					"expanded_url": "https://www.brainpickings.org/2014/12/23/maurice-sendak-nutcracker/",
+					"display_url": "brainpickings.org/2014/12/23/mau…",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1339811890613121000,
+					"id_str": "1339811890613121024",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/Epf30N3W8AAeBRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epf30N3W8AAeBRB.jpg",
+					"url": "https://t.co/i235BoAhrx",
+					"display_url": "pic.twitter.com/i235BoAhrx",
+					"expanded_url": "https://twitter.com/brainpicker/status/1339811891917578240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1339811890613121000,
+					"id_str": "1339811890613121024",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/Epf30N3W8AAeBRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Epf30N3W8AAeBRB.jpg",
+					"url": "https://t.co/i235BoAhrx",
+					"display_url": "pic.twitter.com/i235BoAhrx",
+					"expanded_url": "https://twitter.com/brainpicker/status/1339811891917578240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 315,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9207632,
+			"id_str": "9207632",
+			"name": "Maria Popova",
+			"screen_name": "brainpicker",
+			"location": "Brooklyn, NY",
+			"description": "Reader. Writer. Author of #Figuring. Maker of #UniverseInVerse. Lover of trees. Petter of moss. Rider of a cobalt blue bicycle with a golden bell.",
+			"url": "https://t.co/j1Rss6fjOu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j1Rss6fjOu",
+							"expanded_url": "http://brainpickings.org",
+							"display_url": "brainpickings.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 925782,
+			"friends_count": 337,
+			"listed_count": 24353,
+			"created_at": "Tue Oct 02 14:18:16 +0000 2007",
+			"favourites_count": 2558,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 135609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFDB00",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/577255253852065794/qGnSwsBR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9207632/1604460545",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEAE5",
+			"profile_text_color": "3F3F3F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 175,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tchaikovsky's \"The Nutcracker\" premiered on this day in 1892. A century later, and twenty years after he unloosed his beloved Wild Things on the world, Maurice Sendak reimagined it in weird and wondrous illustrations https://t.co/z5EJaf6asD https://t.co/i235BoAhrx"
+	},
+	{
 		"created_at": "Thu Dec 17 06:42:05 +0000 2020",
 		"id": 1338685475104678000,
 		"id_str": "1339460844439150597",
