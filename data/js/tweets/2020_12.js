@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sun Dec 20 07:20:32 +0000 2020",
+		"id": 1338971969535029200,
+		"id_str": "1340557684232380416",
+		"full_text": "It's THAT simple, I swear!..\n#COVIDIOTS #CovidVaccine https://t.co/7eUZjQWfsu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVIDIOTS",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"text": "CovidVaccine",
+					"indices": [
+						40,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1338971967714685000,
+					"id_str": "1338971967714684928",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EpT76RPW8AA8aRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpT76RPW8AA8aRq.jpg",
+					"url": "https://t.co/7eUZjQWfsu",
+					"display_url": "pic.twitter.com/7eUZjQWfsu",
+					"expanded_url": "https://twitter.com/ItisMoody/status/1338971969535029249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1338971967714685000,
+					"id_str": "1338971967714684928",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EpT76RPW8AA8aRq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpT76RPW8AA8aRq.jpg",
+					"url": "https://t.co/7eUZjQWfsu",
+					"display_url": "pic.twitter.com/7eUZjQWfsu",
+					"expanded_url": "https://twitter.com/ItisMoody/status/1338971969535029249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 668,
+							"h": 238,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 119388506,
+			"id_str": "119388506",
+			"name": "Mahmoud \"Moody\" Shabeeb",
+			"screen_name": "ItisMoody",
+			"location": "Toronto, Ontario",
+			"description": "Humanitarianism, pop culture, media, existentialism. Tweets/RTs/QTs/ what have you are not affiliated with any org or entity. My views ≠ anyone else's business.",
+			"url": "https://t.co/DYpRH8xJdO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DYpRH8xJdO",
+							"expanded_url": "https://jo.linkedin.com/in/mahmoudshabeeb",
+							"display_url": "jo.linkedin.com/in/mahmoudshab…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1105,
+			"friends_count": 232,
+			"listed_count": 51,
+			"created_at": "Wed Mar 03 14:01:31 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/781674420918165504/h8IJRYb4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/781674420918165504/h8IJRYb4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/119388506/1424890932",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01490cd33ff0f963",
+			"url": "https://api.twitter.com/1.1/geo/id/01490cd33ff0f963.json",
+			"place_type": "admin",
+			"name": "Amman",
+			"full_name": "Amman, Hashemite Kingdom of Jordan",
+			"country_code": "JO",
+			"country": "Hashemite Kingdom of Jordan",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							35.6797295,
+							31.2567877
+						],
+						[
+							37.2500185,
+							31.2567877
+						],
+						[
+							37.2500185,
+							32.088612
+						],
+						[
+							35.6797295,
+							32.088612
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 472,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's THAT simple, I swear!..\n#COVIDIOTS #CovidVaccine https://t.co/7eUZjQWfsu"
+	},
+	{
 		"created_at": "Fri Dec 18 05:58:35 +0000 2020",
 		"id": 1339811891917578200,
 		"id_str": "1339812284227592192",
