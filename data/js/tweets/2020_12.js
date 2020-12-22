@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 21 07:19:42 +0000 2020",
+		"id": 1340606200346521600,
+		"id_str": "1340919859203485697",
+		"full_text": "In the last five years @aeonmag has published many excellent essays on philosophy. It’s probably the best free online source of public philosophy around. Check out the archive: https://t.co/cIt1XANQPI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aeonmag",
+					"name": "Aeon+Psyche",
+					"id": 481943972,
+					"id_str": "481943972",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cIt1XANQPI",
+					"expanded_url": "http://aeon.co/philosophy",
+					"display_url": "aeon.co/philosophy",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37238862,
+			"id_str": "37238862",
+			"name": "Nigel Warburton",
+			"screen_name": "philosophybites",
+			"location": "Oxford  & London UK",
+			"description": "A Little History of Philosophy, Philosophy Bites podcast, Consultant Senior Editor @aeonmag, writes @thenewphil, Philosophy Editor @five_books.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 86403,
+			"friends_count": 8005,
+			"listed_count": 2472,
+			"created_at": "Sat May 02 17:20:21 +0000 2009",
+			"favourites_count": 61179,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 55792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B5B8B4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1339899611952103427/N_0SYaVU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339899611952103427/N_0SYaVU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37238862/1587543534",
+			"profile_link_color": "000DFF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 61,
+		"favorite_count": 290,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the last five years @aeonmag has published many excellent essays on philosophy. It’s probably the best free online source of public philosophy around. Check out the archive: https://t.co/cIt1XANQPI"
+	},
+	{
 		"created_at": "Sun Dec 20 07:20:32 +0000 2020",
 		"id": 1338971969535029200,
 		"id_str": "1340557684232380416",
