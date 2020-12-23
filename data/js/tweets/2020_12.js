@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 19:56:35 +0000 2020",
+		"id": 1341342143189835800,
+		"id_str": "1341472725676769281",
+		"full_text": "Philosophy By Women has finally arrived!! This is the one I am most proud of and hope will go furthest of all. @Routledge_Phil https://t.co/Lv8Tz1RwXr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Routledge_Phil",
+					"name": "Routledge Philosophy and Religion",
+					"id": 168416000,
+					"id_str": "168416000",
+					"indices": [
+						111,
+						126
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1341341977317675000,
+					"id_str": "1341341977317675010",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1na_BXEAIjW-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1na_BXEAIjW-k.jpg",
+					"url": "https://t.co/Lv8Tz1RwXr",
+					"display_url": "pic.twitter.com/Lv8Tz1RwXr",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1341342143189835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341341977317675000,
+					"id_str": "1341341977317675010",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1na_BXEAIjW-k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1na_BXEAIjW-k.jpg",
+					"url": "https://t.co/Lv8Tz1RwXr",
+					"display_url": "pic.twitter.com/Lv8Tz1RwXr",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1341342143189835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341341977326071800,
+					"id_str": "1341341977326071808",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1na_DXMAAScN0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1na_DXMAAScN0.jpg",
+					"url": "https://t.co/Lv8Tz1RwXr",
+					"display_url": "pic.twitter.com/Lv8Tz1RwXr",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1341342143189835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341341977338667000,
+					"id_str": "1341341977338667008",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1na_GXYAAPiHj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1na_GXYAAPiHj.jpg",
+					"url": "https://t.co/Lv8Tz1RwXr",
+					"display_url": "pic.twitter.com/Lv8Tz1RwXr",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1341342143189835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1341341977393188900,
+					"id_str": "1341341977393188864",
+					"indices": [
+						127,
+						150
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep1na_TXUAAfx72.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ep1na_TXUAAfx72.jpg",
+					"url": "https://t.co/Lv8Tz1RwXr",
+					"display_url": "pic.twitter.com/Lv8Tz1RwXr",
+					"expanded_url": "https://twitter.com/EllyVintiadis/status/1341342143189835777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 29206264,
+			"id_str": "29206264",
+			"name": "Elly Vintiadis",
+			"screen_name": "EllyVintiadis",
+			"location": "",
+			"description": "A philosopher corrupting the youth at the American College of Greece. Also, a treat searchin' street urchin with very strong views about burgers.",
+			"url": "https://t.co/UVlmKgD3PO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UVlmKgD3PO",
+							"expanded_url": "http://www.ellyvintiadis.com",
+							"display_url": "ellyvintiadis.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1455,
+			"friends_count": 1655,
+			"listed_count": 25,
+			"created_at": "Mon Apr 06 14:09:51 +0000 2009",
+			"favourites_count": 5083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "141233",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/709791878443606016/KZ51WFQc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/29206264/1597852566",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7A9099",
+			"profile_text_color": "020008",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 289,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Philosophy By Women has finally arrived!! This is the one I am most proud of and hope will go furthest of all. @Routledge_Phil https://t.co/Lv8Tz1RwXr"
+	},
+	{
 		"created_at": "Mon Dec 21 07:19:42 +0000 2020",
 		"id": 1340606200346521600,
 		"id_str": "1340919859203485697",
