@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 06:33:53 +0000 2020",
+		"id": 1341390685279285200,
+		"id_str": "1341995493560344576",
+		"full_text": "Learning is a lifelong delight that the folks @OxfordConted know a thing or two about... which is why their countdown calendar to 2021, featuring lots of free educational resources, is such a treat! Explore here &gt;&gt; https://t.co/3TySx3WnCK https://t.co/zLTBXZOpGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OxfordConted",
+					"name": "Oxford Continuing Education",
+					"id": 557602667,
+					"id_str": "557602667",
+					"indices": [
+						46,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3TySx3WnCK",
+					"expanded_url": "http://bit.ly/37pFzqi",
+					"display_url": "bit.ly/37pFzqi",
+					"indices": [
+						221,
+						244
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1341390681227620400,
+					"id_str": "1341390681227620352",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep2Tt7OXcAALl0v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ep2Tt7OXcAALl0v.png",
+					"url": "https://t.co/zLTBXZOpGp",
+					"display_url": "pic.twitter.com/zLTBXZOpGp",
+					"expanded_url": "https://twitter.com/OxfordGiving/status/1341390685279285248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 853,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 868,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1341390681227620400,
+					"id_str": "1341390681227620352",
+					"indices": [
+						245,
+						268
+					],
+					"media_url": "http://pbs.twimg.com/media/Ep2Tt7OXcAALl0v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ep2Tt7OXcAALl0v.png",
+					"url": "https://t.co/zLTBXZOpGp",
+					"display_url": "pic.twitter.com/zLTBXZOpGp",
+					"expanded_url": "https://twitter.com/OxfordGiving/status/1341390685279285248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 853,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 853,
+							"h": 868,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17960941,
+			"id_str": "17960941",
+			"name": "Oxford Giving",
+			"screen_name": "OxfordGiving",
+			"location": "Oxford, UK",
+			"description": "The University of Oxford Development Office, fundraising for students, scholars, researchers and buildings at a world leading university.",
+			"url": "https://t.co/YgUWGonC4g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YgUWGonC4g",
+							"expanded_url": "http://www.development.ox.ac.uk",
+							"display_url": "development.ox.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10060,
+			"friends_count": 362,
+			"listed_count": 150,
+			"created_at": "Mon Dec 08 11:37:15 +0000 2008",
+			"favourites_count": 523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BAD395",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184060805274390528/Vw-0oojJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184060805274390528/Vw-0oojJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17960941/1529051291",
+			"profile_link_color": "003371",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFC2",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning is a lifelong delight that the folks @OxfordConted know a thing or two about... which is why their countdown calendar to 2021, featuring lots of free educational resources, is such a treat! Explore here &gt;&gt; https://t.co/3TySx3WnCK https://t.co/zLTBXZOpGp"
+	},
+	{
 		"created_at": "Tue Dec 22 19:56:35 +0000 2020",
 		"id": 1341342143189835800,
 		"id_str": "1341472725676769281",
