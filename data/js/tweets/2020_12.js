@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 25 15:15:25 +0000 2020",
+		"id": 1342151511258902500,
+		"id_str": "1342489131344130049",
+		"full_text": "Merry Christmas and a Happy New Year from Keele Philosophy to all our students and followers. 🥳🌲🥳🌲 https://t.co/ykv7cmFJjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1342151319944114200,
+					"id_str": "1342151319944114176",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBHg7QXMAAiNHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBHg7QXMAAiNHp.jpg",
+					"url": "https://t.co/ykv7cmFJjR",
+					"display_url": "pic.twitter.com/ykv7cmFJjR",
+					"expanded_url": "https://twitter.com/KeelePhilosoph1/status/1342151511258902528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1342151319944114200,
+					"id_str": "1342151319944114176",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/EqBHg7QXMAAiNHp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqBHg7QXMAAiNHp.jpg",
+					"url": "https://t.co/ykv7cmFJjR",
+					"display_url": "pic.twitter.com/ykv7cmFJjR",
+					"expanded_url": "https://twitter.com/KeelePhilosoph1/status/1342151511258902528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 140,
+							"h": 140,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 248,
+							"h": 140,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174053397835763700,
+			"id_str": "1174053397835763712",
+			"name": "Keele Philosophy",
+			"screen_name": "KeelePhilosoph1",
+			"location": "Keele, Staffordshire, UK",
+			"description": "News and ideas from the highest philosophy department in the UK @SPGSKeele @KeeleUniversity.",
+			"url": "https://t.co/ZdW6UTXGHW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZdW6UTXGHW",
+							"expanded_url": "https://www.keele.ac.uk/spgs/aboutus/philosophy/",
+							"display_url": "keele.ac.uk/spgs/aboutus/p…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 187,
+			"friends_count": 117,
+			"listed_count": 7,
+			"created_at": "Tue Sep 17 20:13:15 +0000 2019",
+			"favourites_count": 968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1174994404756590592/_-0iHQFA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1174994404756590592/_-0iHQFA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174053397835763712/1568752437",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Merry Christmas and a Happy New Year from Keele Philosophy to all our students and followers. 🥳🌲🥳🌲 https://t.co/ykv7cmFJjR"
+	},
+	{
 		"created_at": "Thu Dec 24 06:33:53 +0000 2020",
 		"id": 1341390685279285200,
 		"id_str": "1341995493560344576",
