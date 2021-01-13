@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 12 20:24:05 +0000 2021",
+		"id": 1348984265510420500,
+		"id_str": "1349089792198389762",
+		"full_text": "Learned this as a grad student. Ever since, I take a moment to listen to the list of places one *could* go to eat, then, as the deep dithering begins, I say where I’m *actually* going, and go there. Sometimes I eat alone, sometimes with company, but I always eat. https://t.co/tnBmjPsUqB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tnBmjPsUqB",
+					"expanded_url": "https://twitter.com/colebrookross/status/1348885950064066561",
+					"display_url": "twitter.com/colebrookross/…",
+					"indices": [
+						264,
+						287
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 970766939009306600,
+			"id_str": "970766939009306625",
+			"name": "Tim Kenyon",
+			"screen_name": "TimAKenyon",
+			"location": "",
+			"description": "Human person, research admin, critical thinking author, phil. of language, social epistemology, cycling. Tweets *at most* my own views, frequently less. he",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 534,
+			"friends_count": 639,
+			"listed_count": 11,
+			"created_at": "Mon Mar 05 21:04:09 +0000 2018",
+			"favourites_count": 7796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/979302327545925632/n8-CCycX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/970766939009306625/1520811655",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348885950064066600,
+		"quoted_status_id_str": "1348885950064066561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tnBmjPsUqB",
+			"expanded": "https://twitter.com/colebrookross/status/1348885950064066561",
+			"display": "twitter.com/colebrookross/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 12 06:54:06 +0000 2021",
+			"id": 1348885950064066600,
+			"id_str": "1348885950064066561",
+			"full_text": "@christapeterso I once went to lunch with some other philosophers during a conference. Everyone assumed everyone else was leading. We walked around aimlessly for at least fifteen minutes before anyone wondered where the hell we were going.",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				239
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "christapeterso",
+						"name": "bean",
+						"id": 292438708,
+						"id_str": "292438708",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1348884654959460400,
+			"in_reply_to_status_id_str": "1348884654959460352",
+			"in_reply_to_user_id": 292438708,
+			"in_reply_to_user_id_str": "292438708",
+			"in_reply_to_screen_name": "christapeterso",
+			"user": {
+				"id": 1087351834073878500,
+				"id_str": "1087351834073878536",
+				"name": "ross",
+				"screen_name": "ColebrookRoss",
+				"location": "",
+				"description": "philosophy phd living in seattle",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21,
+				"friends_count": 189,
+				"listed_count": 0,
+				"created_at": "Mon Jan 21 14:10:54 +0000 2019",
+				"favourites_count": 1832,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 168,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087352196176506880/6f3ptINF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087352196176506880/6f3ptINF_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 92,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learned this as a grad student. Ever since, I take a moment to listen to the list of places one *could* go to eat, then, as the deep dithering begins, I say where I’m *actually* going, and go there. Sometimes I eat alone, sometimes with company, but I always eat. https://t.co/tnBmjPsUqB"
+	},
+	{
 		"created_at": "Mon Jan 04 06:46:00 +0000 2021",
 		"id": 1340955152073814000,
 		"id_str": "1345984808309153792",
