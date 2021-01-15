@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 14 07:05:38 +0000 2021",
+		"id": 1349612277419434000,
+		"id_str": "1349613627372949504",
+		"full_text": "Advice for parents on what to do if you’re concerned about the standard of your child’s lunch parcel\n#FreeSchoolMeals https://t.co/uGIsPP3wKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreeSchoolMeals",
+					"indices": [
+						101,
+						117
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1349612275519389700,
+					"id_str": "1349612275519389697",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrJNsrXAAEv_km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrJNsrXAAEv_km.jpg",
+					"url": "https://t.co/uGIsPP3wKC",
+					"display_url": "pic.twitter.com/uGIsPP3wKC",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1349612277419433986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1349612275519389700,
+					"id_str": "1349612275519389697",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/ErrJNsrXAAEv_km.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErrJNsrXAAEv_km.jpg",
+					"url": "https://t.co/uGIsPP3wKC",
+					"display_url": "pic.twitter.com/uGIsPP3wKC",
+					"expanded_url": "https://twitter.com/educationgovuk/status/1349612277419433986/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143039548,
+			"id_str": "143039548",
+			"name": "Department for Education",
+			"screen_name": "educationgovuk",
+			"location": "London, UK",
+			"description": "Official Twitter account for the Department for Education, covering education, children’s services, HE & FE, apprenticeships, skills in England.",
+			"url": "https://t.co/qvJzxR9dBe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qvJzxR9dBe",
+							"expanded_url": "http://www.gov.uk/dfe",
+							"display_url": "gov.uk/dfe",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 430281,
+			"friends_count": 2743,
+			"listed_count": 3319,
+			"created_at": "Wed May 12 12:22:56 +0000 2010",
+			"favourites_count": 2194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30224,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326928261394411525/nz4GpqIm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326928261394411525/nz4GpqIm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143039548/1609854447",
+			"profile_link_color": "104E75",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CCCCCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Advice for parents on what to do if you’re concerned about the standard of your child’s lunch parcel\n#FreeSchoolMeals https://t.co/uGIsPP3wKC"
+	},
+	{
 		"created_at": "Tue Jan 12 20:24:05 +0000 2021",
 		"id": 1348984265510420500,
 		"id_str": "1349089792198389762",
