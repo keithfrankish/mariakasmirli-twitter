@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 12:56:28 +0000 2021",
+		"id": 1351083747316269000,
+		"id_str": "1351151470457008132",
+		"full_text": "I am more and more convinced that we should give our best shot to tell somebody's else's story instead of focusing on ours. It's good for the soul. \n(@lilyslynch reading smth here and just remembered your tweet form a week or so ago)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lilyslynch",
+					"name": "Lily Lynch",
+					"id": 410805006,
+					"id_str": "410805006",
+					"indices": [
+						150,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823096814895239200,
+			"id_str": "823096814895239168",
+			"name": "Pelagia",
+			"screen_name": "Ljiljana1972",
+			"location": "Faculty of Philosophy, University of Belgrade, Belgrade, Serbia",
+			"description": "Professor of Philosophy, Phil meets Psych meets Byz, becoming a nun is not off the table yet",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3577,
+			"friends_count": 1211,
+			"listed_count": 50,
+			"created_at": "Sun Jan 22 09:15:47 +0000 2017",
+			"favourites_count": 53306,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18046,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1343563007624884226/mPm44XJb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343563007624884226/mPm44XJb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823096814895239168/1606476845",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am more and more convinced that we should give our best shot to tell somebody's else's story instead of focusing on ours. It's good for the soul. \n(@lilyslynch reading smth here and just remembered your tweet form a week or so ago)"
+	},
+	{
 		"created_at": "Thu Jan 14 07:05:38 +0000 2021",
 		"id": 1349612277419434000,
 		"id_str": "1349613627372949504",
