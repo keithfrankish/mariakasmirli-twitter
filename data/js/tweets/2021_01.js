@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Thu Jan 28 17:55:31 +0000 2021",
+		"id": 1354850609074155500,
+		"id_str": "1354850609074155523",
+		"full_text": "@StuartEGardner1 @keithfrankish Oi! He's taken! But I do share him on Twitter :)",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "StuartEGardner1",
+					"name": "Stuart E Gardner",
+					"id": 1310547873453441000,
+					"id_str": "1310547873453441030",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "keithfrankish",
+					"name": "Keith Frankish",
+					"id": 52522040,
+					"id_str": "52522040",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1354849216003244000,
+		"in_reply_to_status_id_str": "1354849216003244032",
+		"in_reply_to_user_id": 1310547873453441000,
+		"in_reply_to_user_id_str": "1310547873453441030",
+		"in_reply_to_screen_name": "StuartEGardner1",
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809,
+			"friends_count": 625,
+			"listed_count": 28,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1891,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@StuartEGardner1 @keithfrankish Oi! He's taken! But I do share him on Twitter :)"
+	},
+	{
 		"created_at": "Mon Jan 18 12:56:28 +0000 2021",
 		"id": 1351083747316269000,
 		"id_str": "1351151470457008132",
