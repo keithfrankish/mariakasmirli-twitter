@@ -1,6 +1,137 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 21 05:33:34 +0000 2021",
+		"id": 1373400910819303400,
+		"id_str": "1373508057225965569",
+		"full_text": "\"Thinking about research is still work, in my view, and we think about our research in the office, at home, over dinner, in bed, at the beach, while skiing, and even in the shower.\"\n\n#AcademicTwitter #AcademicChatter\n\nhttps://t.co/T93DLFESTN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AcademicTwitter",
+					"indices": [
+						183,
+						199
+					]
+				},
+				{
+					"text": "AcademicChatter",
+					"indices": [
+						200,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/T93DLFESTN",
+					"expanded_url": "https://dire-ed.com/2021/03/21/why-academics-work-much-longer-hours-than-they-think/",
+					"display_url": "dire-ed.com/2021/03/21/why…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 908226487928594400,
+			"id_str": "908226487928594432",
+			"name": "Prof. Andrew R. Timming",
+			"screen_name": "timminglab",
+			"location": "Melbourne, Australia",
+			"description": "Professor of Human Resource Management. Editor-in-chief at https://t.co/TzN87NNK5K. Views are mine and not those of my employer.",
+			"url": "https://t.co/jpnsctPUtf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jpnsctPUtf",
+							"expanded_url": "http://www.timminglab.com",
+							"display_url": "timminglab.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TzN87NNK5K",
+							"expanded_url": "http://dire-ed.com",
+							"display_url": "dire-ed.com",
+							"indices": [
+								59,
+								82
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 20295,
+			"friends_count": 13163,
+			"listed_count": 89,
+			"created_at": "Thu Sep 14 07:10:43 +0000 2017",
+			"favourites_count": 1574,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908236768809381888/ZhxvF8Cc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/908226487928594432/1560415816",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 222,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Thinking about research is still work, in my view, and we think about our research in the office, at home, over dinner, in bed, at the beach, while skiing, and even in the shower.\"\n\n#AcademicTwitter #AcademicChatter\n\nhttps://t.co/T93DLFESTN"
+	},
+	{
 		"created_at": "Mon Mar 15 19:28:18 +0000 2021",
 		"id": 1371470943781064700,
 		"id_str": "1371543797402898434",
