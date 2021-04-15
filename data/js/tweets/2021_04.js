@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Wed Apr 14 15:52:36 +0000 2021",
+		"id": 1382031227713097700,
+		"id_str": "1382361152424976384",
+		"full_text": "The death of Christopher Hitchens was a great loss to humanism. Still after all of this time nobody says it like Hitchens. He was a one-of-kind. His cutting dialogues, insights, and lectures are dearly missed. He was born #OnThisDay 1949. https://t.co/9ym3TT9rV9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OnThisDay",
+					"indices": [
+						222,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382030758215356400,
+					"id_str": "1382030758215356416",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey31pvwXEAAjI-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey31pvwXEAAjI-K.jpg",
+					"url": "https://t.co/9ym3TT9rV9",
+					"display_url": "pic.twitter.com/9ym3TT9rV9",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1382031227713097730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382030758215356400,
+					"id_str": "1382030758215356416",
+					"indices": [
+						239,
+						262
+					],
+					"media_url": "http://pbs.twimg.com/media/Ey31pvwXEAAjI-K.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ey31pvwXEAAjI-K.jpg",
+					"url": "https://t.co/9ym3TT9rV9",
+					"display_url": "pic.twitter.com/9ym3TT9rV9",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1382031227713097730/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 767,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 767,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 676,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46686058,
+			"id_str": "46686058",
+			"name": "Humanists UK",
+			"screen_name": "Humanists_UK",
+			"location": "London",
+			"description": "We advance free thinking and promote humanism to create a tolerant society where rational thinking and kindness prevail. Registered charity no. 285987.",
+			"url": "https://t.co/o6YMksqCGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6YMksqCGI",
+							"expanded_url": "http://humanists.uk",
+							"display_url": "humanists.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103826,
+			"friends_count": 2998,
+			"listed_count": 1189,
+			"created_at": "Fri Jun 12 16:18:39 +0000 2009",
+			"favourites_count": 13180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 51764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46686058/1614355917",
+			"profile_link_color": "4C4184",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD3D5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 617,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The death of Christopher Hitchens was a great loss to humanism. Still after all of this time nobody says it like Hitchens. He was a one-of-kind. His cutting dialogues, insights, and lectures are dearly missed. He was born #OnThisDay 1949. https://t.co/9ym3TT9rV9"
+	},
+	{
 		"created_at": "Fri Apr 09 04:40:30 +0000 2021",
 		"id": 1380235995275264000,
 		"id_str": "1380380074411712512",
