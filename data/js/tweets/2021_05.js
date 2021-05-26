@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 25 05:19:34 +0000 2021",
+		"id": 1381233642102472700,
+		"id_str": "1397059749099737088",
+		"full_text": "My first visit to a philosophy conference as a young mathematician\nhttps://t.co/sVgH6zR1bZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1375259490501554200,
+					"id_str": "1375259490501554177",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1375259490501554177/pu/img/ze3cHU4kV3gX3QI8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1375259490501554177/pu/img/ze3cHU4kV3gX3QI8.jpg",
+					"url": "https://t.co/sVgH6zR1bZ",
+					"display_url": "pic.twitter.com/sVgH6zR1bZ",
+					"expanded_url": "https://twitter.com/nocatplaces/status/1375259565650944007/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1375259565650944000,
+					"source_status_id_str": "1375259565650944007",
+					"source_user_id": 1332670281035391000,
+					"source_user_id_str": "1332670281035390976"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1375259490501554200,
+					"id_str": "1375259490501554177",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1375259490501554177/pu/img/ze3cHU4kV3gX3QI8.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1375259490501554177/pu/img/ze3cHU4kV3gX3QI8.jpg",
+					"url": "https://t.co/sVgH6zR1bZ",
+					"display_url": "pic.twitter.com/sVgH6zR1bZ",
+					"expanded_url": "https://twitter.com/nocatplaces/status/1375259565650944007/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 768,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 638,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1375259565650944000,
+					"source_status_id_str": "1375259565650944007",
+					"source_user_id": 1332670281035391000,
+					"source_user_id_str": "1332670281035390976",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							15
+						],
+						"duration_millis": 20267,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1375259490501554177/pu/vid/288x270/BN9OylFexXKUbqwL.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1375259490501554177/pu/vid/384x360/mDxRTME8GswZmcfS.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1375259490501554177/pu/vid/768x720/lq7xIQvsT44yK0B6.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1375259490501554177/pu/pl/18zA5opPE-XS-CkY.m3u8?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1332670281035391000,
+							"id_str": "1332670281035390976",
+							"name": "Cats where they shouldn't be",
+							"screen_name": "nocatplaces",
+							"location": "Dm for credit/removal",
+							"description": "No content is mine.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 175153,
+							"friends_count": 0,
+							"listed_count": 739,
+							"created_at": "Sat Nov 28 12:59:50 +0000 2020",
+							"favourites_count": 16,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 656,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1365009695635771392/36LiV4ek_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365009695635771392/36LiV4ek_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1332670281035390976/1614278646",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 56368191,
+			"id_str": "56368191",
+			"name": "Bryan Roberts 🏳️‍🌈️",
+			"screen_name": "SoulPhysics",
+			"location": "London, UK",
+			"description": "Philosopher of physics, Director of the LSE Centre for Philosophy of Natural & Social Sciences, lost artist, queer (he/him). Speaks 🇺🇸️️🇫🇷🇲🇽️️🇭🇷",
+			"url": "http://t.co/SwJ97LHwws",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/SwJ97LHwws",
+							"expanded_url": "http://personal.lse.ac.uk/robert49/",
+							"display_url": "personal.lse.ac.uk/robert49/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1814,
+			"friends_count": 1273,
+			"listed_count": 75,
+			"created_at": "Mon Jul 13 13:12:49 +0000 2009",
+			"favourites_count": 5687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/613343535522299904/-dMKppga_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/613343535522299904/-dMKppga_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/56368191/1434628384",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "787878",
+			"profile_sidebar_fill_color": "B2CFF7",
+			"profile_text_color": "2B2B2B",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 176,
+		"favorite_count": 1310,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first visit to a philosophy conference as a young mathematician\nhttps://t.co/sVgH6zR1bZ"
+	},
+	{
 		"created_at": "Sat May 22 04:35:49 +0000 2021",
 		"id": 1395764799854743600,
 		"id_str": "1395961573903159300",
