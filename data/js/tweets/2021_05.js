@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 26 12:27:55 +0000 2021",
+		"id": 1397507356074811400,
+		"id_str": "1397529933367361538",
+		"full_text": "Some of our Philosophy colleagues have recently had some excellent results from funding applications made during the last year. Many congratulations to Komarine, Luca, Max, and Ryan on all this fantastic news! https://t.co/txU744LJre",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1397507205067333600,
+					"id_str": "1397507205067333635",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E2TxZhEWYAMzL-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2TxZhEWYAMzL-w.jpg",
+					"url": "https://t.co/txU744LJre",
+					"display_url": "pic.twitter.com/txU744LJre",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1397507356074811396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1397507205067333600,
+					"id_str": "1397507205067333635",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/E2TxZhEWYAMzL-w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2TxZhEWYAMzL-w.jpg",
+					"url": "https://t.co/txU744LJre",
+					"display_url": "pic.twitter.com/txU744LJre",
+					"expanded_url": "https://twitter.com/Sheffphilosophy/status/1397507356074811396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 962,
+							"h": 571,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 404,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 962,
+							"h": 571,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2812814696,
+			"id_str": "2812814696",
+			"name": "Sheffield Philosophy",
+			"screen_name": "Sheffphilosophy",
+			"location": "45 Victoria Street, Sheffield",
+			"description": "Dept. of Philosophy at the University of Sheffield. Top two in UK in REF 2014 for quality of publications and internationally excellent research.",
+			"url": "http://t.co/rS43g4UbLN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/rS43g4UbLN",
+							"expanded_url": "http://www.sheffield.ac.uk/philosophy",
+							"display_url": "sheffield.ac.uk/philosophy",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2140,
+			"friends_count": 482,
+			"listed_count": 55,
+			"created_at": "Tue Sep 16 09:48:37 +0000 2014",
+			"favourites_count": 350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4246,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1196465304848781312/OO-hwTa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2812814696/1597743436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some of our Philosophy colleagues have recently had some excellent results from funding applications made during the last year. Many congratulations to Komarine, Luca, Max, and Ryan on all this fantastic news! https://t.co/txU744LJre"
+	},
+	{
 		"created_at": "Tue May 25 05:19:34 +0000 2021",
 		"id": 1381233642102472700,
 		"id_str": "1397059749099737088",
@@ -191,7 +366,7 @@ Grailbird.data.tweets_2021_05 =
 		"user": {
 			"id": 56368191,
 			"id_str": "56368191",
-			"name": "Bryan Roberts 🏳️‍🌈️",
+			"name": "Bryan Roberts 🏳️🌈️",
 			"screen_name": "SoulPhysics",
 			"location": "London, UK",
 			"description": "Philosopher of physics, Director of the LSE Centre for Philosophy of Natural & Social Sciences, lost artist, queer (he/him). Speaks 🇺🇸️️🇫🇷🇲🇽️️🇭🇷",
