@@ -1,6 +1,416 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 30 14:44:15 +0000 2021",
+		"id": 1398993026446467000,
+		"id_str": "1399013792529461250",
+		"full_text": "New post: How to Make Learning Stick https://t.co/a6nbQVj9AS #edchat #edutwitter #DisruptiveThink #suptchat #cpchat https://t.co/vNk3bOCncj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "edchat",
+					"indices": [
+						61,
+						68
+					]
+				},
+				{
+					"text": "edutwitter",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"text": "DisruptiveThink",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"text": "suptchat",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"text": "cpchat",
+					"indices": [
+						108,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a6nbQVj9AS",
+					"expanded_url": "http://esheninger.blogspot.com/2021/05/how-to-make-learning-stick.html",
+					"display_url": "esheninger.blogspot.com/2021/05/how-to…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398992836956151800,
+					"id_str": "1398992836956151808",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E2o4krIWYAAFkls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2o4krIWYAAFkls.jpg",
+					"url": "https://t.co/vNk3bOCncj",
+					"display_url": "pic.twitter.com/vNk3bOCncj",
+					"expanded_url": "https://twitter.com/E_Sheninger/status/1398993026446467076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398992836956151800,
+					"id_str": "1398992836956151808",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/E2o4krIWYAAFkls.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2o4krIWYAAFkls.jpg",
+					"url": "https://t.co/vNk3bOCncj",
+					"display_url": "pic.twitter.com/vNk3bOCncj",
+					"expanded_url": "https://twitter.com/E_Sheninger/status/1398993026446467076/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1835,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1075,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 609,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22487278,
+			"id_str": "22487278",
+			"name": "Eric Sheninger",
+			"screen_name": "E_Sheninger",
+			"location": "Cypress, TX",
+			"description": "ICLE Associate Partner, award-winning principal, learner, best-selling author, international keynote speaker, learning facilitator, coach | Thoughts are my own.",
+			"url": "http://t.co/n2UwF0GqhC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/n2UwF0GqhC",
+							"expanded_url": "http://ericsheninger.com",
+							"display_url": "ericsheninger.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 153969,
+			"friends_count": 1075,
+			"listed_count": 4849,
+			"created_at": "Mon Mar 02 14:18:56 +0000 2009",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73266,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/768592734282145792/sBoQIaFR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/768592734282145792/sBoQIaFR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22487278/1619096617",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 102,
+		"favorite_count": 270,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New post: How to Make Learning Stick https://t.co/a6nbQVj9AS #edchat #edutwitter #DisruptiveThink #suptchat #cpchat https://t.co/vNk3bOCncj"
+	},
+	{
+		"created_at": "Sun May 30 14:43:27 +0000 2021",
+		"id": 1399003513095659500,
+		"id_str": "1399013590309478405",
+		"full_text": "It would be epistemically ridiculous for a med student to learn much being the very outlines of my kid's syndrome, which they will likely never encounter. It makes a ton of sense for me to learn everything about it. Let's  then pair our expertise!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1399002370588164000,
+		"in_reply_to_status_id_str": "1399002370588164096",
+		"in_reply_to_user_id": 36651871,
+		"in_reply_to_user_id_str": "36651871",
+		"in_reply_to_screen_name": "epicciuto",
+		"user": {
+			"id": 36651871,
+			"id_str": "36651871",
+			"name": "Elizabeth Picciuto",
+			"screen_name": "epicciuto",
+			"location": "Extremely Long Island",
+			"description": "Writer, wife, mom of three boys—one with multiple disabilities. Philosophy PhD. Rooted cosmopolitan. Will garden for food and flowers. #3A!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15249,
+			"friends_count": 3067,
+			"listed_count": 251,
+			"created_at": "Thu Apr 30 12:40:01 +0000 2009",
+			"favourites_count": 154088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374799430877085699/FB5EiGUE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374799430877085699/FB5EiGUE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36651871/1513283439",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 135,
+		"favorite_count": 5526,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It would be epistemically ridiculous for a med student to learn much being the very outlines of my kid's syndrome, which they will likely never encounter. It makes a ton of sense for me to learn everything about it. Let's  then pair our expertise!"
+	},
+	{
+		"created_at": "Sun May 30 12:47:22 +0000 2021",
+		"id": 1398957907706892300,
+		"id_str": "1398984379725139975",
+		"full_text": "Staff morale is a reflection of leadership. And when it’s a primary focus of leadership, the whole school culture improves.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 257680378,
+			"id_str": "257680378",
+			"name": "𝐁𝐫𝐚𝐝 𝐉𝐨𝐡𝐧𝐬𝐨𝐧",
+			"screen_name": "DrBradJohnson",
+			"location": "",
+			"description": "Speaking/PD that is inspirational & affirmational. Unleashing Teacher Greatness! Author of several books. Speaking inquiries on website. https://t.co/AVkwWrefEA",
+			"url": "https://t.co/fqYt1uvkLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fqYt1uvkLd",
+							"expanded_url": "https://www.amazon.com/gp/product/0367622211/ref=dbs_a_def_rwt_bibl_vppi_i7",
+							"display_url": "amazon.com/gp/product/036…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AVkwWrefEA",
+							"expanded_url": "http://DoctorBradJohnson.com",
+							"display_url": "DoctorBradJohnson.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68995,
+			"friends_count": 8982,
+			"listed_count": 236,
+			"created_at": "Fri Feb 25 23:24:37 +0000 2011",
+			"favourites_count": 69549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22969,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304780545885429765/HlomIzyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304780545885429765/HlomIzyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/257680378/1604794463",
+			"profile_link_color": "8D2111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 1396,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Staff morale is a reflection of leadership. And when it’s a primary focus of leadership, the whole school culture improves."
+	},
+	{
 		"created_at": "Sat May 29 19:06:23 +0000 2021",
 		"id": 1398717374245879800,
 		"id_str": "1398717374245879809",
