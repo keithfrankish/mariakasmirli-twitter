@@ -1,6 +1,507 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Mon May 31 17:38:48 +0000 2021",
+		"id": 1394970596187033600,
+		"id_str": "1399420108074803204",
+		"full_text": "FM @NicolaSturgeon made this video in July 2020 when it was feared int’l student numbers might drop due to C-19. “We’re ... a v welcoming &amp; outward-looking country.... Let me assure you, you’ll be v v welcome.” Unfortunately Edinburgh hasn’t quite lived up to this assurance. 1/x https://t.co/ybmKk5rqfO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NicolaSturgeon",
+					"name": "Nicola Sturgeon",
+					"id": 160952087,
+					"id_str": "160952087",
+					"indices": [
+						3,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ybmKk5rqfO",
+					"expanded_url": "https://twitter.com/EdinburghUni/status/1280509567303122951",
+					"display_url": "twitter.com/EdinburghUni/s…",
+					"indices": [
+						284,
+						307
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237250367,
+			"id_str": "237250367",
+			"name": "Ricky Jeffrey",
+			"screen_name": "Ricky_Jeffrey",
+			"location": "Zhejiang",
+			"description": "Assistant Professor in Education @UNNCHome. Tweets on higher ed & education generally, EAP/research communication, & China",
+			"url": "https://t.co/PIfC7iVRA2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PIfC7iVRA2",
+							"expanded_url": "https://www.ed.ac.uk/profile/ricky-jeffrey",
+							"display_url": "ed.ac.uk/profile/ricky-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 719,
+			"friends_count": 3126,
+			"listed_count": 8,
+			"created_at": "Wed Jan 12 12:27:30 +0000 2011",
+			"favourites_count": 3103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2019,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399262918986792960/xIlDypv3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399262918986792960/xIlDypv3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237250367/1555163862",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280509567303123000,
+		"quoted_status_id_str": "1280509567303122951",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ybmKk5rqfO",
+			"expanded": "https://twitter.com/EdinburghUni/status/1280509567303122951",
+			"display": "twitter.com/EdinburghUni/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 14:30:46 +0000 2020",
+			"id": 1280509567303123000,
+			"id_str": "1280509567303122951",
+			"full_text": "Are you an International student thinking about studying in #Scotland? @ScotGovFM Nicola Sturgeon says, “We are making all the preparations necessary to ensure the safety of our students. Let me assure you, you will be very welcome.” Info: https://t.co/jKQFPhgkEc #ScotlandIsNow https://t.co/r6hFx4bqhO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Scotland",
+						"indices": [
+							60,
+							69
+						]
+					},
+					{
+						"text": "ScotlandIsNow",
+						"indices": [
+							264,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScotGovFM",
+						"name": "First Minister",
+						"id": 441779125,
+						"id_str": "441779125",
+						"indices": [
+							71,
+							81
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jKQFPhgkEc",
+						"expanded_url": "https://edin.ac/2VU0T0Y",
+						"display_url": "edin.ac/2VU0T0Y",
+						"indices": [
+							240,
+							263
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1280509399988125700,
+						"id_str": "1280509399988125699",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280509399988125699/pu/img/ndurqkBlI24APVQ1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280509399988125699/pu/img/ndurqkBlI24APVQ1.jpg",
+						"url": "https://t.co/r6hFx4bqhO",
+						"display_url": "pic.twitter.com/r6hFx4bqhO",
+						"expanded_url": "https://twitter.com/EdinburghUni/status/1280509567303122951/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280509399988125700,
+						"id_str": "1280509399988125699",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1280509399988125699/pu/img/ndurqkBlI24APVQ1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1280509399988125699/pu/img/ndurqkBlI24APVQ1.jpg",
+						"url": "https://t.co/r6hFx4bqhO",
+						"display_url": "pic.twitter.com/r6hFx4bqhO",
+						"expanded_url": "https://twitter.com/EdinburghUni/status/1280509567303122951/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 74640,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1280509399988125699/pu/vid/1280x720/mYv5ASwWxjE3YglG.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1280509399988125699/pu/pl/PGPLtaVxJ2qwY77h.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1280509399988125699/pu/vid/640x360/izTINliX14Bj-HH-.mp4?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1280509399988125699/pu/vid/480x270/PGbEfuBihxMsnuvS.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23426889,
+				"id_str": "23426889",
+				"name": "The University of Edinburgh",
+				"screen_name": "EdinburghUni",
+				"location": "Edinburgh, United Kingdom",
+				"description": "Influencing the world since 1583. Follow our other accounts: https://t.co/SL2oB6Oet1",
+				"url": "https://t.co/idcXpWKcTF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idcXpWKcTF",
+								"expanded_url": "http://www.edin.ac/tw",
+								"display_url": "edin.ac/tw",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SL2oB6Oet1",
+								"expanded_url": "http://www.edin.ac/social-media",
+								"display_url": "edin.ac/social-media",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 130105,
+				"friends_count": 399,
+				"listed_count": 1425,
+				"created_at": "Mon Mar 09 12:01:11 +0000 2009",
+				"favourites_count": 903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8949,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E6E6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458887980929654784/LGRkgfhX_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458887980929654784/LGRkgfhX_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23426889/1600690503",
+				"profile_link_color": "00335F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106,
+			"favorite_count": 366,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FM @NicolaSturgeon made this video in July 2020 when it was feared int’l student numbers might drop due to C-19. “We’re ... a v welcoming &amp; outward-looking country.... Let me assure you, you’ll be v v welcome.” Unfortunately Edinburgh hasn’t quite lived up to this assurance. 1/x https://t.co/ybmKk5rqfO"
+	},
+	{
+		"created_at": "Mon May 31 04:01:59 +0000 2021",
+		"id": 1399002767197458400,
+		"id_str": "1399214548427628544",
+		"full_text": "\"Well-being is a prerequisite for learning. Well-being is a prerequisite for teaching, and it’s a prerequisite for leading.\" #EWOpinion https://t.co/VzsDAbcV4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EWOpinion",
+					"indices": [
+						125,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VzsDAbcV4S",
+					"expanded_url": "https://www.edweek.org/leadership/opinion-lets-not-forget-the-effect-the-pandemic-has-had-on-our-teachers-and-school-leaders/2021/05?utm_source=tw&utm_medium=soc&utm_campaign=edit",
+					"display_url": "edweek.org/leadership/opi…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15147042,
+			"id_str": "15147042",
+			"name": "Education Week",
+			"screen_name": "educationweek",
+			"location": "Bethesda, MD",
+			"description": "Inspiring you through K-12 news, analysis, and opinion. Empowering you to make a difference in your community.\n\n📸: https://t.co/tFHsZnHFGD",
+			"url": "https://t.co/M3UhJTAoO7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/M3UhJTAoO7",
+							"expanded_url": "http://www.edweek.org",
+							"display_url": "edweek.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tFHsZnHFGD",
+							"expanded_url": "http://instagram.com/educationweek",
+							"display_url": "instagram.com/educationweek",
+							"indices": [
+								115,
+								138
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 889124,
+			"friends_count": 2987,
+			"listed_count": 12553,
+			"created_at": "Tue Jun 17 15:56:56 +0000 2008",
+			"favourites_count": 1264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 157076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333366",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171052974673731586/4D0R4_lI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171052974673731586/4D0R4_lI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15147042/1601559959",
+			"profile_link_color": "333367",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "CDEFB8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 195,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Well-being is a prerequisite for learning. Well-being is a prerequisite for teaching, and it’s a prerequisite for leading.\" #EWOpinion https://t.co/VzsDAbcV4S"
+	},
+	{
 		"created_at": "Sun May 30 14:44:15 +0000 2021",
 		"id": 1398993026446467000,
 		"id_str": "1399013792529461250",
