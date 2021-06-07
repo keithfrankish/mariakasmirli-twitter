@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 13:35:15 +0000 2021",
+		"id": 1401326668409618400,
+		"id_str": "1401533144382193665",
+		"full_text": "Leaders, It’s important to let teachers know what they do matters, but it’s even more important to let them know that they matter.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 257680378,
+			"id_str": "257680378",
+			"name": "𝐁𝐫𝐚𝐝 𝐉𝐨𝐡𝐧𝐬𝐨𝐧",
+			"screen_name": "DrBradJohnson",
+			"location": "",
+			"description": "Speaking/PD that is inspirational & affirmational. Unleashing Teacher Greatness! Author of several books. Speaking inquiries on website. https://t.co/AVkwWrefEA",
+			"url": "https://t.co/fqYt1uvkLd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fqYt1uvkLd",
+							"expanded_url": "https://www.amazon.com/gp/product/0367622211/ref=dbs_a_def_rwt_bibl_vppi_i7",
+							"display_url": "amazon.com/gp/product/036…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/AVkwWrefEA",
+							"expanded_url": "http://DoctorBradJohnson.com",
+							"display_url": "DoctorBradJohnson.com",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 69810,
+			"friends_count": 8989,
+			"listed_count": 239,
+			"created_at": "Fri Feb 25 23:24:37 +0000 2011",
+			"favourites_count": 69820,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1304780545885429765/HlomIzyD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1304780545885429765/HlomIzyD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/257680378/1604794463",
+			"profile_link_color": "8D2111",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 452,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Leaders, It’s important to let teachers know what they do matters, but it’s even more important to let them know that they matter."
+	},
+	{
 		"created_at": "Sat Jun 05 13:36:17 +0000 2021",
 		"id": 1401168638749593600,
 		"id_str": "1401171016433475590",
