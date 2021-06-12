@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 05:00:34 +0000 2021",
+		"id": 1391760245756731400,
+		"id_str": "1403215558716370944",
+		"full_text": "My @sheffielduni colleage @JoshForstenzer &amp; I have been working together since 2014 to protect &amp; increase philosophy provision in education. Find out what we have been doing &amp; why we think it matters so much: https://t.co/JtaYoxNSPy  @Sheffphilosophy @EngagedPhilos @UniShefAH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sheffielduni",
+					"name": "The University of Sheffield",
+					"id": 19341622,
+					"id_str": "19341622",
+					"indices": [
+						3,
+						16
+					]
+				},
+				{
+					"screen_name": "JoshForstenzer",
+					"name": "Joshua Forstenzer",
+					"id": 166988769,
+					"id_str": "166988769",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "Sheffphilosophy",
+					"name": "Sheffield Philosophy",
+					"id": 2812814696,
+					"id_str": "2812814696",
+					"indices": [
+						246,
+						262
+					]
+				},
+				{
+					"screen_name": "EngagedPhilos",
+					"name": "Centre for Engaged Philosophy",
+					"id": 1081594329393700900,
+					"id_str": "1081594329393700865",
+					"indices": [
+						263,
+						277
+					]
+				},
+				{
+					"screen_name": "UniShefAH",
+					"name": "Faculty of Arts and Humanities",
+					"id": 3235804654,
+					"id_str": "3235804654",
+					"indices": [
+						278,
+						288
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JtaYoxNSPy",
+					"expanded_url": "https://bit.ly/3uzOP4f",
+					"display_url": "bit.ly/3uzOP4f",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 82591098,
+			"id_str": "82591098",
+			"name": "Angie Hobbs",
+			"screen_name": "drangiehobbs",
+			"location": "University of Sheffield",
+			"description": "Professor of the Public Understanding of Philosophy",
+			"url": "http://t.co/TLynjwBfFh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/TLynjwBfFh",
+							"expanded_url": "http://angiehobbs.com",
+							"display_url": "angiehobbs.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6332,
+			"friends_count": 269,
+			"listed_count": 252,
+			"created_at": "Thu Oct 15 10:59:55 +0000 2009",
+			"favourites_count": 6128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/748554450843762688/fiKNfSfT_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My @sheffielduni colleage @JoshForstenzer &amp; I have been working together since 2014 to protect &amp; increase philosophy provision in education. Find out what we have been doing &amp; why we think it matters so much: https://t.co/JtaYoxNSPy  @Sheffphilosophy @EngagedPhilos @UniShefAH"
+	},
+	{
 		"created_at": "Thu Jun 10 13:59:30 +0000 2021",
 		"id": 1402702270689599500,
 		"id_str": "1402988799186006030",
