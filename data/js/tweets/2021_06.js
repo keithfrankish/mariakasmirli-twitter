@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 13 14:57:13 +0000 2021",
+		"id": 1403962840499769300,
+		"id_str": "1404090488567828480",
+		"full_text": "'The real hallmarks of humanity are curiosity and an amazing ability to cooperate.' Lovely words to kick start Sunday by our President @theAliceRoberts. https://t.co/kTMMrzMhN5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theAliceRoberts",
+					"name": "Prof Alice Roberts💙",
+					"id": 260211154,
+					"id_str": "260211154",
+					"indices": [
+						135,
+						151
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403407961423331300,
+					"id_str": "1403407961423331329",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E3noGveXwAECoe3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3noGveXwAECoe3.jpg",
+					"url": "https://t.co/kTMMrzMhN5",
+					"display_url": "pic.twitter.com/kTMMrzMhN5",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1403962840499769349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403407961423331300,
+					"id_str": "1403407961423331329",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/E3noGveXwAECoe3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3noGveXwAECoe3.jpg",
+					"url": "https://t.co/kTMMrzMhN5",
+					"display_url": "pic.twitter.com/kTMMrzMhN5",
+					"expanded_url": "https://twitter.com/Humanists_UK/status/1403962840499769349/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46686058,
+			"id_str": "46686058",
+			"name": "Humanists UK",
+			"screen_name": "Humanists_UK",
+			"location": "London",
+			"description": "We advance free thinking and promote humanism to create a tolerant society where rational thinking and kindness prevail. Registered charity no. 285987.",
+			"url": "https://t.co/o6YMksqCGI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/o6YMksqCGI",
+							"expanded_url": "http://humanists.uk",
+							"display_url": "humanists.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105005,
+			"friends_count": 3085,
+			"listed_count": 1181,
+			"created_at": "Fri Jun 12 16:18:39 +0000 2009",
+			"favourites_count": 13507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 53071,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155811722529333249/Je9uTjfV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46686058/1621337265",
+			"profile_link_color": "4C4184",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "AAD3D5",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 344,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'The real hallmarks of humanity are curiosity and an amazing ability to cooperate.' Lovely words to kick start Sunday by our President @theAliceRoberts. https://t.co/kTMMrzMhN5"
+	},
+	{
 		"created_at": "Sat Jun 12 04:07:51 +0000 2021",
 		"id": 1403564681952911400,
 		"id_str": "1403564681952911360",
