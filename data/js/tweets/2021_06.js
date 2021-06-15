@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 19:34:17 +0000 2021",
+		"id": 1404196970361667600,
+		"id_str": "1404522602501132292",
+		"full_text": "Explore how to use the technique known as the Socratic Method to improve your critical thinking skills: https://t.co/f9qfOxcd9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f9qfOxcd9S",
+					"expanded_url": "http://t.ted.com/th3FSmT",
+					"display_url": "t.ted.com/th3FSmT",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259403751,
+			"id_str": "259403751",
+			"name": "TED-Ed",
+			"screen_name": "TED_ED",
+			"location": "",
+			"description": "Our mission is to spark and celebrate the ideas of students and teachers throughout the world. Follow for program updates + new animated videos every week!",
+			"url": "https://t.co/OFKq7hBUjN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OFKq7hBUjN",
+							"expanded_url": "http://ed.ted.com",
+							"display_url": "ed.ted.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 529496,
+			"friends_count": 247,
+			"listed_count": 5752,
+			"created_at": "Tue Mar 01 21:09:07 +0000 2011",
+			"favourites_count": 3831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11053,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EEEEEE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/897879020645298178/SHglmmjp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/897879020645298178/SHglmmjp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259403751/1502812845",
+			"profile_link_color": "FF2B06",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 185,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Explore how to use the technique known as the Socratic Method to improve your critical thinking skills: https://t.co/f9qfOxcd9S"
+	},
+	{
 		"created_at": "Sun Jun 13 14:57:13 +0000 2021",
 		"id": 1403962840499769300,
 		"id_str": "1404090488567828480",
