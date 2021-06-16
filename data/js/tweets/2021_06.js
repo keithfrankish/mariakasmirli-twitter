@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 06:55:02 +0000 2021",
+		"id": 1404693917627519000,
+		"id_str": "1404693917627518977",
+		"full_text": "Søren Kierkegaard – Subjectivity, Irony and the Crisis of Modernity: A Free Online Course from the University of Copenhagen https://t.co/6lNReSdyAp via @openculture",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "openculture",
+					"name": "Open Culture",
+					"id": 19826509,
+					"id_str": "19826509",
+					"indices": [
+						152,
+						164
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6lNReSdyAp",
+					"expanded_url": "https://www.openculture.com/2021/06/soren-kierkegaard-a-free-online-course-from-the-university-of-copenhagen.html",
+					"display_url": "openculture.com/2021/06/soren-…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 637,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1933,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Søren Kierkegaard – Subjectivity, Irony and the Crisis of Modernity: A Free Online Course from the University of Copenhagen https://t.co/6lNReSdyAp via @openculture"
+	},
+	{
+		"created_at": "Tue Jun 15 06:51:12 +0000 2021",
+		"id": 1404675935744544800,
+		"id_str": "1404692952681680896",
+		"full_text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s ⁦@ASCL_UK⁩ survey https://t.co/HS71FqyBDY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASCL_UK",
+					"name": "ASCL",
+					"id": 111333273,
+					"id_str": "111333273",
+					"indices": [
+						238,
+						246
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HS71FqyBDY",
+					"expanded_url": "https://www.bbc.co.uk/news/education-57470281",
+					"display_url": "bbc.co.uk/news/education…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27443383,
+			"id_str": "27443383",
+			"name": "Geoff Barton",
+			"screen_name": "RealGeoffBarton",
+			"location": "Suffolk, Leicester & beyond ",
+			"description": "General Secretary, the Association of School & College Leaders (ASCL). Previously, English teacher and headteacher.",
+			"url": "https://t.co/caBCwJBUxH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/caBCwJBUxH",
+							"expanded_url": "https://www.ascl.org.uk",
+							"display_url": "ascl.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65655,
+			"friends_count": 5409,
+			"listed_count": 697,
+			"created_at": "Sun Mar 29 15:34:07 +0000 2009",
+			"favourites_count": 6326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 36744,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/784104219993333760/kzfau81g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/784104219993333760/kzfau81g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27443383/1485682487",
+			"profile_link_color": "000CB4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 608,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s ⁦@ASCL_UK⁩ survey https://t.co/HS71FqyBDY"
+	},
+	{
 		"created_at": "Mon Jun 14 19:34:17 +0000 2021",
 		"id": 1404196970361667600,
 		"id_str": "1404522602501132292",
