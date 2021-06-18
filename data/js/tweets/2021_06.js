@@ -1,6 +1,89 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 07:27:44 +0000 2021",
+		"id": 1405312404737638400,
+		"id_str": "1405426922306293762",
+		"full_text": "I get wearing a mask in a store these days. I get not wearing a mask these days. I do not get wearing a mask with your nose hanging out these days.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36651871,
+			"id_str": "36651871",
+			"name": "Elizabeth Picciuto",
+			"screen_name": "epicciuto",
+			"location": "Extremely Long Island",
+			"description": "Writer, wife, mom of three boys—one with multiple disabilities. Philosophy PhD. Rooted cosmopolitan. Will garden for food and flowers. #3A!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15559,
+			"friends_count": 3092,
+			"listed_count": 252,
+			"created_at": "Thu Apr 30 12:40:01 +0000 2009",
+			"favourites_count": 155723,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 117684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374799430877085699/FB5EiGUE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374799430877085699/FB5EiGUE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36651871/1513283439",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 605,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I get wearing a mask in a store these days. I get not wearing a mask these days. I do not get wearing a mask with your nose hanging out these days."
+	},
+	{
 		"created_at": "Tue Jun 15 06:55:02 +0000 2021",
 		"id": 1404693917627519000,
 		"id_str": "1404693917627518977",
@@ -122,7 +205,7 @@ Grailbird.data.tweets_2021_06 =
 		"created_at": "Tue Jun 15 06:51:12 +0000 2021",
 		"id": 1404675935744544800,
 		"id_str": "1404692952681680896",
-		"full_text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s ⁦@ASCL_UK⁩ survey https://t.co/HS71FqyBDY",
+		"full_text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s @ASCL_UK survey https://t.co/HS71FqyBDY",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -234,7 +317,7 @@ Grailbird.data.tweets_2021_06 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s ⁦@ASCL_UK⁩ survey https://t.co/HS71FqyBDY"
+		"text": "“Schools &amp; colleges have had to do all the marking, grading and quality assurance normally be carried out by exam boards, so it seems reasonable that they should receive a rebate that is commensurate with this massive task”: today’s @ASCL_UK survey https://t.co/HS71FqyBDY"
 	},
 	{
 		"created_at": "Mon Jun 14 19:34:17 +0000 2021",
