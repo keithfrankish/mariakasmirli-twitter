@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 17:14:46 +0000 2021",
+		"id": 1164553661890146300,
+		"id_str": "1407748983209050120",
+		"full_text": "'Inequalities in education and society: the home, the school, and the power of reading'. My inaugural professorial lecture podcast and blog are now online. #bcs70 #longitudinal #sociology #reading @CLScohorts @UCLSocSci https://t.co/njKGkCEUwB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bcs70",
+					"indices": [
+						156,
+						162
+					]
+				},
+				{
+					"text": "longitudinal",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"text": "sociology",
+					"indices": [
+						177,
+						187
+					]
+				},
+				{
+					"text": "reading",
+					"indices": [
+						188,
+						196
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CLScohorts",
+					"name": "Centre for Longitudinal Studies",
+					"id": 166560989,
+					"id_str": "166560989",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/njKGkCEUwB",
+					"expanded_url": "https://twitter.com/IOE_London/status/1164485228007710720",
+					"display_url": "twitter.com/IOE_London/sta…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 780472047529029600,
+			"id_str": "780472047529029632",
+			"name": "Professor Alice Sullivan",
+			"screen_name": "ProfAliceS",
+			"location": "",
+			"description": "Professor of Sociology @UCL, Head of Research @UCLSocRes, runner @ChasersLDN.",
+			"url": "https://t.co/cGgdYEsOiZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cGgdYEsOiZ",
+							"expanded_url": "http://profalices.co.uk/",
+							"display_url": "profalices.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11506,
+			"friends_count": 4952,
+			"listed_count": 57,
+			"created_at": "Mon Sep 26 18:20:11 +0000 2016",
+			"favourites_count": 19533,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7015,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1264912015530905601/pIv0FmQy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1264912015530905601/pIv0FmQy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/780472047529029632/1550934839",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1164485228007710700,
+		"quoted_status_id_str": "1164485228007710720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/njKGkCEUwB",
+			"expanded": "https://twitter.com/IOE_London/status/1164485228007710720",
+			"display": "twitter.com/IOE_London/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 22 10:31:28 +0000 2019",
+			"id": 1164485228007710700,
+			"id_str": "1164485228007710720",
+			"full_text": "@Melissa_Benn @ProfAliceS We've just published a post from Alice about her lecture on the #IOEBlog, which includes video and podcast links: https://t.co/PKGsamIY9y",
+			"truncated": false,
+			"display_text_range": [
+				26,
+				163
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IOEBlog",
+						"indices": [
+							90,
+							98
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Melissa_Benn",
+						"name": "Melissa Benn",
+						"id": 356752586,
+						"id_str": "356752586",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "ProfAliceS",
+						"name": "Professor Alice Sullivan",
+						"id": 780472047529029600,
+						"id_str": "780472047529029632",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PKGsamIY9y",
+						"expanded_url": "http://bit.ly/2ZfyPYR",
+						"display_url": "bit.ly/2ZfyPYR",
+						"indices": [
+							140,
+							163
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1141273272874610700,
+			"in_reply_to_status_id_str": "1141273272874610688",
+			"in_reply_to_user_id": 356752586,
+			"in_reply_to_user_id_str": "356752586",
+			"in_reply_to_screen_name": "Melissa_Benn",
+			"user": {
+				"id": 106730860,
+				"id_str": "106730860",
+				"name": "UCL Institute of Education (IOE)",
+				"screen_name": "IOE_London",
+				"location": "University College London",
+				"description": "#WeAreIOE, @UCL's world-leading centre for research and teaching in education and social science.",
+				"url": "https://t.co/bh3oPq7tSu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bh3oPq7tSu",
+								"expanded_url": "https://ucl.ac.uk/ioe",
+								"display_url": "ucl.ac.uk/ioe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 52778,
+				"friends_count": 536,
+				"listed_count": 703,
+				"created_at": "Wed Jan 20 14:32:54 +0000 2010",
+				"favourites_count": 2640,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11541,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "004D95",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1399719028923502595/MbNJ3E7k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399719028923502595/MbNJ3E7k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/106730860/1614805741",
+				"profile_link_color": "004D95",
+				"profile_sidebar_border_color": "004594",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "004594",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 65,
+		"favorite_count": 181,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'Inequalities in education and society: the home, the school, and the power of reading'. My inaugural professorial lecture podcast and blog are now online. #bcs70 #longitudinal #sociology #reading @CLScohorts @UCLSocSci https://t.co/njKGkCEUwB"
+	},
+	{
 		"created_at": "Mon Jun 21 03:43:30 +0000 2021",
 		"id": 1406586914677956600,
 		"id_str": "1406820043980218368",
