@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 15:34:38 +0000 2021",
+		"id": 1398749827349971000,
+		"id_str": "1413159601789415428",
+		"full_text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. ⁦@mariakasmirli⁩  https://t.co/zxYtDXZCes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mariakasmirli",
+					"name": "Maria Kasmirli",
+					"id": 103135865,
+					"id_str": "103135865",
+					"indices": [
+						204,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zxYtDXZCes",
+					"expanded_url": "https://aeon.co/ideas/what-we-say-vs-what-we-mean-what-is-conversational-implicature",
+					"display_url": "aeon.co/ideas/what-we-…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49229910,
+			"id_str": "49229910",
+			"name": "Shaun Coffey",
+			"screen_name": "ShaunCoffey",
+			"location": "Australia",
+			"description": "Shaun Coffey - reflexive practice, R&D, leadership, agricultural science, capacity building, lessons from history. Links & RTs not endorsements.",
+			"url": "https://t.co/bV9x6GCSv2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bV9x6GCSv2",
+							"expanded_url": "https://www.linkedin.com/in/shaungcoffey/",
+							"display_url": "linkedin.com/in/shaungcoffe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27909,
+			"friends_count": 2159,
+			"listed_count": 786,
+			"created_at": "Sun Jun 21 04:23:58 +0000 2009",
+			"favourites_count": 1995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 151064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/459261502323568640/VGRFs3QW_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/459261502323568640/VGRFs3QW_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49229910/1456886460",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. ⁦@mariakasmirli⁩  https://t.co/zxYtDXZCes"
+	},
+	{
 		"created_at": "Wed Jul 07 03:18:43 +0000 2021",
 		"id": 1412536755413192700,
 		"id_str": "1412612011704426497",
