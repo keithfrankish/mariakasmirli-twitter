@@ -1,10 +1,138 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 10 11:56:09 +0000 2021",
+		"id": 1413602363680739300,
+		"id_str": "1413829393445699584",
+		"full_text": "“With some simple supports, students in grades 3 to 8 can take the wheel and assume some responsibility for their learning journey.” via @edutopia https://t.co/AyLOSN4opP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "edutopia",
+					"name": "edutopia",
+					"id": 35415477,
+					"id_str": "35415477",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AyLOSN4opP",
+					"expanded_url": "https://www.edutopia.org/article/getting-students-road-self-advocacy",
+					"display_url": "edutopia.org/article/gettin…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 575792221,
+			"id_str": "575792221",
+			"name": "Monica Burns, Ed.D. #EdTech",
+			"screen_name": "ClassTechTips",
+			"location": "New Jersey",
+			"description": "I help make #EdTech easier — blog + books + podcast + club — Find it all: https://t.co/MNwayur6Gm — Want to work together? Let’s chat! hello@classtechtips.com",
+			"url": "https://t.co/5wIybuVpXF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5wIybuVpXF",
+							"expanded_url": "https://classtechtips.com/free-stuff/",
+							"display_url": "classtechtips.com/free-stuff/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MNwayur6Gm",
+							"expanded_url": "http://ClassTechTips.com",
+							"display_url": "ClassTechTips.com",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 66131,
+			"friends_count": 9603,
+			"listed_count": 1867,
+			"created_at": "Thu May 10 00:22:40 +0000 2012",
+			"favourites_count": 36725,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 73629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860554653540515840/SFaGLjOv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860554653540515840/SFaGLjOv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/575792221/1592698142",
+			"profile_link_color": "07A2DB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 70,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“With some simple supports, students in grades 3 to 8 can take the wheel and assume some responsibility for their learning journey.” via @edutopia https://t.co/AyLOSN4opP"
+	},
+	{
 		"created_at": "Thu Jul 08 15:34:38 +0000 2021",
 		"id": 1398749827349971000,
 		"id_str": "1413159601789415428",
-		"full_text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. ⁦@mariakasmirli⁩  https://t.co/zxYtDXZCes",
+		"full_text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. @mariakasmirli  https://t.co/zxYtDXZCes",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -116,7 +244,7 @@ Grailbird.data.tweets_2021_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. ⁦@mariakasmirli⁩  https://t.co/zxYtDXZCes"
+		"text": "The distinction between what is said and what is conversationally implicated isn’t just a technical philosophical one. It highlights the extent to which human communication is pragmatic and non-literal. @mariakasmirli  https://t.co/zxYtDXZCes"
 	},
 	{
 		"created_at": "Wed Jul 07 03:18:43 +0000 2021",
