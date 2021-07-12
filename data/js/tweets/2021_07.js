@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 04:40:11 +0000 2021",
+		"id": 1413913225880641500,
+		"id_str": "1414082065599959040",
+		"full_text": "Teachers, if you have the kind of principal that:\n\n•Isn’t afraid to advocate for you when they hear a ridiculous, non-logistical idea\n\n•Isn’t fearful of losing their job\n\n•Truly understands the difficulties of being in the classroom\n\nLet them know how much you appreciate them!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1019581523849334800,
+			"id_str": "1019581523849334785",
+			"name": "Fixing Education",
+			"screen_name": "FixingEducation",
+			"location": "Midwest",
+			"description": "𝐄𝐝𝐮𝐜𝐚𝐭𝐨𝐫 | 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 | 𝐀𝐮𝐭𝐡𝐨𝐫 | 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞 | DM to Connect | Honest, Realistic and Comedic look at American schools",
+			"url": "https://t.co/mmJlkBFZDk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mmJlkBFZDk",
+							"expanded_url": "https://www.instagram.com/FixingEducation/",
+							"display_url": "instagram.com/FixingEducatio…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60730,
+			"friends_count": 41,
+			"listed_count": 163,
+			"created_at": "Wed Jul 18 13:55:53 +0000 2018",
+			"favourites_count": 13177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214041560368566272/-nbKb0Sd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214041560368566272/-nbKb0Sd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019581523849334785/1533756254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 298,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Teachers, if you have the kind of principal that:\n\n•Isn’t afraid to advocate for you when they hear a ridiculous, non-logistical idea\n\n•Isn’t fearful of losing their job\n\n•Truly understands the difficulties of being in the classroom\n\nLet them know how much you appreciate them!"
+	},
+	{
 		"created_at": "Sat Jul 10 11:56:09 +0000 2021",
 		"id": 1413602363680739300,
 		"id_str": "1413829393445699584",
