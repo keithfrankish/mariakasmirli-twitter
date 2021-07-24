@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 23 16:24:01 +0000 2021",
+		"id": 1418310386697244700,
+		"id_str": "1418607847001100289",
+		"full_text": "New Teachers...\nBecoming a great teacher works better when you’re on CROCK-POT time, NOT MICROWAVE time.\nIt takes experimentation, learning from mistakes, perseverance and patience to become a master teacher who makes it look effortless.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1019581523849334800,
+			"id_str": "1019581523849334785",
+			"name": "Fixing Education",
+			"screen_name": "FixingEducation",
+			"location": "Midwest",
+			"description": "𝐄𝐝𝐮𝐜𝐚𝐭𝐨𝐫 | 𝐂𝐨𝐧𝐬𝐮𝐥𝐭𝐚𝐧𝐭 | 𝐀𝐮𝐭𝐡𝐨𝐫 | 𝐀𝐝𝐯𝐨𝐜𝐚𝐭𝐞 | DM to Connect | Honest, Realistic and Comedic look at American schools",
+			"url": "https://t.co/mmJlkBFZDk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mmJlkBFZDk",
+							"expanded_url": "https://www.instagram.com/FixingEducation/",
+							"display_url": "instagram.com/FixingEducatio…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61354,
+			"friends_count": 40,
+			"listed_count": 164,
+			"created_at": "Wed Jul 18 13:55:53 +0000 2018",
+			"favourites_count": 13216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1214041560368566272/-nbKb0Sd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1214041560368566272/-nbKb0Sd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1019581523849334785/1533756254",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 106,
+		"favorite_count": 640,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "New Teachers...\nBecoming a great teacher works better when you’re on CROCK-POT time, NOT MICROWAVE time.\nIt takes experimentation, learning from mistakes, perseverance and patience to become a master teacher who makes it look effortless."
+	},
+	{
 		"created_at": "Sun Jul 18 05:58:41 +0000 2021",
 		"id": 1416638537630355500,
 		"id_str": "1416638537630355459",
