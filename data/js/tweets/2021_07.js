@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 25 05:24:21 +0000 2021",
+		"id": 1419166610984734700,
+		"id_str": "1419166610984734720",
+		"full_text": "Yes! https://t.co/DrO3J24wSY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DrO3J24wSY",
+					"expanded_url": "https://twitter.com/teachergoals/status/1419130269072777218",
+					"display_url": "twitter.com/teachergoals/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 845,
+			"friends_count": 639,
+			"listed_count": 27,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3826,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1419130269072777200,
+		"quoted_status_id_str": "1419130269072777218",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DrO3J24wSY",
+			"expanded": "https://twitter.com/teachergoals/status/1419130269072777218",
+			"display": "twitter.com/teachergoals/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 25 02:59:56 +0000 2021",
+			"id": 1419130269072777200,
+			"id_str": "1419130269072777218",
+			"full_text": "This is so true! 🙌\n📷 @jaimacklin https://t.co/j3UxAjpH7I",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jaimacklin",
+						"name": "Jai Macklin",
+						"id": 719165248297525200,
+						"id_str": "719165248297525251",
+						"indices": [
+							21,
+							32
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1419130267223134200,
+						"id_str": "1419130267223134219",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E7HDdYvXEAsjsOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7HDdYvXEAsjsOe.jpg",
+						"url": "https://t.co/j3UxAjpH7I",
+						"display_url": "pic.twitter.com/j3UxAjpH7I",
+						"expanded_url": "https://twitter.com/teachergoals/status/1419130269072777218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1050,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1419130267223134200,
+						"id_str": "1419130267223134219",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E7HDdYvXEAsjsOe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E7HDdYvXEAsjsOe.jpg",
+						"url": "https://t.co/j3UxAjpH7I",
+						"display_url": "pic.twitter.com/j3UxAjpH7I",
+						"expanded_url": "https://twitter.com/teachergoals/status/1419130269072777218/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 661,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1050,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2485527848,
+				"id_str": "2485527848",
+				"name": "TeacherGoals",
+				"screen_name": "teachergoals",
+				"location": "",
+				"description": "Posting what's funny, frustrating, and fantastic about education. #teachergoals",
+				"url": "https://t.co/sKX6Zwch7U",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sKX6Zwch7U",
+								"expanded_url": "http://www.teachergoals.org/",
+								"display_url": "teachergoals.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 257144,
+				"friends_count": 46150,
+				"listed_count": 849,
+				"created_at": "Fri May 09 15:24:31 +0000 2014",
+				"favourites_count": 40560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13720,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366910294593859586/XP2zIDXa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366910294593859586/XP2zIDXa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2485527848/1543365207",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 561,
+			"favorite_count": 3413,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes! https://t.co/DrO3J24wSY"
+	},
+	{
 		"created_at": "Fri Jul 23 16:24:01 +0000 2021",
 		"id": 1418310386697244700,
 		"id_str": "1418607847001100289",
