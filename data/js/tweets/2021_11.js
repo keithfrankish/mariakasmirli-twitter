@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 13:50:09 +0000 2021",
+		"id": 1459156564519104500,
+		"id_str": "1459156564519104518",
+		"full_text": "Forget the trolley problem -- my 11-year-olds at the European School are thinking about some really complicated ethical probkems! https://t.co/gsyY3m9Is6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459156560878485500,
+					"id_str": "1459156560878485511",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_3KULXwAcBa2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_3KULXwAcBa2V.jpg",
+					"url": "https://t.co/gsyY3m9Is6",
+					"display_url": "pic.twitter.com/gsyY3m9Is6",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1459156564519104518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2044,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459156560878485500,
+					"id_str": "1459156560878485511",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_3KULXwAcBa2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_3KULXwAcBa2V.jpg",
+					"url": "https://t.co/gsyY3m9Is6",
+					"display_url": "pic.twitter.com/gsyY3m9Is6",
+					"expanded_url": "https://twitter.com/mariakasmirli/status/1459156564519104518/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2044,
+							"h": 1570,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 522,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103135865,
+			"id_str": "103135865",
+			"name": "Maria Kasmirli",
+			"screen_name": "mariakasmirli",
+			"location": "Heraklion, Crete, Greece",
+			"description": "British/Greek academic. Deputy Director, Metropolitan College, Heraklion (@Mitropolitiko) Tweeting in a personal capacity about philosophy, education, P4C etc.",
+			"url": "http://t.co/lAYE8xCn3R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/lAYE8xCn3R",
+							"expanded_url": "http://mariakasmirli.com",
+							"display_url": "mariakasmirli.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 856,
+			"friends_count": 642,
+			"listed_count": 26,
+			"created_at": "Sat Jan 09 01:01:31 +0000 2010",
+			"favourites_count": 3830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "24476A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330238260162011136/AKI8ztlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103135865/1605987744",
+			"profile_link_color": "22262A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "8C8C89",
+			"profile_text_color": "123133",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Forget the trolley problem -- my 11-year-olds at the European School are thinking about some really complicated ethical probkems! https://t.co/gsyY3m9Is6"
+	},
+	{
 		"created_at": "Tue Nov 02 18:45:51 +0000 2021",
 		"id": 1455607103243047000,
 		"id_str": "1455607103243046915",
